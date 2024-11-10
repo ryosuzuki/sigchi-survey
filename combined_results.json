@@ -1,0 +1,95 @@
+{
+    "timestamp": "2024-11-09 18:30:29",
+    "results": [
+        {
+            "id": 56843,
+            "title": "Powering TV Experiences with Anytime Environmental Exploration",
+            "abstract": "Our work proposes a novel interactive model for TV such that users can freely decide when and how much to interact with the story. At any time, users can enter the immersive 3D environment of each scene in the story by controlling an avatar. In this scene, users embrace a rich set of interactive possibilities, including in-depth exploration, conversations with characters, and gamified quests to guide the story. Users also have the option to watch their avatar explore the 3D environment automatically for a lean-back experience. User evaluation of our prototype confirmed the acceptance of this new model and enthusiasm for the interactive freedom and depth it provides. To the best of our knowledge, this is the world's first lean-back-compatible TV model that offers a complete immersive experience driven by users, shedding light on a new direction for designing interactive videos appealing to a wide audience. ",
+            "authors": [
+                {
+                    "affiliations": [
+                        {
+                            "country": "Canada",
+                            "state": "Alberta",
+                            "city": "Calgary",
+                            "institution": "University of Calgary",
+                            "dsl": "School"
+                        }
+                    ],
+                    "personId": 55454
+                },
+                {
+                    "affiliations": [
+                        {
+                            "country": "United States",
+                            "state": "California",
+                            "city": "San Jose",
+                            "institution": "TCL Research America",
+                            "dsl": ""
+                        }
+                    ],
+                    "personId": 56390
+                },
+                {
+                    "affiliations": [
+                        {
+                            "country": "United States",
+                            "state": "Missouri",
+                            "city": "Columbia",
+                            "institution": "University of Missouri",
+                            "dsl": ""
+                        }
+                    ],
+                    "personId": 55351
+                },
+                {
+                    "affiliations": [
+                        {
+                            "country": "United States",
+                            "state": "New York",
+                            "city": "Ithaca",
+                            "institution": "Cornell University",
+                            "dsl": ""
+                        }
+                    ],
+                    "personId": 56288
+                },
+                {
+                    "affiliations": [
+                        {
+                            "country": "Canada",
+                            "state": "Alberta",
+                            "city": "Calgary",
+                            "institution": "University of Calgary",
+                            "dsl": ""
+                        }
+                    ],
+                    "personId": 55422
+                },
+                {
+                    "affiliations": [
+                        {
+                            "country": "United States",
+                            "state": "Missouri",
+                            "city": "Columbia",
+                            "institution": "University of Missouri",
+                            "dsl": ""
+                        }
+                    ],
+                    "personId": 56270
+                }
+            ],
+            "sessionIds": [
+                57306,
+                57308
+            ],
+            "venue": "CHI",
+            "year": 2021,
+            "figure_urls": [
+                "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.10pLIo00I50NutcunWP9DQHaDu%26pid%3DApi&f=1&ipt=85b9ef32bee4f7160979f87cc1c49aa1a5d612df08c229a92e575a49ff7aa06b&ipo=images",
+                "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.n6c3rZ3-zso5At5v1q3dUAHaE7%26pid%3DApi&f=1&ipt=ca3d3c01b84699cae9628e003115db4085a5a549ec071ebc738822ce79ffcfc8&ipo=images",
+                "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.U6KfE0dgrmGbkmynHi02sAHaEc%26pid%3DApi&f=1&ipt=4fe8ee7a554497a917735fd4c2fe484aec70ba1765f03731194b7162a6afca99&ipo=images"
+            ]
+        }
+    ]
+}

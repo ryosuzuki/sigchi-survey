@@ -1,12 +1,14 @@
 import os
 import json
 import sys
-import requests
 import time
 from datetime import datetime
-from bs4 import BeautifulSoup
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.common.by import By
+from webdriver_manager.chrome import ChromeDriverManager
 
-SEMANTIC_SCHOLAR_API_URL = "https://api.semanticscholar.org/graph/v1/paper/search"
 HEADERS = {'User-Agent': 'Mozilla/5.0'}
 
 def load_data(directory):
@@ -22,7 +24,7 @@ def load_data(directory):
                         papers.append(paper)
     return papers
 
-def search_papers(papers, keyword):
+def search_papers(papers, keyword, max_results=3):
     keyword = keyword.lower()
     matches = []
     for paper in papers:
@@ -36,95 +38,72 @@ def search_papers(papers, keyword):
                 "venue": paper.get("venue"),
                 "year": paper.get("year")
             })
+        if len(matches) >= max_results:
+            break
     return matches
 
-def search_semantic_scholar(title):
+def search_images_selenium(query, max_results=3, delay=5):
+    options = Options()
+    options.add_argument("--headless")
+    options.add_argument("--disable-gpu")
+    options.add_argument("--no-sandbox")
+    options.add_argument("--disable-blink-features=AutomationControlled")
+    options.add_argument("--disable-infobars")
+    options.add_argument("start-maximized")
+    options.add_argument("--disable-dev-shm-usage")
+
+    service = Service(ChromeDriverManager().install())
+    driver = webdriver.Chrome(service=service, options=options)
+
     try:
-        response = requests.get(
-            SEMANTIC_SCHOLAR_API_URL,
-            params={
-                "query": title,
-                "fields": "title,url,authors",
-                "limit": 1
-            }
-        )
-        if response.status_code == 200:
-            return response.json().get("data", [])
-        else:
-            print(f"Error: {response.status_code} while fetching data for {title}")
+        search_url = f"https://duckduckgo.com/?q={query.replace(' ', '+')}&t=h_&iax=images&ia=images"
+        driver.get(search_url)
+        time.sleep(delay)  # Wait for the page to load
+
+        image_elements = driver.find_elements(By.CSS_SELECTOR, "img.tile--img__img")
+        image_urls = [img.get_attribute("src") for img in image_elements[:max_results] if img.get_attribute("src")]
+
+        print(f"Found {len(image_urls)} images.")
+        return image_urls
     except Exception as e:
-        print(f"Exception occurred: {e}")
-    return []
+        print(f"Error during image search with Selenium: {e}")
+        return []
+    finally:
+        driver.quit()
 
-def scrape_figures(semantic_scholar_url, max_retries=5, delay=5):
-    for attempt in range(max_retries):
-        try:
-            response = requests.get(semantic_scholar_url, headers=HEADERS)
-            if response.status_code == 200:
-                soup = BeautifulSoup(response.content, 'html.parser')
-                figures = soup.find_all('img', {'class': 'figure__image'})
-                figure_urls = [fig['src'] for fig in figures if 'src' in fig.attrs]
-                return figure_urls
-            elif response.status_code == 202:
-                print(f"Page is not ready (Attempt {attempt + 1}/{max_retries}). Retrying in {delay} seconds...")
-                time.sleep(delay)
-            else:
-                print(f"Failed to retrieve page {semantic_scholar_url}. Status code: {response.status_code}")
-                break
-        except Exception as e:
-            print(f"Exception occurred while scraping figures: {e}")
-            break
-    return []
-
-def download_figures(figure_urls, output_dir="figures"):
-    if not os.path.exists(output_dir):
-        os.makedirs(output_dir)
-
-    for idx, url in enumerate(figure_urls):
-        try:
-            response = requests.get(url)
-            if response.status_code == 200:
-                filename = os.path.join(output_dir, f"figure_{idx + 1}.png")
-                with open(filename, 'wb') as file:
-                    file.write(response.content)
-                print(f"Downloaded: {filename}")
-            else:
-                print(f"Failed to download image from {url}")
-        except Exception as e:
-            print(f"Error downloading figure from {url}: {e}")
-
-def save_individual_json(paper, result, figures):
-    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    filename = f"semantic_scholar_{timestamp}.json"
+def save_combined_json(filename, papers_with_images):
     data_to_save = {
-        "searched_paper": paper,
-        "semantic_scholar_result": result,
-        "figures": figures
+        "timestamp": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+        "results": papers_with_images
     }
+
     with open(filename, 'w') as file:
         json.dump(data_to_save, file, indent=4)
-    print(f"Saved results to {filename}")
+    print(f"Saved combined results to {filename}")
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
-        print("Usage: python search_papers.py <keyword>")
+        print("Usage: python main.py <keyword>")
         sys.exit(1)
 
     keyword = sys.argv[1]
     papers = load_data('data')
     results = search_papers(papers, keyword)
 
+    combined_results = []
     if results:
         for paper in results:
-            scholar_data = search_semantic_scholar(paper["title"])
-            if scholar_data:
-                scholar_url = scholar_data[0]["url"]
-                figure_urls = scrape_figures(scholar_url)
-                download_figures(figure_urls)
-                save_individual_json(paper, scholar_data, figure_urls)
-            else:
-                print(f"No Semantic Scholar data found for: {paper['title']}")
-            time.sleep(1)  # Pause to avoid rate limiting
-        print(f"Found {len(results)} papers matching '{keyword}'. Semantic Scholar data saved.")
+            print(f"Searching images for: {paper['title']}")
+            figure_urls = search_images_selenium(paper["title"])
+            paper["figure_urls"] = figure_urls
+            combined_results.append(paper)
+            time.sleep(1)  # Avoid rate limiting
+
+        # Combine all results into a single JSON file
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        output_filename = f"combined_results_{timestamp}.json"
+        save_combined_json(output_filename, combined_results)
+
+        print(f"Found {len(results)} papers matching '{keyword}'. Combined data saved.")
     else:
         print(f"No papers found for keyword '{keyword}'.")

@@ -95,41 +95,11 @@
         "venue": "CHI",
         "year": 2024
     },
-    "semantic_scholar_result": [
-        {
-            "paperId": "3f5f54ca0c538100a5e0822817f8140cd1f1b1ff",
-            "url": "https://www.semanticscholar.org/paper/3f5f54ca0c538100a5e0822817f8140cd1f1b1ff",
-            "title": "Footprints of Travel: AIoT and AR Enhanced Tourist Gaming Experience in Unmanned Cultural Sites",
-            "authors": [
-                {
-                    "authorId": "2301467179",
-                    "name": "Shih-Yu Lai"
-                },
-                {
-                    "authorId": "2301193049",
-                    "name": "Dai-En Liu"
-                },
-                {
-                    "authorId": "2301081697",
-                    "name": "Zong-Fan Yeh"
-                },
-                {
-                    "authorId": "2303335628",
-                    "name": "Chun-Che Hsu"
-                },
-                {
-                    "authorId": "2301076915",
-                    "name": "Fu-Yao Chang"
-                },
-                {
-                    "authorId": "2301051735",
-                    "name": "Ming-Zhi Tsai"
-                },
-                {
-                    "authorId": "2301119531",
-                    "name": "Ruei-Hong Lin"
-                }
-            ]
-        }
+    "figure_urls": [
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.QLqXkPgq0w2v2UWr65pCDQHaGN%26pid%3DApi&f=1&ipt=ef1bcaa7c989cf96224ba97650260b8de4150dcfebdc19a3f90332aa8e008136&ipo=images",
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.kQ0qlxYZ82Dv6MC7_CWmSQAAAA%26pid%3DApi&f=1&ipt=9a07fdc6c148b212b83e7c1283b61aa5d121d20a1fa59c950b059b2fcfbc40f4&ipo=images",
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.KXIDXxZn8x05y4nZf3fp5wHaB-%26pid%3DApi&f=1&ipt=53c0e6704e2c764a83eda2e5961debdc3b2f25155cad1d942a250de2ebe5f6ff&ipo=images",
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.0cae1-QjXOjwzxEdAVsZDwHaEK%26pid%3DApi&f=1&ipt=7d3d2795800be8265efb6d2735ea3af36717cc0d13945abc60e864dfc06b9b22&ipo=images",
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.x1jAFSie6TXWtJs-S_YfNQHaDW%26pid%3DApi&f=1&ipt=511b36ecc7a38f7d4e1039115e04f026c67f738892bba31f77c91b9980b90f43&ipo=images"
     ]
 }
