@@ -1,0 +1,1998 @@
+[
+    {
+        "id": 68830,
+        "title": "\"I don't want to feel like I'm working in a 1960s factory\": The Practitioner Perspective on Creativity Support Tool Adoption",
+        "abstract": "With the rapid development of creativity support tools, creative practitioners (e.g., designers, artists, architects) have to constantly explore and adopt new tools into their practice. While HCI research has focused on developing novel creativity support tools, little is known about creative practitioner's values when exploring and adopting these tools. We collect and analyze 23 videos, 13 interviews, and 105 survey responses of creative practitioners reflecting on their values to derive a value framework. We find that practitioners value the tools' functionality, integration into their current workflow, performance, user interface and experience, learning support, costs and emotional connection, in that order. They largely discover tools through personal recommendations. To help unify and encourage reflection from the wider community of CST stakeholders (e.g., systems creators, researchers, marketers, educators), we situate the framework within existing research on systems, creativity support tools and technology adoption.",
+        "authors": [
+            {
+                "affiliations": [
+                    {
+                        "country": "Canada",
+                        "state": "Ontario",
+                        "city": "Toronto",
+                        "institution": "Autodesk Research",
+                        "dsl": ""
+                    },
+                    {
+                        "country": "United States",
+                        "state": "California",
+                        "city": "San Diego",
+                        "institution": "University of California",
+                        "dsl": "Design Lab"
+                    }
+                ],
+                "personId": 68702
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "Canada",
+                        "state": "Ontario",
+                        "city": "Toronto",
+                        "institution": "Autodesk Research",
+                        "dsl": ""
+                    }
+                ],
+                "personId": 67463
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "Canada",
+                        "state": "Ontario",
+                        "city": "Toronto",
+                        "institution": "Autodesk Research",
+                        "dsl": ""
+                    }
+                ],
+                "personId": 68527
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "Canada",
+                        "state": "Ontario",
+                        "city": "Toronto",
+                        "institution": "Autodesk Research",
+                        "dsl": ""
+                    }
+                ],
+                "personId": 68571
+            }
+        ],
+        "sessionIds": [
+            73393
+        ],
+        "venue": "CHI",
+        "year": 2022
+    },
+    {
+        "id": 71850,
+        "title": "Interpretable Directed Diversity: Leveraging Model Explanations for Iterative Crowd Ideation",
+        "abstract": "Feedback in creativity support tools can help crowdworkers to improve their ideations. However, current feedback methods require human assessment from facilitators or peers. This is not scalable to large crowds. We propose Interpretable Directed Diversity to automatically predict ideation quality and diversity scores, and provide AI explanations \u2014 Attribution, Contrastive Attribution, and Counterfactual Suggestions \u2014 to feedback on why ideations were scored (low), and how to get higher scores. These explanations provide multi-faceted feedback as users iteratively improve their ideations. We conducted formative and controlled user studies to understand the usage and usefulness of explanations to improve ideation diversity and quality. Users appreciated that explanation feedback helped focus their efforts and provided directions for improvement. This resulted in explanations improving diversity compared to no feedback or feedback with scores only. Hence, our approach opens opportunities for explainable AI towards scalable and rich feedback for iterative crowd ideation and creativity support tools.",
+        "authors": [
+            {
+                "affiliations": [
+                    {
+                        "country": "Singapore",
+                        "state": "",
+                        "city": "Singapore",
+                        "institution": "National University of Singapore",
+                        "dsl": "Department of Computer Science"
+                    }
+                ],
+                "personId": 71478
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "United Kingdom",
+                        "state": "",
+                        "city": "London",
+                        "institution": "University College London",
+                        "dsl": "Department of Brain Sciences "
+                    }
+                ],
+                "personId": 71833
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "Singapore",
+                        "state": "",
+                        "city": "Singapore",
+                        "institution": "National University of Singapore",
+                        "dsl": "Department of Computer Science"
+                    }
+                ],
+                "personId": 68389
+            }
+        ],
+        "sessionIds": [
+            73345
+        ],
+        "venue": "CHI",
+        "year": 2022
+    },
+    {
+        "id": 39117,
+        "title": "Evaluating Creativity Support Tools in HCI Research",
+        "abstract": "The design and development of Creativity Support Tools (CSTs) is of growing interest in research at the intersection of creativity and Human-Computer Interaction, and has been identified as a 'grand challenge for HCI'. While creativity research and HCI each have had long-standing discussions about---and rich toolboxes of---evaluation methodologies, the nascent field of CST evaluation has so far received little attention. We contribute a survey of 113 research papers that present and evaluate CSTs, and we offer recommendations for future CST evaluation. We center our discussion around six major points that researchers might consider: 1) Clearly define the goal of the CST; 2) link to theory to further understanding of usage of CSTs; 3) recruit domain experts, if applicable and feasible; 4) consider longitudinal, in-situ studies; 5) distinguish and decide whether to evaluate usability or creativity; and 6) as a community, help develop a toolbox for CST evaluation.",
+        "authors": [
+            {
+                "affiliations": [
+                    {
+                        "country": "Denmark",
+                        "state": "",
+                        "city": "Aarhus",
+                        "institution": "Aarhus University",
+                        "dsl": "Centre for Digital Creativity"
+                    }
+                ],
+                "personId": 38876
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "Denmark",
+                        "state": "",
+                        "city": "Aarhus",
+                        "institution": "Aarhus University",
+                        "dsl": "Centre for Digital Creativity"
+                    }
+                ],
+                "personId": 38734
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "Denmark",
+                        "state": "",
+                        "city": "Aarhus",
+                        "institution": "Aarhus University",
+                        "dsl": "Centre for Digital Creativity"
+                    }
+                ],
+                "personId": 38534
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "Denmark",
+                        "state": "",
+                        "city": "Aarhus",
+                        "institution": "Aarhus University",
+                        "dsl": "Centre for Digital Creativity"
+                    }
+                ],
+                "personId": 38935
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "Denmark",
+                        "state": "",
+                        "city": "Aarhus",
+                        "institution": "Aarhus University",
+                        "dsl": "Centre for Digital Creativity"
+                    }
+                ],
+                "personId": 38508
+            }
+        ],
+        "sessionIds": [
+            39155
+        ],
+        "venue": "DIS",
+        "year": 2020
+    },
+    {
+        "id": 60110,
+        "title": "The Intersection of Users, Roles, Interactions, and Technologies in Creativity Support Tools",
+        "abstract": "Creativity Support Tools (CSTs) have become an integral part of artistic creation. The range of CST technologies is broad---from fabricators to generative algorithms to robots. The interaction approaches for CSTs are accordingly broad. CSTs combine specific technologies and interaction types to serve a spectrum of roles and users. In this work, we tackle a comprehensive understanding of how the intersections of users, roles, interactions, and technologies form a design space for CSTs. We accomplish this by reviewing 111 art-creation CSTs from HCI and computing research and analyzing how diverse aspects of CSTs relate to each other. Our findings identify patterns for designing CSTs, which can give guidance to future CST designers. We also highlight under-explored types of CSTs within the HCI community, providing future directions that CST researchers can pursue given the current trajectory of technological advancement. This work contributes an integrating perspective to understand the landscape of art-creation CSTs.\r\n",
+        "authors": [
+            {
+                "affiliations": [
+                    {
+                        "country": "United States",
+                        "state": "Michigan",
+                        "city": "Ann Arbor",
+                        "institution": "University of Michigan",
+                        "dsl": "Computer Science and Engineering"
+                    }
+                ],
+                "personId": 59733
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "United States",
+                        "state": "Michigan",
+                        "city": "ann arbor",
+                        "institution": "University of Michigan",
+                        "dsl": "School of Information "
+                    }
+                ],
+                "personId": 59652
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "United States",
+                        "state": "Michigan",
+                        "city": "Ann Arbor",
+                        "institution": "University of Michigan",
+                        "dsl": "School of Information"
+                    },
+                    {
+                        "country": "United States",
+                        "state": "Michigan",
+                        "city": "Ann Arbor",
+                        "institution": "University of Michigan",
+                        "dsl": "Computer Science and Engineering"
+                    }
+                ],
+                "personId": 59661
+            }
+        ],
+        "sessionIds": [
+            60887
+        ],
+        "venue": "DIS",
+        "year": 2021
+    },
+    {
+        "id": 95935,
+        "title": "AutomataStage: an AR-mediated Creativity Support Tool for Hands-on Multidisciplinary Learning",
+        "abstract": "The creativity support tools can enhance the hands-on multidisciplinary learning experience by drawing interest in the process of creating the outcome. We present AutomataStage, an AR-mediated creativity support tool for hands-on multidisciplinary learning. AutomataStage utilizes a video see-through interface to support the creation of Interactive Automata. The combination of building blocks and low-cost materials increases the expressiveness. The generative design method and one-to-one guide support the idea development process. It also provides a hardware see-through feature with which inside parts and circuits can be seen and an operational see-through feature that shows the operation in real-time. The visual programming method with a state transition diagram supports the iterative process during the creation process. A user study shows that AutomataStage enabled the students to create diverse Interactive Automata within 40-minute sessions. By creating Interactive Automata, the participants could learn the basic concepts of components. See-through features allowed active exploration with interest while integrating the components. We discuss the implications of hands-on tools with interactive and kinetic content beyond multidisciplinary learning.",
+        "authors": [
+            {
+                "affiliations": [
+                    {
+                        "country": "Korea, Republic of",
+                        "state": "",
+                        "city": "Daejeon",
+                        "institution": "KAIST",
+                        "dsl": "Department of Industrial Design"
+                    }
+                ],
+                "personId": 93597
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "Korea, Republic of",
+                        "state": "",
+                        "city": "Daejeon",
+                        "institution": "KAIST",
+                        "dsl": "Department of Industrial Design"
+                    }
+                ],
+                "personId": 95329
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "Korea, Republic of",
+                        "state": "",
+                        "city": "Daejeon",
+                        "institution": "KAIST",
+                        "dsl": "Department of Industrial Design"
+                    }
+                ],
+                "personId": 93065
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "Korea, Republic of",
+                        "state": "",
+                        "city": "Daejeon",
+                        "institution": "KAIST",
+                        "dsl": "Department of Industrial Design"
+                    }
+                ],
+                "personId": 95392
+            }
+        ],
+        "sessionIds": [
+            97419
+        ],
+        "venue": "CHI",
+        "year": 2023
+    },
+    {
+        "id": 98849,
+        "title": "Investigating Semantically-enhanced Exploration of GAN Latent Space via a Digital Mood Board",
+        "abstract": "During past decades, Artificial Intelligence (AI) has been consistently used in Creativity Support Tools (CSTs). Recently, with the development of generative AI models, particularly Generative Adversarial Nets (GAN) in Computer Vision, it became possible that AI directly generates visual ideas. However, there were rarely any work in creativity research that harnessed the design ideas generated by such models directly for design space exploration. To that end we designed a digital mood board as a technology probe to support semantically-enhanced exploration of the StyleGAN latent space. We compared the mood board with traditional gallery display. Preliminary results showed that such design offered a more enjoyable and explicit way of exploring AI generated visual ideas, but gallery display was found to be more straightforward and less demanding.",
+        "authors": [
+            {
+                "affiliations": [
+                    {
+                        "country": "China",
+                        "state": "",
+                        "city": "Hong Kong",
+                        "institution": "City University of Hong Kong",
+                        "dsl": ""
+                    },
+                    {
+                        "country": "China",
+                        "state": "",
+                        "city": "Hong Kong",
+                        "institution": "City University of Hong Kong",
+                        "dsl": ""
+                    }
+                ],
+                "personId": 98419
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "China",
+                        "state": "",
+                        "city": "Hong Kong",
+                        "institution": "City University of Hong Kong",
+                        "dsl": "Department of Computer Science"
+                    },
+                    {
+                        "country": "China",
+                        "state": "",
+                        "city": "Hong Kong",
+                        "institution": "City University of Hong Kong",
+                        "dsl": "Department of Computer Science"
+                    }
+                ],
+                "personId": 92216
+            }
+        ],
+        "sessionIds": [
+            99332
+        ],
+        "venue": "CHI",
+        "year": 2023
+    },
+    {
+        "id": 98904,
+        "title": "Co-Design with Myself: A Brain-Computer Interface Design Tool that Predicts Live Emotion to Enhance Metacognitive Monitoring of Designers",
+        "abstract": "Modulating the feelings of confidence toward design options and metacognitive monitoring are important components of design intuition. We find not many creativity support tools explored the potential of biofeedback to aid design processes in this regard. In the current study, we present \u201cMulti-Self,\u201d a BCI-VR design tool that aims to enhance metacognitive monitoring during architectural design. It evaluates designers\u2019 own valence and arousal to their design work and presents designers with their biofeedback visually in real time. A pilot proof-of-concept study with 24 participants was conducted to evaluate the feasibility of the tool. Interview responses regarding the accuracy of the feedback were mixed. The majority of the participants found the feedback mechanism useful and the tool elicited metacognitive feelings and stimulated explorations of the design space while modulating subjective feelings of uncertainty.  ",
+        "authors": [
+            {
+                "affiliations": [
+                    {
+                        "country": "United States",
+                        "state": "New York",
+                        "city": "Ithaca",
+                        "institution": "Cornell University",
+                        "dsl": "Design and Augmented Intelligence Lab"
+                    },
+                    {
+                        "country": "United States",
+                        "state": "New York",
+                        "city": "Ithaca",
+                        "institution": "Cornell University",
+                        "dsl": "Human Centered Design"
+                    }
+                ],
+                "personId": 97976
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "United States",
+                        "state": "New York",
+                        "city": "ithaca",
+                        "institution": "Cornell University",
+                        "dsl": "DAIL LAB"
+                    }
+                ],
+                "personId": 97757
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "United States",
+                        "state": "New York",
+                        "city": "Ithaca",
+                        "institution": "Cornell University",
+                        "dsl": "Department of Computer Science"
+                    }
+                ],
+                "personId": 98015
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "United States",
+                        "state": "New York",
+                        "city": "Ithaca",
+                        "institution": "Cornell University",
+                        "dsl": "Design & Environmental Analysis"
+                    }
+                ],
+                "personId": 94683
+            }
+        ],
+        "sessionIds": [
+            99542
+        ],
+        "venue": "CHI",
+        "year": 2023
+    },
+    {
+        "id": 98930,
+        "title": "Fashioning the Future: Unlocking the Creative Potential of Deep Generative Models for Design Space Exploration",
+        "abstract": "This paper investigates the potential impact of deep generative models on the work of creative professionals, specifically focusing on fashion design. We argue that current generative modeling tools lack critical features that would make them useful creativity support tools, and introduce our own tool, generative.fashion, which was designed with theoretical principles of design space exploration in mind. Through qualitative studies with fashion design apprentices, we demonstrate how generative.fashion supported both divergent and convergent thinking, and compare it with a state-of-the-art diffusion model, Stable Diffusion. In general, the apprentices preferred generative.fashion over Stable Diffusion, citing the features explicitly designed to support ideation. We conclude that the exploration and development of novel interfaces and interaction modalities that are theoretically aligned with principles of design space exploration is crucial for unlocking the creative potential of generative AI and advancing a new era of creativity.",
+        "authors": [
+            {
+                "affiliations": [
+                    {
+                        "country": "Switzerland",
+                        "state": "",
+                        "city": "Lausanne",
+                        "institution": "EPFL",
+                        "dsl": ""
+                    }
+                ],
+                "personId": 97609
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "Switzerland",
+                        "state": "",
+                        "city": "Lausanne",
+                        "institution": "EPFL",
+                        "dsl": ""
+                    }
+                ],
+                "personId": 92748
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "Switzerland",
+                        "state": "",
+                        "city": "Lausanne",
+                        "institution": "\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne",
+                        "dsl": ""
+                    }
+                ],
+                "personId": 97486
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "Switzerland",
+                        "state": "",
+                        "city": "Zurich",
+                        "institution": "ETH Zurich",
+                        "dsl": ""
+                    }
+                ],
+                "personId": 97726
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "Switzerland",
+                        "state": "",
+                        "city": "Lausanne",
+                        "institution": "EPFL",
+                        "dsl": ""
+                    }
+                ],
+                "personId": 98254
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "Switzerland",
+                        "state": "",
+                        "city": "Lausanne",
+                        "institution": "EPFL",
+                        "dsl": "CHILI"
+                    }
+                ],
+                "personId": 98328
+            }
+        ],
+        "sessionIds": [
+            99542
+        ],
+        "venue": "CHI",
+        "year": 2023
+    },
+    {
+        "id": 99111,
+        "title": "Virtual Reality and Creativity: How do Immersive Environments Stimulate the Brain during Creative Idea Generation?",
+        "abstract": "Virtual Reality (VR) environments are promising creativity support tools that can be designed to enhance factors related to the creative process such as immersion, engagement, and flow. However, it is still unclear how brain responses associated with creativity are influenced by VR. To address this gap, we collected EEG signals from 21 participants during a creative idea generation task in two conditions; 2D Screen vs. 3D VR. The EEG power in the alpha (8-13 Hz), beta (13-30 Hz), and gamma (30-45 Hz) frequency bands were compared. The results showed that participants experienced higher enjoyment, immersion, and temporal dissociation in the 3D VR condition. Additionally, a significant increase of oscillations in the high-frequency bands of beta and gamma was observed in VR. The findings suggest that VR can induce a more pronounced sense of flow that is associated with distinct brain activation patterns.\r\n",
+        "authors": [
+            {
+                "affiliations": [
+                    {
+                        "country": "Netherlands",
+                        "state": "",
+                        "city": "Tilburg",
+                        "institution": "Tilburg University",
+                        "dsl": "Tilburg School of Humanities and Digital Sciences"
+                    }
+                ],
+                "personId": 97782
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "Netherlands",
+                        "state": "",
+                        "city": "Tilburg",
+                        "institution": "Tilburg University",
+                        "dsl": "Department of Communication and Cognition"
+                    }
+                ],
+                "personId": 92838
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "Netherlands",
+                        "state": "",
+                        "city": "Tilburg",
+                        "institution": "Tilburg University",
+                        "dsl": ""
+                    }
+                ],
+                "personId": 97989
+            }
+        ],
+        "sessionIds": [
+            99332
+        ],
+        "venue": "CHI",
+        "year": 2023
+    },
+    {
+        "id": 99306,
+        "title": "Special Interest Group on Creativity and Cultures in Computing",
+        "abstract": "Research on creativity support tools (CSTs) has a long history in Human-Computer Interaction (HCI); however, researchers often focus on developing novel CSTs and verifying them in a controlled lab setting, rather than on capturing the creative process in the wild.\r\nIn reality, creative activity is exploratory, laborious, and involves multiple CSTs; which together form a creativity support environment or ecology. Creative activity is also social, cultural, and collaborative with people distributing, modifying, and reacting to the creations of others. This process can inspire subsequent iterations. To understand and support open-ended, culturally embedded, collaborative creativity, HCI researchers are seeking new methods to study the sociocultural aspects of creativity support.\r\nThis Special Interest Group on Creativity and Cultures in Computing (SIGCCC) invites diverse researchers to provide a forum for CST discussions from a wide sociocultural lens. The participants will identify and discuss the state-of-the-art and conceptualize future directions for creativity support research.",
+        "authors": [
+            {
+                "affiliations": [
+                    {
+                        "country": "Japan",
+                        "state": "Ibaraki",
+                        "city": "Tsukuba",
+                        "institution": "National Institute of Advanced Industrial Science and Technology (AIST)",
+                        "dsl": ""
+                    }
+                ],
+                "personId": 94681
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "Denmark",
+                        "state": "",
+                        "city": "Aarhus",
+                        "institution": "Aarhus University",
+                        "dsl": "Centre for Digital Creativity"
+                    }
+                ],
+                "personId": 92036
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "China",
+                        "state": "",
+                        "city": "Hong Kong",
+                        "institution": "City University of Hong Kong",
+                        "dsl": "Department of Computer Science"
+                    }
+                ],
+                "personId": 92216
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "United States",
+                        "state": "California",
+                        "city": "Santa Barbara",
+                        "institution": "University of California Santa Barbara",
+                        "dsl": "Media Arts and Technology"
+                    }
+                ],
+                "personId": 93976
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "Japan",
+                        "state": "Hokkaido",
+                        "city": "Hakodate",
+                        "institution": "Future University Hakodate",
+                        "dsl": "Department of Media Architecture "
+                    }
+                ],
+                "personId": 99247
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "Canada",
+                        "state": "Manitoba",
+                        "city": "Winnipeg",
+                        "institution": "University of Manitoba",
+                        "dsl": "Department of Computer Science"
+                    }
+                ],
+                "personId": 99292
+            }
+        ],
+        "sessionIds": [
+            99391
+        ],
+        "venue": "CHI",
+        "year": 2023
+    },
+    {
+        "id": 146770,
+        "title": "CharacterMeet: Supporting Creative Writers' Entire Story Character Construction Processes Through Conversation with LLM-Powered Chatbot Avatars",
+        "abstract": "Support for story character construction is as essential as characters are for stories. Building upon past research on early character construction stages, we explore how conversation with chatbot avatars embodying characters powered by more recent technologies could support the entire character construction process for creative writing. Through a user study (N=14) with creative writers, we examine thinking and usage patterns of CharacterMeet, a prototype system allowing writers to progressively manifest characters through conversation while customizing context, character appearance, voice, and background image. We discover that CharacterMeet facilitates iterative character construction. Specifically, participants, including those with more linear usual approaches, alternated between writing and personalized exploration through visualization of ideas on CharacterMeet while visuals and audio enhanced immersion. Our findings support research on iterative creative processes and the growing potential of personalizable generative AI creativity support tools. We present design implications for leveraging chatbot avatars in the creative writing process.",
+        "authors": [
+            {
+                "affiliations": [
+                    {
+                        "country": "China",
+                        "state": "",
+                        "city": "Guangzhou",
+                        "institution": "The Hong Kong University of Science and Technology (Guangzhou)",
+                        "dsl": ""
+                    }
+                ],
+                "personId": 145948
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "China",
+                        "state": "",
+                        "city": "Guangzhou",
+                        "institution": "The Hong Kong University of Science and Technology (Guangzhou)",
+                        "dsl": ""
+                    }
+                ],
+                "personId": 142923
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "China",
+                        "state": "Hong Kong",
+                        "city": "Hong Kong",
+                        "institution": "Hong Kong University of Science and Technology",
+                        "dsl": "Emerging Interdisciplinary Areas"
+                    }
+                ],
+                "personId": 145967
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "China",
+                        "state": "",
+                        "city": "Guangzhou",
+                        "institution": "The Hong Kong University of Science and Technology (Guangzhou)",
+                        "dsl": "Computational Media and Arts Thrust"
+                    },
+                    {
+                        "country": "China",
+                        "state": "",
+                        "city": "Hong Kong ",
+                        "institution": "The Hong Kong University of Science and Technology",
+                        "dsl": ""
+                    }
+                ],
+                "personId": 141140
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "China",
+                        "state": "",
+                        "city": "Guangzhou",
+                        "institution": "The Hong Kong University of Science and Technology (Guangzhou)",
+                        "dsl": ""
+                    },
+                    {
+                        "country": "China",
+                        "state": "",
+                        "city": "Hong Kong",
+                        "institution": "The Hong Kong University of Science and Technology",
+                        "dsl": ""
+                    }
+                ],
+                "personId": 142536
+            }
+        ],
+        "sessionIds": [
+            156428
+        ],
+        "venue": "CHI",
+        "year": 2024
+    },
+    {
+        "id": 147024,
+        "title": "Fashioning Creative Expertise with Generative AI:  Graphical Interfaces for Design Space Exploration Better Support Ideation Than Text Prompts",
+        "abstract": "This paper investigates the potential impact of deep generative models on the work of creative professionals. We argue that current generative modeling tools lack critical features that would make them useful creativity support tools, and introduce our own tool, generative.fashion, which was designed with theoretical principles of design space exploration in mind. Through qualitative studies with fashion design apprentices, we demonstrate how generative.fashion supported both divergent and convergent thinking, and compare it with a state-of-the-art text-based interface using Stable Diffusion. In general, the apprentices preferred generative.fashion, citing the features explicitly designed to support ideation. In two follow-up studies, we provide quantitative results that support and expand on these insights. We conclude that text-only prompts in existing models restrict creative exploration, especially for novices. Our work demonstrates that interfaces which are theoretically aligned with principles of design space exploration are essential for unlocking the full creative potential of generative AI.",
+        "authors": [
+            {
+                "affiliations": [
+                    {
+                        "country": "Switzerland",
+                        "state": "",
+                        "city": "Lausanne",
+                        "institution": "EPFL",
+                        "dsl": ""
+                    }
+                ],
+                "personId": 142767
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "Switzerland",
+                        "state": "",
+                        "city": "Bern",
+                        "institution": "Bern University of Applied Sciences",
+                        "dsl": ""
+                    }
+                ],
+                "personId": 140907
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "Switzerland",
+                        "state": "",
+                        "city": "Lausanne",
+                        "institution": "\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne",
+                        "dsl": ""
+                    }
+                ],
+                "personId": 145013
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "Switzerland",
+                        "state": "",
+                        "city": "Zurich",
+                        "institution": "ETH Zurich",
+                        "dsl": ""
+                    }
+                ],
+                "personId": 144364
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "Switzerland",
+                        "state": "",
+                        "city": "Lausanne",
+                        "institution": "EPFL",
+                        "dsl": ""
+                    }
+                ],
+                "personId": 143156
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "Switzerland",
+                        "state": "",
+                        "city": "Lausanne",
+                        "institution": "EPFL",
+                        "dsl": "CHILI"
+                    }
+                ],
+                "personId": 145572
+            }
+        ],
+        "sessionIds": [
+            156103
+        ],
+        "venue": "CHI",
+        "year": 2024
+    },
+    {
+        "id": 147403,
+        "title": "Griffith: A Storyboarding Tool Designed with Japanese Animation Professionals",
+        "abstract": "The ``E-conte,'' storyboard in English, is commonly referred to as the ``blueprint'' in Japanese animation (anime) production, consisting of scene illustrations, timing information, and textual descriptions. This paper introduces ``Griffith,'' a digital system for creating these storyboards.\r\nDue to its highly cultural and domain-specific nature, the tool design entailed an in-depth study of the E-conte process and a longitudinal collaboration with an experienced anime director and producers.\r\nThe resulting system contributes not only domain knowledge, but also generalizable insights into a creativity support environment for visual storytelling, including the importance of vertical timelines and discrete yet integrated tools.\r\nTo reflect on the interaction design, we presented Griffith to professionals with diverse roles in anime production. Our findings highlight the benefits of the Griffith user interface and the need for a socio-technical focus in designing creativity support tools.",
+        "authors": [
+            {
+                "affiliations": [
+                    {
+                        "country": "Japan",
+                        "state": "Ibaraki",
+                        "city": "Tsukuba",
+                        "institution": "National Institute of Advanced Industrial Science and Technology (AIST)",
+                        "dsl": ""
+                    },
+                    {
+                        "country": "Japan",
+                        "state": "Tokyo",
+                        "city": "Shibuya",
+                        "institution": "Arch, Inc.",
+                        "dsl": ""
+                    }
+                ],
+                "personId": 142599
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "Japan",
+                        "state": "Tokyo",
+                        "city": "Shibuya",
+                        "institution": "Arch, Inc.",
+                        "dsl": ""
+                    }
+                ],
+                "personId": 140498
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "Japan",
+                        "state": "Tokyo",
+                        "city": "Shibuya",
+                        "institution": "Arch, Inc.",
+                        "dsl": ""
+                    }
+                ],
+                "personId": 140807
+            }
+        ],
+        "sessionIds": [
+            156169
+        ],
+        "venue": "CHI",
+        "year": 2024
+    },
+    {
+        "id": 150908,
+        "title": "Thinking Outside the Box: Non-Designer Perspectives and Recommendations for Template-Based Graphic Design Tools",
+        "abstract": "Many digital graphic design tools provide design templates to help non-designers quickly get started. Users often have assets (e.g. images and text) that they want to incorporate when starting their design. Existing interaction schemes may be insufficient to help users adapt a template to work with their assets and hinder their sense of creativity and productivity. To investigate the effects of templates on non-designer workflows, we conducted a think-aloud design study (N=10) where participants designed posters using one or more templates, followed by semi-structured interviews. Our findings show that while templates help users converge to a final design quickly and partially alleviate the need for tedious decision-making, they may also lead to fixation and frustration when interactions do not support divergent thinking and flexible editing. We present design recommendations for creativity support tools (CSTs) that make use of templates, to address non-designers\u2019 creative and practical needs.",
+        "authors": [
+            {
+                "affiliations": [
+                    {
+                        "country": "United States",
+                        "state": "Massachusetts",
+                        "city": "Boston",
+                        "institution": "Northeastern University",
+                        "dsl": ""
+                    }
+                ],
+                "personId": 148783
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "United States",
+                        "state": "California",
+                        "city": "San Jose",
+                        "institution": "Adobe Research",
+                        "dsl": ""
+                    }
+                ],
+                "personId": 142450
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "United States",
+                        "state": "California",
+                        "city": "San Jose",
+                        "institution": "Adobe Research",
+                        "dsl": ""
+                    }
+                ],
+                "personId": 141668
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "United States",
+                        "state": "California",
+                        "city": "San Jose",
+                        "institution": "Adobe Systems ",
+                        "dsl": "Adobe Research "
+                    }
+                ],
+                "personId": 142743
+            }
+        ],
+        "sessionIds": [
+            156454,
+            156464
+        ],
+        "venue": "CHI",
+        "year": 2024
+    },
+    {
+        "id": 150976,
+        "title": "Evaluating Creativity Support Tools via Homogenization Analysis",
+        "abstract": "The evaluation of creativity support tools (CSTs)\u2014software systems intended to support human creativity\u2014remains an open problem, in part because creativity is fundamentally difficult to define and in part because different CSTs target a wide variety of different creative domains. We propose a new, general-purpose evaluation criterion for CSTs: namely, the extent to which a CST homogenizes the creative output of its users. We also demonstrate one way to conduct this kind of homogenization analysis, leveraging semantic similarity between embeddings of users' creative outputs to quantify the degree of homogenization that a CST induces.",
+        "authors": [
+            {
+                "affiliations": [
+                    {
+                        "country": "United States",
+                        "state": "California",
+                        "city": "Santa Cruz",
+                        "institution": "Independent Researcher",
+                        "dsl": ""
+                    }
+                ],
+                "personId": 149702
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "United States",
+                        "state": "California",
+                        "city": "Santa Clara",
+                        "institution": "Santa Clara University",
+                        "dsl": ""
+                    }
+                ],
+                "personId": 150292
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "United States",
+                        "state": "California",
+                        "city": "Santa Clara",
+                        "institution": "Santa Clara University",
+                        "dsl": ""
+                    }
+                ],
+                "personId": 142874
+            }
+        ],
+        "sessionIds": [
+            156456,
+            156466
+        ],
+        "venue": "CHI",
+        "year": 2024
+    },
+    {
+        "id": 58369,
+        "title": "SonAmi: A Tangible Creativity Support Tool for Productive Procrastination",
+        "abstract": "Our goal is to help creative writers make procrastination productive. Interviews with eight creative writers highlighted two key practices: Over Criticizing, where perfectionism and negative self-appraisal demotivates them and reduces their output; and Creative Voicing, where speaking their text aloud promotes reflection and inspires new possibilities. A structured observation study compared writers\u2019 perception of their own, pre-recorded text versus computer-generated voices. The latter distances them from their text and offers new perspectives. We developed SonAmi, an interactive coaster that voices selected dialog whenever the author lifts their mug. Two creative writers said SonAmi made them feel they were listening to \u201csomeone else\u2019s text\u201d or \u201ca podcast\u201d, which helped them identify and improve writing issues. We show how tangible creativity support tools can build upon authors\u2019 existing strategies i.e., voicing their own words, and take advantage of naturally occurring events e.g., taking a sip of coffee, to support productive procrastination without interfering with creative flow.",
+        "authors": [
+            {
+                "affiliations": [
+                    {
+                        "country": "France",
+                        "state": "",
+                        "city": "Paria",
+                        "institution": "Inria",
+                        "dsl": "ExSitu"
+                    }
+                ],
+                "personId": 58243
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "France",
+                        "state": "",
+                        "city": "Paris",
+                        "institution": "Inria",
+                        "dsl": "ExSitu"
+                    }
+                ],
+                "personId": 58252
+            }
+        ],
+        "sessionIds": [
+            58376
+        ],
+        "venue": "C&C",
+        "year": 2021
+    },
+    {
+        "id": 60270,
+        "title": "Poetry Machines: Eliciting Designs for Interactive Writing Tools from Poets",
+        "abstract": "Improvements in natural language processing and generation have made possible new and powerful creativity support tools for creative writers. However, it remains unclear how professional writers themselves might want to integrate technology into their existing writing practices. In this work we ran an elicitation study, asking 14 professional poets to consider how they would make use of computation in the context of a custom, interactive writing interface or ``Poetry Machine.'' We found that the poets desired a wide range of functions, from presenting auditory responses to deleting random words. We also found that many poets did not simply report what their ideal interface would do but rather contextualized their designs by describing why they are artistically meaningful, sometimes with respect to specific literary influences and traditions. We present an initial analysis of the elicitation study and observe some differences between the Poetry Machine designs and existing creativity support tools. This study lays the groundwork for a second phase where we will build a selection of the machines and study how the poets use them over time.",
+        "authors": [
+            {
+                "affiliations": [
+                    {
+                        "country": "United States",
+                        "state": "Connecticut",
+                        "city": "Storrs",
+                        "institution": "University of Connecticut",
+                        "dsl": "Department of English"
+                    }
+                ],
+                "personId": 60256
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "United States",
+                        "state": "New York",
+                        "city": "New York City",
+                        "institution": "Columbia University",
+                        "dsl": ""
+                    }
+                ],
+                "personId": 60248
+            }
+        ],
+        "sessionIds": [
+            60330
+        ],
+        "venue": "C&C",
+        "year": 2021
+    },
+    {
+        "id": 4446,
+        "title": "Metaphoria: An Algorithmic Companion for Metaphor Creation",
+        "abstract": "Creative writing, from poetry to journalism, is at the crux of human ingenuity and social interaction. Existing creative writing support tools produce entire passages or fully formed sentences, but these approaches fail to adapt to the writer's own ideas and intentions. Instead we posit to build tools that generate ideas coherent with the writer's context and encourage writers to produce divergent outcomes. To explore this, we focus on supporting metaphor creation. We present Metaphoria, an interactive system that generates metaphorical connections based on an input word from the writer. Our studies show that Metaphoria provides more coherent suggestions than existing systems, and supports the expression of writers' unique intentions. We discuss the complex issue of ownership in human-machine collaboration and how to build adaptive creativity support tools in other domains.",
+        "authors": [
+            {
+                "affiliations": [
+                    {
+                        "country": "USA",
+                        "state": "NY",
+                        "city": "New York City",
+                        "institution": "Columbia University"
+                    }
+                ],
+                "personId": 13870
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "USA",
+                        "state": "NY",
+                        "city": "New York",
+                        "institution": "Columbia University",
+                        "dsl": "Computer Science Dept."
+                    }
+                ],
+                "personId": 14444
+            }
+        ],
+        "sessionIds": [
+            1618
+        ],
+        "venue": "CHI",
+        "year": 2019
+    },
+    {
+        "id": 4486,
+        "title": "Mapping the Landscape of Creativity Support Tools in HCI",
+        "abstract": "Creativity Support Tools (CSTs) play a fundamental role in the study of creativity in Human-Computer Interaction (HCI). Even so, there is no consensus definition of the term 'CST' in HCI, and in most studies, CSTs have been construed as one-off exploratory prototypes, typically built by the researchers themselves. This makes it difficult to clearly demarcate CST research, but also to compare findings across studies, which impedes advancement in digital creativity as a growing field of research. Based on a literature review of 143 papers from the ACM Digital Library (1999-2018), we contribute a first overview of the key characteristics of CSTs developed by the HCI community. Moreover, we propose a tentative definition of a CST to help strengthen knowledge sharing across CST studies. We end by discussing our study's implications for future HCI research on CSTs and digital creativity.",
+        "authors": [
+            {
+                "affiliations": [
+                    {
+                        "country": "Denmark",
+                        "city": "Aarhus",
+                        "institution": "Aarhus University",
+                        "dsl": "Centre for Digital Creativity"
+                    }
+                ],
+                "personId": 23770
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "Denmark",
+                        "city": "Aarhus",
+                        "institution": "Aarhus University",
+                        "dsl": "Centre for Digital Creativity"
+                    }
+                ],
+                "personId": 9110
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "Denmark",
+                        "city": "Aarhus",
+                        "institution": "Aarhus University",
+                        "dsl": "Centre for Digital Creativity"
+                    }
+                ],
+                "personId": 11118
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "Denmark",
+                        "city": "Aarhus",
+                        "institution": "Aarhus University",
+                        "dsl": "Centre for Digital Creativity"
+                    }
+                ],
+                "personId": 15924
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "Denmark",
+                        "city": "Aarhus",
+                        "institution": "Aarhus University",
+                        "dsl": "Digital Creativity Lab"
+                    }
+                ],
+                "personId": 16422
+            }
+        ],
+        "sessionIds": [
+            1618
+        ],
+        "venue": "CHI",
+        "year": 2019
+    },
+    {
+        "id": 116688,
+        "title": "CausalMapper: Challenging designers to think in systems with Causal Maps and Large Language Model",
+        "abstract": "Professional designers often construct and explore conceptual representations (e.g.: design spaces) to help them reason about complex design situations and consider potential design pitfalls. However, it is often challenging, even for professional designers, to exhaustively consider the many pitfalls that might result from design activity. We present CausalMapper, a mixed-initiative system, that leverages a large language model (LLM) and a causal map representation to teach design students how to reason about the relationships between problems and solutions. Where creativity support tools often focus on ideating creative solutions, our mixed-initiative approach focuses on ideating ecosystems of solutions that holistically address a set of related problems. By leveraging the generative creativity of LLMs, designers are inspired to consider  solutions and potential consequences that emerge when solutions are adopted. At the same time, leveraging the designers' domain knowledge to account for and correct the biases inherent in LLMs. Through a case study, we demonstrate the functionality of this mixed-initiative system. The goal of this demo is to present a creativity support tool that is intended to teach design students to think more systematically by generating ideas that challenge their thinking rather just augmenting their creative potential.",
+        "authors": [
+            {
+                "affiliations": [
+                    {
+                        "country": "United States",
+                        "state": "California",
+                        "city": "La Jolla",
+                        "institution": "University of California San Diego",
+                        "dsl": "Electrical and Computer Engineering"
+                    }
+                ],
+                "personId": 115644
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "United States",
+                        "state": "California",
+                        "city": "San Diego",
+                        "institution": "University of California, San Diego",
+                        "dsl": ""
+                    }
+                ],
+                "personId": 115651
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "United States",
+                        "state": "Maryland",
+                        "city": "College Park",
+                        "institution": "University of Maryland",
+                        "dsl": "College of Information Studies"
+                    }
+                ],
+                "personId": 115813
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "United States",
+                        "state": "Pennsylvania",
+                        "city": "Philadelphia",
+                        "institution": "Temple University",
+                        "dsl": "Computer and Information Sciences"
+                    }
+                ],
+                "personId": 115568
+            }
+        ],
+        "sessionIds": [
+            116329
+        ],
+        "venue": "C&C",
+        "year": 2023
+    },
+    {
+        "id": 116734,
+        "title": "Creativity Support Tools and Convergent Thinking: A Preliminary Review on Idea Evaluation and Selection",
+        "abstract": "Creativity Support Tools (CSTs) have grown exponentially in the HCI field. However, this growth has always leaned towards divergent thinking, thus neglecting convergent thinking. We confirm this information based on a preliminary review between 2012 and 2022 in the ACM Digital Library. Our findings confirm that researchers and practitioners have been primarily interested in developing tools to support idea generation, minimizing studies on evaluating and selecting ideas. We focused our research on four major points: i) the domain of the tool, ii) the type of system and interface developed in the tools, iii) the methodology used, and iv) the creative context of the tools. Based on this information, we contribute six guidelines to support the improvement of existing CSTs and the development of new CSTs.",
+        "authors": [
+            {
+                "affiliations": [
+                    {
+                        "country": "Portugal",
+                        "state": "",
+                        "city": "Funchal",
+                        "institution": "ITI/LARSyS - Interactive Technologies Institute",
+                        "dsl": ""
+                    }
+                ],
+                "personId": 115832
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "Portugal",
+                        "state": "",
+                        "city": "Lisbon",
+                        "institution": "University of Lisbon",
+                        "dsl": "ITI/LARSyS, IST"
+                    }
+                ],
+                "personId": 115585
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "Portugal",
+                        "state": "",
+                        "city": "Funchal",
+                        "institution": "ITI / LARSyS - Interactive Technologies Institute",
+                        "dsl": ""
+                    }
+                ],
+                "personId": 115836
+            }
+        ],
+        "sessionIds": [
+            116329
+        ],
+        "venue": "C&C",
+        "year": 2023
+    },
+    {
+        "id": 157790,
+        "title": "Evolving Roles and Workflows of Creative Practitioners in the Age of Generative AI",
+        "abstract": "Creative practitioners (like designers, software developers, and architects) have started to employ Generative AI models (GenAI) to produce text, images, and assets comparable to those made by people. While HCI research explores specific GenAI models and creativity support tools, little is known about practitioners' evolving roles and workflows with GenAI models across a project's stages. This knowledge is key to guide the development of the new generation of Creativity Support Tools. We contribute to this knowledge by employing a triangulated method to capture interviews, videos, and survey responses of creative practitioners reflecting on projects they completed with GenAI. Our observations let us derive a set of factors that capture practitioners' perceived roles, challenges, benefits, and interaction patterns when creating with GenAI. \r\nFrom these factors, we offer insights and propose design opportunities and priorities that serve to encourage reflection from the wider community of Creativity Support Tools and GenAI stakeholders such as systems creators, researchers, and educators on how to develop systems that meet the needs of creatives in human-centered ways. ",
+        "authors": [
+            {
+                "affiliations": [
+                    {
+                        "country": "United States",
+                        "state": "California",
+                        "city": "San Diego",
+                        "institution": "University of California",
+                        "dsl": "Design Lab"
+                    }
+                ],
+                "personId": 157769
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "United States",
+                        "state": "Washington",
+                        "city": "Kirkland",
+                        "institution": "Microsoft Research",
+                        "dsl": ""
+                    }
+                ],
+                "personId": 157591
+            }
+        ],
+        "sessionIds": [
+            157866
+        ],
+        "venue": "C&C",
+        "year": 2024
+    },
+    {
+        "id": 157856,
+        "title": "Homogenization Effects of Large Language Models on Human Creative Ideation",
+        "abstract": "Large language models (LLMs) are now being used in a wide variety of contexts, including as creativity support tools (CSTs) intended to help their users come up with new ideas. But do LLMs actually support user creativity? We hypothesized that the use of an LLM as a CST might make the LLM\u2019s users feel more creative, and even broaden the range of ideas suggested by each individual user, but also homogenize the ideas suggested by different users. We conducted a 36-participant comparative user study and found, in accordance with the homogenization hypothesis, that different users tended to produce less semantically distinct ideas with ChatGPT than with an alternative CST. Additionally, ChatGPT users generated a greater number of more detailed ideas, but also felt less responsible for the ideas they generated. We discuss potential implications of these findings for users, designers, and developers of LLM-based CSTs.",
+        "authors": [
+            {
+                "affiliations": [
+                    {
+                        "country": "United States",
+                        "state": "California",
+                        "city": "Santa Cruz",
+                        "institution": "Independent Researcher",
+                        "dsl": ""
+                    }
+                ],
+                "personId": 157757
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "United States",
+                        "state": "California",
+                        "city": "Santa Clara",
+                        "institution": "Santa Clara University",
+                        "dsl": ""
+                    }
+                ],
+                "personId": 157638
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "United States",
+                        "state": "California",
+                        "city": "Santa Clara",
+                        "institution": "Santa Clara University",
+                        "dsl": ""
+                    }
+                ],
+                "personId": 157767
+            }
+        ],
+        "sessionIds": [
+            157864
+        ],
+        "venue": "C&C",
+        "year": 2024
+    },
+    {
+        "id": 83001,
+        "title": "Readymades & Repertoires: Artifact-Mediated Improvisation in Tabletop Role-Playing Games",
+        "abstract": "Game masters (GMs) are creative practitioners who plan and orchestrate tabletop role-playing games.\r\nThrough an interview study, we investigate how eight expert game masters adapt everyday technologies and materials as creativity support tools \\added{(CSTs)} for improvisational and collaborative play.\r\nWe integrate theories of improvisational and distributed creativity with the human-artifact model, which provides an activity-theoretical vocabulary for analyzing the mediating relationships between specialist practitioners and their tools.\r\nWe show how GMs prepare and deploy readymade artifacts: analog and digital CSTs that flexibly mediate recurring creative tasks in their practice, such as improvising narrative elements, facilitating smooth play, and creating aesthetic effects.\r\nWe find that GMs demonstrate designerly thinking as they create, share, and refine repertoires of readymade artifacts.\r\nWe argue that our theoretical approach can inform future studies of IT-mediated creativity, and that readymade artifacts can be an analytical and generative concept for the design of novel creativity support tools.",
+        "authors": [
+            {
+                "affiliations": [
+                    {
+                        "country": "Denmark",
+                        "state": "",
+                        "city": "Aarhus",
+                        "institution": "Department of Computer Science, Aarhus University",
+                        "dsl": ""
+                    }
+                ],
+                "personId": 82927
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "United States",
+                        "state": "Louisiana",
+                        "city": "Baton Rouge",
+                        "institution": "Louisiana State University",
+                        "dsl": "Division of Computer Science and Engineering"
+                    }
+                ],
+                "personId": 82989
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "United States",
+                        "state": "Louisiana",
+                        "city": "Baton Rouge",
+                        "institution": "Louisiana State University",
+                        "dsl": ""
+                    }
+                ],
+                "personId": 82947
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "France",
+                        "state": "",
+                        "city": "Paris",
+                        "institution": "Inria",
+                        "dsl": "ExSitu"
+                    }
+                ],
+                "personId": 82950
+            }
+        ],
+        "sessionIds": [
+            83286
+        ],
+        "venue": "C&C",
+        "year": 2022
+    },
+    {
+        "id": 83003,
+        "title": "Creative and Motivational Strategies Used by Expert Creative Practitioners",
+        "abstract": "Creative practice often requires persevering through moments of ambiguity, where the outcome of a process is unclear. Creative practitioners intentionally manage this process, for example by developing strategies to break out of creative ruts, or stay motivated through uncertainty. Understanding the way experts engage with and manage these creativity-relevant processes represents a rich source of foundational knowledge for designers of Creativity Support Tools. These strategies represent an opportunity for CST research: to create CSTs that embody emotional and process-focused strategies and techniques.  Through interviews with expert practitioners in diverse domains including performance, craft, engineering, and design, we identify four strategies for managing process: Strategic Forgetting, Mode Switching, Embodying Process, and Aestheticizing. Understanding tool- and domain-agnostic creative strategies used by experts to manage their own creative process can inform the design of future CSTs that amplify the benefits of successful strategies and scaffold new techniques.",
+        "authors": [
+            {
+                "affiliations": [
+                    {
+                        "country": "United States",
+                        "state": "California",
+                        "city": "Berkeley",
+                        "institution": "UC Berkeley",
+                        "dsl": ""
+                    }
+                ],
+                "personId": 82930
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "United States",
+                        "state": "California",
+                        "city": "Berkeley",
+                        "institution": "UC Berkeley",
+                        "dsl": ""
+                    }
+                ],
+                "personId": 82976
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "United States",
+                        "state": "California",
+                        "city": "Berkeley",
+                        "institution": "UC Berkeley",
+                        "dsl": ""
+                    }
+                ],
+                "personId": 82960
+            }
+        ],
+        "sessionIds": [
+            83284
+        ],
+        "venue": "C&C",
+        "year": 2022
+    },
+    {
+        "id": 83022,
+        "title": "Flow with the Beat! Human-Centered Design of Virtual Environments for Musical Creativity Support in VR",
+        "abstract": "As previous studies have shown, the environment of creative people can have a significant impact on their creative process and thus on their creations. However, with the advent of digital tools such as virtual instruments and digital audio workstations, more and more creative work is digital and decoupled from the creator's environment. Virtual Reality technologies open up new possibilities here, as creative tools can seamlessly merge with any virtual environment the user finds himself in. This paper reports on the human-centered design process of a VR application that aims at supporting the user's individual needs to support their creativity while composing percussive beats in virtual environments. For this purpose, we derived factors that influence creativity from literature and conducted focus group interviews in order to learn how virtual environments and 3DUI can be designed for creativity support. In a subsequent laboratory study, we let users interact with a virtual step sequencer UI in virtual environments that were either customizable or fixed/unchangeable. By analyzing post-test ratings from music experts, self-report questionnaires, and user behavior data, we examined the effects of such customizable virtual environments on user creativity, user experience, flow, and subjective creativity support scales. While we did not observe a significant impact of this independent variable on user creativity, user experience or flow, we found that users had specific individual needs regarding their virtual surroundings and strongly preferred customizable virtual environments, even though the fixed virtual environment was designed to be creatively stimulating. We also observed consistently high flow and user experience ratings, which promote human-centered design of VR-based creativity support tools in a musical context.",
+        "authors": [
+            {
+                "affiliations": [
+                    {
+                        "country": "Germany",
+                        "state": "",
+                        "city": "Augsburg",
+                        "institution": "University of Augsburg",
+                        "dsl": "Chair for Human-Centered Artificial Intelligence"
+                    }
+                ],
+                "personId": 82978
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "Germany",
+                        "state": "",
+                        "city": "Augsburg",
+                        "institution": "University of Augsburg",
+                        "dsl": "Chair for Human-Centered Artificial Intelligence"
+                    }
+                ],
+                "personId": 82944
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "Germany",
+                        "state": "",
+                        "city": "Augsburg",
+                        "institution": "University of Augsburg",
+                        "dsl": "Chair for Human-Centered Artificial Intelligence"
+                    }
+                ],
+                "personId": 82979
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "Germany",
+                        "state": "",
+                        "city": "Augsburg",
+                        "institution": "University of Augsburg",
+                        "dsl": "Chair for Human-Centered Artificial Intelligence"
+                    }
+                ],
+                "personId": 82934
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "Germany",
+                        "state": "",
+                        "city": "Augsburg",
+                        "institution": "University of Augsburg",
+                        "dsl": "Chair for Human-Centered Artificial Intelligence"
+                    }
+                ],
+                "personId": 82949
+            }
+        ],
+        "sessionIds": [
+            83285
+        ],
+        "venue": "C&C",
+        "year": 2022
+    },
+    {
+        "id": 83065,
+        "title": "Here and there, now and then: Creativity, design and instruction for hybrid environments ",
+        "abstract": "Hybrid Environments \u2013 spaces where physical and digital elements are blended in-situ \u2013 have been growing and expanding over the past few decades. As these technologies become woven into our everyday lives, new challenges and opportunities emerge as they transform our experiences in our homes, workplace, museums, and citiese. Designing hybrid environments requires training in both design of physical environments and interactive technologies. Cross-trained students in higher education need to be able to creatively respond and adapt to these emerging landscapes. Students must bridge fundamental knowledge in design, architecture, art, interactivity, and computation. This is a complex pedagogical practice. How are educators meeting this emergent need? The workshop\u2019s primary goals are to (i) form a collective understanding of the current technology and pedagogical challenges to teaching the design and understanding of hybrid environments; (ii) bring together educators and practitioners interested in the future of hybrid environments, (iii) discuss creativity support tools as well as, frameworks, methods, and approaches for teaching emerging technologies, (iv) form a multidisciplinary community to shape the future of pedagogical inquiry and implementation to hybrid environments.",
+        "authors": [
+            {
+                "affiliations": [
+                    {
+                        "country": "United States",
+                        "state": "Pennsylvania",
+                        "city": "Pittsburgh",
+                        "institution": "Carnegie Mellon University",
+                        "dsl": "School of Architecture"
+                    }
+                ],
+                "personId": 83038
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "United States",
+                        "state": "Pennsylvania",
+                        "city": "PITTSBURGH ",
+                        "institution": "Carnegie Mellon University",
+                        "dsl": "School of Design"
+                    }
+                ],
+                "personId": 82940
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "United States",
+                        "state": "Pennsylvania",
+                        "city": "Pittsburgh",
+                        "institution": "Carnegie Mellon University",
+                        "dsl": "School of Design"
+                    }
+                ],
+                "personId": 83034
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "United States",
+                        "state": "Pennsylvania",
+                        "city": "Pittsburgh",
+                        "institution": "Carnegie Mellon University",
+                        "dsl": "School of Design"
+                    }
+                ],
+                "personId": 83027
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "United States",
+                        "state": "Pennsylvania",
+                        "city": "Pittsburgh",
+                        "institution": "Carnegie Mellon University",
+                        "dsl": ""
+                    }
+                ],
+                "personId": 83036
+            }
+        ],
+        "sessionIds": [],
+        "venue": "C&C",
+        "year": 2022
+    },
+    {
+        "id": 83426,
+        "title": "SonAmi: A Tangible Creativity Support Tool for Productive Procrastination",
+        "abstract": "Our goal is to help creative writers make procrastination productive. Interviews with eight creative writers highlighted two key practices: Over Criticizing, where perfectionism and negative self-appraisal demotivates them and reduces their output; and Creative Voicing, where speaking their text aloud promotes reflection and inspires new possibilities. A structured observation study compared writers\u2019 perception of their own, pre-recorded text versus computer-generated voices. The latter distances them from their text and offers new perspectives. We developed SonAmi, an interactive coaster that voices selected dialog whenever the author lifts their mug. Two creative writers said SonAmi made them feel they were listening to \u201csomeone else\u2019s text\u201d or \u201ca podcast\u201d, which helped them identify and improve writing issues. We show how tangible creativity support tools can build upon authors\u2019 existing strategies i.e., voicing their own words, and take advantage of naturally occurring events e.g., taking a sip of coffee, to support productive procrastination without interfering with creative flow.",
+        "authors": [
+            {
+                "affiliations": [
+                    {
+                        "country": "France",
+                        "state": "",
+                        "city": "Paria",
+                        "institution": "Inria",
+                        "dsl": "ExSitu"
+                    }
+                ],
+                "personId": 83360
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "France",
+                        "state": "",
+                        "city": "Paris",
+                        "institution": "Inria",
+                        "dsl": "ExSitu"
+                    }
+                ],
+                "personId": 82950
+            }
+        ],
+        "sessionIds": [
+            83285
+        ],
+        "venue": "C&C",
+        "year": 2022
+    },
+    {
+        "id": 164450,
+        "title": "BI-CST: Behavioral Science-based Creativity Support Tool for Overcoming Design Fixation.",
+        "abstract": "Design Fixation refers to the tendency to adhere to pre-existing ideas, which hinders innovative design solutions. This research explores the potential of LLM-powered Creativity Support Tools, the 'Behaviorally Informed Creativity Support Tool (BI-CST),' to facilitate ideation and combat Design Fixation using 'Behavioral Science Theory.' BI-CST assists in redefining problems and generating new ideas by presenting experimental findings from Behavioral Sciences that challenge users' initial concepts, thus providing a deeper understanding of real human behaviors. We will assign three groups to different conditions: one designing without generative AI support, one with open-ended generative AI (e.g., ChatGPT), and one using a model trained in behavioral science. We aim to compare the originality, practicality, and general quality of the designs to assess design fixation. This study addresses design fixation through an interdisciplinary approach combining design and behavioral science, aiming to expand users' perspectives.",
+        "authors": [
+            {
+                "affiliations": [
+                    {
+                        "country": "United States",
+                        "state": "Massachusetts",
+                        "city": "Cambridge",
+                        "institution": "Harvard University",
+                        "dsl": ""
+                    }
+                ],
+                "personId": 163828
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "Korea, Republic of",
+                        "state": "",
+                        "city": "Seoul",
+                        "institution": "Kookmin University",
+                        "dsl": "College of Business Administration"
+                    }
+                ],
+                "personId": 163383
+            }
+        ],
+        "sessionIds": [
+            164687,
+            164740
+        ],
+        "venue": "DIS",
+        "year": 2024
+    },
+    {
+        "id": 47562,
+        "title": "FashionQ: An AI-Driven Creativity Support Tool for Facilitating Ideation in Fashion Design",
+        "abstract": "Recent research on creativity support tools (CST) adopts artificial intelligence (AI) that leverages big data and computational capabilities to facilitate creative work. Our work aims to articulate the role of AI in supporting creativity with a case study of an AI-based CST tool in fashion design based on theoretical groundings. We developed AI models by externalizing three cognitive operations (extending, constraining, and blending) that are associated with divergent and convergent thinking. We present FashionQ, an AI-based CST that has three interactive visualization tools (StyleQ, TrendQ, and MergeQ). Through interviews and a user study with 20 fashion design professionals (10 participants for the interviews and 10 for the user study), we demonstrate the effectiveness of FashionQ on facilitating divergent and convergent thinking and identify opportunities and challenges of incorporating AI in the ideation process. Our findings highlight the role and use of AI in each cognitive operation based on professionals\u2019 expertise and suggest future implications of AI-based CST development.",
+        "authors": [
+            {
+                "affiliations": [
+                    {
+                        "country": "Korea, Republic of",
+                        "state": "",
+                        "city": "Suwon",
+                        "institution": "Ajou University",
+                        "dsl": "Department of Artificial Intelligence"
+                    }
+                ],
+                "personId": 46622
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "Korea, Republic of",
+                        "state": "",
+                        "city": "Suwon",
+                        "institution": "Ajou University",
+                        "dsl": "Department of Artificial Intelligence"
+                    }
+                ],
+                "personId": 45187
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "United States",
+                        "state": "Indiana",
+                        "city": "Bloomington",
+                        "institution": "Indiana University Bloomington",
+                        "dsl": "Department of Informatics"
+                    }
+                ],
+                "personId": 46444
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "Korea, Republic of",
+                        "state": "",
+                        "city": "Suwon",
+                        "institution": "Ajou University",
+                        "dsl": "Department of Artificial Intelligence"
+                    }
+                ],
+                "personId": 45237
+            }
+        ],
+        "sessionIds": [
+            49405,
+            49420
+        ],
+        "venue": "CHI",
+        "year": 2021
+    },
+    {
+        "id": 118114,
+        "title": "GANCollage: A GAN-Driven Digital Mood Board to Facilitate Ideation in Creativity Support",
+        "abstract": "During past decades, Artificial Intelligence (AI) has been consistently used in Creativity Support Tools (CSTs). Recently, with the development of generative AI models, particularly Generative Adversarial Nets (GAN) in Computer Vision, it became possible that AI directly generates visual ideas. However, there were rarely any work in creativity research that harnessed the design ideas generated by such models directly for design space exploration. In this paper, we propose a StyleGAN-driven digital mood board, GANCollage, that integrates AI generated visual ideas into the ideation phase for creativity support. GANCollage supports semantic explorations of StyleGAN generations in an iterative human-in-the-loop manner, using an AI-driven interactive tagging system. Our evaluation involving 10 participants manifests that GANCollage provides more creativity support without compromising the final results. It also offers a more enjoyable, explicit and effective way of exploring AI generated visual ideas for ideation.",
+        "authors": [
+            {
+                "affiliations": [
+                    {
+                        "country": "China",
+                        "state": "",
+                        "city": "Hong Kong",
+                        "institution": "City University of Hong Kong",
+                        "dsl": ""
+                    }
+                ],
+                "personId": 117669
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "China",
+                        "state": "",
+                        "city": "Hong Kong",
+                        "institution": "City University of Hong Kong",
+                        "dsl": "Department of Computer Science"
+                    }
+                ],
+                "personId": 117667
+            }
+        ],
+        "sessionIds": [
+            118266
+        ],
+        "venue": "DIS",
+        "year": 2023
+    },
+    {
+        "id": 168598,
+        "title": "Creative Commuter: Towards Designing Moments for Idea Generation and Incubation during the Commute",
+        "abstract": "This research proposes leveraging commute time by car for idea incubation, targeting 80% of the US workforce who commute daily. Commuting, a potentially \"mindless\" task for seasoned drivers, offers an ideal environment for creative thinking that can be enhanced by mild immersive interactions to improve idea generation. The project integrates psychological interventions tailored for driving, drawing on automated driving advancements to ensure safety and effectiveness. Using a context-aware sensing framework, interactions are timed during appropriate driving scenarios to minimize distraction. The system obtains context data from car sensors and employs generative AI to deliver subtle interactions, enhancing user engagement and idea output without compromising safety. Evaluation includes measuring user engagement and post-drive self-reports to quantify the impact on idea generation and driving performance. This innovation integrates creativity support tools into daily commutes, potentially transforming in-car intelligence systems and enhancing productivity and innovation capabilities.",
+        "authors": [
+            {
+                "affiliations": [
+                    {
+                        "country": "United States",
+                        "state": "California",
+                        "city": "Los Altos",
+                        "institution": "Toyota Research Institute",
+                        "dsl": ""
+                    }
+                ],
+                "personId": 168579
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "United States",
+                        "state": "California",
+                        "city": "Los Altos",
+                        "institution": "Toyota Research Institute",
+                        "dsl": ""
+                    }
+                ],
+                "personId": 168524
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "United States",
+                        "state": "California",
+                        "city": "Los Altos",
+                        "institution": "Toyota Research Institute",
+                        "dsl": "Machine Assisted Cognition"
+                    }
+                ],
+                "personId": 168560
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "United States",
+                        "state": "California",
+                        "city": "Los Altos",
+                        "institution": "Toyota Research Institute",
+                        "dsl": ""
+                    }
+                ],
+                "personId": 168571
+            }
+        ],
+        "sessionIds": [
+            168754
+        ],
+        "venue": "Auto-UI",
+        "year": 2024
+    },
+    {
+        "id": 85472,
+        "title": "Artistic User Expressions in AI-powered Creativity Support Tools",
+        "abstract": "Novel AI algorithms introduce a new generation of AI-powered Creativity Support Tools (AI-CSTs). These tools can inspire and surprise users with algorithmic outputs that the users could not expect. However, users can struggle to align their intentions with unexpected algorithmic behaviors. My dissertation research studies how user expressions in art-making AI-CSTs need to be designed. With an interview study with 14 artists and a literature survey on 111 existing CSTs, I first isolate three requirements: 1) allow users to express under-constrained intentions, 2) enable the tool and the user to co-learn the user expressions and the algorithmic behaviors, and 3) allow easy and expressive iteration. Based on these requirements, I introduce two tools, 1) Artinter, which learns how the users express their visual art concepts within their communication process for art commissions, and 2) TaleBrush, which facilitates the under-constrained and iterative expression of use intents through sketching-based story generation. My research provides guidelines for designing user expression interactions for AI-CSTs while demonstrating how they can suggest new designs of AI-CSTs.",
+        "authors": [
+            {
+                "affiliations": [
+                    {
+                        "country": "United States",
+                        "state": "Michigan",
+                        "city": "Ann Arbor",
+                        "institution": "University of Michigan",
+                        "dsl": "Computer Science and Engineering"
+                    }
+                ],
+                "personId": 85367
+            }
+        ],
+        "sessionIds": [
+            86421
+        ],
+        "venue": "UIST",
+        "year": 2022
+    },
+    {
+        "id": 89913,
+        "title": "Artistic User Expressions in AI-powered Creativity Support Tools",
+        "abstract": "Novel AI algorithms introduce a new generation of AI-powered Creativity Support Tools (AI-CSTs). These tools can inspire and surprise users with algorithmic outputs that the users could not expect. However, users can struggle to align their intentions with unexpected algorithmic behaviors. My dissertation research studies how user expressions in art-making AI-CSTs need to be designed. With an interview study with 14 artists and a literature survey on 111 existing CSTs, I first isolate three requirements: 1) allow users to express under-constrained intentions, 2) enable the tool and the user to co-learn the user expressions and the algorithmic behaviors, and 3) allow easy and expressive iteration. Based on these requirements, I introduce two tools, 1) Artinter, which learns how the users express their visual art concepts within their communication process for art commissions, and 2) TaleBrush, which facilitates the under-constrained and iterative expression of use intents through sketching-based story generation. My research provides guidelines for designing user expression interactions for AI-CSTs while demonstrating how they can suggest new designs of AI-CSTs.",
+        "authors": [
+            {
+                "affiliations": [
+                    {
+                        "country": "United States",
+                        "state": "Michigan",
+                        "city": "Ann Arbor",
+                        "institution": "University of Michigan",
+                        "dsl": "Computer Science and Engineering"
+                    }
+                ],
+                "personId": 85367
+            }
+        ],
+        "sessionIds": [
+            86426
+        ],
+        "venue": "UIST",
+        "year": 2022
+    },
+    {
+        "id": 126742,
+        "title": "Beyond the Artifact: Power as a Lens for Creativity Support Tools",
+        "abstract": "Researchers who build creativity support tools (CSTs) define abstractions and software representations that align with user needs to give users the power to accomplish tasks. However, these specifications also structure and limit how users can and should think, act, and express themselves. Thus, tool designers unavoidably exert power over their users by enacting a ``normative ground'' through their tools. Drawing on interviews with 11 creative practitioners, tool designers, and CST researchers, we offer a definition of empowerment in the context of creative practice, build a preliminary theory of how power relationships manifest in CSTs, and explain why researchers have had trouble addressing these concepts in the past. We re-examine CST literature through a lens of power and argue that mitigating power imbalances at the level of technical design requires enabling users in both vertical movement along levels of abstraction as well as horizontal movement between tools through interoperable representations. A lens of power is one possible orientation that lets us recognize the methodological shifts required towards building ``artistic support tools.'' ",
+        "authors": [
+            {
+                "affiliations": [
+                    {
+                        "country": "United States",
+                        "state": "California",
+                        "city": "Stanford",
+                        "institution": "Stanford University",
+                        "dsl": ""
+                    }
+                ],
+                "personId": 126488
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "United States",
+                        "state": "California",
+                        "city": "Berkeley",
+                        "institution": "University of California, Berkeley",
+                        "dsl": "Electrical Engineering and Computer Science"
+                    }
+                ],
+                "personId": 126604
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "United States",
+                        "state": "California",
+                        "city": "Stanford",
+                        "institution": "Stanford University",
+                        "dsl": ""
+                    }
+                ],
+                "personId": 126069
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "United States",
+                        "state": "Washington",
+                        "city": "Seattle",
+                        "institution": "University of Washington",
+                        "dsl": ""
+                    }
+                ],
+                "personId": 126137
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "United States",
+                        "state": "California",
+                        "city": "Stanford",
+                        "institution": "Stanford University",
+                        "dsl": "Mechanical Engineering"
+                    }
+                ],
+                "personId": 126123
+            }
+        ],
+        "sessionIds": [
+            127759
+        ],
+        "venue": "UIST",
+        "year": 2023
+    },
+    {
+        "id": 126857,
+        "title": "XCreation: A Graph-Based Crossmodal Generative Creativity Support Tool",
+        "abstract": "Creativity Support Tools (CSTs) aid in the efficient and effective composition of creative content, such as picture books. However, many existing CSTs only allow for mono-modal creation, whereas previous studies have become theoretically and technically mature to support multi-modal innovative creations. To overcome this limitation, we introduce XCreation, a novel CST that leverages generative AI to support cross-modal storybook creation. Nevertheless, directly deploying AI models to CSTs can still be problematic as they are mostly black-box architectures that are not comprehensible to human users. Therefore, we integrate an interpretable entity-relation graph to intuitively represent picture elements and their relations, improving the usability of the underlying generative structures. Our between-subject user study demonstrates that XCreation supports continuous plot creation with increased creativity, controllability, usability, and interpretability. XCreation is applicable to various scenarios, including interactive storytelling and picture book creation, thanks to its multimodal nature.",
+        "authors": [
+            {
+                "affiliations": [
+                    {
+                        "country": "United States",
+                        "state": "Massachusetts",
+                        "city": "Cambridge",
+                        "institution": "MIT Media Lab",
+                        "dsl": ""
+                    }
+                ],
+                "personId": 126284
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "United States",
+                        "state": "California",
+                        "city": "Los Angeles",
+                        "institution": "UCLA",
+                        "dsl": "HCI Research"
+                    }
+                ],
+                "personId": 126213
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "Singapore",
+                        "state": "",
+                        "city": "Singapore",
+                        "institution": "National University of Singapore",
+                        "dsl": "School of Computing"
+                    }
+                ],
+                "personId": 126255
+            },
+            {
+                "affiliations": [
+                    {
+                        "country": "United States",
+                        "state": "California",
+                        "city": "Los Angeles",
+                        "institution": "UCLA",
+                        "dsl": "HCI Research"
+                    }
+                ],
+                "personId": 125849
+            }
+        ],
+        "sessionIds": [
+            127759
+        ],
+        "venue": "UIST",
+        "year": 2023
+    }
+]
