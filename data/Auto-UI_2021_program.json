@@ -1,0 +1,4719 @@
+{
+  "schemeVersion": 7,
+  "cc_licence": "Content of this file is licensed under a CC BY-NC-SA 4.0 license. For details see https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "conference": {
+    "id": 10070,
+    "shortName": "Auto-UI",
+    "year": 2021,
+    "startDate": 1631145600000,
+    "endDate": 1631491200000,
+    "fullName": "3th International ACM Conference on Automotive User Interfaces and Interactive Vehicular Applications",
+    "location": "Virtual",
+    "timeZoneOffset": 0,
+    "timeZoneName": "Africa/Abidjan",
+    "logoUrl": "https://files.sigchi.org/conference/logo/6d41853a-5951-9574-8a79-211b06538c87.png",
+    "name": "Auto-UI 2021"
+  },
+  "publicationInfo": {
+    "hideLinksBeforeConference": false,
+    "version": 16,
+    "publicationStatus": "PUBLISHED",
+    "isProgramEnabled": false,
+    "isDraft": false,
+    "isRegistrationEnabled": false,
+    "publicationDate": "2022-10-28 14:46:37+00"
+  },
+  "sponsors": [],
+  "sponsorLevels": [
+    {
+      "id": 10117,
+      "name": "Sponsors",
+      "rank": 1,
+      "isDefault": true
+    }
+  ],
+  "floors": [],
+  "rooms": [],
+  "tracks": [
+    {
+      "id": 11302,
+      "name": "AutomotiveUI 2021 Papers",
+      "typeId": 11902
+    },
+    {
+      "id": 11303,
+      "name": "AutomotiveUI 2021 Video Demos",
+      "typeId": 11896
+    }
+  ],
+  "contentTypes": [
+    {
+      "id": 11895,
+      "name": "Course",
+      "color": "#66c2a4",
+      "duration": 90,
+      "displayName": "Courses"
+    },
+    {
+      "id": 11896,
+      "name": "Demo",
+      "color": "#006d2c",
+      "duration": 5,
+      "displayName": "Demos"
+    },
+    {
+      "id": 11897,
+      "name": "Doctoral Consortium",
+      "color": "#6baed6",
+      "duration": 5
+    },
+    {
+      "id": 11898,
+      "name": "Event",
+      "color": "#ffc034",
+      "duration": 0,
+      "displayName": "Events"
+    },
+    {
+      "id": 11899,
+      "name": "Late-Breaking Work",
+      "color": "#8e008b",
+      "duration": 5
+    },
+    {
+      "id": 11900,
+      "name": "Poster",
+      "color": "#ff7a00",
+      "duration": 5,
+      "displayName": "Posters"
+    },
+    {
+      "id": 11901,
+      "name": "Work-in-Progress",
+      "color": "#7d6bef",
+      "duration": 5
+    },
+    {
+      "id": 11902,
+      "name": "Paper",
+      "color": "#0d42cc",
+      "duration": 20,
+      "displayName": "Papers"
+    },
+    {
+      "id": 11903,
+      "name": "Workshop",
+      "color": "#f60000",
+      "duration": 240,
+      "displayName": "Workshops"
+    },
+    {
+      "id": 11939,
+      "name": "Break",
+      "color": "#7f6aff",
+      "duration": 5
+    }
+  ],
+  "timeSlots": [],
+  "sessions": [],
+  "events": [],
+  "contents": [
+    {
+      "id": 62256,
+      "typeId": 11902,
+      "title": "A Review of Motion Sickness in Automated Vehicles",
+      "addons": {
+        "Presentation": {
+          "duration": 600,
+          "title": "A Review of Motion Sickness in Automated Vehicles",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=ljVQgxuyZxo"
+        }
+      },
+      "isBreak": false,
+      "importedId": "autoui21a-1103",
+      "source": "PCS",
+      "trackId": 11302,
+      "tags": [],
+      "keywords": [],
+      "sessionIds": [],
+      "eventIds": [],
+      "abstract": "Automated vehicles (AVs) are the next wave of evolution in the transportation industry, but the progress towards increased levels of automation faces several challenges. One of the major problems, that gets overlooked, is motion sickness. As more drivers become passengers engaging in ‘passenger tasks’, it will lead to greater occurrences of motion sickness, preventing AVs from providing their true benefit to society. In an attempt to encourage more researchers to solve the problem of motion sickness in AVs, this study conducted a literature review following the PRISMA framework to identify the latest research trends and methodologies. Based on the findings and limitations in the existing literature, this study suggests a bird’s-eye-view research framework consisting of causation, induction, measurement, and mitigation techniques, that researchers and early practitioners can utilize to conduct research in this field. Furthermore, the paper highlights future research directions in mitigation techniques to combat motion sickness in AVs.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Virginia",
+              "city": "Blacksburg",
+              "institution": "Virginia Polytechnic Institute & State University",
+              "dsl": "ISE/Mind Music Machine Lab"
+            }
+          ],
+          "personId": 62225
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Virginia",
+              "city": "Blacksburg",
+              "institution": "Virginia Polytechnic Institute and State University",
+              "dsl": "ISE/Mind Music Machine Lab"
+            }
+          ],
+          "personId": 62190
+        }
+      ]
+    },
+    {
+      "id": 62257,
+      "typeId": 11902,
+      "title": "What Makes a Good Team? - Towards the Assessment of Driver-Vehicle Cooperation.",
+      "addons": {
+        "Presentation": {
+          "duration": 600,
+          "title": "What Makes a Good Team? - Towards the Assessment of Driver-Vehicle Cooperation.",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=vFjB7wtz-Mk"
+        }
+      },
+      "isBreak": false,
+      "importedId": "autoui21a-1048",
+      "source": "PCS",
+      "trackId": 11302,
+      "tags": [],
+      "keywords": [],
+      "sessionIds": [],
+      "eventIds": [],
+      "abstract": "With the introduction of driving automation, the driving task has become a shared task between driver and vehicle. Today, an increasing amount of driving tasks can be performed by the automation and the view of driver and automation acting as collaborative partners has been well established. Although this notion has been adopted in the research and design domains, means to assess the quality of the driver-automation interaction in a structured way are still lacking. Moreover, most design evaluations are usually addressed either from a technical stance or from a human factors viewpoint, which does not comply with a general acknowledged view of a unified driver-vehicle system. The aim of the current study is therefore to investigate the possibility to quantitatively evaluate the quality of the driver and vehicle cooperation. Seven dimensions indicative for the quality of cooperation are identified, based on a literature survey and expert input during focus groups. This work potentially supports road authorities, legislation, regulation and original equipment manufacturers to monitor, evaluate and design driver-vehicle cooperation.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "Netherlands",
+              "state": "",
+              "city": "Amsterdam",
+              "institution": "Royal Netherlands Aerospace Center (NLR)",
+              "dsl": ""
+            }
+          ],
+          "personId": 62139
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Netherlands",
+              "state": "",
+              "city": "The Hague",
+              "institution": "Dutch Institute for Road Safety Research (SWOV)",
+              "dsl": ""
+            }
+          ],
+          "personId": 62162
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Netherlands",
+              "state": "",
+              "city": "The Hague",
+              "institution": "SWOV",
+              "dsl": ""
+            }
+          ],
+          "personId": 62245
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Netherlands",
+              "state": "",
+              "city": "Amsterdam",
+              "institution": "NLR",
+              "dsl": ""
+            }
+          ],
+          "personId": 62220
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Netherlands",
+              "state": "",
+              "city": "Utrecht",
+              "institution": "Rijkswaterstaat",
+              "dsl": ""
+            }
+          ],
+          "personId": 62143
+        }
+      ]
+    },
+    {
+      "id": 62258,
+      "typeId": 11902,
+      "title": "Visualizing Event Sequence Data for User Behavior Evaluation of In-Vehicle Information Systems",
+      "addons": {
+        "Presentation": {
+          "duration": 600,
+          "title": "Visualizing Event Sequence Data for User Behavior Evaluation of In-Vehicle Information Systems",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=qOi0gQ7Ve7E"
+        }
+      },
+      "isBreak": false,
+      "importedId": "autoui21a-1028",
+      "source": "PCS",
+      "trackId": 11302,
+      "tags": [],
+      "keywords": [],
+      "sessionIds": [],
+      "eventIds": [],
+      "abstract": "With modern \\acp{IVIS} becoming more capable and complex than ever, their evaluation becomes increasingly difficult. The analysis of large amounts of user behavior data can help to cope with this complexity and can support UX experts in designing \\acp{IVIS} that serve customer needs and are safe to operate while driving. We, therefore, propose a Multi-level User Behavior Visualization Framework providing effective visualizations of user behavior data that is collected via telematics from production vehicles. Our approach visualizes user behavior data on three different levels: (1) The Task Level View aggregates event sequence data generated through touchscreen interactions to visualize user flows. (2) The Flow Level View allows comparing the individual flows based on a chosen metric. (3) The Sequence Level View provides detailed insights into touch interactions, glance, and driving behavior. Our case study proves that UX experts consider our approach a useful addition to their design process.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Cologne",
+              "institution": "University of Cologne",
+              "dsl": ""
+            }
+          ],
+          "personId": 62210
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Berlin",
+              "institution": "MBition GmbH",
+              "dsl": ""
+            }
+          ],
+          "personId": 62215
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Cologne ",
+              "institution": "University of Cologne ",
+              "dsl": ""
+            }
+          ],
+          "personId": 62208
+        }
+      ]
+    },
+    {
+      "id": 62259,
+      "typeId": 11902,
+      "title": "How to Design the Perfect Prompt: A Linguistic Approach to Prompt Design in Automotive Voice Assistants – An Exploratory Study",
+      "addons": {
+        "Presentation": {
+          "duration": 600,
+          "title": "How to Design the Perfect Prompt: A Linguistic Approach to Prompt Design in Automotive Voice Assistants – An Exploratory Study",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=bopwogYPoug"
+        }
+      },
+      "isBreak": false,
+      "importedId": "autoui21a-1006",
+      "source": "PCS",
+      "trackId": 11302,
+      "tags": [],
+      "keywords": [],
+      "sessionIds": [],
+      "eventIds": [],
+      "abstract": "In-vehicle voice user interfaces (VUIs) are becoming increasingly popular while needing to handle more and more complex functions. While many guidelines exist in terms of dialog design, a methodical and encompassing approach to prompt design is absent in the scientific landscape. The present work closes this gap by providing such an approach in form of linguistic-centered research. By extracting syntactical, lexical, and grammatical parameters from a German contemporary grammar, we examine how their respective manifestations affect users’ perception of a given system output across different prompt types. Through exploratory studies with a total of 1,206 participants, we provide concrete best practices to optimize and refine the design of VUI prompts. Based on these best practices, three superordinate user needs regarding prompt design can be identified: a) a suitable level of (in)formality, b) a suitable level of complexity/simplicity, and c) a suitable level of (im)mediacy.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Munich",
+              "institution": "Ludwig-Maximilians-Universität",
+              "dsl": "Phonetics and Speech Processing"
+            },
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Munich",
+              "institution": "BMW Group",
+              "dsl": ""
+            }
+          ],
+          "personId": 62152
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Munich",
+              "institution": "BMW Group",
+              "dsl": ""
+            }
+          ],
+          "personId": 62163
+        }
+      ]
+    },
+    {
+      "id": 62260,
+      "typeId": 11902,
+      "title": "Why Drivers Feel the Way They Do: An On-the-road Study Using Self-Reports and Geo-Tagging",
+      "addons": {
+        "Presentation": {
+          "duration": 600,
+          "title": "Why Drivers Feel the Way They Do: An On-the-road Study Using Self-Reports and Geo-Tagging",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=TohmZu6ZsvU"
+        }
+      },
+      "isBreak": false,
+      "importedId": "autoui21a-1049",
+      "source": "PCS",
+      "trackId": 11302,
+      "tags": [],
+      "keywords": [],
+      "sessionIds": [],
+      "eventIds": [],
+      "abstract": "In automotive research, the current hot topic of emotion recognition is mainly technology-driven, focusing on the development of sensors and algorithms that ensure recognition accuracy and reliability. Often, a subjective reference, i.e., information about what drivers actually feel, is missing for the interpretation of the data collected. Thus, this paper explores the subjective component of drivers’ emotions, focusing on when, where, and why they occur. In an on-the-road study, 34 drivers tracked their emotions and the triggers of these experiences in-situ. In total, 367 verbal self-reports were captured, providing insights into the spatial-temporal distribution of drivers’ emotions and their determinants. Results show, for example, that intersections are emotional hotspots, and that positive emotions arise especially at the beginning and at the end of the drive. The results can help to understand emotion recognition data and to infer drivers’ emotions from contextual information if no emotion data is available.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Würzburg",
+              "institution": "Julius-Maximilians University",
+              "dsl": "Psychological Ergonomics"
+            }
+          ],
+          "personId": 62216
+        }
+      ]
+    },
+    {
+      "id": 62261,
+      "typeId": 11902,
+      "title": "Stop or Go? Let me Know! A Field Study on Visual External Communication for Automated Shuttles",
+      "addons": {
+        "Presentation": {
+          "duration": 600,
+          "title": "Stop or Go? Let me Know! A Field Study on Visual External Communication for Automated Shuttles",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=ObFiQbxA7XQ"
+        }
+      },
+      "isBreak": false,
+      "importedId": "autoui21a-1126",
+      "source": "PCS",
+      "trackId": 11302,
+      "tags": [],
+      "keywords": [],
+      "sessionIds": [],
+      "eventIds": [],
+      "abstract": "In mixed traffic environments, highly automated vehicles (HAV) can potentially be disruptive and a source of hazards due to their non-human driving behavior and a lack of ``traditional'' communication means (gestures, eye contact, and similar) to resolve issues or otherwise unclear situations. As a result, additional external human-machine interfaces (eHMI) for automated vehicles that replace the now absent human element in communication have been proposed. In this paper, we present the results from a study, in which two versions of a light band eHMI to communicate driving intend of an automated shuttle were evaluated in a real driving environment. We found that the green-red traffic light metaphor and simple animations could improve interaction success in certain aspects. We also found and discuss that the effect of using vs. not using the visual eHMIs was overall lower than expected and that the shuttle's position and observable driving behavior seemed to play a larger role than anticipated.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "Austria",
+              "state": "",
+              "city": "Salzburg",
+              "institution": "University of Salzburg",
+              "dsl": "Center for Human-Computer Interaction"
+            }
+          ],
+          "personId": 62238
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Austria",
+              "state": "",
+              "city": "Salzburg",
+              "institution": "University of Salzburg",
+              "dsl": "Center for Human-Computer Interaction"
+            }
+          ],
+          "personId": 62251
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Austria",
+              "state": "Salzburg",
+              "city": "Salzburg",
+              "institution": "University of Salzburg",
+              "dsl": "Center for Human-Computer Interaction"
+            }
+          ],
+          "personId": 62176
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Austria",
+              "state": "",
+              "city": "Vienna",
+              "institution": "AIT Austrian Institute of Technology",
+              "dsl": "Center for Technology Experience"
+            }
+          ],
+          "personId": 62185
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Austria",
+              "state": "",
+              "city": "Salzburg",
+              "institution": "University of Salzburg",
+              "dsl": "Center for Human-Computer Interaction"
+            }
+          ],
+          "personId": 62173
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Austria",
+              "state": "",
+              "city": "Vienna",
+              "institution": "AIT Austrian Institute of Technology",
+              "dsl": "Center for Technology Experience"
+            }
+          ],
+          "personId": 62141
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Austria",
+              "state": "",
+              "city": "Vienna",
+              "institution": "Austrian Institute of Technology",
+              "dsl": ""
+            }
+          ],
+          "personId": 62150
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Austria",
+              "state": "",
+              "city": "Salzburg",
+              "institution": "University of Salzburg",
+              "dsl": "Center for Human-Computer Interaction"
+            }
+          ],
+          "personId": 62195
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Austria",
+              "state": "",
+              "city": "Salzburg",
+              "institution": "University of Salzburg",
+              "dsl": "Center for Human-Computer Interaction"
+            }
+          ],
+          "personId": 62148
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Austria",
+              "state": "",
+              "city": "Salzburg & Vienna",
+              "institution": "University of Salzburg & AIT",
+              "dsl": ""
+            }
+          ],
+          "personId": 62244
+        }
+      ]
+    },
+    {
+      "id": 62262,
+      "typeId": 11902,
+      "title": "From SAE-Levels to Cooperative Task Distribution: An Efficient and Usable Way to Deal with System Limitations?",
+      "addons": {
+        "Presentation": {
+          "duration": 600,
+          "title": "From SAE-Levels to Cooperative Task Distribution: An Efficient and Usable Way to Deal with System Limitations?",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=f1hQhZQo_JY"
+        }
+      },
+      "isBreak": false,
+      "importedId": "autoui21a-1148",
+      "source": "PCS",
+      "trackId": 11302,
+      "tags": [],
+      "keywords": [],
+      "sessionIds": [],
+      "eventIds": [],
+      "abstract": "Automated driving seems to be a promising approach to increase traffic safety, efficiency, and driver comfort. The defined automation capability levels (SAE) recommend a distinct takeover of the vehicle's control from the human driver. This implies that if the system reaches a system boundary, the control falls back to the human. However, another possibility might be the cooperative approach of task distribution: The driver provides the missing information to the automation, which will stay activated. In a driving simulator study, we compared both a classical and a cooperative approach (N = 18). An automated car was driving on a rural road when a slower leading  vehicle made it impossible for the automation to overtake. The participants could either initiate the overtake by providing the missing information cooperatively or fully taking over the vehicle's control. Results showed that the cooperative approach has a higher usage and reduces workload. Therefore, the suggested cooperative approach seems to be more promising.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Ulm",
+              "institution": "Ulm University",
+              "dsl": "Human Factors"
+            }
+          ],
+          "personId": 62196
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Ulm",
+              "institution": "Ulm University",
+              "dsl": "Human Factors"
+            }
+          ],
+          "personId": 62179
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Ulm",
+              "institution": "Ulm University",
+              "dsl": "Human Factors"
+            }
+          ],
+          "personId": 62227
+        }
+      ]
+    },
+    {
+      "id": 62263,
+      "typeId": 11902,
+      "title": "Geopositioned 3D Areas of Interest for Gaze Analysis",
+      "addons": {
+        "Presentation": {
+          "duration": 600,
+          "title": "Geopositioned 3D Areas of Interest for Gaze Analysis",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=OrQ-APH3AY8"
+        }
+      },
+      "isBreak": false,
+      "importedId": "autoui21a-1129",
+      "source": "PCS",
+      "trackId": 11302,
+      "tags": [],
+      "keywords": [],
+      "sessionIds": [],
+      "eventIds": [],
+      "abstract": "To understand driver’s gaze behavior, the gaze is usually matched to surrounding objects or static areas of interest (AOI) at fixed positions around the car. Full surround object tracking allows for an understanding of the traffic situation. However, because it requires an extensive sensor set and a lot of processing power, it’s not yet broadly available in production cars. The use of static AOIs only requires the addition of eye tracking sensors. They are at fixed positions around the car and can't adapt to the environment, therefore their usefulness is limited. We propose geopositioned 3D AOIs. With adaptability and the use of a small sensor set, they combine the strength of both methods. To test 3D AOIs' capabilities for gaze analysis, a driving simulator study with 74 participants was conducted. We show that 3D AOIs are suitable for driver's gaze analysis and a promising tool for driver intention prediction.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Wolfsburg",
+              "institution": "R&D",
+              "dsl": "Volkswagen AG"
+            }
+          ],
+          "personId": 62226
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Braunschweig",
+              "institution": "R&D",
+              "dsl": "Volkswagen AG"
+            }
+          ],
+          "personId": 62161
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Wolfsburg",
+              "institution": "R&D",
+              "dsl": "Volkswagen AG"
+            }
+          ],
+          "personId": 62249
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Tubingen",
+              "institution": "University of Tubingen",
+              "dsl": ""
+            }
+          ],
+          "personId": 62158
+        }
+      ]
+    },
+    {
+      "id": 62264,
+      "typeId": 11902,
+      "title": "Impact of technology readiness on the evaluation and usage of automated driving systems",
+      "addons": {
+        "Presentation": {
+          "duration": 600,
+          "title": "Impact of technology readiness on the evaluation and usage of automated driving systems",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=iGidZF6Htsk"
+        }
+      },
+      "isBreak": false,
+      "importedId": "autoui21a-1106",
+      "source": "PCS",
+      "trackId": 11302,
+      "tags": [],
+      "keywords": [],
+      "sessionIds": [],
+      "eventIds": [],
+      "abstract": "User acceptance is the key to success of automated driving. The user’s technology readiness is one important factor in their behavioral intention to use automated driving. User acceptance changes with actual experience of the technology. The effect of user’s technology readiness, automation level and experience with the technology on the acceptance of automated driving are assessed in a driving simulator study. N=60 drivers tested an L3 or L4 motorway automated driving system during six drives taking place at six different days. They evaluated the tested systems for a variety of relevant aspects. The results show an impact of technology readiness on higher level concepts like usefulness, satisfaction and behavioural intention but not on direct evaluation of the functionality or on drivers’ immediate experience of driving with the system. The meaning of the results for future research is discussed.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Veitshöchheim",
+              "institution": "WIVW GmbH",
+              "dsl": ""
+            }
+          ],
+          "personId": 62193
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Veitshoechheim",
+              "institution": "Wuerzburg Institute for Traffic Sciences",
+              "dsl": ""
+            }
+          ],
+          "personId": 62198
+        }
+      ]
+    },
+    {
+      "id": 62265,
+      "typeId": 11902,
+      "title": "A Novel Technique for Faster Responses to Take Over Requests in an Automated Vehicle",
+      "addons": {
+        "Presentation": {
+          "duration": 600,
+          "title": "A Novel Technique for Faster Responses to Take Over Requests in an Automated Vehicle",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=4Y5wH7yIC2M"
+        }
+      },
+      "isBreak": false,
+      "importedId": "autoui21a-1128",
+      "source": "PCS",
+      "trackId": 11302,
+      "tags": [],
+      "keywords": [],
+      "sessionIds": [],
+      "eventIds": [],
+      "abstract": "In Level 3 automated vehicles, drivers must take back control when prompted by a Take Over Request (TOR). However, there is currently no consensus on the safest way to achieve this. Research has shown that participants interact faster with an avatar when this “glows” in synchrony with participant physiology (heartbeat). We hypothesized that a similar form of synchronization might allow drivers to react faster to a TOR. Using a driving simulator, we studied driver responses to a TOR when permanently visible ambient lighting was synchronized with participants’ breathing. Experimental participants responded to the TOR faster than controls. There were no significant effects on self-reported trust or physiological arousal, and none of the participants reported that they were aware of the manipulation. These findings suggest that new ways of keeping the driver unconsciously “connected” to the vehicle could facilitate faster, and potentially safer, transfers of control. ",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "Netherlands",
+              "state": "",
+              "city": "Leiden",
+              "institution": "Leiden University",
+              "dsl": ""
+            }
+          ],
+          "personId": 62166
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Netherlands",
+              "state": "",
+              "city": "Enschede",
+              "institution": "University of Twente",
+              "dsl": ""
+            }
+          ],
+          "personId": 62142
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Netherlands",
+              "state": "",
+              "city": "Deventer",
+              "institution": "Witteveen+Bos",
+              "dsl": ""
+            }
+          ],
+          "personId": 62177
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Netherlands",
+              "state": "",
+              "city": "Eindhoven",
+              "institution": "Eindhoven University of Technology",
+              "dsl": ""
+            },
+            {
+              "country": "Netherlands",
+              "state": "",
+              "city": "The Hague",
+              "institution": "TNO",
+              "dsl": ""
+            }
+          ],
+          "personId": 62140
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Netherlands",
+              "state": "",
+              "city": "Enschede",
+              "institution": "University of Twente",
+              "dsl": "Cognitive Psychology & Ergonomics"
+            }
+          ],
+          "personId": 62253
+        }
+      ]
+    },
+    {
+      "id": 62266,
+      "typeId": 11902,
+      "title": "How Will Drivers Take Back Control in Automated Vehicles? A Driving Simulator Test of an Interleaving Framework",
+      "addons": {
+        "Presentation": {
+          "duration": 600,
+          "title": "How Will Drivers Take Back Control in Automated Vehicles? A Driving Simulator Test of an Interleaving Framework",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=Nw_PjCBgJkc"
+        }
+      },
+      "isBreak": false,
+      "importedId": "autoui21a-1061",
+      "source": "PCS",
+      "trackId": 11302,
+      "tags": [],
+      "keywords": [],
+      "sessionIds": [],
+      "eventIds": [],
+      "abstract": "We explore the transfer of control from an automated vehicle to the driver. Based on data from N=19 participants who participated in a driving simulator experiment, we find evidence that the transfer of control often does not take place in one step. In other words, when the automated system requests the transfer of control back to the driver, the driver often does not simply stop the non-driving task. Rather, the transfer unfolds as a process of interleaving the non-driving and driving tasks. We also find that the process is moderated by the length of time available for the transfer of control: interleaving is more likely when more time is available. Our interface designs for automated vehicles must take these results into account so as to allow drivers to safely take back control from automation.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "New Hampshire",
+              "city": "durham",
+              "institution": "University of new hampshire",
+              "dsl": "Electrical and computer engineering"
+            }
+          ],
+          "personId": 62172
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "New Hampshire",
+              "city": "Durham",
+              "institution": "University of New Hampshire",
+              "dsl": ""
+            }
+          ],
+          "personId": 62180
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "New Hampshire",
+              "city": "Durham",
+              "institution": "University of New Hampshire",
+              "dsl": ""
+            }
+          ],
+          "personId": 62222
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "New Hampshire",
+              "city": "Dover",
+              "institution": "University of New Hampshire",
+              "dsl": ""
+            }
+          ],
+          "personId": 62157
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Netherlands",
+              "state": "",
+              "city": "Utrecht",
+              "institution": "Utrecht University",
+              "dsl": ""
+            }
+          ],
+          "personId": 62167
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Massachusetts",
+              "city": "Wellesley",
+              "institution": "Wellesley College",
+              "dsl": ""
+            }
+          ],
+          "personId": 62236
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "New Hampshire",
+              "city": "Durham",
+              "institution": "University of New Hampshire",
+              "dsl": ""
+            }
+          ],
+          "personId": 62218
+        }
+      ]
+    },
+    {
+      "id": 62267,
+      "typeId": 11902,
+      "title": "Investigating the Effects of Feedback Communication of Autonomous Vehicles",
+      "addons": {
+        "Presentation": {
+          "duration": 600,
+          "title": "Investigating the Effects of Feedback Communication of Autonomous Vehicles",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=tgZsGXESJBI"
+        }
+      },
+      "isBreak": false,
+      "importedId": "autoui21a-1064",
+      "source": "PCS",
+      "trackId": 11302,
+      "tags": [],
+      "keywords": [],
+      "sessionIds": [],
+      "eventIds": [],
+      "abstract": "Autonomous vehicles (AVs) are expected to communicate to vulnerable road users as a substitution of, for example, driver-pedestrian communication, leading to increased safety and acceptance. This communication is currently one-directional, i.e., from the AV to the pedestrian. However, today’s communication between drivers and pedestrians in crossing scenarios is bidirectional. Pedestriansgesture “thank you” or wave drivers through in case they do not want to cross. Human drivers often acknowledge this, for example, with a nod. We present an experiment in Virtual Reality (N=20), in which the effect of such acknowledgment of the AVs via its external communication is investigated for the two described scenarios and concerning pedestrian presence. Results show that such feedback is perceived as highly necessary, depends on the scenario, and improves the perceived intelligence of the AV, confirming a Halo-Effect.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Ulm",
+              "institution": "Ulm University",
+              "dsl": "Institute of Media Informatics"
+            }
+          ],
+          "personId": 62246
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Ulm",
+              "institution": "Ulm University",
+              "dsl": ""
+            }
+          ],
+          "personId": 62186
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Ulm",
+              "institution": "University of Ulm",
+              "dsl": ""
+            }
+          ],
+          "personId": 62213
+        }
+      ]
+    },
+    {
+      "id": 62268,
+      "typeId": 11902,
+      "title": "Performance and Acceptance Evaluation of a Driver Drowsiness Detection System based on Smart Wearables",
+      "addons": {
+        "Presentation": {
+          "duration": 600,
+          "title": "Performance and Acceptance Evaluation of a Driver Drowsiness Detection System based on Smart Wearables",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=eXl6xwxyj0Y"
+        }
+      },
+      "isBreak": false,
+      "importedId": "autoui21a-1041",
+      "source": "PCS",
+      "trackId": 11302,
+      "tags": [],
+      "keywords": [],
+      "sessionIds": [],
+      "eventIds": [],
+      "abstract": "Current systems for driver drowsiness detection often use driving-related parameters. Automated driving reduces the availability of these parameters. Techniques based on physiological signals seem to be a promising alternative. However, in a dynamic driving environment, only non- or minimal intrusive methods are accepted. In this work, a driver drowsiness detection system based on a smart wearable is proposed. A mobile application with an integrated machine learning classifier processes heart rate from a consumer-grade wearable. A simulator study (N=30) with two age groups (20-25, 65-70 years) was conducted to evaluate acceptance and performance of the system. Acceptance evaluation resulted in high acceptance in both age groups. Older participants showed higher attitudes and intentions towards using the system compared to younger participants. Overall detection accuracy of 82.72\\% was achieved. The proposed system offers new options for in-vehicle human-machine interfaces, especially for driver drowsiness detection in the lower levels of automated driving.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Ingolstadt",
+              "institution": "AUDI AG",
+              "dsl": ""
+            },
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Ingolstadt",
+              "institution": "Technische Hochschule Ingolstadt",
+              "dsl": "Human-Computer Interaction Group"
+            }
+          ],
+          "personId": 62205
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "Bavaria",
+              "city": "Ingolstadt",
+              "institution": "Technische Hochschule Ingolstadt",
+              "dsl": "Human-Computer Interaction Group"
+            },
+            {
+              "country": "Austria",
+              "state": "",
+              "city": "Linz",
+              "institution": "Johannes Kepler University",
+              "dsl": ""
+            }
+          ],
+          "personId": 62165
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Ingolstadt",
+              "institution": "AUDI AG",
+              "dsl": ""
+            },
+            {
+              "country": "Germany",
+              "state": "Bavaria",
+              "city": "Munich",
+              "institution": "Technical University of Munich",
+              "dsl": ""
+            }
+          ],
+          "personId": 62146
+        }
+      ]
+    },
+    {
+      "id": 62269,
+      "typeId": 11902,
+      "title": "ORIAS: On-The-Fly Object Identification and Action Selection for Highly Automated Vehicles",
+      "addons": {
+        "Presentation": {
+          "duration": 600,
+          "title": "ORIAS: On-The-Fly Object Identification and Action Selection for Highly Automated Vehicles",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=F5DZWqwjIUo"
+        }
+      },
+      "isBreak": false,
+      "importedId": "autoui21a-1066",
+      "source": "PCS",
+      "trackId": 11302,
+      "tags": [],
+      "keywords": [],
+      "sessionIds": [],
+      "eventIds": [],
+      "abstract": "Automated vehicles are about to enter the mass market. However, such systems regularly meet limitations of varying criticality. Even basic tasks such as Object Identification can be challenging, for example, under bad weather or lighting conditions or for (partially)occluded objects. One common approach is to shift control to manual driving in such circumstances, however, post-automation effects can occur in these control transitions. Therefore, we present ORIAS, a system capable of asking the driver to (1) identify/label unrecognized objects or to (2) select an appropriate action to be automatically executed.ORIASextends the automation capabilities, prevents unnecessary takeovers, and thus reduces post-automation effects. This work defines the capabilities and limitations ofORIASand presents the results of a study in a driving simulator (N=20). Results indicate high usability and input correctness.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Ulm",
+              "institution": "Ulm University",
+              "dsl": "Institute of Media Informatics"
+            }
+          ],
+          "personId": 62246
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Ulm",
+              "institution": "Ulm University",
+              "dsl": "Institute of Media Informatics"
+            }
+          ],
+          "personId": 62252
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Ulm",
+              "institution": "Ulm University",
+              "dsl": "Institute of Media Informatics"
+            }
+          ],
+          "personId": 62147
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Ulm",
+              "institution": "Ulm University",
+              "dsl": "Institute of Psychology and Education, Dept. Human Factors"
+            }
+          ],
+          "personId": 62171
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Ulm",
+              "institution": "University of Ulm",
+              "dsl": ""
+            }
+          ],
+          "personId": 62213
+        }
+      ]
+    },
+    {
+      "id": 62270,
+      "typeId": 11902,
+      "title": "Queasy Rider: How Head Movements Influence Motion Sickness in Passenger Use of Head-Mounted Displays",
+      "addons": {
+        "Presentation": {
+          "duration": 600,
+          "title": "Queasy Rider: How Head Movements Influence Motion Sickness in Passenger Use of Head-Mounted Displays",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=f_nJIzGfxI4"
+        }
+      },
+      "isBreak": false,
+      "importedId": "autoui21a-1046",
+      "source": "PCS",
+      "trackId": 11302,
+      "tags": [],
+      "keywords": [],
+      "sessionIds": [],
+      "eventIds": [],
+      "abstract": "In autonomous cars, drivers will spend more time on non-driving-related activities. Getting their hands off the wheel and eyes off the road, the driver, similar to a rear-seat passenger today, can use multiple built-in displays for such activities or even mobile head-mounted displays (HMDs) in virtual reality (VR). A wider motion range is known to increase engagement, but might also amplify the risk of motion sickness while switching between displays. In a rear-seat VR field study (N=21) on a city highway, we found a head movement range of ±50° with a speed of 1.95𝑚/𝑠 to provide the best trade-off between motion sickness and engagement. Compared to the pitch (Y) axis, movement around the yaw (X) axis induced less discomfort and more engagement with less motion sickness. Our work provides a concrete starting point for future research on self-driving carsickness, starting from today’s rear-seat passengers.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Munich",
+              "institution": "LMU Munich",
+              "dsl": ""
+            }
+          ],
+          "personId": 62144
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Munich",
+              "institution": "LMU Munich",
+              "dsl": ""
+            }
+          ],
+          "personId": 62174
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Munich",
+              "institution": "LMU Munich",
+              "dsl": ""
+            }
+          ],
+          "personId": 62254
+        }
+      ]
+    },
+    {
+      "id": 62271,
+      "typeId": 11902,
+      "title": "HMInference: Inferring Multimodal HMI Interactions in Automotive Screens",
+      "addons": {
+        "Presentation": {
+          "duration": 600,
+          "title": "HMInference: Inferring Multimodal HMI Interactions in Automotive Screens",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=28Yp9AsVhXE"
+        }
+      },
+      "isBreak": false,
+      "importedId": "autoui21a-1067",
+      "source": "PCS",
+      "trackId": 11302,
+      "tags": [],
+      "keywords": [],
+      "sessionIds": [],
+      "eventIds": [],
+      "abstract": "Driving requires high cognitive capabilities in which drivers need to be able to focus on first-level driving tasks. However, each interaction with the User Interface (UI) system presents a potential distraction. Designing UIs based on insights from field-collected user interaction logs, as well as real-time estimation of the most probable interaction modality, can contribute to engineering focus-supporting UIs. However, the question arises of how user interactions can be predicted in in-the-wild driving scenarios. In this paper, we present HMInference, an automotive machine-learning framework which exploits user interaction log data. HMInference analyzes the interaction sequences of users based on UI domains (e.g., navigation, media, settings) and driving context (e.g.,vehicle trajectory) to predict different interaction modalities (e.g., touch, speech). In 10-fold cross-validation, HMInference achieves a mean accuracy of 73.2% (SD:0.02). Our work advances areas where user interaction prediction for in-car scenarios is required e.g., to enable adaptive system designs.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Stuttgart",
+              "institution": "Porsche AG",
+              "dsl": ""
+            }
+          ],
+          "personId": 62169
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Switzerland",
+              "state": "",
+              "city": "Zurich",
+              "institution": "ETH Zurich",
+              "dsl": "IDSC"
+            },
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Stuttgart",
+              "institution": "Porsche AG",
+              "dsl": ""
+            }
+          ],
+          "personId": 62228
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Essen",
+              "institution": "University of Duisburg-Essen",
+              "dsl": "Chair for Integrated Information Systems"
+            },
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Stuttgart",
+              "institution": "Porsche AG",
+              "dsl": ""
+            }
+          ],
+          "personId": 62212
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Munich",
+              "institution": "LMU Munich",
+              "dsl": ""
+            },
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Stuttgart",
+              "institution": "Porsche AG",
+              "dsl": ""
+            }
+          ],
+          "personId": 62229
+        }
+      ]
+    },
+    {
+      "id": 62272,
+      "typeId": 11902,
+      "title": "Perceptions of Trucking Automation: Insights from the r/Truckers Community",
+      "addons": {
+        "Presentation": {
+          "duration": 600,
+          "title": "Perceptions of Trucking Automation: Insights from the r/Truckers Community",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=yrdCzHCyoNU"
+        }
+      },
+      "isBreak": false,
+      "importedId": "autoui21a-1144",
+      "source": "PCS",
+      "trackId": 11302,
+      "tags": [],
+      "keywords": [],
+      "sessionIds": [],
+      "eventIds": [],
+      "abstract": "Recent technological advancements in automation have sparked interest in how automation will affect truck drivers and the trucking industry. However, there is a gap in the literature addressing how truck drivers perceive automation and how they believe it will impact trucking. This study aims to understand truck drivers’ perspectives on automation in the trucking industry. Extending a preliminary study, we conducted a broader analysis of comments discussing automation in the r/Truckers subreddit from February 2017 to March 2021. In general, the community had negative sentiments towards automation in the trucking industry. Participants speculated when automation would become mainstream in trucking and discussed the feasibility of automation in the context of executing non-driving tasks and having accommodating infrastructure. Our findings indicate that truck drivers seek to participate in conversations about the future and to prepare themselves for when automation is more prominent in the trucking industry.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Massachusetts",
+              "city": "Wellesley",
+              "institution": "Wellesley College",
+              "dsl": ""
+            }
+          ],
+          "personId": 62206
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Massachusetts",
+              "city": "Wellelsey",
+              "institution": "Wellesley College",
+              "dsl": ""
+            }
+          ],
+          "personId": 62247
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "New Hampshire",
+              "city": "Durham",
+              "institution": "University of New Hampshire",
+              "dsl": ""
+            }
+          ],
+          "personId": 62218
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Massachusetts",
+              "city": "Wellesley",
+              "institution": "Wellesley College",
+              "dsl": ""
+            }
+          ],
+          "personId": 62236
+        }
+      ]
+    },
+    {
+      "id": 62273,
+      "typeId": 11902,
+      "title": "Modelling Drivers' Adaptation to Assistance Systems",
+      "addons": {
+        "Presentation": {
+          "duration": 600,
+          "title": "Modelling Drivers' Adaptation to Assistance Systems",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=3mcaGeOG-GA"
+        }
+      },
+      "isBreak": false,
+      "importedId": "autoui21a-1060",
+      "source": "PCS",
+      "trackId": 11302,
+      "tags": [],
+      "keywords": [],
+      "sessionIds": [],
+      "eventIds": [],
+      "abstract": "Human factors research and engineering of advanced driving assistance systems (ADAS) must consider how drivers adapt to their presence. The major obstruction to this at the moment is poor understanding of the details of the adaptive processes that the human cognition undergoes when faced with such changes. This paper presents a simulation model that predicts how drivers adapt to a steering assistance system. Our approach is based on computational rationality, and demonstrates how task interleaving strategies adapt to the task environment and the driver's goals and cognitive limitations. A supervisor controls eye movements between the driving and non-driving tasks, making this choice on the basis of maximising expected joint task utility. The model predicts that with steering assistance, drivers' in car glance durations increase. We also show that this adaptation leads to risky driving in cases where the reliability of the system is compromised.\r\n",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "Finland",
+              "state": "",
+              "city": "Helsinki",
+              "institution": "University of Helsinki",
+              "dsl": "Department of Computer Science"
+            }
+          ],
+          "personId": 62231
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Finland",
+              "state": "",
+              "city": "Jyväskylä",
+              "institution": "University of Jyväskylä",
+              "dsl": "Cognitive Science"
+            }
+          ],
+          "personId": 62233
+        }
+      ]
+    },
+    {
+      "id": 62274,
+      "typeId": 11902,
+      "title": "Development and Evaluation of a Data Privacy Concept for a Frustration-Aware In-Vehicle System",
+      "addons": {
+        "Presentation": {
+          "duration": 600,
+          "title": "Development and Evaluation of a Data Privacy Concept for a Frustration-Aware In-Vehicle System",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=vV4WKNr1ASI"
+        }
+      },
+      "isBreak": false,
+      "importedId": "autoui21a-1082",
+      "source": "PCS",
+      "trackId": 11302,
+      "tags": [],
+      "keywords": [],
+      "sessionIds": [],
+      "eventIds": [],
+      "abstract": "To realize frustration-aware in-vehicle systems based on real-time user monitoring, personal data have to be recorded, analyzed and (potentially) stored raising data privacy concerns that may reduce the user acceptance and hence the spread of such systems. Complementing the development of a frustration-aware system with voice interface in the project F-RELACS, a data privacy concept was created based on the principles privacy by design and privacy by default recommended in the European General Data Protection Regulation. Nine criteria were formulated and 23 concrete measures to satisfy the criteria were derived. The measures were evaluated in an online study with 96 participants between 18 and 74 years. On average, the measures were rated as rather sufficient to sufficient. Participants evaluated the use of commercial third-party software for speech processing as most critical. All results are discussed and proposals to further increase the acceptance of frustration-aware systems are outlined. ",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Braunschweig",
+              "institution": "German Aerospace Center (DLR)",
+              "dsl": "Institute of Transportation Systems"
+            }
+          ],
+          "personId": 62255
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Braunschweig",
+              "institution": "German Aerospace Center (DLR)",
+              "dsl": "Institute of Transportation Systems"
+            }
+          ],
+          "personId": 62153
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Cologne",
+              "institution": "SoundReply GmbH",
+              "dsl": ""
+            }
+          ],
+          "personId": 62202
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Stuttgart",
+              "institution": "TWT Science and Innovation GmbH",
+              "dsl": ""
+            }
+          ],
+          "personId": 62221
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Stuttgart",
+              "institution": "TWT Science and Innovation GmbH",
+              "dsl": ""
+            }
+          ],
+          "personId": 62182
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Tübingen",
+              "institution": "University of Tübingen",
+              "dsl": ""
+            }
+          ],
+          "personId": 62224
+        }
+      ]
+    },
+    {
+      "id": 62275,
+      "typeId": 11902,
+      "title": "Enhancing Interactions for In-Car Voice User Interface with Gestural Input on the Steering Wheel",
+      "addons": {
+        "Presentation": {
+          "duration": 600,
+          "title": "Enhancing Interactions for In-Car Voice User Interface with Gestural Input on the Steering Wheel",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=mD3sK-2BsP8"
+        }
+      },
+      "isBreak": false,
+      "importedId": "autoui21a-1039",
+      "source": "PCS",
+      "trackId": 11302,
+      "tags": [],
+      "keywords": [],
+      "sessionIds": [],
+      "eventIds": [],
+      "abstract": "Voice user interface (VUI) is becoming indispensable in car for offering drivers the opportunity to make distraction-free inputs and conduct complex tasks. However, the usability and control efficiency of today's VUI remain to be enhanced due to its sequential nature. In this work, we explored gestural input on the steering wheel to improve the interaction efficiency of VUI. Based on limitations in VUI, we designed novel gestural commands on the steering wheel to augment them. We also elicited corresponding user-defined gestures by exploring drivers' touch behavior. Then, we implemented a prototype attached to the steering wheel for recognizing gestures. Finally, we evaluated our system's usability regarding driving performance, interaction efficiency, cognitive workload and user feedback. Results revealed that our system improved the control efficiency of VUI and reduced workload without a significant reduction in driving distraction than just using VUI.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "China",
+              "state": "Zhejiang",
+              "city": "Hangzhou",
+              "institution": "Zhejiang University",
+              "dsl": "College of Computer Science and Technology"
+            }
+          ],
+          "personId": 62248
+        },
+        {
+          "affiliations": [
+            {
+              "country": "China",
+              "state": "Zhejiang",
+              "city": "Hangzhou",
+              "institution": "Zhejiang University",
+              "dsl": "College of Computer Science and Technology"
+            }
+          ],
+          "personId": 62199
+        },
+        {
+          "affiliations": [
+            {
+              "country": "China",
+              "state": "",
+              "city": "Shanghai",
+              "institution": "Donghua University",
+              "dsl": "Fashion and Art Design School"
+            }
+          ],
+          "personId": 62183
+        },
+        {
+          "affiliations": [
+            {
+              "country": "China",
+              "state": "Zhejiang",
+              "city": "Hangzhou",
+              "institution": "Zhejiang University",
+              "dsl": "College of Computer Science"
+            }
+          ],
+          "personId": 62194
+        },
+        {
+          "affiliations": [
+            {
+              "country": "China",
+              "state": "",
+              "city": "Hangzhou",
+              "institution": "Zhejiang University",
+              "dsl": "College of Computer Science"
+            }
+          ],
+          "personId": 62223
+        },
+        {
+          "affiliations": [
+            {
+              "country": "China",
+              "state": "Zhejiang",
+              "city": "Hangzhou",
+              "institution": "Zhejiang University",
+              "dsl": "College of Computer Science"
+            }
+          ],
+          "personId": 62192
+        }
+      ]
+    },
+    {
+      "id": 62276,
+      "typeId": 11902,
+      "title": "Towards future pedestrian-vehicle interactions: Introducing theoretically-supported AR prototypes",
+      "addons": {
+        "Presentation": {
+          "duration": 600,
+          "title": "Towards future pedestrian-vehicle interactions: Introducing theoretically-supported AR prototypes",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=DrxV2Nh5e-A"
+        }
+      },
+      "isBreak": false,
+      "importedId": "autoui21a-1019",
+      "source": "PCS",
+      "trackId": 11302,
+      "tags": [],
+      "keywords": [],
+      "sessionIds": [],
+      "eventIds": [],
+      "abstract": "The future urban environment may consist of mixed traffic in which pedestrians interact with automated vehicles (AVs). However, it is still unclear how AVs should communicate their intentions to pedestrians. Augmented reality (AR) technology could transform the future of interactions between pedestrians and AVs by offering targeted and individualized communication. This paper presents nine prototypes of AR concepts for pedestrian-AV interaction that are implemented and demonstrated in a real crossing environment. Each concept was based on expert perspectives and designed using theoretically-informed brainstorming sessions. Prototypes were implemented in Unity MARS and subsequently tested on an unmarked road using a standalone iPad Pro with LiDAR functionality. Despite the limitations of the technology, this paper offers an indication of how future AR systems may support future pedestrian-AV interactions. ",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "Netherlands",
+              "state": "",
+              "city": "Delft",
+              "institution": "Delft University of Technology",
+              "dsl": "Department of Cognitive Robotics"
+            }
+          ],
+          "personId": 62178
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United Kingdom",
+              "state": "",
+              "city": "Leeds",
+              "institution": "Institute for Transport Studies",
+              "dsl": ""
+            }
+          ],
+          "personId": 62214
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United Kingdom",
+              "state": "",
+              "city": "Leeds",
+              "institution": "University of Leeds",
+              "dsl": ""
+            }
+          ],
+          "personId": 62168
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Netherlands",
+              "state": "",
+              "city": "Delft",
+              "institution": "Faculty of Mechanical, Maritime and Materials Engineering",
+              "dsl": "TU Delft"
+            }
+          ],
+          "personId": 62155
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Netherlands",
+              "state": "",
+              "city": "Delft",
+              "institution": "TU Delft",
+              "dsl": ""
+            }
+          ],
+          "personId": 62160
+        }
+      ]
+    },
+    {
+      "id": 62277,
+      "typeId": 11902,
+      "title": "Automatic Generation of Road Trip Summary Video for Reminiscence and Entertainment using Dashcam Video",
+      "addons": {
+        "Presentation": {
+          "duration": 600,
+          "title": "Automatic Generation of Road Trip Summary Video for Reminiscence and Entertainment using Dashcam Video",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=EZNrl79JVFI"
+        }
+      },
+      "isBreak": false,
+      "importedId": "autoui21a-1018",
+      "source": "PCS",
+      "trackId": 11302,
+      "tags": [],
+      "keywords": [],
+      "sessionIds": [],
+      "eventIds": [],
+      "abstract": "Vehicle dashboard cameras are becoming an increasingly popular kind of automotive accessory. While it is easy to obtain the high-definition video data recorded by dashcams using Secure Digital memory cards, this data is rarely used except for safety purposes because it takes substantial time and effort to review or edit many hours of such recorded videos. In this paper, we propose a new usage for this data through the automatic video editing system we have developed that can create enjoyable video summaries of road trips utilizing video and other data from the vehicle. We also report the results of comparisons between automatically edited videos created by the proposed system and manually edited videos created by study participants. The prototype developed in this study and the findings from our experiments will contribute to improving the driving experience by providing entertainment for automobile users after road trips, and by memorializing their travels.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "Japan",
+              "state": "Aichi",
+              "city": "Nagoya",
+              "institution": "Nagoya University",
+              "dsl": ""
+            }
+          ],
+          "personId": 62240
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Japan",
+              "state": "",
+              "city": "Tokyo",
+              "institution": "Ochanomizu University",
+              "dsl": ""
+            }
+          ],
+          "personId": 62207
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Japan",
+              "state": "Aichi",
+              "city": "Nagoya",
+              "institution": "Nagoya University",
+              "dsl": ""
+            },
+            {
+              "country": "Japan",
+              "state": "Aichi",
+              "city": "Nagoya",
+              "institution": "Tier IV, Inc.",
+              "dsl": ""
+            }
+          ],
+          "personId": 62164
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Japan",
+              "state": "Aichi",
+              "city": "Nagoya",
+              "institution": "Nagoya University",
+              "dsl": ""
+            },
+            {
+              "country": "Japan",
+              "state": "Aichi",
+              "city": "Nagoya",
+              "institution": "Tier IV, Inc.",
+              "dsl": ""
+            }
+          ],
+          "personId": 62187
+        }
+      ]
+    },
+    {
+      "id": 62278,
+      "typeId": 11902,
+      "title": "Mode Awareness Interfaces in Automated Vehicles, Robotics, and Aviation: A Literature Review",
+      "addons": {
+        "Presentation": {
+          "duration": 600,
+          "title": "Mode Awareness Interfaces in Automated Vehicles, Robotics, and Aviation: A Literature Review",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=-BOD4TjBePM"
+        }
+      },
+      "isBreak": false,
+      "importedId": "autoui21a-1117",
+      "source": "PCS",
+      "trackId": 11302,
+      "tags": [],
+      "keywords": [],
+      "sessionIds": [],
+      "eventIds": [],
+      "abstract": "With increasing automation capabilities and a push towards full automation in vehicles, mode awareness, i.e., the driver's awareness of the vehicle's current automation mode, becomes an important factor. While issues surrounding mode awareness are known, research concerning and design towards mode awareness appears to not yet be a focal point in the automated driving domain. In this paper, we provide a state-of-the art on mode awareness from the related domains of automated driving, aviation, and Human-Robot Interaction. We present a summary of existing mode awareness interface solutions as well as existing techniques and recognized gaps concerning mode awareness.\r\nWe found that existing interfaces are often simple, sometimes outdated, yet are difficult to meaningfully expand without overloading the user. We also found predictive approaches as a promising strategy to lessen the need for mode awareness via separate indicators.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "Austria",
+              "state": "Salzburg",
+              "city": "Salzburg",
+              "institution": "University of Salzburg",
+              "dsl": "Center for Human-Computer Interaction"
+            }
+          ],
+          "personId": 62242
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Austria",
+              "state": "",
+              "city": "Salzburg",
+              "institution": "University of Salzburg",
+              "dsl": "Center for Human-Computer Interaction"
+            }
+          ],
+          "personId": 62238
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Austria",
+              "state": "",
+              "city": "Salzburg",
+              "institution": "University of Salzburg",
+              "dsl": "Center for Human-Computer Interaction"
+            }
+          ],
+          "personId": 62148
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Austria",
+              "state": "",
+              "city": "Salzburg",
+              "institution": "University of Salzburg",
+              "dsl": "Center for Human-Computer Interaction"
+            }
+          ],
+          "personId": 62151
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Austria",
+              "state": "",
+              "city": "Salzburg & Vienna",
+              "institution": "University of Salzburg & AIT",
+              "dsl": ""
+            }
+          ],
+          "personId": 62244
+        }
+      ]
+    },
+    {
+      "id": 62279,
+      "typeId": 11902,
+      "title": "In-Vehicle Intelligent Agents in Fully Autonomous Driving: The Effects of Speech Style and Embodiment Together and Separately",
+      "addons": {
+        "Presentation": {
+          "duration": 600,
+          "title": "In-Vehicle Intelligent Agents in Fully Autonomous Driving: The Effects of Speech Style and Embodiment Together and Separately",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=lNAXlBfpKys"
+        }
+      },
+      "isBreak": false,
+      "importedId": "autoui21a-1051",
+      "source": "PCS",
+      "trackId": 11302,
+      "tags": [],
+      "keywords": [],
+      "sessionIds": [],
+      "eventIds": [],
+      "abstract": "Speech style and embodiment are two widely researched characteristics of in-vehicle intelligent agents (IVIAs). This study aimed to investigate the influence of speech style (informative vs. conversational) and embodiment (voice-only vs. robot) and their interaction effects on driver-agent interaction. We conducted a driving simulator experiment, where 24 young drivers experienced four different fully autonomous driving scenarios, accompanied by four types of agents each, and completed subjective questionnaires about their perception towards the agents. Results showed that both conversational agents and robot agents promoted drivers' likability and perceived warmth. These two features also demonstrated independent impacts. Conversational agents received higher anthropomorphism and animacy scores, while robot agents received higher competence and lower perceived workload scores. The pupillometry indicated that drivers were more engaged while accompanied by conversational agents. Our findings are able to provide insights on applying different features to IVIAs to fulfill various user needs in highly intelligent autonomous vehicles.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Virginia",
+              "city": "Blacksburg",
+              "institution": "Virginia Tech",
+              "dsl": ""
+            }
+          ],
+          "personId": 62239
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Korea, Republic of",
+              "state": "",
+              "city": "Jinju",
+              "institution": "Gyeongsang National University",
+              "dsl": ""
+            }
+          ],
+          "personId": 62230
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Virginia",
+              "city": "Blacksburg",
+              "institution": "Virginia Tech",
+              "dsl": ""
+            }
+          ],
+          "personId": 62235
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Virginia",
+              "city": "Blacksburg",
+              "institution": "Virginia Tech",
+              "dsl": ""
+            }
+          ],
+          "personId": 62204
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Virginia",
+              "city": "Blacksburg",
+              "institution": "Virginia Tech",
+              "dsl": ""
+            }
+          ],
+          "personId": 62156
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Virginia",
+              "city": "Blacksburg",
+              "institution": "Virginia Tech",
+              "dsl": ""
+            }
+          ],
+          "personId": 62190
+        }
+      ]
+    },
+    {
+      "id": 62280,
+      "typeId": 11902,
+      "title": "Measuring user experience in automated driving: Developing a single-item measure ",
+      "addons": {
+        "Presentation": {
+          "duration": 600,
+          "title": "Measuring user experience in automated driving: Developing a single-item measure",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=4LQgG0KNHes"
+        }
+      },
+      "isBreak": false,
+      "importedId": "autoui21a-1097",
+      "source": "PCS",
+      "trackId": 11302,
+      "tags": [],
+      "keywords": [],
+      "sessionIds": [],
+      "eventIds": [],
+      "abstract": "Measuring user experience is highly important for human-centered development and thus for designing automated driving systems. Multi-item measures such as the System Usability Scale (SUS) or the Usability Metric for User Experience (UMUX) are commonly used for collecting user feedback on technical systems or products. The goal of the present study was to investigate the potentials of a single-item approach as an economic alternative for measuring user experience compared to multi-item scales. Therefore, a single-item measure was developed to assess both event-related and cumulative user experience in automated driving. User experience was manipulated in a between-subject design implemented in a real-world driving task and feedback was collected using the newly developed Single Item User Experience (SIUX) scale, the UMUX, and the SUS. Results indicate that the SIUX scale is more sensitive than the UMUX to differences in event-related user experience, but not in cumulative user experience. Both the SIUX and the UMUX were more sensitive than the SUS when measuring differences in cumulative user experience. Future studies should be aimed at investigating the applicability of the SIUX scale to domains other than automated driving and at collecting more extensive data on validity and reliability of all three instruments. ",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Munich",
+              "institution": "BMW Group",
+              "dsl": ""
+            },
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Düsseldorf",
+              "institution": "Heinrich Heine University Düsseldorf",
+              "dsl": "Department of Experimental Psychology"
+            }
+          ],
+          "personId": 62181
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Munich",
+              "institution": "BMW Group",
+              "dsl": ""
+            }
+          ],
+          "personId": 62188
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Munich",
+              "institution": "BMW Group",
+              "dsl": ""
+            }
+          ],
+          "personId": 62201
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Düsseldorf",
+              "institution": "Heinrich Heine University Düsseldorf",
+              "dsl": "Department of Experimental Psychology"
+            }
+          ],
+          "personId": 62197
+        }
+      ]
+    },
+    {
+      "id": 62281,
+      "typeId": 11902,
+      "title": "Designing Alert Systems in Takeover Transitions: The Effects of Display Information and Modality",
+      "addons": {
+        "Presentation": {
+          "duration": 600,
+          "title": "Designing Alert Systems in Takeover Transitions: The Effects of Display Information and Modality",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=-ejL_U58_ME"
+        }
+      },
+      "isBreak": false,
+      "importedId": "autoui21a-1132",
+      "source": "PCS",
+      "trackId": 11302,
+      "tags": [],
+      "keywords": [],
+      "sessionIds": [],
+      "eventIds": [],
+      "abstract": "In conditionally automated driving, in-vehicle alert systems can provide drivers with information to assist their takeovers from automated driving. This study investigated how display modality and information influenced drivers' acceptance of the in-vehicle alert systems under different event criticality situations. We conducted an online video study with a 3 (information type) × 3 (display modality) × 2 (event criticality) mixed design involving 60 participants. The results showed that considering drivers' perceived usefulness and ease of use, presenting why only information was not sufficient for takeovers as compared to what will only information and why + what will information. Participants reported higher ease of use in the combination of speech and augmented reality condition when compared to the speech only condition. High event criticality led to drivers' lower perceived usefulness and more negative opinions of the displays. The findings have implications for the design of in-vehicle alert systems during takeover transitions. ",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Pennsylvania",
+              "city": "Pittsburgh",
+              "institution": "University of Pittsburgh",
+              "dsl": "Department of Informatics and Networked Systems, School of Computing and Information"
+            }
+          ],
+          "personId": 62145
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Michigan",
+              "city": "Dearborn",
+              "institution": "University of Michigan",
+              "dsl": "IMSE"
+            }
+          ],
+          "personId": 62232
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Michigan",
+              "city": "Ann Arbor",
+              "institution": "University of Michigan",
+              "dsl": "College of Engineering"
+            }
+          ],
+          "personId": 62211
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Michigan",
+              "city": "Ann Arbor",
+              "institution": "University of Michigan",
+              "dsl": "School of Information"
+            }
+          ],
+          "personId": 62154
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Michigan",
+              "city": "Ann Arbor",
+              "institution": "University of Michigan",
+              "dsl": "College of Engineering"
+            }
+          ],
+          "personId": 62200
+        }
+      ]
+    },
+    {
+      "id": 62282,
+      "typeId": 11902,
+      "title": "Evaluating the Impact of Decals on Driver Stereotype Perception and Exploration of Personalization of Automated Vehicles via Digital Decals",
+      "addons": {
+        "Presentation": {
+          "duration": 600,
+          "title": "Evaluating the Impact of Decals on Driver Stereotype Perception and Exploration of Personalization of Automated Vehicles via Digital Decals",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=NujwsA97RZY"
+        }
+      },
+      "isBreak": false,
+      "importedId": "autoui21a-1154",
+      "source": "PCS",
+      "trackId": 11302,
+      "tags": [],
+      "keywords": [],
+      "sessionIds": [],
+      "eventIds": [],
+      "abstract": "Traffic behavior and its perception is shaped by various factors such as vehicle color or size. Decals are used to express information about the owner’s beliefs or are intended to be funny. In the future, with external displays on (automated) vehicles, individualized customization could be even more pronounced. While some research looked at the messages these decals convey, it is unclear how these decals influence the perception of surrounding drivers on the operator of the vehicle. We gathered data on decals in 29 cities in 8 countries. A thematic analysis unveiled 17 dominant themes among decals. Subsequently, we investigated effects of decals of 9supra-regional common themes in an online study (N=64) finding that participants attributed different characteristics to the driver of a vehicle with a decal based on the type of decal and the participants’ country of origin. Additionally, a Virtual Reality study (N=16)revealed diverse opinions on future usage of such personalization options.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Ulm",
+              "institution": "Ulm University",
+              "dsl": "Institute of Media Informatics"
+            }
+          ],
+          "personId": 62246
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Ulm",
+              "institution": "Ulm University",
+              "dsl": "Department of Human Factors"
+            }
+          ],
+          "personId": 62241
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Ulm",
+              "institution": "Ulm University",
+              "dsl": "Institute of Media Informatics"
+            }
+          ],
+          "personId": 62186
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Ulm",
+              "institution": "Ulm University",
+              "dsl": "Institute of Media Informatics"
+            }
+          ],
+          "personId": 62147
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Ulm",
+              "institution": "University of Ulm",
+              "dsl": ""
+            }
+          ],
+          "personId": 62213
+        }
+      ]
+    },
+    {
+      "id": 62283,
+      "typeId": 11902,
+      "title": "After You! Design and Evaluation of a Human Machine Interface for Cooperative Truck Overtaking Maneuvers on Freeways",
+      "addons": {
+        "Presentation": {
+          "duration": 600,
+          "title": "After You! Design and Evaluation of a Human Machine Interface for Cooperative Truck Overtaking Maneuvers on Freeways",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=kfxYP2_1XX4"
+        }
+      },
+      "isBreak": false,
+      "importedId": "autoui21a-1033",
+      "source": "PCS",
+      "trackId": 11302,
+      "tags": [],
+      "keywords": [],
+      "sessionIds": [],
+      "eventIds": [],
+      "abstract": "Truck overtaking maneuvers on freeways are inefficient, risky and promote high potential for conflict between road users. Collective perception based on V2X communication allow coordination with all parties to reduce the negative impact and could be installed in a timely manner compared to automation. However, the prerequisite for the success of this system is a human-machine interface that the driver can easily operate, trusts and accepts. In this approach, a user-centered conception and design of a human-machine interface for cooperative truck overtaking maneuver on freeways is presented. The development process is separated in two steps: After a prototype is build based on task analysis it is initially evaluated and improved iteratively with a heuristic evaluation by experts. The final prototype is tested in a simulator study with 30 truck drivers. The study provides initial feedback regarding the drivers' attitudes towards such a system and how it can be further improved.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Munich",
+              "institution": "Institute of Automotive Technology",
+              "dsl": "Technical University Munich"
+            }
+          ],
+          "personId": 62184
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Munich",
+              "institution": "Institute of Automotive Technology",
+              "dsl": "Technical University Munich"
+            }
+          ],
+          "personId": 62243
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Munich",
+              "institution": "Institute of Automotive Technology",
+              "dsl": "Technical University Munich"
+            }
+          ],
+          "personId": 62170
+        }
+      ]
+    },
+    {
+      "id": 62284,
+      "typeId": 11902,
+      "title": "Towards a Scalable eHMI: Designing for AV-VRU Communication Beyond One Pedestrian",
+      "addons": {
+        "Presentation": {
+          "duration": 600,
+          "title": "Towards a Scalable eHMI: Designing for AV-VRU Communication Beyond One Pedestrian",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=0AkVKse191k"
+        }
+      },
+      "isBreak": false,
+      "importedId": "autoui21a-1098",
+      "source": "PCS",
+      "trackId": 11302,
+      "tags": [],
+      "keywords": [],
+      "sessionIds": [],
+      "eventIds": [],
+      "abstract": "Current research on external Human-Machine Interfaces (eHMIs) in facilitating interactions between automated vehicles (AVs) and pedestrians have largely focused on one-to-one encounters. In order for eHMIs to be viable in reality, they need to be scalable, i.e., facilitate interaction with more than one pedestrian with clarity and unambiguity. We conducted a virtual-reality-based empirical study to evaluate four eHMI designs with two pedestrians. Results show that even in this minimum criteria of scalability, traditional eHMI designs struggle to communicate effectively whom the AV intends to yield to. Road-projection-based eHMIs show promise in clarifying the specific yielding intention of an AV, although it may still not be an ideal solution. The findings point towards the need to consider the element of scalability early in the design process, and potentially the need to reconsider the current paradigm of eHMI design.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "Netherlands",
+              "state": "",
+              "city": "Eindhoven",
+              "institution": "Eindhoven University of Technology",
+              "dsl": ""
+            }
+          ],
+          "personId": 62175
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Netherlands",
+              "state": "",
+              "city": "Eindhoven",
+              "institution": "Eindhoven University of Technology",
+              "dsl": ""
+            }
+          ],
+          "personId": 62217
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Netherlands",
+              "state": "",
+              "city": "Eindhoven",
+              "institution": "Eindhoven University of Technology",
+              "dsl": ""
+            }
+          ],
+          "personId": 62209
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Netherlands",
+              "state": "",
+              "city": "Eindhoven",
+              "institution": "Eindhoven University of Technology",
+              "dsl": ""
+            }
+          ],
+          "personId": 62140
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Netherlands",
+              "state": "",
+              "city": "Eindhoven",
+              "institution": "Eindhoven University of Technology",
+              "dsl": ""
+            }
+          ],
+          "personId": 62203
+        }
+      ]
+    },
+    {
+      "id": 62285,
+      "typeId": 11902,
+      "title": "Comparing an Unbalanced Motor with Mechanical Vibration Transducers for Vibrotactile Forward Collision Warnings in the Steering Wheel",
+      "addons": {
+        "Presentation": {
+          "duration": 600,
+          "title": "Comparing an Unbalanced Motor with Mechanical Vibration Transducers for Vibrotactile Forward Collision Warnings in the Steering Wheel",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=7tbAYEPmFkk"
+        }
+      },
+      "isBreak": false,
+      "importedId": "autoui21a-1112",
+      "source": "PCS",
+      "trackId": 11302,
+      "tags": [],
+      "keywords": [],
+      "sessionIds": [],
+      "eventIds": [],
+      "abstract": "A static driving simulator study was conducted to investigate an unbalanced actuator (UAK) and two mechanical vibration transducers (exciters) integrated in a steering wheel as vibrotactile warnings during manual driving. In a repeated-measures design, two vibration signal conditions (UAK vs. exciters) were presented to 32 subjects in two test routes with two forward collision warning scenarios. The effects of the vibration signals on driving behavior, reaction times, workload, acceptance, preference, and vibrotactile feel were examined in order to evaluate signal usability. The exciters led to lower SD speed and lower mean steering wheel angle acceleration and were preferred by 63% compared to the UAK. However, subjects showed longer reaction times and shorter time to collisions with the exciters. Due to its intense vibration, the UAK is more suitable for acutely dangerous situations requiring quick reactions. For less hazardous situations or incremental warnings, exciters are more suitable to avoid startle effects.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Berlin",
+              "institution": "Joyson Safety Systems",
+              "dsl": ""
+            }
+          ],
+          "personId": 62237
+        }
+      ]
+    },
+    {
+      "id": 62286,
+      "typeId": 11902,
+      "title": "Designing for Driver's Emotional Transitions and Rituals",
+      "addons": {
+        "Presentation": {
+          "duration": 600,
+          "title": "Designing for Driver's Emotional Transitions and Rituals",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=RchDTfCakRE"
+        }
+      },
+      "isBreak": false,
+      "importedId": "autoui21a-1034",
+      "source": "PCS",
+      "trackId": 11302,
+      "tags": [],
+      "keywords": [],
+      "sessionIds": [],
+      "eventIds": [],
+      "abstract": "Emotions are a topic of increasing interest in vehicle design and research as they have a substantive impact on people’s behaviour, affecting driving performance and being a source of safety issues particularly on long journeys. However, emotions do not usually occur distinctly and individually and frequently transition and transform between states. It can be challenging to obtain information about the exact emotions drivers experience, especially when subtle. We present design-led research focusing on identifying scenarios that contain normally unarticulated emotions and mental reminders that drivers use to make a journey safer and develop concepts for in-vehicle interactions that assist with these rituals. As results of the research, we designed and user tested in-vehicle interactions for two emotional transition scenarios - pre-journey preparation (‘Ready... Steady … Relax’) and checking the progress of a journey (‘Driving Whisper’).",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "United Kingdom",
+              "state": "London",
+              "city": "London",
+              "institution": "Royal College of Art",
+              "dsl": "Intelligent Mobility Design Centre"
+            }
+          ],
+          "personId": 62191
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United Kingdom",
+              "state": "",
+              "city": "London",
+              "institution": "Royal College of Art",
+              "dsl": "Intelligent Mobility Design Centre"
+            }
+          ],
+          "personId": 62189
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United Kingdom",
+              "state": "London",
+              "city": "London",
+              "institution": "Royal College of Art",
+              "dsl": "Intelligent Mobility Design Centre"
+            }
+          ],
+          "personId": 62149
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United Kingdom",
+              "state": "",
+              "city": "London",
+              "institution": "Royal College of Art",
+              "dsl": "Intelligent Mobility Design Centre"
+            }
+          ],
+          "personId": 62234
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United Kingdom",
+              "state": "London",
+              "city": "London",
+              "institution": "Royal College of Art",
+              "dsl": "Intelligent Mobility Design Centre"
+            }
+          ],
+          "personId": 62250
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United Kingdom",
+              "state": "London",
+              "city": "London",
+              "institution": "Royal College of Art",
+              "dsl": "Intelligent Mobility Design Centre"
+            }
+          ],
+          "personId": 62219
+        }
+      ]
+    },
+    {
+      "id": 62287,
+      "typeId": 11902,
+      "title": "Effects of Native and Secondary Language Processing on Emotional Drivers' Situation Awareness, Driving Performance, and Subjective Perception",
+      "addons": {
+        "Presentation": {
+          "duration": 600,
+          "title": "Effects of Native and Secondary Language Processing on Emotional Drivers' Situation Awareness, Driving Performance, and Subjective Perception",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=uNTUEg4YKXQ"
+        }
+      },
+      "isBreak": false,
+      "importedId": "autoui21a-1056",
+      "source": "PCS",
+      "trackId": 11302,
+      "tags": [],
+      "keywords": [],
+      "sessionIds": [],
+      "eventIds": [],
+      "abstract": "Research shows that emotions have a substantial influence on the cognitive processes of humans and in the context of driving, can negatively influence driving performance. Drivers' interaction with in-vehicle agents can improve their emotional state and can lead to increased road safety. Language is another important aspect that influences human behavior and information processing. This study aims to explore the effects of native and secondary-language processing on emotional drivers' situation awareness, driving performance, and subjective perception by conducting a within-subject simulation study. Twenty-four young drivers drove three different laps with a native-language speaking agent, secondary-language speaking agent, and no agent. The study results are indicative of the importance of native-language processing in the context of driving. Native-language agent condition resulted in improved driving performance and heightened situation awareness. The study results and discussions have theoretical and practical design implications and are expected to help foster future work in this domain. ",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Virginia",
+              "city": "Blacksburg",
+              "institution": "Virginia Tech",
+              "dsl": ""
+            }
+          ],
+          "personId": 62159
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Virginia",
+              "city": "Blacksburg",
+              "institution": "Virginia Tech",
+              "dsl": ""
+            }
+          ],
+          "personId": 62190
+        }
+      ]
+    },
+    {
+      "id": 62322,
+      "typeId": 11896,
+      "title": "Designing for Prediction-Level Collaboration between Human and Real-world Automated Driving System",
+      "addons": {
+        "Presentation": {
+          "duration": 600,
+          "title": "Designing for Prediction-Level Collaboration between Human and Real-world Automated Driving System",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=XarxpeeB1R0"
+        }
+      },
+      "isBreak": false,
+      "importedId": "autoui21e-1003",
+      "source": "PCS",
+      "trackId": 11303,
+      "tags": [],
+      "keywords": [],
+      "sessionIds": [],
+      "eventIds": [],
+      "abstract": "Although automated driving (AD) systems progress fast in recent years, there are still various corner cases that such systems cannot handle well especially for predicting the behavior of  surrounding traffic. This may result in discomfort or even dangerous situations. Results from a  previous Wizard-of-OZ study suggest that the collaboration between human and system at the prediction level can effectively enhance the experience and comfort of automated driving. For an in-depth investigation of the confluence between AD and driver, a prototype was implemented in a driving simulator driven by a functional AD system that has been partially validated on the public road. Furthermore, we designed and implemented a gaze-button input for intuitive vehicle referencing and a graphical user interface (GUI) for enhancing the explainability of the AD system. Three typical driving scenarios in which an AD could take advantage of the human driver's anticipation to drive more comfortable and personalized were created for subsequent evaluation. \r\n",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Offenbach/Main",
+              "institution": "Honda Research Institute Europe",
+              "dsl": ""
+            }
+          ],
+          "personId": 62305
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Offenbach",
+              "institution": "Honda Research Institute Europe GmbH",
+              "dsl": ""
+            }
+          ],
+          "personId": 62300
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Offenbach am Main",
+              "institution": "Honda Research Institute Europe GmbH",
+              "dsl": ""
+            }
+          ],
+          "personId": 62296
+        }
+      ]
+    },
+    {
+      "id": 62323,
+      "typeId": 11896,
+      "title": "Eye-Gaze Analysis of HUD Interventions for Conditional Automation to Increase Situation Awareness",
+      "addons": {
+        "Presentation": {
+          "duration": 600,
+          "title": "Eye-Gaze Analysis of HUD Interventions for Conditional Automation to Increase Situation Awareness",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=ZuFTiiR8wR0"
+        }
+      },
+      "isBreak": false,
+      "importedId": "autoui21e-1005",
+      "source": "PCS",
+      "trackId": 11303,
+      "tags": [],
+      "keywords": [],
+      "sessionIds": [],
+      "eventIds": [],
+      "abstract": "Automated driving seems promising to reduce crashes caused by human error. However, in the transition towards automated driving, a human is still required in some automation levels in some circumstances. Specifically, in conditional automation or SAE Level 3, a human needs to be able to continue the driving task any time the vehicle requests it. This means that throughout the L3 automated driving, this \"fallback-ready user\" needs to remain in a state to continue driving, even when they are engaged in other tasks, such as watching a movie. We designed three interventions with the aim to increase their fallback-readiness and have tested them in a high-fidelity video driving simulation study. In this video, we present and describe the study design of a study set up to test the automotive user interface interventions.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "Australia",
+              "state": "",
+              "city": "Brisbane",
+              "institution": "QUT",
+              "dsl": "CARRS-Q"
+            }
+          ],
+          "personId": 62301
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Australia",
+              "state": "",
+              "city": "Brisbane",
+              "institution": "CARRS-Q, QUT",
+              "dsl": ""
+            }
+          ],
+          "personId": 62310
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Australia",
+              "state": "",
+              "city": "Brisbane",
+              "institution": "QUT",
+              "dsl": ""
+            }
+          ],
+          "personId": 62290
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Australia",
+              "state": "",
+              "city": "Brisbane",
+              "institution": "CARRS-Q, QUT",
+              "dsl": ""
+            }
+          ],
+          "personId": 62317
+        }
+      ]
+    },
+    {
+      "id": 62324,
+      "typeId": 11896,
+      "title": "“To Go or Not To Go? That is the Question”: When In-Vehicle Agents Argue with Each Other",
+      "addons": {
+        "Presentation": {
+          "duration": 600,
+          "title": "“To Go or Not To Go? That is the Question”: When In-Vehicle Agents Argue with Each Other",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=lnkAtoRIfjM"
+        }
+      },
+      "isBreak": false,
+      "importedId": "autoui21e-1006",
+      "source": "PCS",
+      "trackId": 11303,
+      "tags": [],
+      "keywords": [],
+      "sessionIds": [],
+      "eventIds": [],
+      "abstract": "Intelligent agents (IAs) are widely being adopted in our daily lives, and much research on the design of communication with IAs have been conducted. However, almost all research focuses on the interaction between a human operator and an agent. As more and more IAs are being used, there is a possibility that more than two IAs coexist. Then, in a driving context, what if in-vehicle agents (IVAs) and other IAs coexist and show conflicting suggestions or responses? We are interested in answering the related research questions in this situation. As a first step, we developed scenarios and presented the video to embody futuristic situations that a user interacts with multiple IAs. It is expected that this effort can call attention to this topic, and the developed video can be utilized further to explore the related research questions. ",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "Korea, Republic of",
+              "state": "",
+              "city": "Jinju",
+              "institution": "Gyeongsang National University",
+              "dsl": "Industrial and Systems Engineering"
+            }
+          ],
+          "personId": 62230
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Korea, Republic of",
+              "state": "",
+              "city": "Jinju",
+              "institution": "Gyeongsang National University",
+              "dsl": "Industrial and Systems Engineering"
+            }
+          ],
+          "personId": 62302
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Virginia",
+              "city": "Blacksburg",
+              "institution": "Virginia Tech",
+              "dsl": "Grado Department of Industrial and Systems Engineering"
+            }
+          ],
+          "personId": 62239
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Ulm",
+              "institution": "Ulm University",
+              "dsl": "Human Factors"
+            }
+          ],
+          "personId": 62304
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Ulm",
+              "institution": "Ulm University",
+              "dsl": "Human Factors"
+            }
+          ],
+          "personId": 62227
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Virginia",
+              "city": "Blacksburg",
+              "institution": "Virginia Tech",
+              "dsl": ""
+            }
+          ],
+          "personId": 62190
+        }
+      ]
+    },
+    {
+      "id": 62325,
+      "typeId": 11896,
+      "title": "Multimodal Trip Support with an Autonomous Vehicle and Autonomous Robots",
+      "addons": {
+        "Presentation": {
+          "duration": 600,
+          "title": "Multimodal Trip Support with an Autonomous Vehicle and Autonomous Robots",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=-GjGs4DKUp8"
+        }
+      },
+      "isBreak": false,
+      "importedId": "autoui21e-1010",
+      "source": "PCS",
+      "trackId": 11303,
+      "tags": [],
+      "keywords": [],
+      "sessionIds": [],
+      "eventIds": [],
+      "abstract": "In this research, we designed multimodal trip support combining autonomous vehicles and autonomous robots. The video introduces a scenario using a prototype of the system which enables a user to request a vehicle ride and service robots at one time. The vehicle takes the user from their location to another building. Robots take the user and their luggage from a vehicle drop-off to a destination in the building. The request is made on their personal device using a web application. In addition to the device, multimodal user interfaces such as robot's HMIs (human-machine interfaces) are used for user interaction to provide a seamless experience of the trip. Its background system is connected to fleet management systems of vehicles and robots and building facilities, for example elevators and cameras, via network. Providing facility-vehicle and facility-robot interactions, the system supports smooth automatic operations of the vehicle and the robots on the way. \r\n",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "Japan",
+              "state": "",
+              "city": "Tokyo",
+              "institution": "Shimizu Corporation",
+              "dsl": "Institute of Technology"
+            }
+          ],
+          "personId": 62312
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Japan",
+              "state": "",
+              "city": "Tokyo",
+              "institution": "Institute of Technology, Shimizu Corporation",
+              "dsl": ""
+            }
+          ],
+          "personId": 62298
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Japan",
+              "state": "",
+              "city": "Tokyo",
+              "institution": "Institute of Technology, Shimizu Corporation",
+              "dsl": ""
+            }
+          ],
+          "personId": 62288
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Japan",
+              "state": "",
+              "city": "Tokyo",
+              "institution": "Institute of Technology, Shimizu Corporation",
+              "dsl": ""
+            }
+          ],
+          "personId": 62308
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Japan",
+              "state": "",
+              "city": "Tokyo",
+              "institution": "Shimizu Corporation",
+              "dsl": "Institute of Technology"
+            }
+          ],
+          "personId": 62320
+        }
+      ]
+    },
+    {
+      "id": 62326,
+      "typeId": 11896,
+      "title": "Mixed Reality Environment for Testing Automated Vehicle and Pedestrian Interaction",
+      "addons": {
+        "Presentation": {
+          "duration": 600,
+          "title": "Mixed Reality Environment for Testing Automated Vehicle and Pedestrian Interaction",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=VXzHXFhIYgE"
+        }
+      },
+      "isBreak": false,
+      "importedId": "autoui21e-1021",
+      "source": "PCS",
+      "trackId": 11303,
+      "tags": [],
+      "keywords": [],
+      "sessionIds": [],
+      "eventIds": [],
+      "abstract": "The test and development of Automated Driving Systems is usually realized by scenario based testing or virtual testing environments. These methods apply artificial targets to trigger the safety critical functions under specific predefined scenarios, as the NCAP or IIHS test catalogues. Despite having a good reproducibility, these approaches hardly permit the evaluation of new interaction concepts like external Human-Machine Interfaces (eHMIs), since the interaction between real users and the vehicle cannot be realistic reproduced without risks to the participants. The novel Mixed Reality Test Environment (MiRE) overcomes this limitation by the integration of Virtual Reality (VR) technologies, Dynamic Vehicle-in-the-Loop (DynViL) and the Virtual Environment. In MiRE the movement and positioning of the vehicles and the VRUs are tracked in real time and reproduced in the virtual environment. Synthetic data from the virtual environment is generated to stimulate the vehicle and the human participant, enabling a safe interaction between both entities.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Ingolstadt",
+              "institution": "Technische Hochschule Ingolstadt",
+              "dsl": "CARISSMA Institute of Automated Driving"
+            }
+          ],
+          "personId": 62318
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Ingolstadt",
+              "institution": "University of Applied Sciences Ingolstadt",
+              "dsl": "CARISSMA "
+            }
+          ],
+          "personId": 62306
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Ingolstadt",
+              "institution": "Technische Hochschule Ingolstadt",
+              "dsl": "CARISSMA Institute of Automated Driving"
+            }
+          ],
+          "personId": 62319
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Ingolstadt",
+              "institution": "Technische Hochschule Ingolstadt",
+              "dsl": "CARISSMA Institute of Automated Driving"
+            }
+          ],
+          "personId": 62294
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "Bavaria",
+              "city": "Ingolstadt",
+              "institution": "Technische Hochschule Ingolstadt",
+              "dsl": "Human-Computer Interaction Group"
+            }
+          ],
+          "personId": 62165
+        }
+      ]
+    },
+    {
+      "id": 62327,
+      "typeId": 11896,
+      "title": "An Anthropological Study Designed to Understand the Essence of Intention Sharing Between Drivers and Passengers",
+      "addons": {
+        "Presentation": {
+          "duration": 600,
+          "title": "An Anthropological Study Designed to Understand the Essence of Intention Sharing Between Drivers and Passengers",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=MGra92Ctyps"
+        }
+      },
+      "isBreak": false,
+      "importedId": "autoui21e-1022",
+      "source": "PCS",
+      "trackId": 11303,
+      "tags": [],
+      "keywords": [],
+      "sessionIds": [],
+      "eventIds": [],
+      "abstract": "This study focuses on human driving behaviour to identify key non-verbal cues which may inform a passenger of the driver’s intentions. An anthropological inquiry, supported by live remote field observations and follow-up interviews, aims to understand a) the nuances and mechanisms, i.e. intention cues, through which human drivers consciously or unconsciously convey their driving intention, b) how passengers recognise and interpret those intention cues, and c) the role that the clarity, ambiguity or absence of these cues may play in passenger comfort or trust. Lastly, this research designs a live remote observation protocol to analyse the exchange of subtle intention cues between driver-passenger pairs during the driving task.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "Australia",
+              "state": "Queensland",
+              "city": "Brisbane",
+              "institution": "Queensland University of Technology (QUT)",
+              "dsl": "Centre for Accident Research and Road Safety - Queensland (CARRS-Q)"
+            }
+          ],
+          "personId": 62289
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Australia",
+              "state": "",
+              "city": "Brisbane",
+              "institution": "Queensland University of Technology",
+              "dsl": "Centre for Accident Research and Road Safety - Queensland (CARRS-Q)"
+            }
+          ],
+          "personId": 62293
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Australia",
+              "state": "",
+              "city": "Brisbane",
+              "institution": "Queensland University of Technology (QUT)",
+              "dsl": "Centre for Accident Research and Road Safety − Queensland (CARRS-Q)"
+            }
+          ],
+          "personId": 62310
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "New York",
+              "city": "New York",
+              "institution": "Cornell Tech",
+              "dsl": "Information Science"
+            }
+          ],
+          "personId": 62295
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Australia",
+              "state": "Queensland",
+              "city": "Brisbane",
+              "institution": "Queensland University of Technology (QUT)",
+              "dsl": "Centre for Accident Research and Road Safety Queensland (CARRS-Q)"
+            }
+          ],
+          "personId": 62317
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Australia",
+              "state": "Queensland",
+              "city": "Brisbane",
+              "institution": "Queensland University of Technology (QUT)",
+              "dsl": "Centre for Accident Research and Road Safety - Queensland (CARRS-Q)"
+            }
+          ],
+          "personId": 62315
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Australia",
+              "state": "Queensland",
+              "city": "Brisbane",
+              "institution": "Queensland University of Technology (QUT)",
+              "dsl": "Centre for Accident Research and Road Safety - Queensland (CARRS-Q)"
+            }
+          ],
+          "personId": 62316
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "New York",
+              "city": "New York",
+              "institution": "Cornell Tech",
+              "dsl": "Information Science"
+            }
+          ],
+          "personId": 62314
+        }
+      ]
+    },
+    {
+      "id": 62328,
+      "typeId": 11896,
+      "title": "Acceptance is in the Eye of the Stakeholder  - Gathering the Needs for Automated Road Transport Logistics  ",
+      "addons": {
+        "Presentation": {
+          "duration": 600,
+          "title": "Acceptance is in the Eye of the Stakeholder  - Gathering the Needs for Automated Road Transport Logistics",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=esrzNwUl_mc"
+        }
+      },
+      "isBreak": false,
+      "importedId": "autoui21e-1013",
+      "source": "PCS",
+      "trackId": 11303,
+      "tags": [],
+      "keywords": [],
+      "sessionIds": [],
+      "eventIds": [],
+      "abstract": "The transport logistics sector is expected to be a promising ground for the roll-out and business integration of automated vehicles. Within this transition towards driverless vehicles, fleet management and control interventions will have to be taken over by logistics personnel. However, so far, a specific needs and expectations analysis with regard to the involved stakeholders towards automated road transport logistics have only been analyzed to a limited degree, and consequently there is so far no systematic approach towards designing corresponding user interfaces. This demo video highlights the requirements gathering activities within the project AWARD, which investigates and develops all-weather autonomous real logistics operations and demonstrations. The demo video introduces into the different perspectives of the involved stakeholder groups, and it illustrates addressed use cases and operational scenarios. The derived acceptance factors model and first impressions of preliminary results are provided.   ",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "Austria",
+              "state": "",
+              "city": "Vienna",
+              "institution": "Center for Technology Experience, AIT Austrian Institute of Technology",
+              "dsl": ""
+            }
+          ],
+          "personId": 62313
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Austria",
+              "state": "",
+              "city": "Linz",
+              "institution": "Linz Center of Mechatronics GmbH",
+              "dsl": ""
+            }
+          ],
+          "personId": 62307
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Austria",
+              "state": "",
+              "city": "Vienna",
+              "institution": "Center for Technology Experience, AIT Austrian Institute of Technology",
+              "dsl": ""
+            }
+          ],
+          "personId": 62185
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Austria",
+              "state": "",
+              "city": "Vienna",
+              "institution": "AIT Austrian Institute of Technology",
+              "dsl": "Center for Technology Experience"
+            }
+          ],
+          "personId": 62141
+        }
+      ]
+    },
+    {
+      "id": 62329,
+      "typeId": 11896,
+      "title": "The Driving Experience Lab: Simulating the Automotive Future in a Trailer",
+      "addons": {
+        "Presentation": {
+          "duration": 600,
+          "title": "The Driving Experience Lab: Simulating the Automotive Future in a Trailer",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=-8qamTud2k4"
+        }
+      },
+      "isBreak": false,
+      "importedId": "autoui21e-1002",
+      "source": "PCS",
+      "trackId": 11303,
+      "tags": [],
+      "keywords": [],
+      "sessionIds": [],
+      "eventIds": [],
+      "abstract": "Driving simulators are typically used to evaluate next-generation automotive user interfaces in user studies as they offer a replicable driving setting that also allows studying safety-critical and/or future systems. However, this AutomotiveUI experience research is often limited to university or company campuses and their students and staff. To combat that, we introduced a mobile driving simulator lab in a car trailer. We present features but also limitations of this lab, report on experiences after the first days of operation, and discuss further use cases beyond research. During 7 days of user studies with the trailer at a national garden festival, we conducted trials with more than 70 participants from diverse backgrounds. However, executing studies at public events also has its limitations, e.g., on accepted trial duration and potential for biased responses.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Ingolstadt",
+              "institution": "Technische Hochschule Ingolstadt",
+              "dsl": "Human-Computer Interaction Group"
+            },
+            {
+              "country": "Austria",
+              "state": "",
+              "city": "Linz",
+              "institution": "Johannes Kepler University",
+              "dsl": ""
+            }
+          ],
+          "personId": 62292
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "Bavaria",
+              "city": "Ingolstadt",
+              "institution": "Technische Hochschule Ingolstadt",
+              "dsl": "Human-Computer Interaction Group"
+            },
+            {
+              "country": "Austria",
+              "state": "",
+              "city": "Linz",
+              "institution": "Johannes Kepler University",
+              "dsl": ""
+            }
+          ],
+          "personId": 62165
+        }
+      ]
+    },
+    {
+      "id": 62330,
+      "typeId": 11896,
+      "title": "Advancing In-vehicle Gesture Interactions with Adaptive Hand-Recognition and Auditory Displays",
+      "addons": {
+        "Presentation": {
+          "duration": 600,
+          "title": "Advancing In-vehicle Gesture Interactions with Adaptive Hand-Recognition and Auditory Displays",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=KhZZHa6LdCY"
+        }
+      },
+      "isBreak": false,
+      "importedId": "autoui21e-1008",
+      "source": "PCS",
+      "trackId": 11303,
+      "tags": [],
+      "keywords": [],
+      "sessionIds": [],
+      "eventIds": [],
+      "abstract": "Competition for visual attention in vehicles has increased with the integration of touch-based interfaces, which has led to an increased crash risk. To mitigate this visual distraction, we designed an in-vehicle gesture-based menu system with different\r\nauditory feedback types and hand-recognition systems.  We are conducting an experiment using a driving simulator where the participant performs a secondary task of selecting a menu item. Three auditory feedback types are tested in addition to the baseline condition (no audio): auditory icons, earcons, and spearcons. For each type of auditory display, two hand-recognition systems are tested: fixed and adaptive.  We expect we can reduce the driver’s secondary task workload, while minimizing off-road glances for safety. Our experiment would contribute to the existing literature in multimodal signal processing, confirming the Multiple Resource Theory. It would also present practical design guidelines for auditory-feedback for gesture-based in-vehicle interactions.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Virginia",
+              "city": "Blacksburg",
+              "institution": "Virginia Polytechnic Institute and State University",
+              "dsl": "Mind Music Machine Lab"
+            }
+          ],
+          "personId": 62291
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Virginia",
+              "city": "Blacksburg",
+              "institution": "Virginia Polytechnic Institute and State University",
+              "dsl": "Mind Music Machine Lab"
+            }
+          ],
+          "personId": 62321
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Virginia",
+              "city": "Blacksburg",
+              "institution": "Virginia Polytechnic Institute and State University",
+              "dsl": "Mind Music Machine Lab"
+            }
+          ],
+          "personId": 62309
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Virginia",
+              "city": "Blacksburg",
+              "institution": "Virginia Tech",
+              "dsl": ""
+            }
+          ],
+          "personId": 62190
+        }
+      ]
+    },
+    {
+      "id": 62331,
+      "typeId": 11896,
+      "title": "Don’t Worry, I'm in Control! Is Users’ Trust in Automated Driving Different When Using a Continuous Ambient Light HMI Compared to an Auditory HMI?",
+      "addons": {
+        "Presentation": {
+          "duration": 600,
+          "title": "Don’t Worry, I'm in Control! Is Users’ Trust in Automated Driving Different When Using a Continuous Ambient Light HMI Compared to an Auditory HMI?",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=qM72x-H_wF4"
+        }
+      },
+      "isBreak": false,
+      "importedId": "autoui21e-1009",
+      "source": "PCS",
+      "trackId": 11303,
+      "tags": [],
+      "keywords": [],
+      "sessionIds": [],
+      "eventIds": [],
+      "abstract": "Ambient LED displays have been used to provide peripheral light-based cues to drivers about a vehicle's current state, along with providing requests for a driver’s attention or action. However, few studies have investigated the use of an ambient LED display to improve drivers' trust, perceived safety, and reactions during L3 automated driving. Due to the ambient nature of an LED lightband display, it could be anticipated that it would provide reassurance of the automation status while automation is on, along with providing a gentle cue for non-urgent transitions of control. This video submission presents a methodological overview of a driving simulator study designed to evaluate the effectiveness of an ambient peripheral light display (Lightband HMI) in terms of its potential to improve drivers' trust in L3 automation, along with a comparison of a Lightband and Auditory HMI in terms of their effectiveness in facilitating transitions of control.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "United Kingdom",
+              "state": "",
+              "city": "Leeds",
+              "institution": "University of Leeds",
+              "dsl": "Institute for Transport Studies"
+            }
+          ],
+          "personId": 62303
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United Kingdom",
+              "state": "",
+              "city": "Leeds",
+              "institution": "University of Leeds",
+              "dsl": "Institute for Transport Studies"
+            }
+          ],
+          "personId": 62299
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United Kingdom",
+              "state": "",
+              "city": "Leeds",
+              "institution": "Institute for Transport Studies",
+              "dsl": ""
+            }
+          ],
+          "personId": 62214
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Belgium",
+              "state": "",
+              "city": "Brussels",
+              "institution": "Toyota Motor Europe",
+              "dsl": ""
+            }
+          ],
+          "personId": 62311
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Belgium",
+              "state": "",
+              "city": "Brussels",
+              "institution": "Toyota Motor Europe",
+              "dsl": ""
+            }
+          ],
+          "personId": 62297
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United Kingdom",
+              "state": "",
+              "city": "Leeds",
+              "institution": "University of Leeds",
+              "dsl": ""
+            }
+          ],
+          "personId": 62168
+        }
+      ]
+    }
+  ],
+  "people": [
+    {
+      "id": 62139,
+      "firstName": "Sebastiaan",
+      "lastName": "Petermeijer",
+      "middleInitial": "Martinus",
+      "importedId": "SvDM5kIw9FAAzVMowmOivQ",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62140,
+      "firstName": "Marieke",
+      "lastName": "Martens",
+      "middleInitial": "",
+      "importedId": "ydwaDCR0yKAqlOEVp28lDw",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62141,
+      "firstName": "Peter",
+      "lastName": "Fröhlich",
+      "middleInitial": "",
+      "importedId": "YoXIRIkdLm6YpWcB3qx30w",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62142,
+      "firstName": "Oliver",
+      "lastName": "Morgenstern",
+      "middleInitial": "",
+      "importedId": "Y7_X9Ugy67Qct0wl_GuXpQ",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62143,
+      "firstName": "B.M.",
+      "lastName": "van Waterschoot",
+      "middleInitial": "",
+      "importedId": "w2CJ6WYdE3yEcv62_wH76g",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62144,
+      "firstName": "Jingyi",
+      "lastName": "Li",
+      "middleInitial": "",
+      "importedId": "-MB2ZCWu2AUriqqTwZ1nMg",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62145,
+      "firstName": "Na",
+      "lastName": "Du",
+      "middleInitial": "",
+      "importedId": "JNX3ychup70pUN4dnUSmCQ",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62146,
+      "firstName": "Ramyashree",
+      "lastName": "Bhat",
+      "middleInitial": "",
+      "importedId": "u6OXCEHVfrOt9FthFywYZg",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62147,
+      "firstName": "Marcel",
+      "lastName": "Walch",
+      "middleInitial": "",
+      "importedId": "51b-IYBBXWY7gmRnNBNQdw",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62148,
+      "firstName": "Alexander",
+      "lastName": "Meschtscherjakov",
+      "middleInitial": "",
+      "importedId": "U_zbCYI95FkvwIXAPi8ZtQ",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62149,
+      "firstName": "Sam",
+      "lastName": "Johnson",
+      "middleInitial": "",
+      "importedId": "H6-usinoB5XZ60gmLuxY0Q",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62150,
+      "firstName": "Stefan",
+      "lastName": "Suette",
+      "middleInitial": "",
+      "importedId": "RpNDO6uneU0b2KKMSxTNag",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62151,
+      "firstName": "Cansu",
+      "lastName": "Demir",
+      "middleInitial": "",
+      "importedId": "unqIB5PbPjyzpAGD2kwrmg",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62152,
+      "firstName": "Anna-Maria",
+      "lastName": "Meck",
+      "middleInitial": "",
+      "importedId": "vvh2dVWEkCi_ixmasL-sGA",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62153,
+      "firstName": "Stefan",
+      "lastName": "Bohmann",
+      "middleInitial": "",
+      "importedId": "65T1cdMYzBbbS1l7zJg6eA",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62154,
+      "firstName": "Lionel",
+      "lastName": "Robert",
+      "middleInitial": "Peter",
+      "importedId": "Exyrh3f3q3HyP_H3eeB5Xw",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62155,
+      "firstName": "Riender",
+      "lastName": "Happee",
+      "middleInitial": "",
+      "importedId": "BvYEUH6osibYMUprqHvcPQ",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62156,
+      "firstName": "Bo",
+      "lastName": "Zhou",
+      "middleInitial": "",
+      "importedId": "fQI7asLVHfOP6dfzo3FrOA",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62157,
+      "firstName": "Caitlin",
+      "lastName": "Mills",
+      "middleInitial": "",
+      "importedId": "fVgB57tbwndv9NuQ6PmByQ",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62158,
+      "firstName": "Enkelejda",
+      "lastName": "Kasneci",
+      "middleInitial": "",
+      "importedId": "w-Y3_-0lnRuNdG4CAkTJQA",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62159,
+      "firstName": "Sushmethaa",
+      "lastName": "Muhundan",
+      "middleInitial": "",
+      "importedId": "s4Z_m4Th02wmAc6GhdS0SQ",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62160,
+      "firstName": "Joost",
+      "lastName": "de Winter",
+      "middleInitial": "",
+      "importedId": "20G7KUhDoMXbfIQLcLVn9Q",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62161,
+      "firstName": "Jan",
+      "lastName": "Sonnenberg",
+      "middleInitial": "",
+      "importedId": "YwiDxFF6kqEHQ0kahA3GhA",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62162,
+      "firstName": "Angelica",
+      "lastName": "Tinga",
+      "middleInitial": "M",
+      "importedId": "0xsKONk8wBdcA1tqOrKcFQ",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62163,
+      "firstName": "Lisa",
+      "lastName": "Precht",
+      "middleInitial": "",
+      "importedId": "AgL7gDLMElfmFvpxhjLQ5Q",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62164,
+      "firstName": "Yoshio",
+      "lastName": "Ishiguro",
+      "middleInitial": "",
+      "importedId": "KELHV2x_XjeoZMQKSV5V1w",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62165,
+      "firstName": "Andreas",
+      "lastName": "Riener",
+      "middleInitial": "",
+      "importedId": "s4LlSVx4a-Dd_C3-rEKpAg",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62166,
+      "firstName": "Francesco",
+      "lastName": "Walker",
+      "middleInitial": "",
+      "importedId": "SBZXRhjpcSNUWOeln8NAsA",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62167,
+      "firstName": "Christian",
+      "lastName": "Janssen",
+      "middleInitial": "P.",
+      "importedId": "NpLdhq7_ZVFbDsmJ-tKozg",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62168,
+      "firstName": "Natasha",
+      "lastName": "Merat",
+      "middleInitial": "",
+      "importedId": "4VXx38Pcg2CACYdTQtSITg",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62169,
+      "firstName": "Jannik",
+      "lastName": "Wolf",
+      "middleInitial": "",
+      "importedId": "oLjpQfYnNLejHYUVoOQHgw",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62170,
+      "firstName": "Frank",
+      "lastName": "Diermeyer",
+      "middleInitial": "",
+      "importedId": "qoed51uGg4qHgAdg7Xu5uQ",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62171,
+      "firstName": "Marcel",
+      "lastName": "Woide",
+      "middleInitial": "",
+      "importedId": "4j59KZ435hO7XneYhaSxCw",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62172,
+      "firstName": "Divyabharathi",
+      "lastName": "Nagaraju",
+      "middleInitial": "",
+      "importedId": "UygGPMOGfbBnuMbmqJ7dug",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62173,
+      "firstName": "Hanna",
+      "lastName": "Braun",
+      "middleInitial": "",
+      "importedId": "Y9MoeYfawmUW2CrMyDrVLQ",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62174,
+      "firstName": "Agnes",
+      "lastName": "Reda",
+      "middleInitial": "",
+      "importedId": "yu4a-Y3bsSP1jTPEoxGTcw",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62175,
+      "firstName": "Debargha",
+      "lastName": "Dey",
+      "middleInitial": "",
+      "importedId": "kzPMLFNA1oWb6zBsfMx8gg",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62176,
+      "firstName": "Vivien",
+      "lastName": "Wallner",
+      "middleInitial": "",
+      "importedId": "bAb3fpWxeHI5r_abkxdv1A",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62177,
+      "firstName": "Javier Martinez",
+      "lastName": "Avila",
+      "middleInitial": "",
+      "importedId": "TDfKHrRbHP7BunK2WoXQsw",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62178,
+      "firstName": "Wilbert",
+      "lastName": "Tabone",
+      "middleInitial": "",
+      "importedId": "y1W1G_taxABWfRePM6llVA",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62179,
+      "firstName": "Tanja",
+      "lastName": "Stoll",
+      "middleInitial": "",
+      "importedId": "9pUNyMYoCwlht3TxA12SIQ",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62180,
+      "firstName": "Alberta",
+      "lastName": "Ansah",
+      "middleInitial": "",
+      "importedId": "JUWPL8h9NaZpofWXJNGHRQ",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62181,
+      "firstName": "Chantal",
+      "lastName": "Himmels",
+      "middleInitial": "",
+      "importedId": "wSE4HtWrg5E1DLurmbbQhQ",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62182,
+      "firstName": "Victor",
+      "lastName": "Fäßler",
+      "middleInitial": "",
+      "importedId": "TkJq1h4IpJzkbcQOfUFllw",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62183,
+      "firstName": "Yanan",
+      "lastName": "Wang",
+      "middleInitial": "",
+      "importedId": "E4gon_JOyGULd2nn4Hwq7w",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62184,
+      "firstName": "Jana",
+      "lastName": "Fank",
+      "middleInitial": "",
+      "importedId": "yXROTm_ZElorM9w8N-khhw",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62185,
+      "firstName": "Michael",
+      "lastName": "Gafert",
+      "middleInitial": "",
+      "importedId": "dGSgfpyOkqWkz_5HwikdOw",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62186,
+      "firstName": "Jan Henry",
+      "lastName": "Belz",
+      "middleInitial": "",
+      "importedId": "pUM_1hyDswZkO8GF6NM-jA",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62187,
+      "firstName": "Kazuya",
+      "lastName": "Takeda",
+      "middleInitial": "",
+      "importedId": "WCxxgDCUQDr5pi2EgbqkjQ",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62188,
+      "firstName": "Kamil",
+      "lastName": "Omozik",
+      "middleInitial": "",
+      "importedId": "ZyuRrYqFj6yEIkZQYFRJYw",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62189,
+      "firstName": "Katrine",
+      "lastName": "Hesseldahl",
+      "middleInitial": "Dalum",
+      "importedId": "syEvYFzzjPOz5n-b4wqRLg",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62190,
+      "firstName": "Myounghoon",
+      "lastName": "Jeon",
+      "middleInitial": "",
+      "importedId": "Jj0c3guSwqoC-DO7ttWDZQ",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62191,
+      "firstName": "Jiayu",
+      "lastName": "Wu",
+      "middleInitial": "",
+      "importedId": "foIBoJeEaY3NHPTRefwNWw",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62192,
+      "firstName": "Shijian",
+      "lastName": "Luo",
+      "middleInitial": "",
+      "importedId": "BqK4C3mtzsWbjTkTr-4qvQ",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62193,
+      "firstName": "Barbara",
+      "lastName": "Metz",
+      "middleInitial": "",
+      "importedId": "ORY17cN7gk3pbDjWeJsvPw",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62194,
+      "firstName": "Chengyi",
+      "lastName": "Shen",
+      "middleInitial": "",
+      "importedId": "VVI1sbz6_D5PPInW4TObfg",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62195,
+      "firstName": "Jakub",
+      "lastName": "Sypniewski",
+      "middleInitial": "",
+      "importedId": "L9h2S2hRolWOPKbnP9-gKA",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62196,
+      "firstName": "Jürgen",
+      "lastName": "Pichen",
+      "middleInitial": "",
+      "importedId": "1xbwD94PDDQzsyaRpXmxVA",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62197,
+      "firstName": "Axel",
+      "lastName": "Buchner",
+      "middleInitial": "",
+      "importedId": "WsYmoavjwoepU2sFn2m_Ig",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62198,
+      "firstName": "Johanna",
+      "lastName": "Wörle",
+      "middleInitial": "",
+      "importedId": "Fn-UCJ3gXoFWt6Ti_Wd0og",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62199,
+      "firstName": "Hebo",
+      "lastName": "Gong",
+      "middleInitial": "",
+      "importedId": "88XoV5YqQUZqA9nR7BKJ6Q",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62200,
+      "firstName": "X. Jessie",
+      "lastName": "Yang",
+      "middleInitial": "",
+      "importedId": "r4Hsd-VQzk3RQPBzjiwJ7A",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62201,
+      "firstName": "Oliver",
+      "lastName": "Jarosch",
+      "middleInitial": "",
+      "importedId": "yN7QGOCPrdxsRq90gUn0RQ",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62202,
+      "firstName": "Martin",
+      "lastName": "Schramm",
+      "middleInitial": "",
+      "importedId": "Ya0Xgz2defhMssBHUP8Lzg",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62203,
+      "firstName": "Bastian",
+      "lastName": "Pfleging",
+      "middleInitial": "",
+      "importedId": "ZdzVJV4BOj3f0X2rFLH9ew",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62204,
+      "firstName": "Megan",
+      "lastName": "Eskew",
+      "middleInitial": "",
+      "importedId": "5VopMJWf-NKMPY-8bfGQHw",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62205,
+      "firstName": "Thomas",
+      "lastName": "Kundinger",
+      "middleInitial": "",
+      "importedId": "d4pTI_rPa-trzBNA0M3Slg",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62206,
+      "firstName": "Lisa",
+      "lastName": "Orii",
+      "middleInitial": "",
+      "importedId": "uML6cHbl2WHAD6OR_uOeRg",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62207,
+      "firstName": "Itiro",
+      "lastName": "Siio",
+      "middleInitial": "",
+      "importedId": "43-zmpIt5zQ98ZvG7xs6LA",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62208,
+      "firstName": "Andreas",
+      "lastName": "Vogelsang",
+      "middleInitial": "",
+      "importedId": "t5eAvcWQW7hW_8TgW06K1A",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62209,
+      "firstName": "Raymond",
+      "lastName": "Cuijpers",
+      "middleInitial": "H.",
+      "importedId": "ZgzlGnCeweWClGydrwgwxA",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62210,
+      "firstName": "Patrick",
+      "lastName": "Ebel",
+      "middleInitial": "",
+      "importedId": "NteKveYuvk7U4_udF0ZdjA",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62211,
+      "firstName": "Dawn",
+      "lastName": "Tilbury",
+      "middleInitial": "",
+      "importedId": "OSQ9FSfS1-bkGAdioZg2fg",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62212,
+      "firstName": "Mohamed",
+      "lastName": "Kari",
+      "middleInitial": "",
+      "importedId": "Lrml1MyYjhpG-MTWVzgutQ",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62213,
+      "firstName": "Enrico",
+      "lastName": "Rukzio",
+      "middleInitial": "",
+      "importedId": "FrzgGkMaoVPeiaBR8A7mbg",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62214,
+      "firstName": "Yee Mun",
+      "lastName": "Lee",
+      "middleInitial": "",
+      "importedId": "sje0fV8u9Gr7PnJxmbBIuQ",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62215,
+      "firstName": "Christoph",
+      "lastName": "Lingenfelder",
+      "middleInitial": "",
+      "importedId": "0DLiSW2LjvjMYCojEmUfkQ",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62216,
+      "firstName": "Monique",
+      "lastName": "Dittrich",
+      "middleInitial": "",
+      "importedId": "wSopWvRda0Z56RvnhwYrvw",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62217,
+      "firstName": "Arjen",
+      "lastName": "van Vastenhoven",
+      "middleInitial": "",
+      "importedId": "46RASdcPpCB9bFgr8yLP2Q",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62218,
+      "firstName": "Andrew",
+      "lastName": "Kun",
+      "middleInitial": "L",
+      "importedId": "IsHfpF-VOuc5l3hKertHAg",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62219,
+      "firstName": "Dale",
+      "lastName": "Harrow",
+      "middleInitial": "",
+      "importedId": "RPYS8b_NpygOz9mS3yepKw",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62220,
+      "firstName": "Antoine",
+      "lastName": "de Reus",
+      "middleInitial": "",
+      "importedId": "D5pwpqJykCKKzODB1BxfhQ",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62221,
+      "firstName": "Sonja",
+      "lastName": "Cornelsen",
+      "middleInitial": "",
+      "importedId": "Nk1RwlAnWkMZo0Twrakfuw",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62222,
+      "firstName": "Nabil Al Nahin",
+      "lastName": "Ch",
+      "middleInitial": "",
+      "importedId": "-fDA3ZR2ud8sSSTNmYhZ6A",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62223,
+      "firstName": "Wenyin",
+      "lastName": "Zou",
+      "middleInitial": "",
+      "importedId": "iz2ZCFnjNI-npdQyEyXjaw",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62224,
+      "firstName": "Anna-Antonia",
+      "lastName": "Pape",
+      "middleInitial": "",
+      "importedId": "AwMY7xSXMjHnTaZbTsmJWQ",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62225,
+      "firstName": "Abhraneil",
+      "lastName": "Dam",
+      "middleInitial": "",
+      "importedId": "bkoyFPHvCDnoqHkwf_75FA",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62226,
+      "firstName": "Jan",
+      "lastName": "Bickerdt",
+      "middleInitial": "",
+      "importedId": "fNeB9Ih552pRDF63MuKeGw",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62227,
+      "firstName": "Martin",
+      "lastName": "Baumann",
+      "middleInitial": "",
+      "importedId": "cdDq4XCwWFZwd_wWY10KJQ",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62228,
+      "firstName": "Marco",
+      "lastName": "Wiedner",
+      "middleInitial": "",
+      "importedId": "2tFZWkuKjiKT5Z9h4NS8-Q",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62229,
+      "firstName": "David",
+      "lastName": "Bethge",
+      "middleInitial": "",
+      "importedId": "qACCHjWh7-3IiipLGtNcuw",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62230,
+      "firstName": "Seul Chan",
+      "lastName": "Lee",
+      "middleInitial": "",
+      "importedId": "WpMGVKM0ndhyS6iCJ95cqw",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62231,
+      "firstName": "Jussi",
+      "lastName": "Jokinen",
+      "middleInitial": "P. P.",
+      "importedId": "YfRPR80LsAd6QYcKbNTx2g",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62232,
+      "firstName": "Feng",
+      "lastName": "Zhou",
+      "middleInitial": "",
+      "importedId": "Jby-aDyHb3ydUXizxDMlgQ",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62233,
+      "firstName": "Tuomo",
+      "lastName": "Kujala",
+      "middleInitial": "",
+      "importedId": "dtlY-fv0vVEQDRx2zsxvQw",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62234,
+      "firstName": "Sheila",
+      "lastName": "Clark",
+      "middleInitial": "",
+      "importedId": "s2uFe75GcoZzAX_MjTr08g",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62235,
+      "firstName": "Harsh",
+      "lastName": "Sanghavi",
+      "middleInitial": "Kamalesh",
+      "importedId": "cMsG1xpwq5sZtW_veYv6XQ",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62236,
+      "firstName": "Orit",
+      "lastName": "Shaer",
+      "middleInitial": "",
+      "importedId": "xka0LACXWbp5CFR0Vth3Xw",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62237,
+      "firstName": "Anne",
+      "lastName": "Zühlsdorff",
+      "middleInitial": "",
+      "importedId": "XU7952wYrnSLLVzpksIDcw",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62238,
+      "firstName": "Alexander",
+      "lastName": "Mirnig",
+      "middleInitial": "G.",
+      "importedId": "zuYo2UmLKGgP-GZRJKLFNA",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62239,
+      "firstName": "Manhua",
+      "lastName": "Wang",
+      "middleInitial": "",
+      "importedId": "18XRqSC88fZ3cyGMYUH4Bw",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62240,
+      "firstName": "Kana",
+      "lastName": "Bito",
+      "middleInitial": "",
+      "importedId": "gtFdFYG6uKkuZuBwAdA5oQ",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62241,
+      "firstName": "Mirjam",
+      "lastName": "Lanzer",
+      "middleInitial": "",
+      "importedId": "LAbkUpXgmyaXzcDjqJDPZg",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62242,
+      "firstName": "Yasemin",
+      "lastName": "Dönmez Özkan",
+      "middleInitial": "",
+      "importedId": "svZuCNKeW_kKytEK8rVs1A",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62243,
+      "firstName": "Christian",
+      "lastName": "Knies",
+      "middleInitial": "",
+      "importedId": "GpiiHox-8vx9CsGia0nDvw",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62244,
+      "firstName": "Manfred",
+      "lastName": "Tscheligi",
+      "middleInitial": "",
+      "importedId": "H0xTlBTd7quX3RMy28fTEw",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62245,
+      "firstName": "Reinier",
+      "lastName": "Jansen",
+      "middleInitial": "J",
+      "importedId": "yjr63sHTJnpc0A0_cEeYIQ",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62246,
+      "firstName": "Mark",
+      "lastName": "Colley",
+      "middleInitial": "",
+      "importedId": "k9GwjoFmtOKP1dRf6dW8sw",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62247,
+      "firstName": "Diana",
+      "lastName": "Tosca",
+      "middleInitial": "",
+      "importedId": "bqOR9izztabZF1SMhCe8yA",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62248,
+      "firstName": "Zhitong",
+      "lastName": "Cui",
+      "middleInitial": "",
+      "importedId": "u3V-MF07QYO2XoMa6iBJxg",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62249,
+      "firstName": "Christian",
+      "lastName": "Gollnick",
+      "middleInitial": "",
+      "importedId": "VTcbjs3BviwmR2j7mtuuiA",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62250,
+      "firstName": "Dan",
+      "lastName": "Quinlan",
+      "middleInitial": "",
+      "importedId": "CUJPh9ehhixFqYtVa0MWQA",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62251,
+      "firstName": "Magdalena",
+      "lastName": "Gärtner",
+      "middleInitial": "",
+      "importedId": "sJG5jn98BkkWYmnwPovzTA",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62252,
+      "firstName": "Ali",
+      "lastName": "Askari",
+      "middleInitial": "",
+      "importedId": "yXwewfDlyDjVgre3ndii0g",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62253,
+      "firstName": "Willem",
+      "lastName": "Verwey",
+      "middleInitial": "",
+      "importedId": "s2B1ilx5-MJqpsZcBWqWCg",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62254,
+      "firstName": "Andreas",
+      "lastName": "Butz",
+      "middleInitial": "",
+      "importedId": "CWYpLecThpHr6-Hh2dxUZA",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62255,
+      "firstName": "Klas",
+      "lastName": "Ihme",
+      "middleInitial": "",
+      "importedId": "vzwjfnUDGgxeL0YcArqcgA",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62288,
+      "firstName": "Fuku",
+      "lastName": "Himuro",
+      "middleInitial": "",
+      "importedId": "0lmtmU0cFU7yuFWCdDII5w",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62289,
+      "firstName": "Mohammad",
+      "lastName": "Faramarzian",
+      "middleInitial": "",
+      "importedId": "55iN4yiP-ZCyOxrsX7pWug",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62290,
+      "firstName": "Daniel",
+      "lastName": "Johnson",
+      "middleInitial": "",
+      "importedId": "541CYGiJIx_2xKhmw3O3BQ",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62291,
+      "firstName": "Moustafa",
+      "lastName": "Tabbarah",
+      "middleInitial": "",
+      "importedId": "jsKGdJbbPPrvWXan3pFLyg",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62292,
+      "firstName": "Clemens",
+      "lastName": "Schartmüller",
+      "middleInitial": "",
+      "importedId": "fC69NwzkjlJ4aEHbhBQZkA",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62293,
+      "firstName": "Jorge",
+      "lastName": "Pardo",
+      "middleInitial": "",
+      "importedId": "rUQ3OATtP1iGGWvAnZ-zQQ",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62294,
+      "firstName": "Werner",
+      "lastName": "Huber",
+      "middleInitial": "",
+      "importedId": "5nocq4PWwBoja6747vffKw",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62295,
+      "firstName": "Wendy",
+      "lastName": "Ju",
+      "middleInitial": "",
+      "importedId": "p5BP52mcA_s2AjtD8cejnw",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62296,
+      "firstName": "Matti",
+      "lastName": "Krüger",
+      "middleInitial": "",
+      "importedId": "78w9iEYA8G1BjuJEnLhMBg",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62297,
+      "firstName": "Jorge Lorente",
+      "lastName": "Mallada",
+      "middleInitial": "",
+      "importedId": "pXHXOS6i1IxWYdua8cv8cg",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62298,
+      "firstName": "Kazuyuki",
+      "lastName": "Yoneyama",
+      "middleInitial": "",
+      "importedId": "N61jUel_6Sx94v2dUk68Pg",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62299,
+      "firstName": "Ruth",
+      "lastName": "Madigan",
+      "middleInitial": "",
+      "importedId": "Q0tL2UynwX_PhZzBNhSY-A",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62300,
+      "firstName": "Thomas",
+      "lastName": "Weisswange",
+      "middleInitial": "H.",
+      "importedId": "rI8TTc8454yAtL86t5l6Hw",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62301,
+      "firstName": "Michael",
+      "lastName": "Gerber",
+      "middleInitial": "A.",
+      "importedId": "ehq4ok3q8znwmMRknRv4FA",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62302,
+      "firstName": "Seona",
+      "lastName": "Jeong",
+      "middleInitial": "",
+      "importedId": "-aYi-VUgvG645V_aAvUBMg",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62303,
+      "firstName": "Tyron",
+      "lastName": "Louw",
+      "middleInitial": "",
+      "importedId": "QTHXXXQId1QkSKuGAMcHfg",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62304,
+      "firstName": "Philipp",
+      "lastName": "Hock",
+      "middleInitial": "",
+      "importedId": "ckuj20bD-h3w540gdAZxug",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62305,
+      "firstName": "Chao",
+      "lastName": "Wang",
+      "middleInitial": "",
+      "importedId": "c9IlUBeRSLaLXWFRIl2ULw",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62306,
+      "firstName": "Jakob",
+      "lastName": "Peintner",
+      "middleInitial": "Benedikt",
+      "importedId": "gnEJoL29WV7-kqo9BontTA",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62307,
+      "firstName": "Florian",
+      "lastName": "Hammer",
+      "middleInitial": "",
+      "importedId": "zqX_417i-L4B9pWmgfB2SA",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62308,
+      "firstName": "Naotaka",
+      "lastName": "Ikutomi",
+      "middleInitial": "",
+      "importedId": "M4KCgnmq8x4pmBk1jHMs3g",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62309,
+      "firstName": "Yi",
+      "lastName": "Liu",
+      "middleInitial": "",
+      "importedId": "CmaBiSHyELr0-YDnh6zvvw",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62310,
+      "firstName": "Ronald",
+      "lastName": "Schroeter",
+      "middleInitial": "",
+      "importedId": "aQOwmjaDRJgkvjZMmx1yFQ",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62311,
+      "firstName": "Cinzia",
+      "lastName": "De Marco",
+      "middleInitial": "",
+      "importedId": "qWN61LnUJjDh05L8VcOcPA",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62312,
+      "firstName": "Takashi",
+      "lastName": "Matsumoto",
+      "middleInitial": "",
+      "importedId": "7Wgu-m9AC0ZziTH9RDzPHw",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62313,
+      "firstName": "Jelena",
+      "lastName": "Rosic",
+      "middleInitial": "",
+      "importedId": "VdURdlbSJbrCADWLMH4WZg",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62314,
+      "firstName": "Ilan",
+      "lastName": "Mandel",
+      "middleInitial": "",
+      "importedId": "B-BBteJrKyec7hvMYjdw_g",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62315,
+      "firstName": "Sebastien",
+      "lastName": "Glaser",
+      "middleInitial": "",
+      "importedId": "ACujBgfQ8jgeLnkB3Hi04Q",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62316,
+      "firstName": "Xiaomeng",
+      "lastName": "Li",
+      "middleInitial": "",
+      "importedId": "rxCGPVIV9Ok1O-heXBHWpg",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62317,
+      "firstName": "Andry",
+      "lastName": "Rakotonirainy",
+      "middleInitial": "",
+      "importedId": "iodqG4DgO13PilkewIGgUA",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62318,
+      "firstName": "Maikol",
+      "lastName": "Funk Drechsler",
+      "middleInitial": "",
+      "importedId": "yXFejTHZMaQO0y7kyLlTwg",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62319,
+      "firstName": "Georg",
+      "lastName": "Seifert",
+      "middleInitial": "",
+      "importedId": "plKSZyEzdjlw3bDCrQsG_Q",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62320,
+      "firstName": "Michihito",
+      "lastName": "Shiraishi",
+      "middleInitial": "",
+      "importedId": "WNDLmjuSHhB6zR9aQSlWpg",
+      "source": "PCS",
+      "affiliations": []
+    },
+    {
+      "id": 62321,
+      "firstName": "Yusheng",
+      "lastName": "Cao",
+      "middleInitial": "",
+      "importedId": "6ZF77-sGAGJBu80WXjLgLQ",
+      "source": "PCS",
+      "affiliations": []
+    }
+  ],
+  "recognitions": []
+}

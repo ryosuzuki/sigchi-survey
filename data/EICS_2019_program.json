@@ -1,0 +1,3792 @@
+{
+  "schemeVersion": 7,
+  "cc_licence": "Content of this file is licensed under a CC BY-NC-SA 4.0 license. For details see https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "conference": {
+    "id": 10013,
+    "startDate": 1560729600000,
+    "endDate": 1561075200000,
+    "shortName": "EICS",
+    "name": "EICS 2019",
+    "year": 2019,
+    "fullName": "11th Engineering Interactive Computing Systems (EICS) conference.",
+    "url": "https://eics.acm.org/2019/",
+    "location": "Valencia, Spain",
+    "timeZoneOffset": 120,
+    "logoUrl": "https://files.sigchi.org/conference/logo/83e010f3-308f-f464-0608-26f2f872777e.png",
+    "timeZoneName": "Europe/Madrid"
+  },
+  "sponsors": [],
+  "sponsorLevels": [
+    {
+      "id": 10017,
+      "name": "Sponsors",
+      "rank": 1,
+      "isDefault": true
+    }
+  ],
+  "floors": [
+    {
+      "id": 10057,
+      "name": "Blue Cube. N.",
+      "roomIds": [
+        10231,
+        10248
+      ]
+    },
+    {
+      "id": 10058,
+      "name": "Main Building",
+      "mapImageUrl": "https://files.sigchi.org/conference/floor/8c149562-14f4-577f-378e-00b1cb8cc65c.png"
+    },
+    {
+      "id": 10056,
+      "name": "Red Cube. J. 4 th Floor.",
+      "mapImageUrl": "https://files.sigchi.org/conference/floor/2388980f-2735-664f-14f5-b963fc3dd29d.png",
+      "roomIds": [
+        10230,
+        10229,
+        10228,
+        10232
+      ]
+    }
+  ],
+  "rooms": [
+    {
+      "id": 10231,
+      "name": "BLUE-Auditorium",
+      "typeId": 10118,
+      "setup": "Theatre",
+      "note": "blue cube N "
+    },
+    {
+      "id": 10248,
+      "name": "BLUE-Auditorium Hall",
+      "typeId": 10116,
+      "setup": "Special",
+      "note": "blue cube N"
+    },
+    {
+      "id": 10230,
+      "name": "RED-Aprende room",
+      "typeId": 10120,
+      "setup": "Theatre",
+      "note": "red cube J"
+    },
+    {
+      "id": 10229,
+      "name": "RED-Debate room",
+      "typeId": 10120,
+      "setup": "Theatre",
+      "note": "red cube J"
+    },
+    {
+      "id": 10228,
+      "name": "RED-Descubre room",
+      "typeId": 10120,
+      "setup": "Theatre",
+      "note": "red cube J"
+    },
+    {
+      "id": 10232,
+      "name": "RED-Escoge room",
+      "typeId": 10119,
+      "setup": "Theatre",
+      "note": "red cube  J"
+    }
+  ],
+  "tracks": [
+    {
+      "id": 10389,
+      "typeId": 10118
+    },
+    {
+      "id": 10569,
+      "typeId": 11376
+    },
+    {
+      "id": 10383,
+      "typeId": 10118
+    },
+    {
+      "id": 10388,
+      "typeId": 10118
+    },
+    {
+      "id": 10384,
+      "typeId": 10118
+    },
+    {
+      "id": 10386,
+      "typeId": 11414
+    },
+    {
+      "id": 10385,
+      "typeId": 10118
+    },
+    {
+      "id": 10568,
+      "typeId": 11415
+    }
+  ],
+  "contentTypes": [
+    {
+      "id": 10115,
+      "name": "Invited Talk",
+      "color": "#66c2a4",
+      "duration": 60,
+      "displayName": "Invited Talks"
+    },
+    {
+      "id": 10113,
+      "name": "Course",
+      "color": "#e6550d",
+      "duration": 90,
+      "displayName": "Courses"
+    },
+    {
+      "id": 10116,
+      "name": "Operations",
+      "color": "#006d2c",
+      "duration": 90
+    },
+    {
+      "id": 10117,
+      "name": "Panel",
+      "color": "#6baed6",
+      "duration": 90,
+      "displayName": "Panels"
+    },
+    {
+      "id": 10118,
+      "name": "Paper",
+      "color": "#08519c",
+      "duration": 20,
+      "displayName": "Papers"
+    },
+    {
+      "id": 10119,
+      "name": "Plenary",
+      "color": "#756bb1",
+      "duration": 90
+    },
+    {
+      "id": 10120,
+      "name": "Workshop",
+      "color": "#de2d26",
+      "duration": 240,
+      "displayName": "Workshops"
+    },
+    {
+      "id": 11414,
+      "name": "Doctoral Consortium",
+      "color": "#90979a",
+      "duration": 45
+    },
+    {
+      "id": 10111,
+      "name": "SIG",
+      "color": "#7a0177",
+      "duration": 90
+    },
+    {
+      "id": 10112,
+      "name": "Case Study",
+      "color": "#993404",
+      "duration": 20,
+      "displayName": "Case Studies"
+    },
+    {
+      "id": 11376,
+      "name": "Workshop paper",
+      "color": "#90979a",
+      "duration": 15
+    },
+    {
+      "id": 11415,
+      "name": "Tutorial",
+      "color": "#90979a",
+      "duration": 90,
+      "displayName": "Tutorials"
+    },
+    {
+      "id": 11413,
+      "name": "Break",
+      "color": "#90979a",
+      "duration": 30
+    },
+    {
+      "id": 10114,
+      "name": "Event",
+      "color": "#fecc5c",
+      "duration": 0,
+      "displayName": "Events"
+    }
+  ],
+  "timeSlots": [
+    {
+      "id": 10949,
+      "type": "SESSION",
+      "startDate": 1560849300000,
+      "endDate": 1560850200000
+    },
+    {
+      "id": 10951,
+      "type": "BREAK",
+      "startDate": 1560853800000,
+      "endDate": 1560855600000
+    },
+    {
+      "id": 10952,
+      "type": "SESSION",
+      "startDate": 1560855600000,
+      "endDate": 1560861000000
+    },
+    {
+      "id": 10953,
+      "type": "LUNCH",
+      "startDate": 1560861000000,
+      "endDate": 1560866400000
+    },
+    {
+      "id": 10954,
+      "type": "SESSION",
+      "startDate": 1560866400000,
+      "endDate": 1560871800000
+    },
+    {
+      "id": 10956,
+      "type": "SESSION",
+      "startDate": 1560873600000,
+      "endDate": 1560879000000
+    },
+    {
+      "id": 10955,
+      "type": "BREAK",
+      "startDate": 1560871800000,
+      "endDate": 1560873600000
+    },
+    {
+      "id": 10950,
+      "type": "SESSION",
+      "startDate": 1560850200000,
+      "endDate": 1560853800000
+    },
+    {
+      "id": 10991,
+      "type": "SESSION",
+      "startDate": 1560933000000,
+      "endDate": 1560935700000
+    },
+    {
+      "id": 10992,
+      "type": "SESSION",
+      "startDate": 1560935700000,
+      "endDate": 1560936600000
+    },
+    {
+      "id": 10993,
+      "type": "SESSION",
+      "startDate": 1560936600000,
+      "endDate": 1560940200000
+    },
+    {
+      "id": 10994,
+      "type": "BREAK",
+      "startDate": 1560940200000,
+      "endDate": 1560942000000
+    },
+    {
+      "id": 10995,
+      "type": "SESSION",
+      "startDate": 1560942000000,
+      "endDate": 1560947400000
+    },
+    {
+      "id": 10996,
+      "type": "LUNCH",
+      "startDate": 1560947400000,
+      "endDate": 1560952800000
+    },
+    {
+      "id": 10999,
+      "type": "BREAK",
+      "startDate": 1560958200000,
+      "endDate": 1560960000000
+    },
+    {
+      "id": 11000,
+      "type": "SESSION",
+      "startDate": 1560960000000,
+      "endDate": 1560965400000
+    },
+    {
+      "id": 11001,
+      "type": "SESSION",
+      "startDate": 1560969000000,
+      "endDate": 1560976200000
+    },
+    {
+      "id": 10997,
+      "type": "SESSION",
+      "startDate": 1560952800000,
+      "endDate": 1560958200000
+    },
+    {
+      "id": 11011,
+      "type": "SESSION",
+      "startDate": 1561109400000,
+      "endDate": 1561113000000
+    },
+    {
+      "id": 11013,
+      "type": "SESSION",
+      "startDate": 1561114800000,
+      "endDate": 1561123800000
+    },
+    {
+      "id": 11014,
+      "type": "LUNCH",
+      "startDate": 1561123800000,
+      "endDate": 1561129200000
+    },
+    {
+      "id": 11016,
+      "type": "SESSION",
+      "startDate": 1560851100000,
+      "endDate": 1560853800000
+    },
+    {
+      "id": 11023,
+      "type": "SESSION",
+      "startDate": 1560769200000,
+      "endDate": 1560774600000
+    },
+    {
+      "id": 11024,
+      "type": "LUNCH",
+      "startDate": 1560774600000,
+      "endDate": 1560780000000
+    },
+    {
+      "id": 11025,
+      "type": "SESSION",
+      "startDate": 1560780000000,
+      "endDate": 1560787200000
+    },
+    {
+      "id": 11026,
+      "type": "BREAK",
+      "startDate": 1560787200000,
+      "endDate": 1560789000000
+    },
+    {
+      "id": 11027,
+      "type": "SESSION",
+      "startDate": 1560789000000,
+      "endDate": 1560792600000
+    },
+    {
+      "id": 11012,
+      "type": "BREAK",
+      "startDate": 1561113300000,
+      "endDate": 1561114800000
+    },
+    {
+      "id": 11029,
+      "type": "SESSION",
+      "startDate": 1561044000000,
+      "endDate": 1561046400000
+    },
+    {
+      "id": 11002,
+      "type": "SESSION",
+      "startDate": 1561019400000,
+      "endDate": 1561023000000
+    },
+    {
+      "id": 11003,
+      "type": "SESSION",
+      "startDate": 1561023000000,
+      "endDate": 1561026600000
+    },
+    {
+      "id": 11004,
+      "type": "BREAK",
+      "startDate": 1561026600000,
+      "endDate": 1561028400000
+    },
+    {
+      "id": 11005,
+      "type": "SESSION",
+      "startDate": 1561028400000,
+      "endDate": 1561033800000
+    },
+    {
+      "id": 11006,
+      "type": "LUNCH",
+      "startDate": 1561033800000,
+      "endDate": 1561039200000
+    },
+    {
+      "id": 11008,
+      "type": "BREAK",
+      "startDate": 1561044600000,
+      "endDate": 1561046400000
+    },
+    {
+      "id": 11009,
+      "type": "SESSION",
+      "startDate": 1561046400000,
+      "endDate": 1561051800000
+    },
+    {
+      "id": 11010,
+      "type": "SESSION",
+      "startDate": 1561062600000,
+      "endDate": 1561073400000
+    },
+    {
+      "id": 11015,
+      "type": "SESSION",
+      "startDate": 1560976200000,
+      "endDate": 1560985200000
+    },
+    {
+      "id": 10958,
+      "type": "SESSION",
+      "startDate": 1560850200000,
+      "endDate": 1560851100000
+    },
+    {
+      "id": 11021,
+      "type": "SESSION",
+      "startDate": 1560855600000,
+      "endDate": 1560859200000
+    },
+    {
+      "id": 11022,
+      "type": "SESSION",
+      "startDate": 1560859200000,
+      "endDate": 1560861000000
+    },
+    {
+      "id": 11028,
+      "type": "SESSION",
+      "startDate": 1561113000000,
+      "endDate": 1561113300000
+    },
+    {
+      "id": 11007,
+      "type": "SESSION",
+      "startDate": 1561039200000,
+      "endDate": 1561044000000
+    },
+    {
+      "id": 11017,
+      "type": "SESSION",
+      "startDate": 1560855600000,
+      "endDate": 1560859800000
+    },
+    {
+      "id": 11018,
+      "type": "SESSION",
+      "startDate": 1560859800000,
+      "endDate": 1560861000000
+    },
+    {
+      "id": 11019,
+      "type": "SESSION",
+      "startDate": 1560850200000,
+      "endDate": 1560852600000
+    },
+    {
+      "id": 11020,
+      "type": "SESSION",
+      "startDate": 1560852600000,
+      "endDate": 1560853800000
+    }
+  ],
+  "sessions": [
+    {
+      "id": 1586,
+      "name": "Coffee break",
+      "typeId": 11413,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 10994
+    },
+    {
+      "id": 1068,
+      "name": "Doctoral Consortium",
+      "typeId": 11414,
+      "roomId": 10232,
+      "chairIds": [
+        10301,
+        18715,
+        22080,
+        9011,
+        16216,
+        13726
+      ],
+      "contentIds": [
+        6797,
+        4390
+      ],
+      "timeSlotId": 10952
+    },
+    {
+      "id": 1676,
+      "name": "Coffee break",
+      "typeId": 11413,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 10951
+    },
+    {
+      "id": 1233,
+      "name": "Coffee break",
+      "typeId": 11413,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11008
+    },
+    {
+      "id": 2142,
+      "name": "HCI Eng.: Working groups",
+      "typeId": 10120,
+      "roomId": 10228,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 10952
+    },
+    {
+      "id": 2008,
+      "name": "Lunch",
+      "typeId": 11413,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11006
+    },
+    {
+      "id": 2267,
+      "name": "Lunch",
+      "typeId": 11413,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11014
+    },
+    {
+      "id": 1403,
+      "name": "Session 1: Quality",
+      "typeId": 10118,
+      "roomId": 10231,
+      "chairIds": [
+        8528
+      ],
+      "contentIds": [
+        7525,
+        3849,
+        7341
+      ],
+      "timeSlotId": 10995
+    },
+    {
+      "id": 1578,
+      "name": "Keynote, Julio Abascal: Engineering Inaccessible Computing Systems",
+      "typeId": 10115,
+      "roomId": 10231,
+      "chairIds": [
+        9011
+      ],
+      "contentIds": [
+        3505
+      ],
+      "timeSlotId": 11003
+    },
+    {
+      "id": 1954,
+      "name": "Session 5: User Behaviour",
+      "typeId": 10118,
+      "roomId": 10231,
+      "chairIds": [
+        9052
+      ],
+      "contentIds": [
+        7000,
+        4203,
+        6282
+      ],
+      "timeSlotId": 11009
+    },
+    {
+      "id": 1602,
+      "name": "HCI Eng.: Plenary discussion on follow-up activities - Joint session with EISMS workshop",
+      "typeId": 10120,
+      "roomId": 10228,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 10956
+    },
+    {
+      "id": 1450,
+      "name": "SMARTOBJECTS: Session 1. Welcome and Keynote",
+      "typeId": 10120,
+      "roomId": 10229,
+      "chairIds": [
+        23573
+      ],
+      "contentIds": [
+        5602
+      ],
+      "timeSlotId": 11019
+    },
+    {
+      "id": 1748,
+      "name": "SMARTOBJECTS: Session 2. Smart Devices",
+      "typeId": 10120,
+      "roomId": 10229,
+      "chairIds": [
+        23573
+      ],
+      "contentIds": [
+        5249
+      ],
+      "timeSlotId": 11020
+    },
+    {
+      "id": 2369,
+      "name": "Lunch",
+      "typeId": 11413,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 10953
+    },
+    {
+      "id": 1105,
+      "name": "HCI Eng.: Working groups / report back",
+      "typeId": 10120,
+      "roomId": 10228,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 10954
+    },
+    {
+      "id": 1712,
+      "name": "EISMS Session 1",
+      "typeId": 10120,
+      "roomId": 10230,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 10958
+    },
+    {
+      "id": 1894,
+      "name": "IFIP WG 2.7/13.4 business meeting (members only)",
+      "typeId": 10120,
+      "roomId": 10228,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11023
+    },
+    {
+      "id": 1176,
+      "name": "HCI Eng.: Session 1 - Smart Things & Session 2 - Novel interactions",
+      "typeId": 10120,
+      "roomId": 10228,
+      "chairIds": [],
+      "contentIds": [
+        7731,
+        7902,
+        7006,
+        3915,
+        4955,
+        3763,
+        4595
+      ],
+      "timeSlotId": 11025
+    },
+    {
+      "id": 1867,
+      "name": "Tutorial, Kathia Oliveira: Measuring the Quality of Interactive Systems",
+      "typeId": 11415,
+      "roomId": 10228,
+      "chairIds": [],
+      "contentIds": [
+        4213
+      ],
+      "timeSlotId": 10997
+    },
+    {
+      "id": 1016,
+      "name": "Session 4: Gestures",
+      "typeId": 10118,
+      "roomId": 10231,
+      "chairIds": [
+        14087
+      ],
+      "contentIds": [
+        5037,
+        6224
+      ],
+      "timeSlotId": 11005
+    },
+    {
+      "id": 2299,
+      "name": "EISMS: Preparation for focused discussions (identification of topics)",
+      "typeId": 10120,
+      "roomId": 10230,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11018
+    },
+    {
+      "id": 1319,
+      "name": "SMARTOBJECTS: Session 3. Smart Spaces",
+      "typeId": 10120,
+      "roomId": 10229,
+      "chairIds": [
+        10911
+      ],
+      "contentIds": [
+        7208,
+        5604,
+        6242
+      ],
+      "timeSlotId": 11021
+    },
+    {
+      "id": 1720,
+      "name": "SMARTOBJECTS: Session 4. Discussion and Closing",
+      "typeId": 10120,
+      "roomId": 10229,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11022
+    },
+    {
+      "id": 1900,
+      "name": "Lunch",
+      "typeId": 11413,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11024
+    },
+    {
+      "id": 1343,
+      "name": "Coffee break",
+      "typeId": 11413,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11026
+    },
+    {
+      "id": 1267,
+      "name": "Coffee break",
+      "typeId": 11413,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 10955
+    },
+    {
+      "id": 2511,
+      "name": "Workshop registration",
+      "typeId": 10120,
+      "roomId": 10248,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 10949
+    },
+    {
+      "id": 1758,
+      "name": "HCI Eng.: Session 3 - Processes and Quality",
+      "typeId": 10120,
+      "roomId": 10228,
+      "chairIds": [],
+      "contentIds": [
+        6131,
+        6345,
+        5451,
+        6194,
+        3106
+      ],
+      "timeSlotId": 11027
+    },
+    {
+      "id": 1436,
+      "name": "Session 2: Evaluations",
+      "typeId": 10118,
+      "roomId": 10231,
+      "chairIds": [
+        11593
+      ],
+      "contentIds": [
+        8145,
+        6200
+      ],
+      "timeSlotId": 10997
+    },
+    {
+      "id": 1471,
+      "name": "Tech Notes + LBR elevator speech",
+      "typeId": 10118,
+      "roomId": 10231,
+      "chairIds": [
+        12458
+      ],
+      "contentIds": [
+        5642,
+        7267,
+        5634
+      ],
+      "timeSlotId": 11007
+    },
+    {
+      "id": 1805,
+      "name": "EISMS: Focused discussions",
+      "typeId": 10120,
+      "roomId": 10230,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 10954
+    },
+    {
+      "id": 1190,
+      "name": "Coffee break",
+      "typeId": 11413,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 10999
+    },
+    {
+      "id": 2262,
+      "name": "Coffee break",
+      "typeId": 11413,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11012
+    },
+    {
+      "id": 1862,
+      "name": "Registration",
+      "typeId": 10116,
+      "roomId": 10248,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 10991
+    },
+    {
+      "id": 1854,
+      "name": "Awards Ceremony",
+      "typeId": 10114,
+      "roomId": 10231,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11028
+    },
+    {
+      "id": 2389,
+      "name": "Session 3: Model-Based",
+      "typeId": 10118,
+      "roomId": 10231,
+      "chairIds": [
+        10579
+      ],
+      "contentIds": [
+        6576,
+        5573,
+        7333
+      ],
+      "timeSlotId": 11000
+    },
+    {
+      "id": 1853,
+      "name": "Session 6: Advanced Systems",
+      "typeId": 10118,
+      "roomId": 10231,
+      "chairIds": [
+        15337
+      ],
+      "contentIds": [
+        2827,
+        6132,
+        5577,
+        3453,
+        6970
+      ],
+      "timeSlotId": 11013
+    },
+    {
+      "id": 1967,
+      "name": "EISMS Session 2",
+      "typeId": 10120,
+      "roomId": 10230,
+      "chairIds": [],
+      "contentIds": [
+        5532,
+        4182,
+        7352
+      ],
+      "timeSlotId": 11016
+    },
+    {
+      "id": 1535,
+      "name": "EISMS: Reporting and future directions",
+      "typeId": 10120,
+      "roomId": 10230,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 10956
+    },
+    {
+      "id": 2360,
+      "name": "Coffee break",
+      "typeId": 11413,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11004
+    },
+    {
+      "id": 1683,
+      "name": "HCI Eng.: Plenary discussion to setup working groups. Working groups",
+      "typeId": 10120,
+      "roomId": 10228,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 10950
+    },
+    {
+      "id": 2138,
+      "name": "Lunch",
+      "typeId": 11413,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 10996
+    },
+    {
+      "id": 2379,
+      "name": "Conference Opening",
+      "typeId": 10119,
+      "roomId": 10231,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 10992
+    },
+    {
+      "id": 1133,
+      "name": "Keynote Jacob Wobbrock: Situationally Aware Mobile Devices for Overcoming Situational Impairments",
+      "typeId": 10115,
+      "roomId": 10231,
+      "chairIds": [
+        9993
+      ],
+      "contentIds": [
+        5774
+      ],
+      "timeSlotId": 10993
+    },
+    {
+      "id": 2382,
+      "name": "ACM Volunteers meeting",
+      "typeId": 10114,
+      "roomId": 10228,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11002
+    },
+    {
+      "id": 1080,
+      "name": "Keynote, Pedro J. Molina: Modeling and producing User Interfaces with Web Components in Quid",
+      "typeId": 10115,
+      "roomId": 10231,
+      "chairIds": [
+        22080
+      ],
+      "contentIds": [
+        4538
+      ],
+      "timeSlotId": 11011
+    },
+    {
+      "id": 2340,
+      "name": "EISMS: Session 3",
+      "typeId": 10120,
+      "roomId": 10230,
+      "chairIds": [],
+      "contentIds": [
+        4250,
+        5535,
+        4637,
+        7406
+      ],
+      "timeSlotId": 11017
+    },
+    {
+      "id": 2503,
+      "name": "LBR elevator speech",
+      "typeId": 10118,
+      "roomId": 10231,
+      "chairIds": [],
+      "contentIds": [
+        4622,
+        6658,
+        2764,
+        7901,
+        7344,
+        4078,
+        3845,
+        7169,
+        7889,
+        3704,
+        4633,
+        5324,
+        5489,
+        3465
+      ],
+      "timeSlotId": 11029
+    }
+  ],
+  "events": [
+    {
+      "id": 2575,
+      "name": "Gala Dinner",
+      "typeId": 10114,
+      "chairIds": [],
+      "contentIds": [],
+      "startDate": 1561062600000,
+      "endDate": 1561073400000,
+      "presenterIds": []
+    },
+    {
+      "id": 2614,
+      "name": "Touristic guided trip in the city centre",
+      "typeId": 10114,
+      "chairIds": [],
+      "contentIds": [],
+      "startDate": 1560969000000,
+      "endDate": 1560976200000,
+      "presenterIds": []
+    },
+    {
+      "id": 2559,
+      "name": "Welcome reception",
+      "typeId": 10114,
+      "chairIds": [],
+      "contentIds": [],
+      "startDate": 1560976200000,
+      "endDate": 1560985200000,
+      "presenterIds": []
+    }
+  ],
+  "contents": [
+    {
+      "id": 7169,
+      "typeId": 10118,
+      "title": "A System for Real-Time Interactive Analysis of Deep Learning Training",
+      "trackId": 10388,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 22292
+        },
+        {
+          "affiliations": [],
+          "personId": 20192
+        },
+        {
+          "affiliations": [],
+          "personId": 19067
+        }
+      ],
+      "sessionIds": [
+        2503
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 5249,
+      "typeId": 11376,
+      "title": "Mastering Music Instruments through Technology in Solo Learning Sessions",
+      "trackId": 10569,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 10911
+        },
+        {
+          "affiliations": [],
+          "personId": 21541
+        },
+        {
+          "affiliations": [],
+          "personId": 23755
+        },
+        {
+          "affiliations": [],
+          "personId": 18296
+        }
+      ],
+      "sessionIds": [
+        1748
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 5634,
+      "typeId": 10118,
+      "title": "GestMan: A Cloud System for Managing Stroke Gesture Sets",
+      "trackId": 10384,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 16910
+        },
+        {
+          "affiliations": [],
+          "personId": 18227
+        },
+        {
+          "affiliations": [],
+          "personId": 12532
+        },
+        {
+          "affiliations": [],
+          "personId": 22942
+        },
+        {
+          "affiliations": [],
+          "personId": 9993
+        }
+      ],
+      "sessionIds": [
+        1471
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 6658,
+      "typeId": 10118,
+      "title": "A Design Space for Vehicular LifeLogging to Support Creation of Digital Content in Connected Cars",
+      "trackId": 10388,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 13694
+        },
+        {
+          "affiliations": [],
+          "personId": 9993
+        },
+        {
+          "affiliations": [],
+          "personId": 10722
+        }
+      ],
+      "sessionIds": [
+        2503
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 3845,
+      "typeId": 10118,
+      "title": "Collaboratively Enhanced Consistency Checking in a Cloud-based Engineering Platform",
+      "trackId": 10388,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 22792
+        },
+        {
+          "affiliations": [],
+          "personId": 8324
+        },
+        {
+          "affiliations": [],
+          "personId": 21410
+        }
+      ],
+      "sessionIds": [
+        2503
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 3849,
+      "typeId": 10118,
+      "title": "Designing for Real-Time Groupware Systems to Support Complex Scientific Data Analysis",
+      "trackId": 10383,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 21915
+        },
+        {
+          "affiliations": [],
+          "personId": 8888
+        },
+        {
+          "affiliations": [],
+          "personId": 14145
+        },
+        {
+          "affiliations": [],
+          "personId": 19458
+        }
+      ],
+      "sessionIds": [
+        1403
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 3465,
+      "typeId": 10118,
+      "title": "A Framework to Support the Engineering of Internet of Things Software Systems",
+      "trackId": 10388,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 19943
+        },
+        {
+          "affiliations": [],
+          "personId": 10309
+        },
+        {
+          "affiliations": [],
+          "personId": 14511
+        }
+      ],
+      "sessionIds": [
+        2503
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 6282,
+      "typeId": 10118,
+      "title": "PWA-EU: Extending PWA approach for promoting End-User Empowerment",
+      "trackId": 10383,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 12462
+        },
+        {
+          "affiliations": [],
+          "personId": 18251
+        }
+      ],
+      "sessionIds": [
+        1954
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 5642,
+      "typeId": 10118,
+      "title": "TaskHerder: A Wearable Minimal Interaction Interface for Mobile and Long-lived Task Execution",
+      "trackId": 10384,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 9772
+        },
+        {
+          "affiliations": [],
+          "personId": 9169
+        }
+      ],
+      "sessionIds": [
+        1471
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 2827,
+      "typeId": 10118,
+      "title": "Life-Tags: A Smartglasses-based System for Recording and Abstracting Life with Tag Clouds",
+      "trackId": 10383,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 13694
+        },
+        {
+          "affiliations": [],
+          "personId": 9993
+        }
+      ],
+      "sessionIds": [
+        1853
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 6797,
+      "typeId": 11414,
+      "title": "Towards a Strategy for Supporting the Engineering of IoT Software Systems",
+      "trackId": 10386,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 19943
+        }
+      ],
+      "sessionIds": [
+        1068
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 4622,
+      "typeId": 10118,
+      "title": "Your Skin Resists: Exploring Electrodermal Activity as Workload Indicator during Manual Assembly",
+      "trackId": 10388,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 16307
+        },
+        {
+          "affiliations": [],
+          "personId": 10683
+        },
+        {
+          "affiliations": [],
+          "personId": 23314
+        },
+        {
+          "affiliations": [],
+          "personId": 23552
+        }
+      ],
+      "sessionIds": [
+        2503
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 5774,
+      "typeId": 10118,
+      "title": "Situationally Aware Mobile Devices for Overcoming Situational Impairments",
+      "trackId": 10385,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "institution": "University of Washington"
+            }
+          ],
+          "personId": 16705
+        }
+      ],
+      "sessionIds": [
+        1133
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 4633,
+      "typeId": 10118,
+      "title": "Braille Text Entry on Smartwatches: An Evaluation of Methods for Composing the Braille Cell",
+      "trackId": 10388,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 16013
+        },
+        {
+          "affiliations": [],
+          "personId": 9293
+        },
+        {
+          "affiliations": [],
+          "personId": 22996
+        },
+        {
+          "affiliations": [],
+          "personId": 18743
+        }
+      ],
+      "sessionIds": [
+        2503
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 4250,
+      "typeId": 11376,
+      "title": "Crafting Privacy: Two Case Studies Integrating Cross-Disciplinary Perspectives on Privacy in Design",
+      "trackId": 10569,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 17843
+        },
+        {
+          "affiliations": [],
+          "personId": 8969
+        },
+        {
+          "affiliations": [],
+          "personId": 14069
+        },
+        {
+          "affiliations": [],
+          "personId": 23710
+        },
+        {
+          "affiliations": [],
+          "personId": 10220
+        }
+      ],
+      "sessionIds": [
+        2340
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 5532,
+      "typeId": 11376,
+      "title": "Use-Case Slices and Behavioral Models: Unifying Stakholder's Views",
+      "trackId": 10569,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 8369
+        },
+        {
+          "affiliations": [],
+          "personId": 17811
+        }
+      ],
+      "sessionIds": [
+        1967
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 4637,
+      "typeId": 11376,
+      "title": "When You Don't Know With Whom to Collaborate: Towards an Interactive System Connecting Contributors in a Research Project",
+      "trackId": 10569,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 20834
+        },
+        {
+          "affiliations": [],
+          "personId": 24046
+        },
+        {
+          "affiliations": [],
+          "personId": 15726
+        }
+      ],
+      "sessionIds": [
+        2340
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 5535,
+      "typeId": 11376,
+      "title": "Integrating Humans in Decentralized Control Systems with Autonomous Transport Vehicles under the Premise and Use of Proxemic Distances",
+      "trackId": 10569,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 14922
+        },
+        {
+          "affiliations": [],
+          "personId": 10116
+        },
+        {
+          "affiliations": [],
+          "personId": 18073
+        }
+      ],
+      "sessionIds": [
+        2340
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 3106,
+      "typeId": 11376,
+      "title": "Formal verification of interactive computing systems: opportunities and challenges",
+      "trackId": 10569,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 10478
+        },
+        {
+          "affiliations": [],
+          "personId": 8659
+        }
+      ],
+      "sessionIds": [
+        1758
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 7333,
+      "typeId": 10118,
+      "title": "Designing Cross-Device User Interfaces to an Information System based on its Class Diagram",
+      "trackId": 10383,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 18227
+        },
+        {
+          "affiliations": [],
+          "personId": 11550
+        }
+      ],
+      "sessionIds": [
+        2389
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 4390,
+      "typeId": 11414,
+      "title": "Generation of User Interfaces from Business Process Model Notation (BPMN)",
+      "trackId": 10386,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 21265
+        },
+        {
+          "affiliations": [],
+          "personId": 8528
+        }
+      ],
+      "sessionIds": [
+        1068
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 7208,
+      "typeId": 11376,
+      "title": "Enabling Tangible Interaction through Detection and Augmentation of Everyday Objects",
+      "trackId": 10569,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 16307
+        },
+        {
+          "affiliations": [],
+          "personId": 23552
+        }
+      ],
+      "sessionIds": [
+        1319
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 5037,
+      "typeId": 10118,
+      "title": "Gesto: Mapping UI Events to Gestures and Voice",
+      "trackId": 10383,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 19817
+        },
+        {
+          "affiliations": [],
+          "personId": 14344
+        },
+        {
+          "affiliations": [],
+          "personId": 18294
+        },
+        {
+          "affiliations": [],
+          "personId": 15121
+        },
+        {
+          "affiliations": [],
+          "personId": 22935
+        },
+        {
+          "affiliations": [],
+          "personId": 16543
+        },
+        {
+          "affiliations": [],
+          "personId": 22326
+        }
+      ],
+      "sessionIds": [
+        1016
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 7341,
+      "typeId": 10118,
+      "title": "AB4Web: An On-Line A/B Tester for Comparing User Interface Design Alternatives",
+      "trackId": 10383,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 18227
+        },
+        {
+          "affiliations": [],
+          "personId": 20123
+        },
+        {
+          "affiliations": [],
+          "personId": 9993
+        }
+      ],
+      "sessionIds": [
+        1403
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 6576,
+      "typeId": 10118,
+      "title": "Polyphony: Programming Interfaces and Interactions with the Entity-Component-System Model",
+      "trackId": 10383,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 20175
+        },
+        {
+          "affiliations": [],
+          "personId": 17299
+        }
+      ],
+      "sessionIds": [
+        2389
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 7344,
+      "typeId": 10118,
+      "title": "Component-Based Development of Adaptive User Interfaces",
+      "trackId": 10388,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 10132
+        },
+        {
+          "affiliations": [],
+          "personId": 12317
+        },
+        {
+          "affiliations": [],
+          "personId": 14040
+        },
+        {
+          "affiliations": [],
+          "personId": 13597
+        },
+        {
+          "affiliations": [],
+          "personId": 12303
+        },
+        {
+          "affiliations": [],
+          "personId": 15264
+        }
+      ],
+      "sessionIds": [
+        2503
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 3505,
+      "typeId": 10118,
+      "title": "Engineering Inaccessible Computing Systems",
+      "trackId": 10385,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "institution": "University of the Basque Country"
+            }
+          ],
+          "personId": 11072
+        }
+      ],
+      "sessionIds": [
+        1578
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 6194,
+      "typeId": 11376,
+      "title": "Toward usable theories for human-automation systems",
+      "trackId": 10569,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 18239
+        }
+      ],
+      "sessionIds": [
+        1758
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 3763,
+      "typeId": 11376,
+      "title": "End User Development: Verifying home behavior",
+      "trackId": 10569,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 24136
+        },
+        {
+          "affiliations": [],
+          "personId": 24119
+        },
+        {
+          "affiliations": [],
+          "personId": 10301
+        },
+        {
+          "affiliations": [],
+          "personId": 9189
+        }
+      ],
+      "sessionIds": [
+        1176
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 7731,
+      "typeId": 11376,
+      "title": "Smarter Software Engineering Methods for Smart Environments",
+      "trackId": 10569,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 15337
+        },
+        {
+          "affiliations": [],
+          "personId": 18964
+        }
+      ],
+      "sessionIds": [
+        1176
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 6200,
+      "typeId": 10118,
+      "title": "Analysing and Demonstrating Tool-Supported Customizable Task Notations",
+      "trackId": 10383,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 9052
+        },
+        {
+          "affiliations": [],
+          "personId": 10579
+        },
+        {
+          "affiliations": [],
+          "personId": 16433
+        },
+        {
+          "affiliations": [],
+          "personId": 21173
+        },
+        {
+          "affiliations": [],
+          "personId": 15260
+        },
+        {
+          "affiliations": [],
+          "personId": 10968
+        }
+      ],
+      "sessionIds": [
+        1436
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 7352,
+      "typeId": 11376,
+      "title": "An Attempt to Fathom the Role of Annotations in User-Centered Design Process",
+      "trackId": 10569,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 12158
+        },
+        {
+          "affiliations": [],
+          "personId": 23994
+        },
+        {
+          "affiliations": [],
+          "personId": 11547
+        },
+        {
+          "affiliations": [],
+          "personId": 10579
+        }
+      ],
+      "sessionIds": [
+        1967
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 4538,
+      "typeId": 10118,
+      "title": "Quid: Prototyping Web Components on the Web",
+      "trackId": 10385,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "institution": "Metadev"
+            }
+          ],
+          "personId": 16474
+        }
+      ],
+      "sessionIds": [
+        1080
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 6970,
+      "typeId": 10118,
+      "title": "Fortunettes: Feedforward about the Future State of GUI Widgets",
+      "trackId": 10383,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 9480
+        },
+        {
+          "affiliations": [],
+          "personId": 9169
+        },
+        {
+          "affiliations": [],
+          "personId": 22464
+        },
+        {
+          "affiliations": [],
+          "personId": 9300
+        },
+        {
+          "affiliations": [],
+          "personId": 10579
+        }
+      ],
+      "sessionIds": [
+        1853
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 5573,
+      "typeId": 10118,
+      "title": "SMAC: A Simplified Model of Attention and Capture in Multi-Device Desk-Centric Environments",
+      "trackId": 10383,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 20324
+        },
+        {
+          "affiliations": [],
+          "personId": 10364
+        },
+        {
+          "affiliations": [],
+          "personId": 13546
+        },
+        {
+          "affiliations": [],
+          "personId": 14731
+        }
+      ],
+      "sessionIds": [
+        2389
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 5577,
+      "typeId": 10118,
+      "title": "Creating interactive scientific publications using bindings",
+      "trackId": 10383,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 8780
+        },
+        {
+          "affiliations": [],
+          "personId": 14898
+        },
+        {
+          "affiliations": [],
+          "personId": 14196
+        }
+      ],
+      "sessionIds": [
+        1853
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 6345,
+      "typeId": 11376,
+      "title": "A Roadmap Towards the Engineering of Interactive Systems Deployable in Safety Critical Contexts",
+      "trackId": 10569,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 13985
+        },
+        {
+          "affiliations": [],
+          "personId": 10579
+        }
+      ],
+      "sessionIds": [
+        1758
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 3915,
+      "typeId": 11376,
+      "title": "Towards Interactions with Augmented Reality Systems in Hyper-Connected Cars",
+      "trackId": 10569,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 23420
+        },
+        {
+          "affiliations": [],
+          "personId": 9993
+        }
+      ],
+      "sessionIds": [
+        1176
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 5451,
+      "typeId": 11376,
+      "title": "High assurance on Cyber-Physical Interactive Systems",
+      "trackId": 10569,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 11469
+        },
+        {
+          "affiliations": [],
+          "personId": 10478
+        }
+      ],
+      "sessionIds": [
+        1758
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 5324,
+      "typeId": 10118,
+      "title": "Towards a Strategy for Supporting the Engineering of IoT Software Systems",
+      "trackId": 10388,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 19943
+        }
+      ],
+      "sessionIds": [
+        2503
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 2764,
+      "typeId": 10118,
+      "title": "Dynamic Visualisation of Features and Contexts for Context-Oriented Programmers",
+      "trackId": 10388,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 17524
+        },
+        {
+          "affiliations": [],
+          "personId": 14108
+        },
+        {
+          "affiliations": [],
+          "personId": 17504
+        },
+        {
+          "affiliations": [],
+          "personId": 23691
+        }
+      ],
+      "sessionIds": [
+        2503
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 6224,
+      "typeId": 10118,
+      "title": "GestureCards -- A Hybrid Gesture Notation",
+      "trackId": 10383,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 13321
+        },
+        {
+          "affiliations": [],
+          "personId": 14779
+        }
+      ],
+      "sessionIds": [
+        1016
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 7889,
+      "typeId": 10118,
+      "title": "An Ontology for Reasoning on Body-based Gestures",
+      "trackId": 10388,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 12756
+        },
+        {
+          "affiliations": [],
+          "personId": 18227
+        },
+        {
+          "affiliations": [],
+          "personId": 14088
+        }
+      ],
+      "sessionIds": [
+        2503
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 8145,
+      "typeId": 10118,
+      "title": "Evaluating Multimodal Feedback for Accomplishing Assembly Tasks in Virtual Environment",
+      "trackId": 10383,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 24134
+        },
+        {
+          "affiliations": [],
+          "personId": 20413
+        },
+        {
+          "affiliations": [],
+          "personId": 23393
+        },
+        {
+          "affiliations": [],
+          "personId": 11628
+        }
+      ],
+      "sessionIds": [
+        1436
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 4182,
+      "typeId": 11376,
+      "title": "On the Importance of Supporting Multiple Stakeholders Points of View for the Testing of Interactive Systems",
+      "trackId": 10569,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 15260
+        },
+        {
+          "affiliations": [],
+          "personId": 16433
+        },
+        {
+          "affiliations": [],
+          "personId": 9052
+        },
+        {
+          "affiliations": [],
+          "personId": 10579
+        }
+      ],
+      "sessionIds": [
+        1967
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 7000,
+      "typeId": 10118,
+      "title": "Behavioral Petri Net Mining and Automated Analysis for Human-Computer Interaction Recommendations in Multi-Application Environments",
+      "trackId": 10383,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 11835
+        },
+        {
+          "affiliations": [],
+          "personId": 12209
+        }
+      ],
+      "sessionIds": [
+        1954
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 4955,
+      "typeId": 11376,
+      "title": "Challenges in Multi-User Interaction with a Social Humanoid Robot Pepper",
+      "trackId": 10569,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 8369
+        }
+      ],
+      "sessionIds": [
+        1176
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 7901,
+      "typeId": 10118,
+      "title": "Pilot Experiment of a 2D Trajectory Representation of Quaternion-Based 3D Gesture Tracking",
+      "trackId": 10388,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 16830
+        },
+        {
+          "affiliations": [],
+          "personId": 14399
+        },
+        {
+          "affiliations": [],
+          "personId": 10217
+        },
+        {
+          "affiliations": [],
+          "personId": 24254
+        },
+        {
+          "affiliations": [],
+          "personId": 21603
+        },
+        {
+          "affiliations": [],
+          "personId": 16391
+        }
+      ],
+      "sessionIds": [
+        2503
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 7006,
+      "typeId": 11376,
+      "title": "Challenges in User-Centered Engineering of AI-based Interactive Systems",
+      "trackId": 10569,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 15797
+        }
+      ],
+      "sessionIds": [
+        1176
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 7902,
+      "typeId": 11376,
+      "title": "Understanding Each-Other: Engineering Challenges and Opportunities for Users and Systems in the Deep Learning Era",
+      "trackId": 10569,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 11655
+        }
+      ],
+      "sessionIds": [
+        1176
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 6112,
+      "typeId": 10118,
+      "title": "A Newcomer's Guide to EICS: the Engineering Interactive Computing Systems Community",
+      "trackId": 10389,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 12899
+        },
+        {
+          "affiliations": [],
+          "personId": 9993
+        },
+        {
+          "affiliations": [],
+          "personId": 12458
+        },
+        {
+          "affiliations": [],
+          "personId": 9011
+        },
+        {
+          "affiliations": [],
+          "personId": 18227
+        }
+      ],
+      "sessionIds": [],
+      "eventIds": []
+    },
+    {
+      "id": 6242,
+      "typeId": 11376,
+      "title": "MODS: Modularly Operated Digital Signage",
+      "trackId": 10569,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 22686
+        },
+        {
+          "affiliations": [],
+          "personId": 13085
+        },
+        {
+          "affiliations": [],
+          "personId": 9924
+        }
+      ],
+      "sessionIds": [
+        1319
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 5602,
+      "typeId": 11376,
+      "title": "From Smart Objects towards Autonomous Objects",
+      "trackId": 10569,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 11053
+        }
+      ],
+      "sessionIds": [
+        1450
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 7267,
+      "typeId": 10118,
+      "title": "SecuriCast: Zero-Touch Two-Factor Authentication using WebBluetooth",
+      "trackId": 10384,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 15338
+        },
+        {
+          "affiliations": [],
+          "personId": 10812
+        },
+        {
+          "affiliations": [],
+          "personId": 14095
+        }
+      ],
+      "sessionIds": [
+        1471
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 5604,
+      "typeId": 11376,
+      "title": "Improving Presence Detection For Smart Spaces",
+      "trackId": 10569,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 12991
+        },
+        {
+          "affiliations": [],
+          "personId": 21355
+        }
+      ],
+      "sessionIds": [
+        1319
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 7525,
+      "typeId": 10118,
+      "title": "The iMPAcT Tool for Android Testing",
+      "trackId": 10383,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 17777
+        },
+        {
+          "affiliations": [],
+          "personId": 17533
+        }
+      ],
+      "sessionIds": [
+        1403
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 4203,
+      "typeId": 10118,
+      "title": "Context- and Data-driven Satisfaction Analysis of User Interface Adaptations Based on Instant User Feedback",
+      "trackId": 10383,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 10132
+        },
+        {
+          "affiliations": [],
+          "personId": 17413
+        },
+        {
+          "affiliations": [],
+          "personId": 19441
+        },
+        {
+          "affiliations": [],
+          "personId": 23466
+        },
+        {
+          "affiliations": [],
+          "personId": 19656
+        },
+        {
+          "affiliations": [],
+          "personId": 15093
+        }
+      ],
+      "sessionIds": [
+        1954
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 4078,
+      "typeId": 10118,
+      "title": "End-user Composition of Graphical User Interfaces by Composite Pattern",
+      "trackId": 10388,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 18227
+        },
+        {
+          "affiliations": [],
+          "personId": 23153
+        }
+      ],
+      "sessionIds": [
+        2503
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 7406,
+      "typeId": 11376,
+      "title": "Understanding and Exploring Operator Needs in Mixed Model Assembly",
+      "trackId": 10569,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 20034
+        },
+        {
+          "affiliations": [],
+          "personId": 18517
+        },
+        {
+          "affiliations": [],
+          "personId": 16409
+        },
+        {
+          "affiliations": [],
+          "personId": 18531
+        }
+      ],
+      "sessionIds": [
+        2340
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 5489,
+      "typeId": 10118,
+      "title": "Generation of User Interfaces from Business Process Model Notation (BPMN)",
+      "trackId": 10388,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 21265
+        },
+        {
+          "affiliations": [],
+          "personId": 8528
+        }
+      ],
+      "sessionIds": [
+        2503
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 4595,
+      "typeId": 11376,
+      "title": "Test Automation for Gesture-Based Interfaces",
+      "trackId": 10569,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 13321
+        },
+        {
+          "affiliations": [],
+          "personId": 19612
+        }
+      ],
+      "sessionIds": [
+        1176
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 6131,
+      "typeId": 11376,
+      "title": "Usable-by-Construction",
+      "trackId": 10569,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 12573
+        }
+      ],
+      "sessionIds": [
+        1758
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 6132,
+      "typeId": 10118,
+      "title": "Tangible BioNets: Multi-Surface and Tangible Interactions for Exploring Structural Features of Biological Networks",
+      "trackId": 10383,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 8919
+        },
+        {
+          "affiliations": [],
+          "personId": 16667
+        },
+        {
+          "affiliations": [],
+          "personId": 19105
+        },
+        {
+          "affiliations": [],
+          "personId": 11859
+        },
+        {
+          "affiliations": [],
+          "personId": 12804
+        }
+      ],
+      "sessionIds": [
+        1853
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 4213,
+      "typeId": 11415,
+      "title": "Measuring the Quality of Interactive Systems",
+      "trackId": 10568,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 10309
+        }
+      ],
+      "sessionIds": [
+        1867
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 3704,
+      "typeId": 10118,
+      "title": "User Interface Adaptivity by Widget Promotion/Demotion",
+      "trackId": 10388,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 18775
+        },
+        {
+          "affiliations": [],
+          "personId": 13052
+        },
+        {
+          "affiliations": [],
+          "personId": 22989
+        },
+        {
+          "affiliations": [],
+          "personId": 18227
+        }
+      ],
+      "sessionIds": [
+        2503
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 3453,
+      "typeId": 10118,
+      "title": "SAPIENS: Towards Software Architecture to Support Peripheral Interaction in Smart Environments",
+      "trackId": 10383,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 23420
+        },
+        {
+          "affiliations": [],
+          "personId": 9993
+        },
+        {
+          "affiliations": [],
+          "personId": 15200
+        }
+      ],
+      "sessionIds": [
+        1853
+      ],
+      "eventIds": []
+    }
+  ],
+  "people": [
+    {
+      "id": 23552,
+      "firstName": "Albrecht",
+      "lastName": "Schmidt",
+      "affiliations": []
+    },
+    {
+      "id": 19458,
+      "firstName": "Kevin",
+      "lastName": "Schneider",
+      "affiliations": []
+    },
+    {
+      "id": 12804,
+      "firstName": "Ali",
+      "lastName": "Mazalek",
+      "affiliations": []
+    },
+    {
+      "id": 17413,
+      "firstName": "André",
+      "lastName": "Hottung",
+      "affiliations": []
+    },
+    {
+      "id": 16391,
+      "firstName": "Youngho",
+      "lastName": "Chai",
+      "affiliations": []
+    },
+    {
+      "id": 14087,
+      "firstName": "Victoria",
+      "lastName": "Torres",
+      "affiliations": []
+    },
+    {
+      "id": 22792,
+      "firstName": "MICHAEL",
+      "lastName": "TROELS",
+      "affiliations": []
+    },
+    {
+      "id": 14088,
+      "firstName": "Sabin",
+      "lastName": "Buraga",
+      "affiliations": []
+    },
+    {
+      "id": 9480,
+      "firstName": "SVEN",
+      "lastName": "COPPERS",
+      "affiliations": []
+    },
+    {
+      "id": 14344,
+      "firstName": "Taeyeon",
+      "lastName": "Ki",
+      "affiliations": []
+    },
+    {
+      "id": 9993,
+      "firstName": "RADU-DANIEL",
+      "lastName": "VATAVU",
+      "affiliations": []
+    },
+    {
+      "id": 13321,
+      "firstName": "MARC",
+      "lastName": "HESENIUS",
+      "affiliations": []
+    },
+    {
+      "id": 8969,
+      "firstName": "Mortaza",
+      "lastName": "Bargh",
+      "affiliations": []
+    },
+    {
+      "id": 16910,
+      "firstName": "NATHAN",
+      "lastName": "MAGROFUOCO",
+      "affiliations": []
+    },
+    {
+      "id": 14095,
+      "firstName": "FLORIAN",
+      "lastName": "ECHTLER",
+      "affiliations": []
+    },
+    {
+      "id": 12303,
+      "firstName": "Anthony",
+      "lastName": "Anjorin",
+      "affiliations": []
+    },
+    {
+      "id": 21265,
+      "firstName": "JORGE EDUARDO",
+      "lastName": "DÍAZ SUÁREZ",
+      "affiliations": []
+    },
+    {
+      "id": 15121,
+      "firstName": "Nikhil",
+      "lastName": "Sunil Pawar",
+      "affiliations": []
+    },
+    {
+      "id": 23314,
+      "firstName": "Havy",
+      "lastName": "Ha",
+      "affiliations": []
+    },
+    {
+      "id": 22292,
+      "firstName": "SHITAL",
+      "lastName": "SHAH",
+      "affiliations": []
+    },
+    {
+      "id": 18964,
+      "firstName": "Annika",
+      "lastName": "Hinze",
+      "affiliations": []
+    },
+    {
+      "id": 23573,
+      "firstName": "FLORIAN",
+      "lastName": "MÜLLER",
+      "affiliations": []
+    },
+    {
+      "id": 16409,
+      "firstName": "JAN",
+      "lastName": "VAN DEN BERGH",
+      "affiliations": []
+    },
+    {
+      "id": 16667,
+      "firstName": "Sean",
+      "lastName": "DeLong",
+      "affiliations": []
+    },
+    {
+      "id": 11547,
+      "firstName": "MARCO",
+      "lastName": "WINCKLER",
+      "affiliations": []
+    },
+    {
+      "id": 18715,
+      "firstName": "Francisco",
+      "lastName": "Abad",
+      "affiliations": []
+    },
+    {
+      "id": 14108,
+      "firstName": "Bruno",
+      "lastName": "Dumas",
+      "affiliations": []
+    },
+    {
+      "id": 13085,
+      "firstName": "TIM",
+      "lastName": "GRUBE",
+      "affiliations": []
+    },
+    {
+      "id": 12317,
+      "firstName": "Klementina",
+      "lastName": "Josifovska",
+      "affiliations": []
+    },
+    {
+      "id": 13597,
+      "firstName": "Ferhat",
+      "lastName": "Kalinci",
+      "affiliations": []
+    },
+    {
+      "id": 12573,
+      "firstName": "STEVE",
+      "lastName": "REEVES",
+      "affiliations": []
+    },
+    {
+      "id": 11550,
+      "firstName": "Thanh-Diane",
+      "lastName": "Nguyen",
+      "affiliations": []
+    },
+    {
+      "id": 21541,
+      "firstName": "Andreas",
+      "lastName": "Weiß",
+      "affiliations": []
+    },
+    {
+      "id": 9772,
+      "firstName": "FLORIAN",
+      "lastName": "HELLER",
+      "affiliations": []
+    },
+    {
+      "id": 11053,
+      "firstName": "Katrin",
+      "lastName": "Wolf",
+      "affiliations": []
+    },
+    {
+      "id": 16433,
+      "firstName": "ELODIE",
+      "lastName": "BOUZEKRI",
+      "affiliations": []
+    },
+    {
+      "id": 14898,
+      "firstName": "Christian",
+      "lastName": "Kray",
+      "affiliations": []
+    },
+    {
+      "id": 18227,
+      "firstName": "Jean",
+      "lastName": "Vanderdonckt",
+      "affiliations": []
+    },
+    {
+      "id": 9011,
+      "firstName": "Oscar",
+      "lastName": "Pastor",
+      "affiliations": []
+    },
+    {
+      "id": 22326,
+      "firstName": "Lukasz",
+      "lastName": "Ziarek",
+      "affiliations": []
+    },
+    {
+      "id": 18743,
+      "firstName": "Aaron J",
+      "lastName": "Quigley",
+      "affiliations": []
+    },
+    {
+      "id": 24119,
+      "firstName": "SYBILLE",
+      "lastName": "CAFFIAU",
+      "affiliations": []
+    },
+    {
+      "id": 11835,
+      "firstName": "JULIAN",
+      "lastName": "THEIS",
+      "affiliations": []
+    },
+    {
+      "id": 10812,
+      "firstName": "Eik",
+      "lastName": "List",
+      "affiliations": []
+    },
+    {
+      "id": 10301,
+      "firstName": "SOPHIE",
+      "lastName": "CHESSA",
+      "affiliations": []
+    },
+    {
+      "id": 14399,
+      "firstName": "Bharatesh",
+      "lastName": "Chakravarthi S B",
+      "affiliations": []
+    },
+    {
+      "id": 18239,
+      "firstName": "Stéphane",
+      "lastName": "Chatty",
+      "affiliations": []
+    },
+    {
+      "id": 11072,
+      "firstName": "Julio",
+      "lastName": "Abascal",
+      "affiliations": []
+    },
+    {
+      "id": 22080,
+      "firstName": "Jean",
+      "lastName": "Vanderdonckt",
+      "affiliations": []
+    },
+    {
+      "id": 14145,
+      "firstName": "Chanchal",
+      "lastName": "Roy",
+      "affiliations": []
+    },
+    {
+      "id": 16705,
+      "firstName": "Jacob O.",
+      "lastName": "Wobbrock",
+      "affiliations": []
+    },
+    {
+      "id": 20034,
+      "firstName": "JAMIL",
+      "lastName": "JOUNDI",
+      "affiliations": []
+    },
+    {
+      "id": 10309,
+      "firstName": "KATHIA",
+      "lastName": "MARÇAL DE OLIVEIRA",
+      "affiliations": []
+    },
+    {
+      "id": 24134,
+      "firstName": "GUOFAN",
+      "lastName": "YIN",
+      "affiliations": []
+    },
+    {
+      "id": 24136,
+      "firstName": "ALEXANDRE",
+      "lastName": "DEMEURE",
+      "affiliations": []
+    },
+    {
+      "id": 11593,
+      "firstName": "Esthet",
+      "lastName": "Durá",
+      "affiliations": []
+    },
+    {
+      "id": 14922,
+      "firstName": "Thomas",
+      "lastName": "Kirks",
+      "affiliations": []
+    },
+    {
+      "id": 18251,
+      "firstName": "LUCIANA",
+      "lastName": "ZAINA",
+      "affiliations": []
+    },
+    {
+      "id": 8780,
+      "firstName": "MARKUS",
+      "lastName": "KONKOL",
+      "affiliations": []
+    },
+    {
+      "id": 9293,
+      "firstName": "Fabrizzio Alphonsus",
+      "lastName": "Alves de Melo Nunes Soares",
+      "affiliations": []
+    },
+    {
+      "id": 8528,
+      "firstName": "Silvia",
+      "lastName": "Rueda",
+      "affiliations": []
+    },
+    {
+      "id": 11859,
+      "firstName": "Dhrumil",
+      "lastName": "Patal",
+      "affiliations": []
+    },
+    {
+      "id": 10579,
+      "firstName": "PHILIPPE",
+      "lastName": "PALANQUE",
+      "affiliations": []
+    },
+    {
+      "id": 9300,
+      "firstName": "Matthew",
+      "lastName": "Kyan",
+      "affiliations": []
+    },
+    {
+      "id": 18517,
+      "firstName": "Pete",
+      "lastName": "Conradie",
+      "affiliations": []
+    },
+    {
+      "id": 18775,
+      "firstName": "SARA",
+      "lastName": "BOUZIT",
+      "affiliations": []
+    },
+    {
+      "id": 16216,
+      "firstName": "Miriam",
+      "lastName": "Gil",
+      "affiliations": []
+    },
+    {
+      "id": 16474,
+      "firstName": "Pedro",
+      "lastName": "Molina",
+      "affiliations": []
+    },
+    {
+      "id": 9052,
+      "firstName": "CÉLIA",
+      "lastName": "MARTINIE",
+      "affiliations": []
+    },
+    {
+      "id": 15200,
+      "firstName": "Wenjun",
+      "lastName": "Wu",
+      "affiliations": []
+    },
+    {
+      "id": 17504,
+      "firstName": "Hoo",
+      "lastName": "Sing Leung",
+      "affiliations": []
+    },
+    {
+      "id": 23393,
+      "firstName": "Pascal E.",
+      "lastName": "Fortin",
+      "affiliations": []
+    },
+    {
+      "id": 20834,
+      "firstName": "Jil",
+      "lastName": "Klünder",
+      "affiliations": []
+    },
+    {
+      "id": 21603,
+      "firstName": "JAEYEONG",
+      "lastName": "RYU",
+      "affiliations": []
+    },
+    {
+      "id": 12899,
+      "firstName": "VÍCTOR MANUEL",
+      "lastName": "LOPEZ JAQUERO",
+      "affiliations": []
+    },
+    {
+      "id": 18531,
+      "firstName": "Jelle",
+      "lastName": "Saldien",
+      "affiliations": []
+    },
+    {
+      "id": 20324,
+      "firstName": "ZHEN",
+      "lastName": "LI",
+      "affiliations": []
+    },
+    {
+      "id": 19817,
+      "firstName": "CHANG MIN",
+      "lastName": "PARK",
+      "affiliations": []
+    },
+    {
+      "id": 21355,
+      "firstName": "Biying",
+      "lastName": "Fu",
+      "affiliations": []
+    },
+    {
+      "id": 11628,
+      "firstName": "Jeremy",
+      "lastName": "Cooperstock",
+      "affiliations": []
+    },
+    {
+      "id": 15726,
+      "firstName": "Kurt",
+      "lastName": "Schneider",
+      "affiliations": []
+    },
+    {
+      "id": 23153,
+      "firstName": "Donatien",
+      "lastName": "Grolaux",
+      "affiliations": []
+    },
+    {
+      "id": 17777,
+      "firstName": "ANA CRISTINA",
+      "lastName": "RAMADA PAIVA",
+      "affiliations": []
+    },
+    {
+      "id": 14196,
+      "firstName": "Jan",
+      "lastName": "Suleiman",
+      "affiliations": []
+    },
+    {
+      "id": 17524,
+      "firstName": "BENOÎT",
+      "lastName": "DUHOUX",
+      "affiliations": []
+    },
+    {
+      "id": 18294,
+      "firstName": "Ali J.",
+      "lastName": "Ben Ali",
+      "affiliations": []
+    },
+    {
+      "id": 18296,
+      "firstName": "Sebastian",
+      "lastName": "Günther",
+      "affiliations": []
+    },
+    {
+      "id": 19067,
+      "firstName": "Steven",
+      "lastName": "Drucker",
+      "affiliations": []
+    },
+    {
+      "id": 23420,
+      "firstName": "OVIDIU ANDREI",
+      "lastName": "SCHIPOR",
+      "affiliations": []
+    },
+    {
+      "id": 10364,
+      "firstName": "Michelle",
+      "lastName": "Annett",
+      "affiliations": []
+    },
+    {
+      "id": 17533,
+      "firstName": "Inês",
+      "lastName": "Coimbra Morgado",
+      "affiliations": []
+    },
+    {
+      "id": 13694,
+      "firstName": "Adrian",
+      "lastName": "Aiordăchioae",
+      "affiliations": []
+    },
+    {
+      "id": 12158,
+      "firstName": "Jean-Luc",
+      "lastName": "Hak",
+      "affiliations": []
+    },
+    {
+      "id": 8324,
+      "firstName": "Atif",
+      "lastName": "Mashkoor",
+      "affiliations": []
+    },
+    {
+      "id": 10116,
+      "firstName": "Jana",
+      "lastName": "Jost",
+      "affiliations": []
+    },
+    {
+      "id": 11655,
+      "firstName": "DAVIDE",
+      "lastName": "SPANO",
+      "affiliations": []
+    },
+    {
+      "id": 14731,
+      "firstName": "Daniel",
+      "lastName": "Wigdor",
+      "affiliations": []
+    },
+    {
+      "id": 23691,
+      "firstName": "Kim",
+      "lastName": "Mens",
+      "affiliations": []
+    },
+    {
+      "id": 16013,
+      "firstName": "MATEUS",
+      "lastName": "MACHADO LUNA",
+      "affiliations": []
+    },
+    {
+      "id": 17299,
+      "firstName": "Stephane",
+      "lastName": "Huot",
+      "affiliations": []
+    },
+    {
+      "id": 17811,
+      "firstName": "ANKE",
+      "lastName": "DITTMAR",
+      "affiliations": []
+    },
+    {
+      "id": 10132,
+      "firstName": "ENES",
+      "lastName": "YIGITBAS",
+      "affiliations": []
+    },
+    {
+      "id": 22935,
+      "firstName": "Karthik",
+      "lastName": "Dantu",
+      "affiliations": []
+    },
+    {
+      "id": 18073,
+      "firstName": "Tim",
+      "lastName": "Uhlott",
+      "affiliations": []
+    },
+    {
+      "id": 21915,
+      "firstName": "Golam",
+      "lastName": "Mostaee",
+      "affiliations": []
+    },
+    {
+      "id": 20123,
+      "firstName": "Mathieu",
+      "lastName": "Zen",
+      "affiliations": []
+    },
+    {
+      "id": 19612,
+      "firstName": "MATTHIAS",
+      "lastName": "BOOK",
+      "affiliations": []
+    },
+    {
+      "id": 15260,
+      "firstName": "ALEXANDRE",
+      "lastName": "CANNY",
+      "affiliations": []
+    },
+    {
+      "id": 22942,
+      "firstName": "Jorge-Luis",
+      "lastName": "Perez-Medina",
+      "affiliations": []
+    },
+    {
+      "id": 22686,
+      "firstName": "Rolf",
+      "lastName": "Egert",
+      "affiliations": []
+    },
+    {
+      "id": 23710,
+      "firstName": "Sunil",
+      "lastName": "Choenni",
+      "affiliations": []
+    },
+    {
+      "id": 13726,
+      "firstName": "Pedro",
+      "lastName": "Valderas",
+      "affiliations": []
+    },
+    {
+      "id": 16543,
+      "firstName": "Steven Y.",
+      "lastName": "Ko",
+      "affiliations": []
+    },
+    {
+      "id": 10911,
+      "firstName": "KAROLA",
+      "lastName": "MARKY",
+      "affiliations": []
+    },
+    {
+      "id": 15264,
+      "firstName": "Gregor",
+      "lastName": "Engels",
+      "affiliations": []
+    },
+    {
+      "id": 19105,
+      "firstName": "Uzair",
+      "lastName": "Mayat",
+      "affiliations": []
+    },
+    {
+      "id": 13985,
+      "firstName": "David",
+      "lastName": "Navarre",
+      "affiliations": []
+    },
+    {
+      "id": 21410,
+      "firstName": "Alexander",
+      "lastName": "Egyed",
+      "affiliations": []
+    },
+    {
+      "id": 23466,
+      "firstName": "Anthony",
+      "lastName": "Anjorin",
+      "affiliations": []
+    },
+    {
+      "id": 12458,
+      "firstName": "JOSÉ IGNACIO",
+      "lastName": "PANACH NAVARRETE",
+      "affiliations": []
+    },
+    {
+      "id": 12462,
+      "firstName": "Giulia",
+      "lastName": "de Andrade Cardieri",
+      "affiliations": []
+    },
+    {
+      "id": 14511,
+      "firstName": "Guilherme",
+      "lastName": "Travassos",
+      "affiliations": []
+    },
+    {
+      "id": 8369,
+      "firstName": "PETER",
+      "lastName": "FORBRIG",
+      "affiliations": []
+    },
+    {
+      "id": 12209,
+      "firstName": "Houshang",
+      "lastName": "Darabi",
+      "affiliations": []
+    },
+    {
+      "id": 16307,
+      "firstName": "THOMAS",
+      "lastName": "KOSCH",
+      "affiliations": []
+    },
+    {
+      "id": 17843,
+      "firstName": "MAAIKE",
+      "lastName": "HARBERS",
+      "affiliations": []
+    },
+    {
+      "id": 21173,
+      "firstName": "Andy",
+      "lastName": "Cockburn",
+      "affiliations": []
+    },
+    {
+      "id": 15797,
+      "firstName": "JÜRGEN",
+      "lastName": "ZIEGLER",
+      "affiliations": []
+    },
+    {
+      "id": 8888,
+      "firstName": "BANANI",
+      "lastName": "ROY",
+      "affiliations": []
+    },
+    {
+      "id": 23994,
+      "firstName": "Olivier",
+      "lastName": "Nicolas",
+      "affiliations": []
+    },
+    {
+      "id": 10683,
+      "firstName": "Jakob",
+      "lastName": "Karolus",
+      "affiliations": []
+    },
+    {
+      "id": 14779,
+      "firstName": "Volker",
+      "lastName": "Gruhn",
+      "affiliations": []
+    },
+    {
+      "id": 20413,
+      "firstName": "Martin J.-D.",
+      "lastName": "Otis",
+      "affiliations": []
+    },
+    {
+      "id": 16830,
+      "firstName": "Ashok",
+      "lastName": "Kumar Patil",
+      "affiliations": []
+    },
+    {
+      "id": 24254,
+      "firstName": "Adithya",
+      "lastName": "Balasubramanyam",
+      "affiliations": []
+    },
+    {
+      "id": 12991,
+      "firstName": "Julian",
+      "lastName": "von Wilmsdorff",
+      "affiliations": []
+    },
+    {
+      "id": 22464,
+      "firstName": "DAVY",
+      "lastName": "VANACKEN",
+      "affiliations": []
+    },
+    {
+      "id": 9924,
+      "firstName": "Max",
+      "lastName": "Mühlhäuser",
+      "affiliations": []
+    },
+    {
+      "id": 19656,
+      "firstName": "Stefan",
+      "lastName": "Sauer",
+      "affiliations": []
+    },
+    {
+      "id": 23755,
+      "firstName": "Julien",
+      "lastName": "Gedeon",
+      "affiliations": []
+    },
+    {
+      "id": 22989,
+      "firstName": "Denis",
+      "lastName": "Chêne",
+      "affiliations": []
+    },
+    {
+      "id": 11469,
+      "firstName": "Rui",
+      "lastName": "Couto",
+      "affiliations": []
+    },
+    {
+      "id": 20175,
+      "firstName": "THIBAULT",
+      "lastName": "RAFFAILLAC",
+      "affiliations": []
+    },
+    {
+      "id": 9169,
+      "firstName": "Kris",
+      "lastName": "Luyten",
+      "affiliations": []
+    },
+    {
+      "id": 8659,
+      "firstName": "Michael D.",
+      "lastName": "Harrison",
+      "affiliations": []
+    },
+    {
+      "id": 12756,
+      "firstName": "Mehdi",
+      "lastName": "Ousmer",
+      "affiliations": []
+    },
+    {
+      "id": 22996,
+      "firstName": "Hugo A. D.",
+      "lastName": "do Nascimento",
+      "affiliations": []
+    },
+    {
+      "id": 8919,
+      "firstName": "ROOZBEH",
+      "lastName": "MANSHAEI",
+      "affiliations": []
+    },
+    {
+      "id": 10968,
+      "firstName": "ERIC",
+      "lastName": "BARBONI",
+      "affiliations": []
+    },
+    {
+      "id": 14040,
+      "firstName": "Ivan",
+      "lastName": "Jovanovikj",
+      "affiliations": []
+    },
+    {
+      "id": 20192,
+      "firstName": "Roland",
+      "lastName": "Fernandez",
+      "affiliations": []
+    },
+    {
+      "id": 10722,
+      "firstName": "Dorin-Mircea",
+      "lastName": "Popovici",
+      "affiliations": []
+    },
+    {
+      "id": 9189,
+      "firstName": "Lydie",
+      "lastName": "Dubousquet",
+      "affiliations": []
+    },
+    {
+      "id": 19943,
+      "firstName": "REBECA",
+      "lastName": "MOTTA",
+      "affiliations": []
+    },
+    {
+      "id": 10217,
+      "firstName": "Seonghun",
+      "lastName": "Kim",
+      "affiliations": []
+    },
+    {
+      "id": 15337,
+      "firstName": "JUDY",
+      "lastName": "BOWEN",
+      "affiliations": []
+    },
+    {
+      "id": 13546,
+      "firstName": "Ken",
+      "lastName": "Hinckley",
+      "affiliations": []
+    },
+    {
+      "id": 15338,
+      "firstName": "Thomas",
+      "lastName": "Dressel",
+      "affiliations": []
+    },
+    {
+      "id": 10220,
+      "firstName": "Anne",
+      "lastName": "Nigten",
+      "affiliations": []
+    },
+    {
+      "id": 10478,
+      "firstName": "JOSÉ",
+      "lastName": "CAMPOS",
+      "affiliations": []
+    },
+    {
+      "id": 24046,
+      "firstName": "WASJA",
+      "lastName": "BRUNOTTE",
+      "affiliations": []
+    },
+    {
+      "id": 19441,
+      "firstName": "Sebastian",
+      "lastName": "Mansfield Rojas",
+      "affiliations": []
+    },
+    {
+      "id": 12532,
+      "firstName": "Paolo",
+      "lastName": "Roselli",
+      "affiliations": []
+    },
+    {
+      "id": 15093,
+      "firstName": "Christine",
+      "lastName": "Gris",
+      "affiliations": []
+    },
+    {
+      "id": 14069,
+      "firstName": "Florian",
+      "lastName": "Cramer",
+      "affiliations": []
+    },
+    {
+      "id": 13052,
+      "firstName": "Gaelle",
+      "lastName": "Calvary",
+      "affiliations": []
+    }
+  ],
+  "recognitions": [],
+  "publicationInfo": {
+    "hideLinksBeforeConference": false,
+    "version": 26,
+    "publicationStatus": "PUBLISHED",
+    "isProgramEnabled": true,
+    "isDraft": false,
+    "isRegistrationEnabled": false,
+    "publicationDate": "2021-02-10 13:49:13+00"
+  }
+}

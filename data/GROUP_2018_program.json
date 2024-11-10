@@ -1,0 +1,2925 @@
+{
+  "schemeVersion": 7,
+  "cc_licence": "Content of this file is licensed under a CC BY-NC-SA 4.0 license. For details see https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "conference": {
+    "id": 5001,
+    "startDate": 1515283200000,
+    "endDate": 1515542400000,
+    "shortName": "GROUP",
+    "name": "GROUP 2018",
+    "year": 2018,
+    "fullName": "ACM International Conference on Supporting Group Work",
+    "url": "http://group.acm.org",
+    "location": "Sanibel Island, Florida, USA",
+    "timeZoneOffset": -300,
+    "logoUrl": "https://files.sigchi.org/conference/logo/41889c29-f89c-45fe-a597-4c1d83a67728.png",
+    "timeZoneName": "America/New_York"
+  },
+  "sponsors": [],
+  "sponsorLevels": [
+    {
+      "id": 10000,
+      "name": "Sponsors",
+      "rank": 1,
+      "isDefault": true
+    }
+  ],
+  "floors": [],
+  "rooms": [],
+  "tracks": [
+    {
+      "id": 10001,
+      "typeId": 10008
+    },
+    {
+      "id": 10003,
+      "typeId": 10641
+    },
+    {
+      "id": 10002
+    }
+  ],
+  "contentTypes": [
+    {
+      "id": 10002,
+      "name": "Case Study",
+      "color": "#993404",
+      "duration": 20,
+      "displayName": "Case Studies"
+    },
+    {
+      "id": 10003,
+      "name": "Course",
+      "color": "#e6550d",
+      "duration": 90,
+      "displayName": "Courses"
+    },
+    {
+      "id": 10005,
+      "name": "Invited Talk",
+      "color": "#66c2a4",
+      "duration": 90,
+      "displayName": "Invited Talks"
+    },
+    {
+      "id": 10006,
+      "name": "Operations",
+      "color": "#006d2c",
+      "duration": 90
+    },
+    {
+      "id": 10007,
+      "name": "Panel",
+      "color": "#6baed6",
+      "duration": 90,
+      "displayName": "Panels"
+    },
+    {
+      "id": 10008,
+      "name": "Paper",
+      "color": "#08519c",
+      "duration": 20,
+      "displayName": "Papers"
+    },
+    {
+      "id": 10010,
+      "name": "Workshop",
+      "color": "#de2d26",
+      "duration": 240,
+      "displayName": "Workshops"
+    },
+    {
+      "id": 10004,
+      "name": "Event",
+      "color": "#fecc5c",
+      "duration": 0,
+      "displayName": "Events"
+    },
+    {
+      "id": 10001,
+      "name": "SIG",
+      "color": "#7a0177",
+      "duration": 90
+    },
+    {
+      "id": 10641,
+      "name": "Group 2018 Design Fictions",
+      "color": "#90979a",
+      "duration": 0
+    },
+    {
+      "id": 10635,
+      "name": "Group 2018 Research Papers",
+      "color": "#90979a",
+      "duration": 0
+    },
+    {
+      "id": 10009,
+      "name": "Plenary",
+      "color": "#756bb1",
+      "duration": 90
+    }
+  ],
+  "timeSlots": [
+    {
+      "id": 10030,
+      "type": "SESSION",
+      "startDate": 1515315600000,
+      "endDate": 1515321000000
+    },
+    {
+      "id": 10031,
+      "type": "SESSION",
+      "startDate": 1515321000000,
+      "endDate": 1515322800000
+    },
+    {
+      "id": 10032,
+      "type": "SESSION",
+      "startDate": 1515322800000,
+      "endDate": 1515328200000
+    },
+    {
+      "id": 10033,
+      "type": "SESSION",
+      "startDate": 1515328200000,
+      "endDate": 1515333600000
+    },
+    {
+      "id": 10034,
+      "type": "SESSION",
+      "startDate": 1515333600000,
+      "endDate": 1515339000000
+    },
+    {
+      "id": 10035,
+      "type": "SESSION",
+      "startDate": 1515339000000,
+      "endDate": 1515340800000
+    },
+    {
+      "id": 10036,
+      "type": "SESSION",
+      "startDate": 1515340800000,
+      "endDate": 1515346200000
+    },
+    {
+      "id": 10037,
+      "type": "SESSION",
+      "startDate": 1515400200000,
+      "endDate": 1515402000000
+    },
+    {
+      "id": 10038,
+      "type": "SESSION",
+      "startDate": 1515402000000,
+      "endDate": 1515402900000
+    },
+    {
+      "id": 10039,
+      "type": "SESSION",
+      "startDate": 1515402900000,
+      "endDate": 1515407400000
+    },
+    {
+      "id": 10040,
+      "type": "SESSION",
+      "startDate": 1515407400000,
+      "endDate": 1515409200000
+    },
+    {
+      "id": 10041,
+      "type": "SESSION",
+      "startDate": 1515409200000,
+      "endDate": 1515413700000
+    },
+    {
+      "id": 10042,
+      "type": "SESSION",
+      "startDate": 1515414600000,
+      "endDate": 1515420000000
+    },
+    {
+      "id": 10043,
+      "type": "SESSION",
+      "startDate": 1515420000000,
+      "endDate": 1515421800000
+    },
+    {
+      "id": 10044,
+      "type": "SESSION",
+      "startDate": 1515421800000,
+      "endDate": 1515426300000
+    },
+    {
+      "id": 10045,
+      "type": "SESSION",
+      "startDate": 1515426300000,
+      "endDate": 1515427200000
+    },
+    {
+      "id": 10046,
+      "type": "SESSION",
+      "startDate": 1515427200000,
+      "endDate": 1515430800000
+    },
+    {
+      "id": 10047,
+      "type": "SESSION",
+      "startDate": 1515430800000,
+      "endDate": 1515434400000
+    },
+    {
+      "id": 10048,
+      "type": "SESSION",
+      "startDate": 1515434400000,
+      "endDate": 1515441600000
+    },
+    {
+      "id": 10049,
+      "type": "SESSION",
+      "startDate": 1515488400000,
+      "endDate": 1515493800000
+    },
+    {
+      "id": 10050,
+      "type": "SESSION",
+      "startDate": 1515493800000,
+      "endDate": 1515495600000
+    },
+    {
+      "id": 10051,
+      "type": "SESSION",
+      "startDate": 1515495600000,
+      "endDate": 1515501000000
+    },
+    {
+      "id": 10052,
+      "type": "SESSION",
+      "startDate": 1515501000000,
+      "endDate": 1515506400000
+    },
+    {
+      "id": 10053,
+      "type": "SESSION",
+      "startDate": 1515506400000,
+      "endDate": 1515510900000
+    },
+    {
+      "id": 10054,
+      "type": "SESSION",
+      "startDate": 1515510900000,
+      "endDate": 1515511800000
+    },
+    {
+      "id": 10055,
+      "type": "SESSION",
+      "startDate": 1515511800000,
+      "endDate": 1515516300000
+    },
+    {
+      "id": 10056,
+      "type": "SESSION",
+      "startDate": 1515516300000,
+      "endDate": 1515519900000
+    },
+    {
+      "id": 10057,
+      "type": "SESSION",
+      "startDate": 1515519900000,
+      "endDate": 1515522600000
+    },
+    {
+      "id": 10058,
+      "type": "SESSION",
+      "startDate": 1515522600000,
+      "endDate": 1515528000000
+    },
+    {
+      "id": 10059,
+      "type": "SESSION",
+      "startDate": 1515574800000,
+      "endDate": 1515579600000
+    },
+    {
+      "id": 10060,
+      "type": "SESSION",
+      "startDate": 1515579600000,
+      "endDate": 1515581100000
+    },
+    {
+      "id": 10061,
+      "type": "SESSION",
+      "startDate": 1515581100000,
+      "endDate": 1515585600000
+    },
+    {
+      "id": 10062,
+      "type": "SESSION",
+      "startDate": 1515585600000,
+      "endDate": 1515591000000
+    },
+    {
+      "id": 10063,
+      "type": "SESSION",
+      "startDate": 1515591000000,
+      "endDate": 1515594000000
+    },
+    {
+      "id": 10064,
+      "type": "SESSION",
+      "startDate": 1515594000000,
+      "endDate": 1515595200000
+    },
+    {
+      "id": 10065,
+      "type": "SESSION",
+      "startDate": 1515595200000,
+      "endDate": 1515598200000
+    },
+    {
+      "id": 10066,
+      "type": "SESSION",
+      "startDate": 1515598200000,
+      "endDate": 1515600000000
+    },
+    {
+      "id": 10067,
+      "type": "SESSION",
+      "startDate": 1515600000000,
+      "endDate": 1515603600000
+    },
+    {
+      "id": 10101,
+      "type": "SESSION",
+      "startDate": 1515603600000,
+      "endDate": 1515625200000
+    }
+  ],
+  "sessions": [
+    {
+      "id": 1341,
+      "name": "Lunch",
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 10062
+    },
+    {
+      "id": 1246,
+      "name": "Workshops & Doctoral Colloquium",
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 10030
+    },
+    {
+      "id": 1962,
+      "name": "Morning break",
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 10031
+    },
+    {
+      "id": 1124,
+      "name": "Workshops & Doctoral Colloquium",
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 10032
+    },
+    {
+      "id": 1826,
+      "name": "Lunch",
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 10033
+    },
+    {
+      "id": 2376,
+      "name": "Workshops & Doctoral Colloquium",
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 10034
+    },
+    {
+      "id": 1891,
+      "name": "Afternoon break",
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 10035
+    },
+    {
+      "id": 1641,
+      "name": "Workshops & Doctoral Colloquium",
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 10036
+    },
+    {
+      "id": 2291,
+      "name": "Welcome Breakfast",
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 10037
+    },
+    {
+      "id": 2515,
+      "name": "Conference Welcome",
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 10038
+    },
+    {
+      "id": 1728,
+      "name": "Paper Session 1: Crowdsourcing and Funding",
+      "chairIds": [],
+      "contentIds": [
+        7420,
+        5497,
+        4482
+      ],
+      "timeSlotId": 10039
+    },
+    {
+      "id": 1422,
+      "name": "Morning Break 1",
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 10040
+    },
+    {
+      "id": 2517,
+      "name": "Paper Session 2: Metadata, Sensemaking and Depersonalization",
+      "chairIds": [],
+      "contentIds": [
+        8104,
+        3536,
+        3080
+      ],
+      "timeSlotId": 10041
+    },
+    {
+      "id": 2035,
+      "name": "Lunch",
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 10042
+    },
+    {
+      "id": 1291,
+      "name": "Poster Madness",
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 10043
+    },
+    {
+      "id": 1869,
+      "name": "Paper Session 3: Peer Production and Co-Creation",
+      "chairIds": [],
+      "contentIds": [
+        7237,
+        3608,
+        4929
+      ],
+      "timeSlotId": 10044
+    },
+    {
+      "id": 1401,
+      "name": "Early Afternoon Break",
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 10045
+    },
+    {
+      "id": 1222,
+      "name": "Keynote Jimmy Wales, Wikipedia Founder",
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 10046
+    },
+    {
+      "id": 2463,
+      "name": "Late Afternoon Break",
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 10047
+    },
+    {
+      "id": 1055,
+      "name": "Poster Reception",
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 10048
+    },
+    {
+      "id": 1084,
+      "name": "Research Ethics Town Hall Meeting",
+      "chairIds": [
+        14990,
+        24792,
+        24790,
+        24787,
+        24789
+      ],
+      "contentIds": [],
+      "timeSlotId": 10049
+    },
+    {
+      "id": 2017,
+      "name": "Morning Break",
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 10050
+    },
+    {
+      "id": 2426,
+      "name": "Paper Session 4: Working Papers",
+      "chairIds": [],
+      "contentIds": [
+        5381,
+        5240,
+        3721,
+        5933,
+        6668,
+        5953
+      ],
+      "timeSlotId": 10051
+    },
+    {
+      "id": 1290,
+      "name": "Lunch",
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 10052
+    },
+    {
+      "id": 1225,
+      "name": "Paper Session 5: Social Media and Wellbeing",
+      "chairIds": [],
+      "contentIds": [
+        4870,
+        6578,
+        7604
+      ],
+      "timeSlotId": 10053
+    },
+    {
+      "id": 1515,
+      "name": "Early Afternoon Break",
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 10054
+    },
+    {
+      "id": 2300,
+      "name": "Paper Session 6: Knowledge Sharing in (Online) Communities",
+      "chairIds": [],
+      "contentIds": [
+        5757,
+        7139,
+        4379
+      ],
+      "timeSlotId": 10055
+    },
+    {
+      "id": 1113,
+      "name": "Town Hall Meeting",
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 10056
+    },
+    {
+      "id": 2179,
+      "name": "Late Afternoon Break",
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 10057
+    },
+    {
+      "id": 1424,
+      "name": "Conference Banquet",
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 10058
+    },
+    {
+      "id": 1221,
+      "name": "Paper Session 7: Design Fictions",
+      "typeId": 10641,
+      "chairIds": [],
+      "contentIds": [
+        5098,
+        5232,
+        7082,
+        6019
+      ],
+      "timeSlotId": 10059
+    },
+    {
+      "id": 2478,
+      "name": "Morning Break",
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 10060
+    },
+    {
+      "id": 1543,
+      "name": "Paper Session 8: Cyber Infrastructures and the Digitalization of Work",
+      "chairIds": [],
+      "contentIds": [
+        5067,
+        5446,
+        6755
+      ],
+      "timeSlotId": 10061
+    },
+    {
+      "id": 1101,
+      "name": "Paper Session 09: Contemporary and Future Work Settings",
+      "chairIds": [],
+      "contentIds": [
+        4270,
+        6863
+      ],
+      "timeSlotId": 10063
+    },
+    {
+      "id": 1985,
+      "name": "Early Afternoon Break",
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 10064
+    },
+    {
+      "id": 1249,
+      "name": "Paper Session 10: Digital Media & Policy Engagement",
+      "chairIds": [],
+      "contentIds": [
+        5003,
+        3745
+      ],
+      "timeSlotId": 10065
+    },
+    {
+      "id": 1649,
+      "name": "Afternoon Break",
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 10066
+    },
+    {
+      "id": 1743,
+      "name": "Paper Session 11: JCSCW Papers",
+      "chairIds": [],
+      "contentIds": [
+        4994,
+        6350,
+        4832
+      ],
+      "timeSlotId": 10067
+    },
+    {
+      "id": 1388,
+      "name": "Closing Plenary",
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 10101
+    }
+  ],
+  "events": [],
+  "contents": [
+    {
+      "id": 5953,
+      "title": "On Informal Alignment Practices Developing Groupware Systems",
+      "trackId": 10001,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 16304
+        }
+      ],
+      "sessionIds": [
+        2426
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 4929,
+      "title": "Information Fortification: An Online Citation Behavior ",
+      "trackId": 10002,
+      "tags": [],
+      "keywords": [],
+      "abstract": "In this multi-method study, we examine citation activity on English-language Wikipedia to understand how information claims are supported in a non-scientific open collaboration context. We draw on three data sources—edit logs, interview data, and document analysis—to present an integrated interpretation of citation activity and found pervasive themes related to controversy and conflict. Based on this analysis, we present and discuss information fortification as a concept that explains online citation activity that arises from both naturally occurring and manufactured forms of controversy. This analysis challenges a workshop position paper from Group 2005 by Forte and Bruckman, which draws on Latour’s sociology of science and citation to explain citation in Wikipedia with a focus on credibility seeking. We discuss how information fortification differs from theories of citation that have arisen from bibliometrics scholarship and are based on scientific citation practices. ",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "institution": "Drexel University"
+            }
+          ],
+          "personId": 24810
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Drexel University"
+            }
+          ],
+          "personId": 24809
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Drexel University"
+            }
+          ],
+          "personId": 11064
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Drexel University"
+            }
+          ],
+          "personId": 8877
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Drexel University"
+            }
+          ],
+          "personId": 10089
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Wikimedia Foundation"
+            }
+          ],
+          "personId": 24793
+        }
+      ],
+      "sessionIds": [
+        1869
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 4482,
+      "title": "Growth in Social Network Connectedness among Different Roles in Organizational Crowdfunding",
+      "trackId": 10002,
+      "tags": [],
+      "keywords": [],
+      "abstract": "When employees participate in organizational crowdfunding, they seek partial funding from their existing social networks. Among proposers of projects, teams with larger social networks tend to be more successful in reaching their funding goals. However, little is known about the consequences of participation on employees' social networks, during and after the crowdfunding campaign. In a study of activity logs and social networks from a very large-scale organizational crowdfunding campaign, we found that people in different crowdfunding roles experienced different degrees of growth in their social networks, during and after the crowdfunding campaign, as compared with baseline non-participants. These findings contribute to previous work on the strongly social nature of crowdfunding. Organizations can use these results to increase the density of their internal social networks. Employees can use these results to strategize their participation in workplace social networks and in organizational innovation.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "institution": "IBM Research"
+            },
+            {
+              "institution": "Wellesley College"
+            }
+          ],
+          "personId": 24790
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Virginia Tech"
+            }
+          ],
+          "personId": 13695
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "IBM Research"
+            }
+          ],
+          "personId": 24803
+        }
+      ],
+      "sessionIds": [
+        1728
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 4994,
+      "title": "From Publics to Communities: Researching the Path of Shared Issues Through ICT",
+      "trackId": 10001,
+      "tags": [],
+      "keywords": [],
+      "abstract": "In recent years, citizens’ movements such as the Arab Spring or Euromaidan protests have clearly shown that, whenever affected – whether negatively or positively – by the state and government decisions, citizens act to deal with the shared issues. Groups of people who organize themselves to address (mainly political) issues were defined as a ‘public’ by the philosopher John Dewey. He believed it is necessary to improve communication to create a ‘Great Community’ as a cohesive group of a public. Although information and communication technologies (ICT) lead to ambivalent effects on pursuing this goal and often distract the mass of people from discussing these issues, we argue that nowadays ICT can improve communication and has the potential to foster the detection of issues and therefore promote the (trans-)formation of a public into an issue-based community. As our foundation we took a literature study covering the formation of publics and their potential to evolve into communities, as well as their interplay with technology. This formed the basis for the development of our operational model that ‘follows the issues’ for capturing the (trans-)formation of a public. Based on our model, we outline different perspectives on detecting shared issues as early indicators for publics based on ICT and derive implications for researching this process from a practical perspective.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "institution": "University of Siegen"
+            }
+          ],
+          "personId": 12897
+        },
+        {
+          "affiliations": [],
+          "personId": 19171
+        },
+        {
+          "affiliations": [],
+          "personId": 17823
+        }
+      ],
+      "sessionIds": [
+        1743
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 6019,
+      "typeId": 10641,
+      "title": "Ad Empathy: A Design Fiction",
+      "trackId": 10003,
+      "tags": [],
+      "keywords": [],
+      "abstract": "Industry demand for novel forms of personalization and audience targeting paired with research trends in affective computing and emotion detection puts us on a clear path toward emotion-sensitive technologies. Written as API documentation for an AI marketing solution that provides “emotion-sensitive marketing decisions,” this design fiction presents one possible future application of today’s research. Offering a demonstrable grey area in technology ethics, Ad Empathy should help to ground debates around fair use of data, and the boundaries of ethical design.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "institution": "University of Colorado Boulder"
+            }
+          ],
+          "personId": 23342
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "University of Colorado"
+            }
+          ],
+          "personId": 24792
+        }
+      ],
+      "sessionIds": [
+        1221
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 5381,
+      "title": "Exploring the Impact of Internal and External Social capital on Innovative and Supportive Climate in Teams",
+      "trackId": 10001,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "institution": "Yonsei University"
+            }
+          ],
+          "personId": 10059
+        },
+        {
+          "affiliations": [],
+          "personId": 10551
+        },
+        {
+          "affiliations": [],
+          "personId": 18015
+        }
+      ],
+      "sessionIds": [
+        2426
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 7237,
+      "title": "Collaboration Success Factors in  an Online Music Community",
+      "trackId": 10002,
+      "tags": [],
+      "keywords": [],
+      "abstract": "Online communities have been able to develop large, open-source software (OSS) projects like Linux and Firefox throughout the successful collaborations carried out by their members over the Internet. However, online communities also involve creative arts domains such as animation, video games, and music. Despite their growing popularity, the factors that lead to successful collaborations in these communities are not entirely understood. \r\nIn this paper, we present a study on creative collaboration in a music community where authors write songs together by ‘overdubbing’, that is, by mixing a new track with an existing audio recording. We analyzed the relationship between song- and author-related measures and the likelihood of a song being overdubbed. We found that recent songs, as well as songs with many reactions, are more likely to be overdubbed; authors with a high status in the community and a recognizable identity write songs that the community tends to build upon.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "institution": "University of Bari"
+            }
+          ],
+          "personId": 9886
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "University of Bari"
+            }
+          ],
+          "personId": 11562
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "University of Bari"
+            }
+          ],
+          "personId": 14161
+        }
+      ],
+      "sessionIds": [
+        1869
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 4870,
+      "title": "Regrets, I’ve Had A Few: When Regretful Experiences Do (and Don’t) Compel Users to Leave Facebook",
+      "trackId": 10002,
+      "tags": [],
+      "keywords": [],
+      "abstract": "Previous work has explored regretful experiences on social media. In parallel, scholars have examined how people do not use social media. This paper aims to synthesize these two research areas and asks: Do regretful experiences on social media influence people to (consider) not using social media? How might this influence differ for different sorts of regretful experiences? We adopted a mixed methods approach, combining topic modeling, logistic regressions, and contingency analysis to analyze data from a web survey with a demographically representative sample of US internet users (n=515) focusing on their Facebook use. We found that experiences that arise because of users’ own actions influence actual deactivation of their Facebook account, while experiences that arise because of others’ actions lead to considerations of non-use. We discuss the implications of these findings for two theoretical areas of interest in HCI: individual agency in social media use and the networked dimensions of privacy.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "institution": "Marquette University"
+            }
+          ],
+          "personId": 24791
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Lehigh University"
+            }
+          ],
+          "personId": 24796
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Cornell University"
+            }
+          ],
+          "personId": 24797
+        }
+      ],
+      "sessionIds": [
+        1225
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 5446,
+      "title": "Reflections on Operators’ and Maintenance Engineers’ Experiences of Smart Factories",
+      "trackId": 10002,
+      "tags": [],
+      "keywords": [],
+      "abstract": "In production environments, the number of distributed, networked, and automated systems has grown rapidly and is expected to continue to grow in the future. This affects humans’ work fundamentally, in terms of their tasks and routines. Increasing automation and digitalization leads to a substantial change of human-machine interactions on the shop floor, raising the question about humans’ role in highly automated environments. In this paper, we shed light on how work in increasingly automated and digitalized factories is experienced, drawing on interviews with operators and maintenance engineers from three different industrial contexts. By reflecting on actual and anticipated developments in smart production environments, we point out how workers will experience those contexts. We finally discuss resulting challenges and leverage points for smart factories, i.e., areas where HCI and CSCW can contribute to positively influence workers’ experiences in times of increasing automation and digitalization.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "institution": "University of Salzburg"
+            },
+            {
+              "institution": "Center for Technolgy Experience"
+            }
+          ],
+          "personId": 16518
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "University of Salzburg"
+            }
+          ],
+          "personId": 20817
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "University of Salzburg"
+            },
+            {
+              "institution": "Center for Technolgy Experience"
+            }
+          ],
+          "personId": 15206
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "University of Salzburg"
+            },
+            {
+              "institution": "Center for Technolgy Experience"
+            }
+          ],
+          "personId": 24798
+        }
+      ],
+      "sessionIds": [
+        1543
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 3080,
+      "title": "Optimizing User Experience through Implicit Content-aware Network Service in the Home Environment",
+      "trackId": 10002,
+      "tags": [],
+      "keywords": [],
+      "abstract": "There has always been a gap between Internet Service Providers (ISPs) and end users when considering the performance of network-based application. On one hand, ISPs keep raising the investment on infrastructures to speed up the data transportation. On the other hand, users are not satisfied with the perceived quality of experience (QoE). This happens mainly due to the inflexible network flow management, where only the function of rate limiting is provided for home users in the shared network environment. In this paper, we focus on the optimization of users experience by customizing bandwidth allocation for user specified preferences while maintaining high bandwidth utilization. We introduce implicit content-aware bandwidth allocation to minimize the involvement of users on complicated network setting. By leveraging the technique of software-defined networking (SDN), a prototype of content-aware traffic scheduling, Conan, is developed to verify the effectiveness of our design. Experiments show that Conan can reduce the average task completion time of interactive applications by 30-40\\%. During heavy traffic load, Conan can ensure stable bandwidth for each video streaming flow and greatly reduce the average stall duration.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "institution": "Nanjing University"
+            }
+          ],
+          "personId": 12539
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Nanjing University"
+            }
+          ],
+          "personId": 10965
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Nanjing University"
+            }
+          ],
+          "personId": 16255
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Nanjing University"
+            }
+          ],
+          "personId": 23527
+        }
+      ],
+      "sessionIds": [
+        2517
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 3721,
+      "title": "The Influence of Identification in User Self-Presentation on Success in Mass Collaboration",
+      "trackId": 10001,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "institution": "Duquesne University"
+            }
+          ],
+          "personId": 21622
+        },
+        {
+          "affiliations": [],
+          "personId": 23892
+        }
+      ],
+      "sessionIds": [
+        2426
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 5003,
+      "title": "Working toward Empowering a Community:  How Immigrant-Focused Nonprofit Organizations  Use Twitter during Political Conflicts ",
+      "trackId": 10002,
+      "tags": [],
+      "keywords": [],
+      "abstract": "In the digital age, social media has become a popular venue for nonprofit organizations to advocate for causes and promote social change. The 2016 United States Presidential Election occurred amidst divisive public opinions and political uncertainties for immigrants and immigration policies were a frequently-contested debate focus. Thus, this election provided an opportunity to examine nonprofit organizations’ social media usage during political conflicts. We analyzed social media posts by immigrant-focused nonprofit organizations and conducted interviews probing into how they managed their online presence and social relations. This study finds that these nonprofit organizations adopted three key strategies to support their target community: 1) disseminating content about immigration-related issues and policies; 2) calling for participation in collective endeavors to influence the political climate; 3) engaging in conversations with outside stakeholders including political actors, media, and other organizations. We use empowerment theory, which has been used widely to study marginalized populations, as a theoretical lens to discuss how NPOs’ social media usage on Twitter reflects their endeavors to bring information and calls to action to immigrant communities. We, then, present design opportunities to amplify the advantages of social media to help nonprofit organizations better serve their communities in times of political upheavals.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "institution": "Northwestern University"
+            },
+            {
+              "institution": "Indiana University-Purdue University Indianapolis"
+            }
+          ],
+          "personId": 24808
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Indiana University, IUPUI"
+            }
+          ],
+          "personId": 24807
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Indiana University (IUPUI)"
+            }
+          ],
+          "personId": 13313
+        }
+      ],
+      "sessionIds": [
+        1249
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 5067,
+      "title": "Creating, Reinterpreting, Combining, Cuing –  Paper Practices on the Shopfloor",
+      "trackId": 10002,
+      "tags": [],
+      "keywords": [],
+      "abstract": "Despite the advent of a flurry of digital technologies, paper prevails on manufacturing shopfloors. To understand the roles and value of paper on the shopfloor, we have studied the manufacturing practices at two state-of-the-art automotive supplier facilities, applying ethnographic fieldwork, in-depth interviews, as well as photo and document analysis. We find that paper has unique affordances that today’s digital technologies cannot easily supplant on current shopfloors. More specifically, we find four paper practices: (1) creating and adapting individual information spaces, (2) reinterpreting information, (3) combining information handover with social interaction, and (4) visual cuing. We discuss these practices and the unique affordances of paper that currently support shopfloor workers and also consider the limitations of paper, which are becoming increasingly apparent, since more tasks increasingly depend on real-time information.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "institution": "ZHAW School of Management and Law"
+            }
+          ],
+          "personId": 19016
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "IT University of Copenhagen"
+            },
+            {
+              "institution": "University of Zurich"
+            }
+          ],
+          "personId": 19902
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "IT University of Copenhagen"
+            }
+          ],
+          "personId": 21907
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "University of Zurich"
+            }
+          ],
+          "personId": 24811
+        }
+      ],
+      "sessionIds": [
+        1543
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 6668,
+      "title": "Interactive Urdu Braille Learning System for Parents of Visually Impaired Students",
+      "trackId": 10001,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "institution": "Information Technology University, Lahore"
+            }
+          ],
+          "personId": 11855
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Lahore University of Management Sciences"
+            }
+          ],
+          "personId": 9245
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "University of Colorado, Boulder"
+            }
+          ],
+          "personId": 17627
+        }
+      ],
+      "sessionIds": [
+        2426
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 6350,
+      "title": "Latent Groups in Online Communities: a Longitudinal Study in Wikipedia",
+      "trackId": 10001,
+      "tags": [],
+      "keywords": [],
+      "abstract": "Research on online communities has shown that content production involves manifest groups and latent users. This paper conceptualizes a related but distinct phenomenon of latent groups. We ground this contribution in a longitudinal study on the Finnish Wikipedia (2007–2014). In the case of experts working on content within their area of expertise, individuals can constitute a group that maintains itself over time. In such a setting, it becomes viable to view the group as an acting unit instead of as individual nodes in a network. Such groups are able to sustain their activities even over periods of inactivity. Our theoretical contribution is the conceptualization of latent groups, which includes two conditions: 1) a group is capable of reforming after inactivity (i.e., dormant), and 2) a group is difficult to observe to an outsider (i.e., non-manifest).",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "institution": "University of Oulu"
+            }
+          ],
+          "personId": 12686
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "University of Gothenburg"
+            }
+          ],
+          "personId": 21206
+        }
+      ],
+      "sessionIds": [
+        1743
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 6863,
+      "title": "Towards Professionalization in an  Online Community of Emerging Occupation:  Discourses among UX Practitioners",
+      "trackId": 10002,
+      "tags": [],
+      "keywords": [],
+      "abstract": "The occupational landscape of the digital economy is rapidly changing, resulting in the emergence of multidisciplinary occupations. Emerging occupations such as user experience (UX) design are in high demand, but these occupations lack clear boundaries and have yet to develop into a profession with a specified, coherent body of knowledge. While traditional occupations such as medicine and law successfully claimed their professional jurisdiction and high social power and status long before the Internet, how do these emerging occupations work towards professionalization, particularly as they are increasingly supported by and through online communities? In this paper, we investigate an online UX community to understand how UX practitioners specify their occupational knowledge and professional boundaries. Using this case as an example and provocation, we discuss how online communities support the emergence of new occupations and may play an indispensable role in modern day patterns of professionalization. ",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "institution": "Purdue University"
+            }
+          ],
+          "personId": 24804
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Purdue University "
+            }
+          ],
+          "personId": 13930
+        }
+      ],
+      "sessionIds": [
+        1101
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 3536,
+      "title": "Modeling User Intrinsic Characteristic on Social Media for Identity Linkage",
+      "trackId": 10002,
+      "tags": [],
+      "keywords": [],
+      "abstract": "Most users on social media have intrinsic characteristics, such as interests and political views, that can be exploited to identify and track them. It raises privacy and identity issues in online communities. In this paper we investigate the problem of user identity linkage on two  behavior datasets collected from different experiments. Specifically, we focus on user linkage based  on users' interaction behaviors with respect to content topics. We propose an embedding method to model a topic as a vector in a latent  space so as to interpret its deep semantics. Then a user is modeled as a vector based on his or her interactions with topics. The embedding representations of topics are learned by optimizing the joint-objective:  the compatibility between topics with similar semantics, the discriminative abilities of topics to distinguish identities, and the consistency of the same user's characteristics from\ttwo datasets. The effectiveness of our method is verified on  real-life datasets and the results show that it outperforms related methods. ",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "institution": "Shandong University"
+            }
+          ],
+          "personId": 19373
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Shandong University"
+            }
+          ],
+          "personId": 22132
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Purdue University"
+            }
+          ],
+          "personId": 11076
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Shandong University"
+            }
+          ],
+          "personId": 17402
+        }
+      ],
+      "sessionIds": [
+        2517
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 3608,
+      "title": "Geographic Biases are ‘Born, not Made’: Exploring Contributors’ Spatiotemporal Behavior in OpenStreetMap",
+      "trackId": 10002,
+      "tags": [],
+      "keywords": [],
+      "abstract": "The evolution of contributor behavior in peer production communities over time has been a subject of substantial interest in the social computing community. In this paper, we extend this literature to the geographic domain, exploring contribution behavior in OpenStreetMap using a spatiotemporal lens. In doing so, we observe a geographic version of a “born, not made” phenomenon: throughout their lifespans, contributors are relatively consistent in the places and types of places that they edit. We show how these “born, not made” trends may help explain the urban and socioeconomic coverage biases that have been observed in OpenStreetMap. We also discuss how our findings can help point towards solutions to these biases.\r\n",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "institution": "University of Minnesota"
+            }
+          ],
+          "personId": 24806
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Northwestern University"
+            }
+          ],
+          "personId": 24795
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "The University of Minnesota"
+            }
+          ],
+          "personId": 23991
+        }
+      ],
+      "sessionIds": [
+        1869
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 4379,
+      "title": "Open Data Standards for Open Source Software Risk Management Routines: An Examination of SPDX ",
+      "trackId": 10002,
+      "tags": [],
+      "keywords": [],
+      "abstract": "As the organizational use of open source software (OSS) increases, it requires the adjustment of organizational routines to manage new OSS risk. These routines may be influenced by community-developed open data standards to explicate, analyze, and report OSS risks. Open data standards are co-created in open communities for unifying the exchange of information. The SPDX® specification is such an open data standard to explicate and share OSS risk information. The development and subsequent adoption of SPDX raises the questions of how organizations make sense of SPDX when improving their own risk management routines, and of how a community benefits from the experiential knowledge that is contributed back by organizational adopters. To explore these questions, we conducted a single case, multi-component field study, connecting with members of organizations that employed SPDX. The results of this study contribute to understanding the development and adoption of open data standards within open source environments.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "institution": "University of Nebraska at Omaha"
+            }
+          ],
+          "personId": 9027
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "University of Nebraska at Omaha"
+            }
+          ],
+          "personId": 12538
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "University of Nebraska at Omaha"
+            }
+          ],
+          "personId": 11388
+        }
+      ],
+      "sessionIds": [
+        2300
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 4832,
+      "title": "Studying Infrastructuring Ethnographically",
+      "trackId": 10001,
+      "tags": [],
+      "keywords": [],
+      "abstract": "This paper is motivated by a methodological interest in how to investigate information infrastructures as an empirical, real-world phenomenon. We argue that research on information infrastructures should not be captive to the prevalent method choice of small-scale and short-term studies. Instead research should address the challenges of empirically studying the heterogeneous, extended and complex phenomena of infrastructuring with an emphasis on the necessarily emerging and open-ended processual qualities of information infrastructures. While existing literature identifies issues that make the study of infrastructuring demanding, few propose ways of addressing these challenges. In this paper we review characteristics of information infrastructures identified in the literature that present challenges for their empirical study. We look to current research in the social sciences, particularly anthropology and science and technology studies (STS) that focus on how to study complex and extended phenomena ethnographically, to provide insight into the study of infrastructuring. Specifically, we reflect on infrastructuring as an object of ethnographic inquiry by building on the notion of “constructing the field.” Recent developments in how to conceptualize the ethnographic field are tied both to longstanding traditions and novel developments in anthropology and STS for studying extended and complex phenomena. Through a discussion of how dimensions of information infrastructures have been addressed practically, methodologically, and theoretically we aim to link the notion of constructing the ethnographic field with views on infrastructuring as a particular kind of object of inquiry. Thus we aim to provide an ethnographically sensitive and methodologically oriented “opening” for an alternative ontology for studying infrastructuring ethnographically.",
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 12183
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "IBM Research San Jose"
+            }
+          ],
+          "personId": 23622
+        }
+      ],
+      "sessionIds": [
+        1743
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 3745,
+      "title": "Effects of Comment Curation and Opposition on Coherence in Online Policy Discussion",
+      "trackId": 10002,
+      "tags": [],
+      "keywords": [],
+      "abstract": "Public concern related to a policy may span a range of topics. As a result, policy discussions struggle to deeply examine any one topic before moving to the next. In policy deliberation research, this is referred to as a problem of topical coherence. In an experiment, we curated the comments in a policy discussion to prioritize arguments for or against a policy proposal, and examined how this curation and participants' initial positions of support or opposition to the policy affected the coherence of their contributions to existing topics. We found an asymmetric interaction between participants' initial positions and comment curation: participants with different initial positions had unequal reactions to curation that foregrounded comments with which they disagreed. This asymmetry implies that the factors underlying coherence are more nuanced than prioritizing participants' agreement or disagreement. We discuss how this finding relates to curating for coherent disagreement, and for curation more generally in deliberative processes.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "institution": "Cornell University"
+            }
+          ],
+          "personId": 19223
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Cornell University"
+            }
+          ],
+          "personId": 24805
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Lehigh University"
+            }
+          ],
+          "personId": 24796
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Cornell University"
+            }
+          ],
+          "personId": 12045
+        }
+      ],
+      "sessionIds": [
+        1249
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 7139,
+      "title": "Danmaku vs. Forum Comments: Understanding User Participation and Knowledge Sharing in Online Videos",
+      "trackId": 10002,
+      "tags": [],
+      "keywords": [],
+      "abstract": "Online videos platforms are gaining more features, such as social networking, communication and education. In the meantime, video platforms are also improving their integration with other platforms, such as social media channel like Twitter, in order to improve users' watching experience. Existing platforms provides an asynchronized experience. For example, people watch TV on YouTube, but make comments on Twitter, or people watch TV on YouTube, and make comments below video without referring to specific time stamp in the videos. In this paper, we study a new system, bullet screen, as an emerging trend for future video platform. It provides a synchronized watching experience both in watching and users making contribution to videos. We also present the potential of such system in the context of online learning terminology explanation, and video caption creation. The results shows the possibilities of large scale application of bullet screen for future online video platforms. ",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "institution": "Syracuse University"
+            }
+          ],
+          "personId": 24801
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Syracuse University"
+            }
+          ],
+          "personId": 24788
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Syracuse University"
+            }
+          ],
+          "personId": 15082
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "School of Information Studies"
+            }
+          ],
+          "personId": 10626
+        }
+      ],
+      "sessionIds": [
+        2300
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 6755,
+      "title": "Infrastructural Grind: Introducing Blockchain Technology in the Shipping Domain",
+      "trackId": 10002,
+      "tags": [],
+      "keywords": [],
+      "abstract": "In this paper, we present ethnographic data unpacking three different accounts of how Blockchain technology gets introduced into the shipping domain. The results demonstrate that the shipping industry is based upon an information infrastructure with a socio-technical kernel comprising transaction practices between shippers, freight forwarders, ports, shipping lines, and other actors in the shipping industry. These practices are based upon standards, which have evolved over time and are embedded within the installed base of the infrastructure. We find that because of the inertia of the shipping infrastructure, Blockchain technology cannot be seamlessly introduced directly into the shipping domain. Instead, we introduce Infrastructural Grind as the activity by which domains (e.g. shipping) intersect with new technological infrastructures (e.g. Blockchain). Infrastructural grind occurs as a result of various infrastructuring activities taking place at different intersections between the two infrastructures, and is constituted of the sum of these manifestations. We propose that infrastructural grind is enacted through activities expressing elements of consolidation, permeability, and velocity.   ",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "institution": "University of Copenhagen"
+            }
+          ],
+          "personId": 20184
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "University of Copenhagen"
+            }
+          ],
+          "personId": 14990
+        }
+      ],
+      "sessionIds": [
+        1543
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 8104,
+      "title": "Reflektor: An Exploration of Collaborative Music Playlist Creation for Social Context",
+      "trackId": 10002,
+      "tags": [],
+      "keywords": [],
+      "abstract": "Music is intrinsically linked to our social lives. As more music becomes available through streaming services, deciding what music is appropriate for social events becomes increasingly challenging and nuanced. While prior work has considered the social role of music and the creation of music playlists for user contexts, how individuals utilize music to create social contexts is an area that has largely gone unexplored. To investigate this topic, we created and evaluated a prototype music recommender system called Reflektor. Reflektor interactively visualizes users’ chat conversations to generate music playlists. Our analysis of user conversations with Reflektor uncovered distinct strategies participants use to create the ambiance and conduct for social contexts. Our findings help to illuminate mismatches in the way metadata and recommendation systems align with user strategies to create social context. We elaborate on these strategies and discuss design implications for future collaborative music recommender systems.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "institution": "University of Washington"
+            }
+          ],
+          "personId": 8335
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "University of Washington"
+            }
+          ],
+          "personId": 12685
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "University of Washington"
+            }
+          ],
+          "personId": 24800
+        }
+      ],
+      "sessionIds": [
+        2517
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 7082,
+      "typeId": 10641,
+      "title": "LiveDissent: A Media Platform for Remote Participation in Activist Demonstrations",
+      "trackId": 10003,
+      "tags": [],
+      "keywords": [],
+      "abstract": "Social media platforms such as Twitter and Facebook have become a critical tools for the coordination of activist movements and demonstrations. Additionally, live streaming platforms like Periscope have started to emerge as modalities for reporting on and remotely experiencing activist activities. In this design fiction, we present LiveDissent, a fictional media platform that leverages both established and emerging technologies to support remote participation in activist demonstrations. These technologies include mobile live streaming, telepresence robots, unmanned aerial vehicles, and digitally augmented picket signs. LiveDissent brings these technologies together into an aggregated platform for remotely watching and participating in demonstrations. We discuss a planned in the wild study at an upcoming demonstration, through which we will explore the design and implications of social media and telepresence for participation in activism. Finally, our authors’ statement connects to related prior work and explores potential research and ethics questions.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "institution": "Texas A&M University"
+            }
+          ],
+          "personId": 22495
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Texas A&M University"
+            }
+          ],
+          "personId": 15634
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Texas A&M University"
+            }
+          ],
+          "personId": 10524
+        }
+      ],
+      "sessionIds": [
+        1221
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 5098,
+      "typeId": 10641,
+      "title": "Crisis Informatics Research Teams: A Design Fiction for Future Crisis Response Training",
+      "trackId": 10003,
+      "tags": [],
+      "keywords": [],
+      "abstract": "The importance of social media usage during crisis has been well established in both academic and practitioner communities. While this work continues to grow in scope and in scale, the promise of rendering insights from social media usable for responders in a consistent manner remains unfulfilled and accepted standards of practice have yet to emerge. Inspired by a May 2017 workshop consisting of 15 Crisis Informatics practitioners from 3 continents, we imagine the training curriculum required to harness social media data during a crisis. We call the product of that training a Crisis Informatics Research Technician (CIRT). We offer this design fiction as a means to stimulate a conversation among Crisis Informatics scholars, Human-Computer Interaction scholars, crisis response professionals, and the public by highlighting best practices, best tools, limitations, and ethics of leveraging social media to improve crisis response.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "institution": "University of Washington"
+            }
+          ],
+          "personId": 19252
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "University of Colorado"
+            }
+          ],
+          "personId": 15105
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Bellevue University"
+            },
+            {
+              "institution": "Pennsylvania State University"
+            }
+          ],
+          "personId": 16735
+        }
+      ],
+      "sessionIds": [
+        1221
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 5933,
+      "title": "A framework for social media use in Municipalities",
+      "trackId": 10001,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "institution": "University West Trollhättan"
+            }
+          ],
+          "personId": 24343
+        },
+        {
+          "affiliations": [],
+          "personId": 17042
+        }
+      ],
+      "sessionIds": [
+        2426
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 4270,
+      "title": "Disaggregating the Impacts of Virtuality on Team Identification",
+      "trackId": 10002,
+      "tags": [],
+      "keywords": [],
+      "abstract": "Team identification is an important predictor of team success. As teams become more virtual, team identification is expected to become more important. Yet, the dimensions of virtuality such as geographic dispersion, reliance on electronic communications and diversity in team membership can undermine team identification. To better understand the impact of virtuality, the authors conducted a study with 248 employees in 55 teams to examine the complex and codependent effects of virtuality. Results indicate that although geographic dispersion and perceived differences can undermine team identification, reliance on electronic communications increases team identification and weakens the negative relationship between perceived differences and team identification.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "institution": "University of Michigan"
+            }
+          ],
+          "personId": 22382
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Syracuse University"
+            }
+          ],
+          "personId": 24179
+        }
+      ],
+      "sessionIds": [
+        1101
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 5232,
+      "typeId": 10641,
+      "title": "What Would You Do? Design Fiction and Ethics",
+      "trackId": 10003,
+      "tags": [],
+      "keywords": [],
+      "abstract": "Design fiction can be highly effective at envisioning possible futures. That envisioning enables, among other things, considering ethical implications of possible technologies. This paper highlights that capacity through a curated collection of five short design fiction pieces, each accompanied by its own author statement. Spanning multiple genres, each piece highlights ethical issues in its own way. After considering the unique strategies that each piece uses to highlight ethical issues, the paper concludes with considerations of how design fiction can advance broader discussions of ethics in computing.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "institution": "Bethlehem"
+            },
+            {
+              "institution": "Pennsylvania"
+            },
+            {
+              "institution": "Lehigh University"
+            }
+          ],
+          "personId": 24796
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Lehigh University"
+            }
+          ],
+          "personId": 16525
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Lehigh University"
+            }
+          ],
+          "personId": 11744
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Lehigh University"
+            }
+          ],
+          "personId": 19715
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Lehigh University"
+            }
+          ],
+          "personId": 23267
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Lehigh University"
+            }
+          ],
+          "personId": 9006
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Lehigh University"
+            }
+          ],
+          "personId": 10021
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Lehigh University"
+            }
+          ],
+          "personId": 15176
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Lehigh University"
+            }
+          ],
+          "personId": 15414
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Lehigh University"
+            }
+          ],
+          "personId": 19778
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Lehigh University"
+            }
+          ],
+          "personId": 16343
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Lehigh University"
+            }
+          ],
+          "personId": 8792
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Lehigh University"
+            }
+          ],
+          "personId": 17246
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Lehigh University"
+            }
+          ],
+          "personId": 24395
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Lehigh University"
+            }
+          ],
+          "personId": 10285
+        }
+      ],
+      "sessionIds": [
+        1221
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 6578,
+      "title": "FitAware: Promoting Group Fitness Awareness Through Glanceable Smartwatches",
+      "trackId": 10002,
+      "tags": [],
+      "keywords": [],
+      "abstract": "Physical inactivity is a global public health concern. Community-based interventions that use strategies such as competition and cooperation, with group dynamics-based strategies at their core, are effective at improving individual physical activity behaviors, but they often rely on participants to actively seek out fitness information themselves. This work examines how technologies such as smartwatches that are designed to raise awareness of personal and group fitness can encourage positive fitness behavior within and across peer groups. This paper presents a study about smartwatch use by 27 people as part of an 8-week community physical activity intervention program with elements of competition and cooperation, seeking to understand fitness awareness and behavior of the participants. Results indicate generally high awareness levels of smartwatch information. In particular, members of most successful groups exhibited significantly higher awareness for feedback displayed on the smartwatch.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "institution": "Virginia Tech"
+            }
+          ],
+          "personId": 8661
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Virginia Tech"
+            }
+          ],
+          "personId": 22786
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Virginia Tech"
+            }
+          ],
+          "personId": 20032
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Virginia Tech"
+            }
+          ],
+          "personId": 13783
+        }
+      ],
+      "sessionIds": [
+        1225
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 7604,
+      "title": "Psychological Wellbeing as an Explanation of User Engagement in the Lifecycle of Online Community Participation",
+      "trackId": 10002,
+      "tags": [],
+      "keywords": [],
+      "abstract": "This study documents users’ changes in psychological wellbeing across the lifecycle of their participation in an online community. Through in-depth interviews with 30 long-term users of Everything2.com, and content analysis of their posts, we found that psychological wellbeing plays a large role in the evolution of how users participate in the community over time. Everything2 is a long-running user-generated content site framed as an open encyclopedia. Results suggested that negative psychological wellbeing, such as loneliness and low self-esteem, fueled initial participation; validation and criticism from other users on one’s content motivation continued content contribution; but ultimately feelings of relatedness with the community, unrelated to content contribution, was what retained users. Absence of social connections in the online community, as well as improved wellbeing offline, led to exit.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "institution": "New Jersey Institute of Technology"
+            }
+          ],
+          "personId": 24802
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "University of Michigan"
+            }
+          ],
+          "personId": 24794
+        }
+      ],
+      "sessionIds": [
+        1225
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 5240,
+      "title": "An exploratory study of problem framing in distributed collaborative design",
+      "trackId": 10001,
+      "tags": [],
+      "keywords": [],
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "institution": "University of California, San Diego"
+            }
+          ],
+          "personId": 21860
+        },
+        {
+          "affiliations": [],
+          "personId": 15126
+        },
+        {
+          "affiliations": [],
+          "personId": 14535
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Carnegie Mellon University, Pittsburgh"
+            }
+          ],
+          "personId": 13977
+        }
+      ],
+      "sessionIds": [
+        2426
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 5497,
+      "title": "Enabling Uneven Task Difficulty in Micro-Task Crowdsourcing",
+      "trackId": 10002,
+      "tags": [],
+      "keywords": [],
+      "abstract": "In micro-task crowdsourcing markets such as Amazon’s Mechanical Turk, how to obtain high quality result without exceeding the limited budgets is one main challenge. The existing theory and practice of crowdsourcing suggests that uneven task difficulty plays a crucial role to task quality. Yet, it lacks a clear identifying method to task difficulty, which hinders effective and efficient execution of micro-task crowdsourcing. This paper explores the notion of task difficulty and its influence to crowdsourcing, and presents a difficulty-based crowdsourcing method to optimize the crowdsourcing process. We firstly identify task difficulty feature based on a local estimation method in the real crowdsourcing context, followed by proposing an optimization method to improve the accuracy of results, while reducing the overall cost. We conduct a series of experimental studies to evaluate our method, which show that our difficulty-based crowdsourcing method can accurately identify the task difficulty feature, improve the quality of task performance and reduce the cost significantly, and thus demonstrate the effectiveness of task difficulty as task modeling property. ",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "institution": "ECNU"
+            }
+          ],
+          "personId": 19692
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "East China Normal University"
+            }
+          ],
+          "personId": 21406
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "East China Normal University"
+            }
+          ],
+          "personId": 21835
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "East China Normal University"
+            }
+          ],
+          "personId": 11075
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Computer Science"
+            }
+          ],
+          "personId": 14426
+        }
+      ],
+      "sessionIds": [
+        1728
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 7420,
+      "title": "Pay-per-Question: Towards Targeted Q&A with Payments",
+      "trackId": 10002,
+      "tags": [],
+      "keywords": [],
+      "abstract": "Online question and answer (Q&A) services are facing key challenges to motivate domain experts to provide quick and high-quality answers. Recent systems seek to engage real-world experts by allowing them to set a price on their answers. This leads to a \"targeted\" Q&A model where users to ask questions to a target expert by paying the price. In this paper, we perform a case study on two emerging targeted Q&A systems Fenda (China) and Whale (US) to understand how monetary incentives affect user behavior. By analyzing a large dataset of 220K questions (worth 1 million USD), we find that payments indeed enable quick answers from experts, but also drive certain users to game the system for profits. In addition, this model requires users (experts) to proactively adjust their price to make profits. People who are unwilling to lower their prices are likely to hurt their income and engagement over time.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "institution": "Virginia Tech"
+            }
+          ],
+          "personId": 23926
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Virginia Tech"
+            }
+          ],
+          "personId": 8793
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Virginia Tech"
+            }
+          ],
+          "personId": 17465
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Virginia Tech"
+            }
+          ],
+          "personId": 14681
+        }
+      ],
+      "sessionIds": [
+        1728
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 5757,
+      "title": "Re-thinking Traceability: A Prototype to Record and Revisit the Evolution of Design Artefacts ",
+      "trackId": 10002,
+      "tags": [],
+      "keywords": [],
+      "abstract": "Keeping track of design processes is a cumbersome task due to the apparently unconstrained and unstructured nature of creative work. This is especially the case when the design process involves a variety of artefacts, actors, and separate phases spread out over time. Traceability is fundamental to revisit and reflect on the design narratives that describe the evolution of artefacts during design processes. However, design teams report problems when keeping track of progress over time. In this paper, we aim to identify what characteristics are necessary to facilitate traceability of a design process. For this end, we use the functional prototype of a design rationale tool to connect artefacts, design rationale and decisions in a shared workspace. We evaluated this prototype for 17 weeks with six pairs of students engaged in a user-centered design project with involvement of external stakeholders. Our findings show that having a lean repository of artefacts annotated with design rationale can facilitate tracking progress in different phases of the design process. We found that creating a record of the participants’ design work is useful to reflect on and for team agreement, ensure consistency of evolving artefacts, and help in planning future steps in the design project.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "institution": "Hasselt University - tUL - imec"
+            }
+          ],
+          "personId": 13450
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Hasselt University - tUL - imec"
+            }
+          ],
+          "personId": 12114
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Hasselt University - tUL - imec"
+            }
+          ],
+          "personId": 24799
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Hasselt University - tUL - imec"
+            }
+          ],
+          "personId": 13866
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Hasselt University - tUL - imec"
+            }
+          ],
+          "personId": 13564
+        }
+      ],
+      "sessionIds": [
+        2300
+      ],
+      "eventIds": []
+    }
+  ],
+  "people": [
+    {
+      "id": 13313,
+      "firstName": "Erin",
+      "lastName": "Brady",
+      "affiliations": []
+    },
+    {
+      "id": 15105,
+      "firstName": "Robert",
+      "lastName": "Soden",
+      "affiliations": []
+    },
+    {
+      "id": 22786,
+      "firstName": "Scott",
+      "lastName": "McCrickard",
+      "affiliations": []
+    },
+    {
+      "id": 19715,
+      "firstName": "Jonathan",
+      "lastName": "Gonzalez",
+      "affiliations": []
+    },
+    {
+      "id": 12045,
+      "firstName": "Gilly",
+      "lastName": "Leshed",
+      "affiliations": []
+    },
+    {
+      "id": 15634,
+      "firstName": "Nic",
+      "lastName": "Lupfer",
+      "affiliations": []
+    },
+    {
+      "id": 15126,
+      "firstName": "Jan",
+      "lastName": "Castro",
+      "middleInitial": "De",
+      "affiliations": []
+    },
+    {
+      "id": 19223,
+      "firstName": "Brian",
+      "lastName": "McInnis",
+      "middleInitial": "James",
+      "affiliations": []
+    },
+    {
+      "id": 24343,
+      "firstName": "Livia",
+      "lastName": "Norstom",
+      "affiliations": []
+    },
+    {
+      "id": 10524,
+      "firstName": "Andruid",
+      "lastName": "Kerne",
+      "affiliations": []
+    },
+    {
+      "id": 9245,
+      "firstName": "Suleman",
+      "lastName": "Shahid",
+      "affiliations": []
+    },
+    {
+      "id": 10021,
+      "firstName": "Luke",
+      "lastName": "Kwon",
+      "middleInitial": "Y",
+      "affiliations": []
+    },
+    {
+      "id": 11562,
+      "firstName": "Giuseppe",
+      "lastName": "Iaffaldano",
+      "affiliations": []
+    },
+    {
+      "id": 13866,
+      "firstName": "Mieke",
+      "lastName": "Haesen",
+      "affiliations": []
+    },
+    {
+      "id": 10285,
+      "firstName": "Benjamin",
+      "lastName": "Weinfeld",
+      "affiliations": []
+    },
+    {
+      "id": 23342,
+      "firstName": "Michael",
+      "lastName": "Skirpan",
+      "affiliations": []
+    },
+    {
+      "id": 9006,
+      "firstName": "Allison",
+      "lastName": "Kundrik",
+      "affiliations": []
+    },
+    {
+      "id": 19252,
+      "firstName": "Dharma",
+      "lastName": "Dailey",
+      "affiliations": []
+    },
+    {
+      "id": 15414,
+      "firstName": "Chanh",
+      "lastName": "Nguyen",
+      "affiliations": []
+    },
+    {
+      "id": 10551,
+      "firstName": "Hyejung",
+      "lastName": "Lee",
+      "affiliations": []
+    },
+    {
+      "id": 11064,
+      "firstName": "Tim",
+      "lastName": "Gorichanaz",
+      "affiliations": []
+    },
+    {
+      "id": 17465,
+      "firstName": "Qing",
+      "lastName": "Zhang",
+      "affiliations": []
+    },
+    {
+      "id": 20032,
+      "firstName": "Samantha",
+      "lastName": "Harden",
+      "affiliations": []
+    },
+    {
+      "id": 19778,
+      "firstName": "Fredy",
+      "lastName": "Ramirez",
+      "affiliations": []
+    },
+    {
+      "id": 9027,
+      "firstName": "Robin",
+      "lastName": "Gandhi",
+      "middleInitial": "A",
+      "affiliations": []
+    },
+    {
+      "id": 11075,
+      "firstName": "Xin",
+      "lastName": "Lin",
+      "affiliations": []
+    },
+    {
+      "id": 11076,
+      "firstName": "Elisa",
+      "lastName": "Bertino",
+      "affiliations": []
+    },
+    {
+      "id": 23622,
+      "firstName": "Jeannette",
+      "lastName": "Blomberg",
+      "affiliations": []
+    },
+    {
+      "id": 19016,
+      "firstName": "Peter",
+      "lastName": "Heinrich",
+      "affiliations": []
+    },
+    {
+      "id": 15176,
+      "firstName": "Timothy",
+      "lastName": "LaRowe",
+      "affiliations": []
+    },
+    {
+      "id": 10059,
+      "firstName": "Jungwoo",
+      "lastName": "Lee",
+      "affiliations": []
+    },
+    {
+      "id": 24395,
+      "firstName": "Yuchen",
+      "lastName": "Wan",
+      "affiliations": []
+    },
+    {
+      "id": 21835,
+      "firstName": "Jing",
+      "lastName": "Yang",
+      "affiliations": []
+    },
+    {
+      "id": 11855,
+      "firstName": "Muhammad",
+      "lastName": "Iqbal",
+      "middleInitial": "Zahid",
+      "affiliations": []
+    },
+    {
+      "id": 14161,
+      "firstName": "Filippo",
+      "lastName": "Lanubile",
+      "affiliations": []
+    },
+    {
+      "id": 20817,
+      "firstName": "Thomas",
+      "lastName": "Meneweger",
+      "affiliations": []
+    },
+    {
+      "id": 12114,
+      "firstName": "Gustavo",
+      "lastName": "Rovelo Ruiz",
+      "middleInitial": "Alberto",
+      "affiliations": []
+    },
+    {
+      "id": 23892,
+      "firstName": "Elisabeth",
+      "lastName": "Joyce",
+      "affiliations": []
+    },
+    {
+      "id": 8792,
+      "firstName": "William",
+      "lastName": "Ulrich",
+      "affiliations": []
+    },
+    {
+      "id": 8793,
+      "firstName": "Chun",
+      "lastName": "Wang",
+      "affiliations": []
+    },
+    {
+      "id": 14681,
+      "firstName": "Gang",
+      "lastName": "Wang",
+      "affiliations": []
+    },
+    {
+      "id": 14426,
+      "firstName": "Liang",
+      "lastName": "He",
+      "affiliations": []
+    },
+    {
+      "id": 17246,
+      "firstName": "Amber",
+      "lastName": "Wallace",
+      "affiliations": []
+    },
+    {
+      "id": 18015,
+      "firstName": "Seulki",
+      "lastName": "Lee",
+      "affiliations": []
+    },
+    {
+      "id": 16735,
+      "firstName": "Nicolas",
+      "lastName": "LaLone",
+      "middleInitial": "James",
+      "affiliations": []
+    },
+    {
+      "id": 12897,
+      "firstName": "Thomas",
+      "lastName": "Ludwig",
+      "affiliations": []
+    },
+    {
+      "id": 21860,
+      "firstName": "Ruijia",
+      "lastName": "Cheng",
+      "affiliations": []
+    },
+    {
+      "id": 15206,
+      "firstName": "Verena",
+      "lastName": "Fuchsberger",
+      "affiliations": []
+    },
+    {
+      "id": 10089,
+      "firstName": "Thomas",
+      "lastName": "Park",
+      "middleInitial": "H.",
+      "affiliations": []
+    },
+    {
+      "id": 13930,
+      "firstName": "Colin",
+      "lastName": "Gray",
+      "middleInitial": "M.",
+      "affiliations": []
+    },
+    {
+      "id": 22382,
+      "firstName": "Lionel",
+      "lastName": "Robert",
+      "middleInitial": "Peter",
+      "affiliations": []
+    },
+    {
+      "id": 24179,
+      "firstName": "Sangseok",
+      "lastName": "You",
+      "affiliations": []
+    },
+    {
+      "id": 22132,
+      "firstName": "Yuqing",
+      "lastName": "Sun",
+      "affiliations": []
+    },
+    {
+      "id": 21622,
+      "firstName": "Jacqueline",
+      "lastName": "Pike",
+      "affiliations": []
+    },
+    {
+      "id": 23926,
+      "firstName": "Steve",
+      "lastName": "Jan",
+      "middleInitial": "T K",
+      "affiliations": []
+    },
+    {
+      "id": 11388,
+      "firstName": "Georg",
+      "lastName": "Link",
+      "middleInitial": "J.P.",
+      "affiliations": []
+    },
+    {
+      "id": 13695,
+      "firstName": "Tanushree",
+      "lastName": "Mitra",
+      "affiliations": []
+    },
+    {
+      "id": 16255,
+      "firstName": "Cam-Tu",
+      "lastName": "Nguyen",
+      "affiliations": []
+    },
+    {
+      "id": 10626,
+      "firstName": "Yun",
+      "lastName": "Huang",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 16518,
+      "firstName": "Daniela",
+      "lastName": "Wurhofer",
+      "affiliations": []
+    },
+    {
+      "id": 13450,
+      "firstName": "Marisela",
+      "lastName": "Gutierrez Lopez",
+      "affiliations": []
+    },
+    {
+      "id": 12685,
+      "firstName": "Aubury",
+      "lastName": "Jellenek",
+      "middleInitial": "L",
+      "affiliations": []
+    },
+    {
+      "id": 16525,
+      "firstName": "Timothy",
+      "lastName": "Berrill",
+      "middleInitial": "James",
+      "affiliations": []
+    },
+    {
+      "id": 12686,
+      "firstName": "Arto",
+      "lastName": "Lanamäki",
+      "affiliations": []
+    },
+    {
+      "id": 14990,
+      "firstName": "Pernille",
+      "lastName": "Bjørn",
+      "affiliations": []
+    },
+    {
+      "id": 8335,
+      "firstName": "Jared",
+      "lastName": "Bauer",
+      "middleInitial": "S",
+      "affiliations": []
+    },
+    {
+      "id": 17042,
+      "firstName": "Martin",
+      "lastName": "Gellerstedt",
+      "affiliations": []
+    },
+    {
+      "id": 21907,
+      "firstName": "Lars Rune",
+      "lastName": "Christensen",
+      "affiliations": []
+    },
+    {
+      "id": 12183,
+      "firstName": "Helena",
+      "lastName": "Karasti",
+      "affiliations": []
+    },
+    {
+      "id": 13977,
+      "firstName": "Joel",
+      "lastName": "Chan",
+      "affiliations": []
+    },
+    {
+      "id": 9886,
+      "firstName": "Fabio",
+      "lastName": "Calefato",
+      "affiliations": []
+    },
+    {
+      "id": 21406,
+      "firstName": "Yuling",
+      "lastName": "Sun",
+      "affiliations": []
+    },
+    {
+      "id": 17823,
+      "firstName": "Volkmar",
+      "lastName": "Pipek",
+      "affiliations": []
+    },
+    {
+      "id": 19373,
+      "firstName": "Xianqi",
+      "lastName": "Yu",
+      "affiliations": []
+    },
+    {
+      "id": 8877,
+      "firstName": "Meen Chul",
+      "lastName": "Kim",
+      "affiliations": []
+    },
+    {
+      "id": 16304,
+      "firstName": "Stefan",
+      "lastName": "Nilsson",
+      "affiliations": []
+    },
+    {
+      "id": 23991,
+      "firstName": "Loren",
+      "lastName": "Terveen",
+      "affiliations": []
+    },
+    {
+      "id": 19902,
+      "firstName": "Alexander",
+      "lastName": "Richter",
+      "affiliations": []
+    },
+    {
+      "id": 14535,
+      "firstName": "Steven",
+      "lastName": "Dow",
+      "affiliations": []
+    },
+    {
+      "id": 24787,
+      "firstName": "Jessica",
+      "lastName": "Pater",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 24788,
+      "firstName": "Yisi",
+      "lastName": "Sang",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 10965,
+      "firstName": "Xiaoliang",
+      "lastName": "Wang",
+      "affiliations": []
+    },
+    {
+      "id": 8661,
+      "firstName": "Andrey",
+      "lastName": "Esakia",
+      "affiliations": []
+    },
+    {
+      "id": 24789,
+      "firstName": "Pamela",
+      "lastName": "Wisniewski",
+      "middleInitial": "J.",
+      "affiliations": []
+    },
+    {
+      "id": 24790,
+      "firstName": "Michael",
+      "lastName": "Muller",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 21206,
+      "firstName": "Juho",
+      "lastName": "Lindman",
+      "affiliations": []
+    },
+    {
+      "id": 24791,
+      "firstName": "Shion",
+      "lastName": "Guha",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 16343,
+      "firstName": "Peter",
+      "lastName": "Schaedler",
+      "affiliations": []
+    },
+    {
+      "id": 13783,
+      "firstName": "Michael",
+      "lastName": "Horning",
+      "affiliations": []
+    },
+    {
+      "id": 24792,
+      "firstName": "Casey",
+      "lastName": "Fiesler",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 20184,
+      "firstName": "Karim",
+      "lastName": "Jabbar",
+      "affiliations": []
+    },
+    {
+      "id": 24793,
+      "firstName": "Aaron",
+      "lastName": "Halfaker",
+      "affiliations": []
+    },
+    {
+      "id": 24794,
+      "firstName": "Cliff",
+      "lastName": "Lampe",
+      "affiliations": []
+    },
+    {
+      "id": 17627,
+      "firstName": "Mustafa",
+      "lastName": "Naseem",
+      "affiliations": []
+    },
+    {
+      "id": 24795,
+      "firstName": "Brent",
+      "lastName": "Hecht",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 24796,
+      "firstName": "Eric",
+      "lastName": "Baumer",
+      "middleInitial": "P. S.",
+      "affiliations": []
+    },
+    {
+      "id": 24797,
+      "firstName": "Geraldine",
+      "lastName": "Gay",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 24798,
+      "firstName": "Manfred",
+      "lastName": "Tscheligi",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 22495,
+      "firstName": "William",
+      "lastName": "Hamilton",
+      "middleInitial": "A",
+      "affiliations": []
+    },
+    {
+      "id": 24799,
+      "firstName": "Kris",
+      "lastName": "Luyten",
+      "affiliations": []
+    },
+    {
+      "id": 24800,
+      "firstName": "Julie",
+      "lastName": "Kientz",
+      "middleInitial": "A.",
+      "affiliations": []
+    },
+    {
+      "id": 11744,
+      "firstName": "Sarah",
+      "lastName": "Botwinick",
+      "middleInitial": "Casey",
+      "affiliations": []
+    },
+    {
+      "id": 24801,
+      "firstName": "Qunfang",
+      "lastName": "Wu",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 24802,
+      "firstName": "Donghee Yvette",
+      "lastName": "Wohn",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 24803,
+      "firstName": "Werner",
+      "lastName": "Geyer",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 19171,
+      "firstName": "Christian",
+      "lastName": "Reuter",
+      "affiliations": []
+    },
+    {
+      "id": 23267,
+      "firstName": "Kevin",
+      "lastName": "Ho",
+      "affiliations": []
+    },
+    {
+      "id": 24804,
+      "firstName": "Yubo",
+      "lastName": "Kou",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 24805,
+      "firstName": "Dan",
+      "lastName": "Cosley",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 24806,
+      "firstName": "Jacob",
+      "lastName": "Thebault-Spieker",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 23527,
+      "firstName": "Sanglu",
+      "lastName": "Lu",
+      "affiliations": []
+    },
+    {
+      "id": 24807,
+      "firstName": "Lynn",
+      "lastName": "Dombrowski",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 24808,
+      "firstName": "Hanlin",
+      "lastName": "Li",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 24809,
+      "firstName": "Nazanin",
+      "lastName": "Andalibi",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 15082,
+      "firstName": "Shan",
+      "lastName": "Zhang",
+      "affiliations": []
+    },
+    {
+      "id": 24810,
+      "firstName": "Andrea",
+      "lastName": "Forte",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 24811,
+      "firstName": "Gerhard",
+      "lastName": "Schwabe",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 19692,
+      "firstName": "Yu",
+      "lastName": "Jiang",
+      "affiliations": []
+    },
+    {
+      "id": 12538,
+      "firstName": "Matt",
+      "lastName": "Germonprez",
+      "affiliations": []
+    },
+    {
+      "id": 17402,
+      "firstName": "Xin",
+      "lastName": "Li",
+      "affiliations": []
+    },
+    {
+      "id": 12539,
+      "firstName": "Haixiang",
+      "lastName": "Yang",
+      "affiliations": []
+    },
+    {
+      "id": 13564,
+      "firstName": "Karin",
+      "lastName": "Coninx",
+      "affiliations": []
+    }
+  ],
+  "recognitions": [],
+  "publicationInfo": {
+    "hideLinksBeforeConference": false,
+    "version": 21,
+    "publicationStatus": "PUBLISHED",
+    "isProgramEnabled": true,
+    "isDraft": false,
+    "isRegistrationEnabled": false,
+    "publicationDate": "2021-02-10 13:50:22+00"
+  }
+}

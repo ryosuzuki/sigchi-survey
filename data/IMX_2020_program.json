@@ -1,0 +1,5422 @@
+{
+  "schemeVersion": 7,
+  "cc_licence": "Content of this file is licensed under a CC BY-NC-SA 4.0 license. For details see https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "conference": {
+    "id": 10050,
+    "startDate": 1592352000000,
+    "endDate": 1592524800000,
+    "shortName": "IMX",
+    "name": "IMX 2020",
+    "year": 2020,
+    "fullName": "Interactive Media Experiences",
+    "url": "http://imx.acm.org/2020/",
+    "location": "Barcelona, Spain",
+    "timeZoneOffset": 120,
+    "logoUrl": "https://files.sigchi.org/conference/logo/331554b5-36d6-c86f-02b9-0f082279076a.png",
+    "hideVideoLinksBeforeConference": false,
+    "timeZoneName": "Europe/Madrid"
+  },
+  "sponsors": [
+    {
+      "id": 10110,
+      "name": "Verizon Media",
+      "logoUrl": "https://files.sigchi.org/conference/sponsor/logo/62462253-d99b-01d1-4020-d185d5c35ef6.png",
+      "levelId": 10081,
+      "order": 1
+    },
+    {
+      "id": 10111,
+      "name": "Snap Inc",
+      "logoUrl": "https://files.sigchi.org/conference/sponsor/logo/032cd6fe-5630-147e-ace1-7be8e5790e09.png",
+      "levelId": 10082,
+      "order": 2
+    }
+  ],
+  "sponsorLevels": [
+    {
+      "id": 10081,
+      "name": "Platinum",
+      "rank": 1,
+      "isDefault": false
+    },
+    {
+      "id": 10082,
+      "name": "Bronze",
+      "rank": 2,
+      "isDefault": false
+    },
+    {
+      "id": 10079,
+      "name": "Sponsors",
+      "rank": 3,
+      "isDefault": true
+    }
+  ],
+  "floors": [],
+  "rooms": [
+    {
+      "id": 10391,
+      "name": "Hubs",
+      "typeId": 11635,
+      "setup": "Special"
+    },
+    {
+      "id": 10392,
+      "name": "Zoom Webinar",
+      "typeId": 11618,
+      "setup": "Special"
+    },
+    {
+      "id": 10393,
+      "name": "Zoom Breakout",
+      "typeId": 11619,
+      "setup": "Special",
+      "note": ""
+    }
+  ],
+  "tracks": [
+    {
+      "id": 10979,
+      "name": "IMX 2020 Papers (Long and Short)",
+      "typeId": 11617
+    },
+    {
+      "id": 11043,
+      "typeId": 11618
+    },
+    {
+      "id": 11045,
+      "typeId": 11619
+    },
+    {
+      "id": 11046,
+      "typeId": 11619
+    },
+    {
+      "id": 11044,
+      "typeId": 11618
+    },
+    {
+      "id": 10999,
+      "name": "IMX 2020 TVX-in-Industry",
+      "typeId": 11638
+    },
+    {
+      "id": 10997,
+      "name": "IMX 2020 Work-in-Progress",
+      "typeId": 11637
+    },
+    {
+      "id": 10998,
+      "name": "IMX 2020 Demos",
+      "typeId": 11635
+    },
+    {
+      "id": 10996,
+      "name": "IMX 2020 Doctoral Consortium",
+      "typeId": 11636
+    }
+  ],
+  "contentTypes": [
+    {
+      "id": 11610,
+      "name": "SIG",
+      "color": "#7a0177",
+      "duration": 90
+    },
+    {
+      "id": 11611,
+      "name": "Case Study",
+      "color": "#993404",
+      "duration": 20,
+      "displayName": "Case Studies"
+    },
+    {
+      "id": 11612,
+      "name": "Course",
+      "color": "#e6550d",
+      "duration": 90,
+      "displayName": "Courses"
+    },
+    {
+      "id": 11613,
+      "name": "Event",
+      "color": "#fecc5c",
+      "duration": 0,
+      "displayName": "Events"
+    },
+    {
+      "id": 11614,
+      "name": "Invited Talk",
+      "color": "#66c2a4",
+      "duration": 90,
+      "displayName": "Invited Talks"
+    },
+    {
+      "id": 11616,
+      "name": "Panel",
+      "color": "#6baed6",
+      "duration": 90,
+      "displayName": "Panels"
+    },
+    {
+      "id": 11619,
+      "name": "Workshop",
+      "color": "#de2d26",
+      "duration": 240,
+      "displayName": "Workshops"
+    },
+    {
+      "id": 11617,
+      "name": "Paper",
+      "color": "#08519c",
+      "duration": 12,
+      "displayName": "Papers"
+    },
+    {
+      "id": 11615,
+      "name": "Operations",
+      "color": "#006d2c",
+      "duration": 30
+    },
+    {
+      "id": 11618,
+      "name": "Plenary",
+      "color": "#756bb1",
+      "duration": 60
+    },
+    {
+      "id": 11635,
+      "name": "Demos",
+      "color": "#969696",
+      "duration": 0
+    },
+    {
+      "id": 11636,
+      "name": "Doctoral Consortium",
+      "color": "#969696",
+      "duration": 0
+    },
+    {
+      "id": 11637,
+      "name": "Work-in-Progress",
+      "color": "#969696",
+      "duration": 0
+    },
+    {
+      "id": 11638,
+      "name": "Industry",
+      "color": "#969696",
+      "duration": 0
+    }
+  ],
+  "timeSlots": [
+    {
+      "id": 11412,
+      "type": "SESSION",
+      "startDate": 1592571600000,
+      "endDate": 1592577900000
+    },
+    {
+      "id": 11413,
+      "type": "BREAK",
+      "startDate": 1592577900000,
+      "endDate": 1592580600000
+    },
+    {
+      "id": 11414,
+      "type": "SESSION",
+      "startDate": 1592580600000,
+      "endDate": 1592584200000
+    },
+    {
+      "id": 11415,
+      "type": "BREAK",
+      "startDate": 1592584200000,
+      "endDate": 1592586000000
+    },
+    {
+      "id": 11416,
+      "type": "SESSION",
+      "startDate": 1592586000000,
+      "endDate": 1592591400000
+    },
+    {
+      "id": 11417,
+      "type": "BREAK",
+      "startDate": 1592591400000,
+      "endDate": 1592593200000
+    },
+    {
+      "id": 11420,
+      "type": "SESSION",
+      "startDate": 1592474400000,
+      "endDate": 1592478000000
+    },
+    {
+      "id": 11423,
+      "type": "SESSION",
+      "startDate": 1592490600000,
+      "endDate": 1592492400000
+    },
+    {
+      "id": 11424,
+      "type": "BREAK",
+      "startDate": 1592492400000,
+      "endDate": 1592494200000
+    },
+    {
+      "id": 11425,
+      "type": "SESSION",
+      "startDate": 1592494200000,
+      "endDate": 1592499600000
+    },
+    {
+      "id": 11426,
+      "type": "BREAK",
+      "startDate": 1592499600000,
+      "endDate": 1592501400000
+    },
+    {
+      "id": 11427,
+      "type": "SESSION",
+      "startDate": 1592501400000,
+      "endDate": 1592510400000
+    },
+    {
+      "id": 11429,
+      "type": "SESSION",
+      "startDate": 1592409600000,
+      "endDate": 1592420400000
+    },
+    {
+      "id": 11421,
+      "type": "SESSION",
+      "startDate": 1592485200000,
+      "endDate": 1592490600000
+    },
+    {
+      "id": 11401,
+      "type": "SESSION",
+      "startDate": 1592413200000,
+      "endDate": 1592422200000
+    },
+    {
+      "id": 11428,
+      "type": "SESSION",
+      "startDate": 1592391600000,
+      "endDate": 1592402400000
+    },
+    {
+      "id": 11430,
+      "type": "SESSION",
+      "startDate": 1592391600000,
+      "endDate": 1592399700000
+    },
+    {
+      "id": 11418,
+      "type": "SESSION",
+      "startDate": 1592593200000,
+      "endDate": 1592598600000
+    }
+  ],
+  "sessions": [
+    {
+      "id": 38480,
+      "name": "Interactions and Installations",
+      "typeId": 11617,
+      "roomId": 10392,
+      "chairIds": [
+        39755
+      ],
+      "contentIds": [
+        38467,
+        38468,
+        38473,
+        38474,
+        38478
+      ],
+      "timeSlotId": 11412
+    },
+    {
+      "id": 39897,
+      "name": "Toys & the TV",
+      "typeId": 11619,
+      "roomId": 10393,
+      "chairIds": [
+        38446,
+        39872,
+        39886,
+        39873,
+        39874
+      ],
+      "contentIds": [
+        39894
+      ],
+      "timeSlotId": 11428
+    },
+    {
+      "id": 38481,
+      "name": "Live production and audience",
+      "typeId": 11617,
+      "roomId": 10392,
+      "chairIds": [
+        39860
+      ],
+      "contentIds": [
+        38469,
+        38472,
+        38476,
+        38479
+      ],
+      "timeSlotId": 11416
+    },
+    {
+      "id": 38482,
+      "name": "Augmenting TV",
+      "typeId": 11617,
+      "roomId": 10392,
+      "chairIds": [
+        38415
+      ],
+      "contentIds": [
+        38470,
+        38471,
+        38475,
+        38477
+      ],
+      "timeSlotId": 11425
+    },
+    {
+      "id": 39898,
+      "name": "IMX in Latin America",
+      "typeId": 11619,
+      "roomId": 10393,
+      "chairIds": [
+        39879,
+        39881,
+        39882,
+        39885
+      ],
+      "contentIds": [
+        39893
+      ],
+      "timeSlotId": 11429
+    },
+    {
+      "id": 39826,
+      "name": "Works In Progress",
+      "typeId": 11637,
+      "roomId": 10391,
+      "chairIds": [
+        39929,
+        39928
+      ],
+      "contentIds": [
+        39780,
+        39782,
+        39783,
+        39772,
+        39774,
+        39785,
+        39775,
+        39787,
+        39788,
+        39779,
+        39773,
+        39781,
+        39786,
+        39784
+      ],
+      "timeSlotId": 11427
+    },
+    {
+      "id": 39829,
+      "name": "Demos",
+      "typeId": 11635,
+      "roomId": 10391,
+      "chairIds": [
+        39934,
+        39940
+      ],
+      "contentIds": [
+        39812,
+        39813,
+        39811,
+        39814,
+        39816,
+        39815,
+        39817
+      ],
+      "timeSlotId": 11427
+    },
+    {
+      "id": 39899,
+      "name": "Snap Creative Challenge: reimagine the future of storytelling with Augmented Reality",
+      "typeId": 11619,
+      "roomId": 10393,
+      "chairIds": [
+        39861,
+        39884,
+        39883
+      ],
+      "contentIds": [
+        39896
+      ],
+      "timeSlotId": 11401
+    },
+    {
+      "id": 39827,
+      "name": "IMX in Industry",
+      "typeId": 11638,
+      "roomId": 10392,
+      "chairIds": [
+        39931,
+        39933
+      ],
+      "contentIds": [
+        39824,
+        39825
+      ],
+      "timeSlotId": 11414
+    },
+    {
+      "id": 39828,
+      "name": "Doctoral Consortium",
+      "typeId": 11636,
+      "roomId": 10393,
+      "chairIds": [
+        38446,
+        39930
+      ],
+      "contentIds": [
+        39777,
+        39778,
+        39776
+      ],
+      "timeSlotId": 11420
+    },
+    {
+      "id": 39935,
+      "name": "Design4Data",
+      "typeId": 11619,
+      "roomId": 10393,
+      "chairIds": [
+        39875,
+        39876,
+        39877,
+        39878,
+        39880
+      ],
+      "contentIds": [
+        39895
+      ],
+      "timeSlotId": 11430
+    },
+    {
+      "id": 39867,
+      "name": "Opening & Keynote",
+      "typeId": 11618,
+      "roomId": 10392,
+      "chairIds": [
+        39801,
+        39798,
+        39745
+      ],
+      "contentIds": [
+        39865,
+        39863
+      ],
+      "timeSlotId": 11421
+    },
+    {
+      "id": 39870,
+      "name": "Keynote and Closing Remarks",
+      "typeId": 11618,
+      "roomId": 10392,
+      "chairIds": [
+        39801,
+        39745,
+        39798
+      ],
+      "contentIds": [
+        39864,
+        39866
+      ],
+      "timeSlotId": 11418
+    },
+    {
+      "id": 39871,
+      "name": "Pitches: Demos, Posters, Doctoral Consortium",
+      "roomId": 10392,
+      "chairIds": [
+        39745
+      ],
+      "contentIds": [],
+      "timeSlotId": 11423
+    }
+  ],
+  "events": [],
+  "contents": [
+    {
+      "id": 39811,
+      "typeId": 11635,
+      "title": "Mobile DASH Services using the FLAME Future Media Platform",
+      "trackId": 10998,
+      "tags": [],
+      "keywords": [],
+      "abstract": "In this work we present MoDASH, a mobile DASH solution for Future Multimedia applications such as Virtual Reality (VR). We focus both on managing efficiently the available network resources as well as delivering a high Quality of Experience (QoE) to the end-users; which is achieved respectively by employing data and computational offloading techniques as well as QoE-aware resource management signaling. Our solution relies on a Network Function Virtualization (NFV) and trigger-based platform that can be used in small cell networks. This is demonstrated in the FLAME platform, where the supported monitoring of the DASH streaming and triggers allows to measure the real-time performance of the solution and dynamically adapt it to the changing conditions.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "Greece",
+              "state": "",
+              "city": "Athens",
+              "institution": "Cognitive Innovations",
+              "dsl": ""
+            }
+          ],
+          "personId": 39789
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Greece",
+              "state": "",
+              "city": "Athens",
+              "institution": "Cognitive Innovations",
+              "dsl": ""
+            }
+          ],
+          "personId": 39796
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Spain",
+              "state": "",
+              "city": "Barcelona",
+              "institution": "Fundació i2CAT",
+              "dsl": ""
+            }
+          ],
+          "personId": 39790
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Spain",
+              "state": "",
+              "city": "Barcelona",
+              "institution": "Fundació i2CAT",
+              "dsl": ""
+            }
+          ],
+          "personId": 39805
+        }
+      ],
+      "sessionIds": [
+        39829
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 38467,
+      "typeId": 11617,
+      "title": "Compensating for Perspective-based Distortion on Large Interactive Floor Displays: the SpaceHopper Field Experiment",
+      "trackId": 10979,
+      "tags": [],
+      "keywords": [],
+      "abstract": "Very large floor displays can promote engaging public experiences, but incur perspective-related warping, making it challenging to comprehend and interact with distal objects when standing on the display. We introduce a perspective compensated view technique that maintains the relative size and shape of objects as they move away from the viewer, and explore the technique in SpaceHopper, a large-scale, floor-projected version of the game Asteroids. Players bounce on a hopper ball to control their ship in one of two control modes:  bounce to repel or bounce to shoot. We evaluated SpaceHopper in a field experiment with 59 participants, finding that perspective compensated view yielded longer playing times (and higher scores) in the bounce to fire modality. Bystanders were highly engaged with players and also seemed to be unaware of the perspective warping, suggesting that visually compensating for the interactor's perspective does not adversely impact the enjoyment of passive participants and audience members, at least under some circumstances.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "Canada",
+              "state": "Nova Scotia",
+              "city": "Halifax",
+              "institution": "Dalhousie University",
+              "dsl": "Faculty of Computer Science"
+            }
+          ],
+          "personId": 38463
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Canada",
+              "state": "Nova Scotia",
+              "city": "Halifax",
+              "institution": "Dalhousie University",
+              "dsl": "Faculty of Computer Science"
+            }
+          ],
+          "personId": 38458
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Canada",
+              "state": "Nova Scotia",
+              "city": "Halifax",
+              "institution": "Dalhousie University",
+              "dsl": "Faculty of Computer Science"
+            }
+          ],
+          "personId": 38427
+        }
+      ],
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://doi.org/10.1145/3391614.3393651"
+        },
+        "Talk": {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=cMtoUVJenvc",
+          "title": "Compensating for Perspective-based Distortion on Large Interactive Floor Displays: the SpaceHopper Field Experiment",
+          "duration": 527
+        }
+      },
+      "sessionIds": [
+        38480
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 39812,
+      "typeId": 11635,
+      "title": "A Social VR Clinic for Knee Arthritis Patients with Haptics",
+      "award": "BEST_PAPER",
+      "trackId": 10998,
+      "tags": [],
+      "keywords": [],
+      "abstract": "Social virtual reality (VR) invites multiple users to interact in a shared immersive environment, which can be potentially useful for remote personalized healthcare. This demo presents a social VR clinic that allows patients to consult a nurse represented as a virtual avatar. It offers a \"walk-in\" virtual surgery room, enables patients to interact with animated virtual 3D artifacts, and train the patient to use an injection tool wearing a pair of mechanical VR gloves that provide haptic feedback (SenseGlove). The demo shows the potential of social VR as a new tool to help patients receive remote personalized medical care.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "China",
+              "state": "",
+              "city": "Amsterdam",
+              "institution": "Centrum Wiskunde & Informatica (CWI)",
+              "dsl": "Distributed and Interactive Systems "
+            },
+            {
+              "country": "China",
+              "state": "",
+              "city": "Beijing",
+              "institution": "Beijing Institute of Technology",
+              "dsl": "Laboratory of Digital Performance and Simulation Technology"
+            }
+          ],
+          "personId": 39791
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Netherlands",
+              "state": "",
+              "city": "Amsterdam",
+              "institution": "Centrum Wiskunde & Informatica",
+              "dsl": ""
+            }
+          ],
+          "personId": 39809
+        },
+        {
+          "affiliations": [
+            {
+              "country": "China",
+              "state": "",
+              "city": "Shanghai",
+              "institution": "IBM Research",
+              "dsl": ""
+            }
+          ],
+          "personId": 39797
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Netherlands",
+              "state": "",
+              "city": "Amsterdam",
+              "institution": "Centrum Wiskunde & Informatica (CWI)",
+              "dsl": ""
+            },
+            {
+              "country": "Netherlands",
+              "state": "",
+              "city": "Delft",
+              "institution": "Delft University of Technology",
+              "dsl": ""
+            }
+          ],
+          "personId": 39801
+        }
+      ],
+      "sessionIds": [
+        39829
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 38468,
+      "typeId": 11617,
+      "title": "Joint Attention for Automated Video Editing",
+      "trackId": 10979,
+      "tags": [],
+      "keywords": [],
+      "abstract": "Joint attention refers to the shared focal points of attention for occupants in a space. In this work, we introduce a computational definition of joint attention for the automated editing of meetings in multi-camera environments from the AMI corpus. Using extracted head pose and individual headset amplitude as features, we developed three editing methods: (1) a naive audio-based method that selects the camera using only the headset input, (2) a rule-based edit that selects cameras at a fixed pacing using pose data, and (3) an editing algorithm using LSTM (Long-short term memory) learned joint-attention from both pose and audio data, trained on expert edits. The methods are evaluated qualitatively against the human edit, and quantitatively in a user study with 22 participants. Results indicate that LSTM-trained joint attention produces edits that are comparable to the expert edit, offering a wider range of camera views than audio, while being more generalizable as compared to rule-based methods.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "France",
+              "state": "",
+              "city": "Sophia-Antipolis Cedex",
+              "institution": "Université Côte d'Azur, Inria",
+              "dsl": ""
+            }
+          ],
+          "personId": 38433
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "California",
+              "city": "Santa Cruz",
+              "institution": "UC Santa Cruz",
+              "dsl": ""
+            }
+          ],
+          "personId": 38464
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "California",
+              "city": "Santa Cruz",
+              "institution": "UC Santa Cruz",
+              "dsl": ""
+            }
+          ],
+          "personId": 38438
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "California",
+              "city": "Santa Cruz",
+              "institution": "UC Santa Cruz",
+              "dsl": ""
+            }
+          ],
+          "personId": 38405
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "North Carolina",
+              "city": "Raleigh",
+              "institution": "North Carolina State University",
+              "dsl": ""
+            }
+          ],
+          "personId": 38431
+        }
+      ],
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://doi.org/10.1145/3391614.3393656"
+        },
+        "Talk": {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=kr8pQJBgwxs",
+          "title": "Joint Attention for Automated Video Editing",
+          "duration": 752
+        }
+      },
+      "sessionIds": [
+        38480
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 38469,
+      "typeId": 11617,
+      "title": "DAX: Data-Driven Audience Experiences in Esports",
+      "award": "BEST_PAPER",
+      "trackId": 10979,
+      "tags": [],
+      "keywords": [],
+      "abstract": "Esports (competitive videogames) have grown into a global phenomenon with over 450m viewers and a 1.5bn USD market. Esports broadcasts follow a similar structure to traditional sports. However, due to their virtual nature, a large and detailed amount data is available about in-game actions not currently accessible in traditional sport. This provides an opportunity to incorporate novel insights about complex aspects of gameplay into the audience experience – enabling more in-depth coverage for experienced viewers, and increased accessibility for newcomers. Previous research has only explored a limited range of ways data could be incorporated into esports viewing (e.g. data visualizations post-match) and only a few studies have investigated how the presentation of statistics impacts spectators’ experiences and viewing behaviors. We present Weavr, a companion app that allows audiences to consume data-driven insights during and around esports broadcasts. We report on deployments at two major tournaments, that provide ecologically valid findings about how the app's features were experienced by audiences and their impact on viewing behavior. We discuss implications for the design of second-screen apps for live esports events, and for traditional sports as similar data becomes available for them via improved tracking technologies.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "United Kingdom",
+              "state": "",
+              "city": "York",
+              "institution": "University of York",
+              "dsl": ""
+            }
+          ],
+          "personId": 38450
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United Kingdom",
+              "state": "",
+              "city": "York",
+              "institution": "University of York",
+              "dsl": "Weavr"
+            }
+          ],
+          "personId": 38455
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United Kingdom",
+              "state": "",
+              "city": "York",
+              "institution": "University of York",
+              "dsl": ""
+            }
+          ],
+          "personId": 38426
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United Kingdom",
+              "state": "",
+              "city": "York",
+              "institution": "University of York",
+              "dsl": ""
+            }
+          ],
+          "personId": 38414
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United Kingdom",
+              "state": "",
+              "city": "York",
+              "institution": "University of York",
+              "dsl": ""
+            }
+          ],
+          "personId": 38403
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United Kingdom",
+              "state": "",
+              "city": "York",
+              "institution": "University of York",
+              "dsl": ""
+            }
+          ],
+          "personId": 38436
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United Kingdom",
+              "state": "",
+              "city": "York",
+              "institution": "University of York",
+              "dsl": ""
+            }
+          ],
+          "personId": 38440
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United Kingdom",
+              "state": "",
+              "city": "York",
+              "institution": "University of York",
+              "dsl": ""
+            }
+          ],
+          "personId": 38407
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United Kingdom",
+              "state": "",
+              "city": "York",
+              "institution": "University of York",
+              "dsl": ""
+            }
+          ],
+          "personId": 38424
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United Kingdom",
+              "state": "",
+              "city": "York",
+              "institution": "University of York",
+              "dsl": ""
+            }
+          ],
+          "personId": 38420
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United Kingdom",
+              "state": "",
+              "city": "St Albans",
+              "institution": "REWIND",
+              "dsl": ""
+            }
+          ],
+          "personId": 38459
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United Kingdom",
+              "state": "",
+              "city": "St Albans",
+              "institution": "REWIND",
+              "dsl": ""
+            }
+          ],
+          "personId": 38456
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United Kingdom",
+              "state": "",
+              "city": "York",
+              "institution": "University of York",
+              "dsl": "Theatre, Film & Television"
+            }
+          ],
+          "personId": 38413
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United Kingdom",
+              "state": "",
+              "city": "York",
+              "institution": "University of York",
+              "dsl": "Digital Creativity Labs, Dept. of Theatre, Film and Television"
+            }
+          ],
+          "personId": 38423
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United Kingdom",
+              "state": "",
+              "city": "York",
+              "institution": "University of York",
+              "dsl": ""
+            }
+          ],
+          "personId": 38461
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United Kingdom",
+              "state": "North Yorkshire",
+              "city": "York",
+              "institution": "Dept. of Theatre, Film and Television, University of York",
+              "dsl": "Digital Creativity Labs"
+            }
+          ],
+          "personId": 38409
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United Kingdom",
+              "state": "",
+              "city": "York",
+              "institution": "University of York",
+              "dsl": ""
+            }
+          ],
+          "personId": 38445
+        }
+      ],
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://doi.org/10.1145/3391614.3393659"
+        },
+        "Talk": {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=FTEykVzVLvE",
+          "title": "DAX: Data-Driven Audience Experiences in Esports",
+          "duration": 756
+        }
+      },
+      "sessionIds": [
+        38481
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 39813,
+      "typeId": 11635,
+      "title": "Hands-off Interactive Storytelling; Intuitive Agency in an Immersive Cinematic Film",
+      "trackId": 10998,
+      "tags": [],
+      "keywords": [],
+      "abstract": "This demo aims to explore and test new forms of hands-off interactivity, based more on intuitive reactions than on conscious decision-making. A hands-off interactivity would allow a diegetic experience in which the user can avoid breaking the immersion, or a “pull-back” produced by the consciousness of the interactive device. This project uses immersivity, spatial storytelling and dramatic soundscaping to facilitate navigation through simultaneous acoustic and dramatic spaces, which constitute fragments of one linear story. Driven by a dramatically-purposed stimulus users can generate inputs with organic movements around the axis of the CVR (Cinematic Virtual Reality) perspective. This way, inputs are intuitive reactions to diegetic stimuli from within the virtual narrative. The freedom to navigate the narrative space provides multiple ways to perceive the linear story, facilitating interactive storytelling.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "United Kingdom",
+              "state": "",
+              "city": "YORK",
+              "institution": "University of York",
+              "dsl": "TFTI"
+            }
+          ],
+          "personId": 39792
+        }
+      ],
+      "sessionIds": [
+        39829
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 38470,
+      "typeId": 11617,
+      "title": "Conceptualizing Augmented Reality Television for the Living Room",
+      "award": "HONORABLE_MENTION",
+      "trackId": 10979,
+      "tags": [],
+      "keywords": [],
+      "abstract": "We examine the concept and characteristics of \"Augmented Reality Television\" (ARTV) using a four-step investigation method consisting of (1) an analysis of commonly-accepted perspectives on Augmented and Mixed Reality systems, (2) a literature survey of previous work on ARTV, (3) relevant connections with other areas of scientific investigation from TVX/IMX, such as Ambient Media, Interactive TV, and 3-D TV, and (4) by proposing a conceptual framework for ARTV called the \"Augmented Reality Television Continuum.\" Our work comes at a moment when the excitement and hype about the potential of AR for home entertainment has overlooked rigorous analysis and clear-cut examinations of the concepts involved, which should be the hallmark of any exact science. With this work, our goal is to draw the community's attention toward fundamentals and first principles of ARTV and to tease out its salient qualities on solid foundations.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "Romania",
+              "state": "",
+              "city": "Suceava",
+              "institution": "University Stefan cel Mare of Suceava",
+              "dsl": "MintViz Lab"
+            }
+          ],
+          "personId": 38434
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United Kingdom",
+              "state": "Lancashire",
+              "city": "Manchester",
+              "institution": "University of Manchester",
+              "dsl": "Department of Computer Science/Interaction Analysis and Modelling Lab"
+            }
+          ],
+          "personId": 38410
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Portugal",
+              "state": "",
+              "city": "Lisboa",
+              "institution": "Faculdade de Ciências, Universidade de Lisboa",
+              "dsl": ""
+            }
+          ],
+          "personId": 38465
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United Kingdom",
+              "state": "",
+              "city": "London",
+              "institution": "BBC",
+              "dsl": ""
+            }
+          ],
+          "personId": 38446
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United Kingdom",
+              "state": "North Yorkshire",
+              "city": "York",
+              "institution": "Dept. of Theatre, Film and Television, University of York",
+              "dsl": "Digital Creativity Labs"
+            }
+          ],
+          "personId": 38409
+        }
+      ],
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://doi.org/10.1145/3391614.3393660"
+        },
+        "Talk": {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=0jFNDOyIdkw",
+          "title": "Conceptualizing Augmented Reality Television for the Living Room",
+          "duration": 655
+        }
+      },
+      "sessionIds": [
+        38482
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 39814,
+      "typeId": 11635,
+      "title": "Open-Source Accessibility-Enabled VR360 Player",
+      "trackId": 10998,
+      "tags": [],
+      "keywords": [],
+      "abstract": "This paper presents an evolved version of an open-source web-based player that enables the consumption of immersive VR360 content augmented with the personalized presentation of access services, like subtitles, (spatial) audio description and sign language. Likewise, the player integrates additional accessibility and assistive solutions, like voice control, visual feedback and magnification features. It is a key component of an end-to-end platform that allows augmenting traditional broadcast services with the presentation of immersive and access services content delivered via broadband. It can be also integrated in both Hybrid Broadcast Broadband TV (HbbTV) and full web-based multi-screen scenarios. Most of its supported features and personalization options are detailed in the paper, and have been adopted after validation via user-centric activities and user tests. The player is available as an online service (http://imac.i2cat.net/player/), and has been additionally integrated in the services offered by European broadcasters. Its source code is available on Github.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "Spain",
+              "state": "",
+              "city": "Barcelona",
+              "institution": " i2cat Foundation",
+              "dsl": "Media & Internet Area"
+            },
+            {
+              "country": "Spain",
+              "state": "",
+              "city": "Valencia",
+              "institution": "University of Valencia",
+              "dsl": "Department of Informatics"
+            }
+          ],
+          "personId": 39745
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Spain",
+              "state": "",
+              "city": "Barcelona",
+              "institution": "i2CAT",
+              "dsl": ""
+            }
+          ],
+          "personId": 39793
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Spain",
+              "state": "",
+              "city": "Barcelona",
+              "institution": "Fundació i2cat",
+              "dsl": ""
+            }
+          ],
+          "personId": 39807
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Spain",
+              "state": "",
+              "city": "Barcelona",
+              "institution": "i2CAT",
+              "dsl": ""
+            }
+          ],
+          "personId": 39798
+        }
+      ],
+      "sessionIds": [
+        39829
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 39815,
+      "typeId": 11635,
+      "title": "Virtual Loom, from Historical Fabrics to Interactive 3D Models",
+      "trackId": 10998,
+      "tags": [],
+      "keywords": [],
+      "abstract": "In the field of Cultural Heritage, the documentation of historical fabrics and their weaving techniques, usually lack of a 3D representation. In many cases, it is enough to document such objects in 2D graphics or textual descriptions. However, there are geometries and details of greater complexity that require more complete models to understand the techniques and be able to preserve them over time. In this area, the Virtual Loom tool has been created within the SILKNOW European Project. The demo that we present allows us to show weaving techniques from the 15th to the 19th century in a 3D representation and later we can explore it in different ways. The tool includes a variety of historical weaves, weaving techniques and threads. All this has been created based on the knowledge of experts in historical fabrics, art history and computer graphics.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "Spain",
+              "state": "Valencia",
+              "city": "Burjassot",
+              "institution": "University of Valencia",
+              "dsl": "Department of Computer Science"
+            }
+          ],
+          "personId": 39804
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Spain",
+              "state": "Valencia",
+              "city": "Paterna",
+              "institution": "University of Valencia",
+              "dsl": "Institute of Robotics and Information and Communications Technologies (IRTIC)"
+            }
+          ],
+          "personId": 39803
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Spain",
+              "state": "Valencia",
+              "city": "Paterna",
+              "institution": "University of Valencia",
+              "dsl": "Institute of Robotics and Information and Communications Technologies (IRTIC)"
+            }
+          ],
+          "personId": 39795
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Spain",
+              "state": "Valencia",
+              "city": "Burjassot",
+              "institution": "University of Valencia",
+              "dsl": "Department of Computer Science"
+            }
+          ],
+          "personId": 39799
+        }
+      ],
+      "sessionIds": [
+        39829
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 38471,
+      "typeId": 11617,
+      "title": "Augmented Reality and Television: Dimensions and Themes",
+      "trackId": 10979,
+      "tags": [],
+      "keywords": [],
+      "abstract": "Commercialisation of augmented reality (AR) devices has led to their growing application in domestic environments and leisure activities. One such domain is that of television, where AR is one of several technologies driving innovation (c.f. Internet broadcasting, second screen devices). \r\nWe conduct a systematic literature review to quantify research at the intersection of AR and broadcast television. We identify six common themes and a set of cross-cutting design decisions. We distill this information into a design space incorporating six dimensions: abstraction, interaction, time, display, context and editorial control. \r\nWe provide methods to operationalise the dimensions to enable research and development of novel concepts, and through this generate six design guidelines to shape future activity at the intersection of AR and television.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "United Kingdom",
+              "state": "Lancashire",
+              "city": "Manchester",
+              "institution": "University of Manchester",
+              "dsl": "Department of Computer Science/Interaction Analysis and Modelling Lab"
+            },
+            {
+              "country": "United Kingdom",
+              "state": "Lancashire",
+              "city": "Salford",
+              "institution": "BBC",
+              "dsl": "Research and Development"
+            }
+          ],
+          "personId": 38410
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United Kingdom",
+              "state": "Lancashire",
+              "city": "Manchester",
+              "institution": "University of Manchester",
+              "dsl": "Department of Computer Science"
+            }
+          ],
+          "personId": 38428
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United Kingdom",
+              "state": "Lancashire",
+              "city": "Salford",
+              "institution": "The British Broadcasting Corporation",
+              "dsl": "Research and Development"
+            }
+          ],
+          "personId": 38449
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United Kingdom",
+              "state": "",
+              "city": "Manchester",
+              "institution": "The University of Manchester",
+              "dsl": "Department of Computer Science"
+            }
+          ],
+          "personId": 38419
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United Kingdom",
+              "state": "Lancashire",
+              "city": "Manchester",
+              "institution": "University of Manchester",
+              "dsl": "School of Computer Science"
+            }
+          ],
+          "personId": 38404
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United Kingdom",
+              "state": "Lancashire",
+              "city": "Manchester",
+              "institution": "The University of ManchesterUniversity of Manchester",
+              "dsl": "Department of Computer ScienceSchool of Computer Science"
+            }
+          ],
+          "personId": 38406
+        }
+      ],
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://doi.org/10.1145/3391614.3393649"
+        },
+        "Talk": {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=739cEwweKn4",
+          "title": "Augmented Reality and Television: Dimensions and Themes",
+          "duration": 670
+        }
+      },
+      "sessionIds": [
+        38482
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 39816,
+      "typeId": 11635,
+      "title": "Topics Compass: Uncovering Trending Topics for Optimised Media Content Publication",
+      "trackId": 10998,
+      "tags": [],
+      "keywords": [],
+      "abstract": "The ReTV Project (www.retv-project.eu) is an EU Horizon 2020-funded research initiative whose goal is to enable media organizations including broadcasters and media archives to optimize the publication of their media content across digital channels. Through analysis of the success of past content publication, we are building cross-channel prediction models to anticipate which (type of) content will potentially be most successful on which channel at what time in the future. This can inform organizational decisions regarding which content to publish as part of an optimized content publication strategy. This includes the creation of content summaries for different channels (e.g. social media video is generally shortened to the key segments to highlight to a user of that channel) as well as the recommendation of when and where to publish those summaries to optimize reach and engagement with the audience. ",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "Austria",
+              "state": "",
+              "city": "Vienna",
+              "institution": "MODUL Technology GmbH",
+              "dsl": ""
+            }
+          ],
+          "personId": 39724
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Austria",
+              "state": "",
+              "city": "Vienna",
+              "institution": "webLyzard gmbh",
+              "dsl": ""
+            }
+          ],
+          "personId": 39806
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Netherlands",
+              "state": "",
+              "city": "Hilversum",
+              "institution": "Netherlands Institute for Sound and Vision",
+              "dsl": ""
+            }
+          ],
+          "personId": 39800
+        }
+      ],
+      "sessionIds": [
+        39829
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 38472,
+      "typeId": 11617,
+      "title": "Audience Management Practices of Live Streamers on Twitch",
+      "trackId": 10979,
+      "tags": [],
+      "keywords": [],
+      "abstract": "Live streaming is a unique medium that merges different layers of communication by facilitating individual, group, and mass communication simultaneously. Streamers who broadcast themselves on live streaming platforms such as Twitch are their own media entity and have the challenge of having to manage interactions with many different types of online audiences beyond the translucent platform interfaces. Through qualitative interviews with 25 Twitch streamers, in this paper we share streamers' practices of discovering audience composition, categorizing audience groups, and developing appropriate mechanisms to interact with them despite geographical, technological, and temporal limitations. We discuss streamers' appropriation of real-time signals provided by these platforms as sources of information, and their dependence on both technology and voluntary human labor to scale their media entity. We conclude with design recommendations for streaming platforms to provide streamer-centric tools for audience management, especially for knowledge discovery and growth management.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "New Jersey",
+              "city": "Newark ",
+              "institution": "New Jersey Institute of Technology",
+              "dsl": ""
+            }
+          ],
+          "personId": 38442
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "South Carolina",
+              "city": "Clemson",
+              "institution": "Clemson University",
+              "dsl": "School of Computing"
+            }
+          ],
+          "personId": 38466
+        }
+      ],
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://doi.org/10.1145/3391614.3393653"
+        },
+        "Talk": {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=AOKwjlsXDJI",
+          "title": "Audience Management Practices of Live Streamers on Twitch",
+          "duration": 625
+        }
+      },
+      "sessionIds": [
+        38481
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 39817,
+      "typeId": 11635,
+      "title": "Watching Together but Apart: Shared Video Experiences During COVID19 Outbreak",
+      "trackId": 10998,
+      "tags": [],
+      "keywords": [],
+      "abstract": "Watching television together in the living room is a joyful and social activity that most people can relate to. As a result of the ongoing COVID19 outbreak, many friends and family members are separated due to national lockdowns and quarantine. In this demo we show how a web application can support real-time socially based video-content by facilitating a virtual living room for friends and family where they can watch synchronized video content while interacting. Our prototype uses readily available web-technologies, allowing users to get started in just one click by logging in with their existing YouTube account. Data from the YouTube API are then fed into novel recommender algorithms that then suggest videos based on the user’s collective interests.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "Denmark",
+              "state": "",
+              "city": "Copenhagen",
+              "institution": "IT University in Copenhagen",
+              "dsl": ""
+            }
+          ],
+          "personId": 39808
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Denmark",
+              "state": "",
+              "city": "Copenhagen",
+              "institution": "IT University of Copenhagen",
+              "dsl": ""
+            }
+          ],
+          "personId": 39810
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Denmark",
+              "state": "",
+              "city": "Copenhagen",
+              "institution": "IT University of Copenhagen",
+              "dsl": "Digital Design Department"
+            }
+          ],
+          "personId": 39794
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Denmark",
+              "state": "",
+              "city": "Copenhagen",
+              "institution": "IT University of Copenhagen",
+              "dsl": ""
+            }
+          ],
+          "personId": 39802
+        }
+      ],
+      "sessionIds": [
+        39829
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 38473,
+      "typeId": 11617,
+      "title": "Sifter: A Hybrid Workflow for Theme-based Video Curation at Scale",
+      "trackId": 10979,
+      "tags": [],
+      "keywords": [],
+      "abstract": "User-generated content platforms curate their vast repositories into thematic compilations that facilitate the discovery of high-quality material. Platforms that seek tight editorial control employ people to do this curation, but this process involves time-consuming routine tasks, such as sifting through thousands of videos. We introduce Sifter, a system that improves the curation process by combining automated techniques with a human-powered pipeline that browses, selects, and reaches an agreement on what videos to include in a compilation. We evaluated Sifter by creating 12 compilations from over 34,000 user-generated videos. Sifter was more than three times faster than dedicated curators, and its output was of comparable quality. We reflect on the challenges and opportunities introduced by Sifter to inform the design of content curation systems that need subjective human judgments of videos at scale.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Michigan",
+              "city": "Ann Arbor",
+              "institution": "University of Michigan",
+              "dsl": "School of Information"
+            }
+          ],
+          "personId": 38411
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Washington",
+              "city": "Seattle",
+              "institution": "Snap Inc.",
+              "dsl": ""
+            },
+            {
+              "country": "United States",
+              "state": "Washington",
+              "city": "Seattle",
+              "institution": "University of Washington",
+              "dsl": ""
+            }
+          ],
+          "personId": 38454
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "California",
+              "city": "Venice",
+              "institution": "Snap Inc.",
+              "dsl": "Research"
+            }
+          ],
+          "personId": 38441
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Michigan",
+              "city": "Ann Arbor",
+              "institution": "University of Michigan",
+              "dsl": "School of Information"
+            }
+          ],
+          "personId": 38429
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Michigan",
+              "city": "Ann Arbor",
+              "institution": "University of Michigan",
+              "dsl": "Computer Science & Engineering"
+            }
+          ],
+          "personId": 38447
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "California",
+              "city": "Santa Monica",
+              "institution": "Snap Inc.",
+              "dsl": ""
+            }
+          ],
+          "personId": 38448
+        }
+      ],
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://doi.org/10.1145/3391614.3393657"
+        },
+        "Talk": {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=IPKeKnx1aOE",
+          "title": "Sifter: A Hybrid Workflow for Theme-based Video Curation at Scale",
+          "duration": 764
+        }
+      },
+      "sessionIds": [
+        38480
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 38474,
+      "typeId": 11617,
+      "title": "Modality and Depth in Touchless Smartphone Augmented Reality Interactions",
+      "trackId": 10979,
+      "tags": [],
+      "keywords": [],
+      "abstract": "  Augmented reality (AR) on smartphone devices allows people to interact\r\n  with virtually placed objects anchored in the real world through the\r\n  device's viewport. Typically, smartphone AR interactions work with\r\n  the device's 2D touchscreen disconnected from the modality and depth\r\n  of the virtual objects. In this paper, we studied 15 participants'\r\n  preferences, performances, and cognitive loads on a set of common\r\n  tasks performed on smartphones at two interaction depths\r\n  (close-range and distant) with two touchless modalities (hand\r\n  tracking and screen dwell). We find that distant AR interactions,\r\n  strongly preferred by the participants, were significantly faster\r\n  and took less cognitive effort. We observed that within both\r\n  interaction depths, modalities performed equally. When designing\r\n  touchless modalities on smartphones, we suggest using distant\r\n  interactions when overall performance is the top priority,\r\n  otherwise, using hand tracking or screen dwell as back-ups for each\r\n  other can be equally effective.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Rhode Island",
+              "city": "Providence",
+              "institution": "Brown University",
+              "dsl": "Department of Computer Science"
+            }
+          ],
+          "personId": 38439
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "California",
+              "city": "Palo Alto",
+              "institution": "FX Palo Alto Laboratory, Inc.",
+              "dsl": ""
+            }
+          ],
+          "personId": 38415
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "California",
+              "city": "Palo Alto",
+              "institution": "FXPAL",
+              "dsl": ""
+            }
+          ],
+          "personId": 38457
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "California",
+              "city": "Palo Alto",
+              "institution": "FXPAL",
+              "dsl": ""
+            }
+          ],
+          "personId": 38408
+        }
+      ],
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://doi.org/10.1145/3391614.3393648"
+        },
+        "Talk": {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=tUhvP5AQxd4",
+          "title": "Modality and Depth in Touchless Smartphone Augmented Reality Interactions",
+          "duration": 694
+        }
+      },
+      "sessionIds": [
+        38480
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 38475,
+      "typeId": 11617,
+      "title": "The SpaceStation App: Design and Evaluation of an AR Application for Educational Television",
+      "trackId": 10979,
+      "tags": [],
+      "keywords": [],
+      "abstract": "Due to the rising popularity of streaming services, television networks are experiencing pressure to keep the attention of the younger audience. Especially in the field of Edutainment, platforms like YouTube or TED are serious competitors and require broadcasters to come up with novel ideas to engage viewers in their program. In this work, we present the augmented reality (AR) SpaceStation application, designed to supplement the viewing of educational videos about the ISS. We evaluate users’ experience during the interaction with the app in a within-subject user study (N=31) and assessed their workload. During the interaction with the SpaceStation App, participants experienced a higher workload compared to a video-only condition; nonetheless, they considered AR a valuable and enjoyable addition. We conclude with a discussion from the perspectives of viewers, content creators, and hosts, and state initial ideas on how to design for AR in television programs without creating information overload.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Munich",
+              "institution": "LMU Munich",
+              "dsl": ""
+            },
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Munich",
+              "institution": "Institut für Rundfunktechnik (IRT)",
+              "dsl": ""
+            }
+          ],
+          "personId": 38444
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Munich",
+              "institution": "LMU Munich",
+              "dsl": ""
+            },
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Munich",
+              "institution": "Institut für Rundfunktechnik (IRT)",
+              "dsl": ""
+            }
+          ],
+          "personId": 38460
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Munich",
+              "institution": "LMU Munich",
+              "dsl": ""
+            }
+          ],
+          "personId": 38422
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Munich",
+              "institution": "Institut für Rundfunktechnik (IRT)",
+              "dsl": ""
+            }
+          ],
+          "personId": 38412
+        }
+      ],
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://doi.org/10.1145/3391614.3393655"
+        },
+        "Talk": {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=czAfifFrBiE",
+          "title": "The SpaceStation App: Design and Evaluation of an AR Application for Educational Television",
+          "duration": 553
+        }
+      },
+      "sessionIds": [
+        38482
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 38476,
+      "typeId": 11617,
+      "title": "Unpacking Editorial Agreements in Collaborative Video Production",
+      "trackId": 10979,
+      "tags": [],
+      "keywords": [],
+      "abstract": "Video production is a collaborative process involving creative, artistic and technical elements that require a multitude of specialised skill sets. This open-ended work is often marked by uncertainty and interpretive flexibility in terms of what the product is and should be. At the same time, most current video production tools are designed for single users. There is a growing interest, both in industry and academia, to design features that support key collaborative processes in editing, such as commenting on videos. We add to current research by unpacking specific forms of collaboration, in particular the social mechanisms and strategies employed to reduce interpretive flexibility and uncertainty in achieving agreements between editors and other collaborators. The findings contribute to the emerging design interest by identifying general design paths for how to support collaboration in video editing through scaffolding, iconic referencing, and suggestive editing.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "Norway",
+              "state": "",
+              "city": "Bergen",
+              "institution": "University of Bergen",
+              "dsl": "Department of Information Science and Media Studies"
+            }
+          ],
+          "personId": 38425
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Sweden",
+              "state": "",
+              "city": "Kista",
+              "institution": "Stockholm University",
+              "dsl": ""
+            }
+          ],
+          "personId": 38417
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Norway",
+              "state": "",
+              "city": "Bergen",
+              "institution": "University of Bergen",
+              "dsl": "Department of information science and media studies"
+            }
+          ],
+          "personId": 38430
+        }
+      ],
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://doi.org/10.1145/3391614.3393652"
+        },
+        "Talk": {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=neVki4ojSDg",
+          "title": "Unpacking Editorial Agreements in Collaborative Video Production",
+          "duration": 631
+        }
+      },
+      "sessionIds": [
+        38481
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 38477,
+      "typeId": 11617,
+      "title": "Augmenting TV Viewing using Acoustically Transparent Auditory Headsets",
+      "trackId": 10979,
+      "tags": [],
+      "keywords": [],
+      "abstract": "This paper explores how acoustically transparent auditory headsets can improve TV viewing by intermixing headset and TV audio, facilitating personal, private auditory enhancements and augmentations of TV content whilst minimizing occlusion of the sounds of reality. We evaluate the impact of synchronously mirroring select audio channels from the 5.1 mix (dialogue, environmental sounds, and the full mix), and selectively augmenting TV viewing with additional speech (e.g. Audio Description, Directors Commentary, and Alternate Language). For TV content, auditory headsets enable better spatialization and more immersive, enjoyable viewing; the intermixing of TV and headset audio creates unique listening experiences; and private augmentations offer new ways to (re)watch content with others. Finally, we reflect on how these headsets might facilitate more immersive augmented TV viewing experiences within reach of consumers.\r\n",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "United Kingdom",
+              "state": "Lanarkshire",
+              "city": "Glasgow",
+              "institution": "University of Glasgow",
+              "dsl": "School of Computing Science"
+            }
+          ],
+          "personId": 38418
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United Kingdom",
+              "state": "",
+              "city": "Glasgow",
+              "institution": "University of Glasgow",
+              "dsl": ""
+            }
+          ],
+          "personId": 38452
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United Kingdom",
+              "state": "",
+              "city": "Glasgow",
+              "institution": "University of Glasgow",
+              "dsl": ""
+            }
+          ],
+          "personId": 38421
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United Kingdom",
+              "state": "",
+              "city": "Glasgow",
+              "institution": "University of Glasgow",
+              "dsl": "School of Computing Science"
+            }
+          ],
+          "personId": 38416
+        }
+      ],
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://doi.org/10.1145/3391614.3393650"
+        },
+        "Talk": {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=IFCbK_Ail58",
+          "title": "Augmenting TV Viewing using Acoustically Transparent Auditory Headsets",
+          "duration": 797
+        }
+      },
+      "sessionIds": [
+        38482
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 38478,
+      "typeId": 11617,
+      "title": "Staying on Track: a Comparative Study on the Use of Optical Flow in 360º Video to Mitigate VIMS",
+      "award": "HONORABLE_MENTION",
+      "trackId": 10979,
+      "tags": [],
+      "keywords": [],
+      "abstract": "Visually Induced Motion Sickness (VIMS), when the visual system detects motion that is not felt by the vestibular system, is a deterrent for first-time Virtual Reality (VR) users and can impact its adoption rate. Constricting the field-of-view (FoV) has been shown to reduce VIMS as it conceals optical flow in peripheral vision, which is more sensitive to motion. Additionally, several studies have suggested the inclusion of visual elements (e.g., grids) consistent with the real world as reference points. In this paper, we describe a novel technique dynamically controlled by a video's precomputed optical flow and participants' runtime head direction and evaluate it in a within-subjects study (N = 24) on a 360º video of a roller coaster. Furthermore, based on a detailed analysis of the video and participant's experience, we provide insights on the effectiveness of the techniques in VIMS reduction and discuss the role of optical flow in the design and evaluation of the study.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "Portugal",
+              "state": "",
+              "city": "Funchal",
+              "institution": "Madeira Interactive Technologies Institute",
+              "dsl": ""
+            }
+          ],
+          "personId": 38451
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Korea, Republic of",
+              "state": "",
+              "city": "Ulsan",
+              "institution": "UNIST",
+              "dsl": ""
+            }
+          ],
+          "personId": 38437
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Portugal",
+              "state": "Madeira Island",
+              "city": "Funchal",
+              "institution": "Interactive Technologies Institute/LARSyS",
+              "dsl": ""
+            },
+            {
+              "country": "Portugal",
+              "state": "Madeira Island",
+              "city": "Funchal",
+              "institution": "University of Madeira",
+              "dsl": "Engineering and Digital Interactive Media"
+            }
+          ],
+          "personId": 38443
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Portugal",
+              "state": "",
+              "city": "Lisboa - Madeira",
+              "institution": "Instituto Superior Técnico - U. Lisbon",
+              "dsl": "DEI"
+            },
+            {
+              "country": "Portugal",
+              "state": "NA",
+              "city": "Lisbon",
+              "institution": "Instituto Superior Técnico - U. Lisbon",
+              "dsl": "ITI / LARSyS"
+            }
+          ],
+          "personId": 38435
+        }
+      ],
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://doi.org/10.1145/3391614.3393658"
+        },
+        "Talk": {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=wTq98BrFs-4",
+          "title": "Staying on Track: a Comparative Study on the Use of Optical Flow in 360 Video to Mitigate VIMS",
+          "duration": 784
+        }
+      },
+      "sessionIds": [
+        38480
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 38479,
+      "typeId": 11617,
+      "title": "Authoring Interactive Fictional Stories in Object-Based Media (OBM)",
+      "trackId": 10979,
+      "tags": [],
+      "keywords": [],
+      "abstract": "This paper introduces a generic (i.e. production-independent) framework for OBM storytelling. Aiming to function as a complete end-to-end (from conception to realisation) reference for authoring OBM narrative content, it proposes an integrated model that includes the three essential levels: conceptual, technological and aesthetic. At the conceptual level, we introduce a set of abstractions which provide a unified reference for thinking, describing and analysing interactive narrative structures of OBM content. Their recursive nature make our model stand out in terms of its power of expression. These abstractions have direct one-to-one operational counterparts implemented in our production-independent authoring toolkit – Cutting Room. This ensures that any specific story design within the proposed conceptual model is directly realisable as an OBM production. This isomorphic relationship between the abstract concepts and their operationalisation is another distinguishing aspect of our overall proposition. We have validated the model at the aesthetic level through the production of the interactive film What is Love?, experienced by over 900 people at the media art festival Mediale 2018 in York, UK, and evaluated through a dedicated questionnaire by 94 of them.  As the foundations of OBM storytelling have not yet been established, we trust this paper constitutes a significant milestone in its development.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "United Kingdom",
+              "state": "North Yorkshire",
+              "city": "York",
+              "institution": "Dept. of Theatre, Film and Television, University of York",
+              "dsl": "Digital Creativity Labs"
+            }
+          ],
+          "personId": 38409
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United Kingdom",
+              "state": "—",
+              "city": "London",
+              "institution": "Get Creative AI LTD",
+              "dsl": ""
+            }
+          ],
+          "personId": 38453
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United Kingdom",
+              "state": "",
+              "city": "York",
+              "institution": "University of York",
+              "dsl": "Digital Creativity Labs, Dept. of Theatre, Film and Television"
+            }
+          ],
+          "personId": 38423
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United Kingdom",
+              "state": "",
+              "city": "Cambridge",
+              "institution": "University of Cambridge",
+              "dsl": ""
+            }
+          ],
+          "personId": 38432
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United Kingdom",
+              "state": "",
+              "city": "York",
+              "institution": "University of York",
+              "dsl": "Digital Creativity Labs"
+            }
+          ],
+          "personId": 38462
+        }
+      ],
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://doi.org/10.1145/3391614.3393654"
+        },
+        "Talk": {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=QyAMe_djah0",
+          "title": "Authoring Interactive Fictional Stories in Object-Based Media (OBM)",
+          "duration": 991
+        }
+      },
+      "sessionIds": [
+        38481
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 39824,
+      "typeId": 11638,
+      "title": "People Generally Know In Advance Exactly What They Want To Watch on TV",
+      "trackId": 10999,
+      "tags": [],
+      "keywords": [],
+      "abstract": "Prior surveys using “typical case questions” had found people report that, typically, when they watch TV, they know in advance, exactly what they want to watch. In the current survey, conducted using “recent case questions”, people were asked to consider only their most recent TV watching experience, rather than what they think is typical for themselves. The current survey replicated the prior survey finding: most respondents reported knowing exactly what they wanted to watch on TV. The current survey also asked a series of questions to examine the effects of other factors, and found that age, content-type (e.g., series, movie, etc.) and media-type (e.g., live TV, video on demand) effected the finding. The implication of this finding for TV user experience design is that getting directly to one’s desired content is a more frequent interaction with the TV than content discovery or browsing, and thus, should have the highest priority. ",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "California",
+              "city": "Mountain View",
+              "institution": "Samsung Electronics America",
+              "dsl": "NX Research, NASB"
+            }
+          ],
+          "personId": 39818
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "California",
+              "city": "Mountian View",
+              "institution": "Samsung Electronics America",
+              "dsl": "NX Research, NASB"
+            }
+          ],
+          "personId": 39820
+        }
+      ],
+      "sessionIds": [
+        39827
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 39825,
+      "typeId": 11638,
+      "title": "Pop-up Media UX Lab  to design an OTT for a local public channel",
+      "trackId": 10999,
+      "tags": [],
+      "keywords": [],
+      "abstract": "Pop-up Media UX Lab is an ephemeral user experience laboratory that gains insights from an early stage of the design process of a new media experience. This lab was created by Media UX Design for Medialab betevé with the support of Gamma UX and Parc de Recerca Creativa Canòdrom. The goal of this lab was to get viewer's insights in order to create an Over The Top (OTT) service that helps citizens, young people, expats and foreigners to connect with the city of Barcelona through their TV content. Employing a mix of qualitative and quantitative UX research techniques the pop-up Media UX Lab focused on understanding the thoughts, feelings, and consumer habits regarding betevé and their content as a public TV channel. All the knowledge we gained will help betevé to make decisions that balance media, technology and their audience’s needs. At the same time we were able to validate the viability of integrating an ephemeral UX Research laboratory into a media company.\r\nPop-up Media UX Lab is an ephemeral user experience laboratory that gains insights from an early stage of the design process of a new media experience. This lab was created by Media UX Design for Medialab betevé with the support of Gamma UX and Parc de Recerca Creativa Canòdrom. The goal of this lab was to get viewer's insights in order to create an Over The Top (OTT) service that helps citizens, young people, expats and foreigners to connect with the city of Barcelona through their TV content. Employing a mix of qualitative and quantitative UX research techniques the pop-up Media UX Lab focused on understanding the thoughts, feelings, and consumer habits regarding betevé and their content as a public TV channel. All the knowledge we gained will help betevé to make decisions that balance media, technology and their audience’s needs. At the same time we were able to validate the viability of integrating an ephemeral UX Research laboratory into a media company.\r\n",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "Spain",
+              "state": "",
+              "city": "Barcelona",
+              "institution": "Media UX Design",
+              "dsl": ""
+            },
+            {
+              "country": "Spain",
+              "state": "Catalonia",
+              "city": "Barcelona",
+              "institution": "MediaLab betevé",
+              "dsl": ""
+            }
+          ],
+          "personId": 39822
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Spain",
+              "state": "Catalonia",
+              "city": "Barcelona",
+              "institution": "Media UX Design",
+              "dsl": ""
+            },
+            {
+              "country": "Spain",
+              "state": "Catalonia",
+              "city": "Barcelona",
+              "institution": "Medialab betevé",
+              "dsl": ""
+            }
+          ],
+          "personId": 39819
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Spain",
+              "state": "Catalonia",
+              "city": "Barcelona",
+              "institution": "Gamma UX",
+              "dsl": ""
+            },
+            {
+              "country": "Spain",
+              "state": "Catalonia",
+              "city": "Barcelona",
+              "institution": "Medialab betevé",
+              "dsl": ""
+            }
+          ],
+          "personId": 39821
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Spain",
+              "state": "Catalonia",
+              "city": "Barcelona",
+              "institution": "Media UX Design",
+              "dsl": ""
+            },
+            {
+              "country": "Spain",
+              "state": "Catalonia",
+              "city": "Barcelona",
+              "institution": "Gamma UX",
+              "dsl": ""
+            }
+          ],
+          "personId": 39823
+        }
+      ],
+      "sessionIds": [
+        39827
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 39893,
+      "typeId": 11619,
+      "title": "IMX in Latin America",
+      "trackId": 11045,
+      "tags": [],
+      "keywords": [],
+      "abstract": "Prominent researchers, authors and invited speakers from Latina America will gather during the next ACM IMX 2020 in this special workshop called IMX in Latin America (IMX-LATAM 2020). It will be indeed an excellent opportunity for a joint discussion and for establishing closer relationships that can positively impact the comprehensiveness and diversity of the ACM IMX community.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "institution": "Universidad del Cauca"
+            }
+          ],
+          "personId": 39879
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Federal University of Juiz de Fora"
+            }
+          ],
+          "personId": 39881
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Federal University of Espírito Santo"
+            }
+          ],
+          "personId": 39882
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "University of Zaragoza"
+            }
+          ],
+          "personId": 39885
+        }
+      ],
+      "sessionIds": [
+        39898
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 39894,
+      "typeId": 11619,
+      "title": "Toys & the TV",
+      "trackId": 11045,
+      "tags": [],
+      "keywords": [],
+      "abstract": "This workshop aims to kick off a special focus on how children might use connected toys and tangibles as part of the TV experience of the future. We want to take advantage of the connected television, as a portal to media resources which have excellent narrative elements, and the connected toy, as a way to encourage childrenÕs curiosity, resilience, and their own agency, to control their consumption of content in a playful way. We hope that this has the secondary, more serious effect, of increasing their own learning targets which is in keeping with parental expectation and the ultimate goal of educational TV programming.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "institution": "BBC R&D"
+            }
+          ],
+          "personId": 39861
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "BBC R&D"
+            }
+          ],
+          "personId": 39886
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "IRT"
+            }
+          ],
+          "personId": 39872
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "BBC R&D"
+            }
+          ],
+          "personId": 39873
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "ZDF"
+            }
+          ],
+          "personId": 39874
+        }
+      ],
+      "sessionIds": [
+        39897
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 39895,
+      "typeId": 11619,
+      "title": "Design4Data",
+      "trackId": 11045,
+      "tags": [],
+      "keywords": [],
+      "abstract": "Novel media experiences are currently witnessing a shift towards personal data leverage whichis helping produce highly customised content that is relevant and relatable to the audiences. But while personal data affords many capabilities for media service enhancement, it simultaneously introduces a number of socio-technical challenges into the scheme. Concepts such as data legibility, negotiability and agency could be useful in addressing some of these challenges. Nevertheless, the contextualisation of these principles within the scope of media and exploration of design measures within this spaceremains an active challenge. This workshop aims to explore this space by bringing together media enthusiasts, designers and researchers in order to help clarify these contextualised definitions and apply them by looking into practical design responses to these challenges.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "institution": "University of Nottingham"
+            }
+          ],
+          "personId": 39875
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "University of Nottingham"
+            }
+          ],
+          "personId": 39876
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "University of Lancaster"
+            }
+          ],
+          "personId": 39877
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "University of Lancaster"
+            }
+          ],
+          "personId": 39878
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "BBC R&D"
+            }
+          ],
+          "personId": 39880
+        }
+      ],
+      "sessionIds": [
+        39935
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 39896,
+      "typeId": 11619,
+      "title": "Snap Creative Challenge: reimagine the future of storytelling with Augmented Reality",
+      "trackId": 11046,
+      "tags": [],
+      "keywords": [],
+      "abstract": "Snap Inc, Microsoft Research and BBC R&D are convening faculty and their students to join us in reimagining the future of storytelling with Augmented Reality. Faculty will propose how they will work on a project with their students in the months leading up to the event co-hosted at ACM IMX 2020 in Barcelona, Spain. Students will show their work through lightning presentations and a hands-on mini-exhibition. The event will end with a meta-discussion on the challenges and opportunities revealed by these projects, seed future work and community-building efforts around AR and storytelling, and produce a position document with all the participants.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "institution": "Snap Inc"
+            }
+          ],
+          "personId": 39883
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "BBC R&D"
+            }
+          ],
+          "personId": 39861
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Microsoft Research"
+            }
+          ],
+          "personId": 39884
+        }
+      ],
+      "sessionIds": [
+        39899
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 39772,
+      "typeId": 11637,
+      "title": "Assessing Social Text Placement in Mixed Reality TV",
+      "trackId": 10997,
+      "tags": [],
+      "keywords": [],
+      "abstract": "TV experiences are often social, be it at-a-distance (through text) or in-person (through speech). Mixed Reality (MR) headsets offer new opportunities to enhance social communication during TV viewing by placing social artifacts (e.g. text) anywhere the viewer wishes, rather than being constrained to a smartphone or TV display. In this paper, we use VR as a test-bed to evaluate different text locations for MR TV specifically. We introduce the concepts of wall messages, below-screen messages, and egocentric messages in addition to state-of-the-art on-screen messages(i.e., subtitles) and controller messages(i.e., reading text messages on the mobile device) to convey messages to users during TV viewing experience. Our results suggest that a) future MR systems that aim to improve viewers’ experience need to consider the integration of a communication channel that does not interfere with viewers’ primary task, that is watching TV, and b) independent of the location of text messages, users prefer to be in full control of them, especially when reading and responding to them. Our findings pave the way for further investigations towards social at-a-distance communication in Mixed Reality.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "United Kingdom",
+              "state": "",
+              "city": "Glasgow",
+              "institution": "University of Glasgow",
+              "dsl": ""
+            }
+          ],
+          "personId": 38452
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Belgium",
+              "state": "",
+              "city": "Leuven",
+              "institution": "KU Leuven",
+              "dsl": ""
+            }
+          ],
+          "personId": 39754
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United Kingdom",
+              "state": "Lanarkshire",
+              "city": "Glasgow",
+              "institution": "University of Glasgow",
+              "dsl": "School of Computing Science"
+            }
+          ],
+          "personId": 38418
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Belgium",
+              "state": "",
+              "city": "Leuven",
+              "institution": "KU Leuven",
+              "dsl": "Department of Computer Science"
+            }
+          ],
+          "personId": 39707
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United Kingdom",
+              "state": "",
+              "city": "Glasgow",
+              "institution": "University of Glasgow",
+              "dsl": ""
+            }
+          ],
+          "personId": 38421
+        }
+      ],
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://doi.org/10.1145/3391614.3399402"
+        }
+      },
+      "sessionIds": [
+        39826
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 39773,
+      "typeId": 11637,
+      "title": "Prosuming Live Multimedia Content at the Edge",
+      "trackId": 10997,
+      "tags": [],
+      "keywords": [],
+      "abstract": "This paper presents the design and evaluation of a localized crowd-sourced multimedia production and distribution system to enable to-day’s mobile producers of multimedia content to serve their content in real-time to other nearby users, while at the same time drastically reducing the bandwidth as compared to traditional crowd-sourced multimedia services. To achieve this, we created a modular system for many-to-many live production and distribution and deployed it within the media delivery platform developed in the FLAME project.The FLAME platform provides distributed edge computing as well as a programmable network infrastructure.We have performed a first trial of our system in the instance of the FLAME platform deployed in Bristol. Our trial revealed that with our setup 93% bandwidth can be saved, and the latency can be kept as low as 3s. The user evaluation further indicated that a sufficient amount of users (45%) enjoys producing content, an important prerequisite for prosuming apps to thrive",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "Netherlands",
+              "state": "",
+              "city": "den haag",
+              "institution": "TNO",
+              "dsl": ""
+            }
+          ],
+          "personId": 39771
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Netherlands",
+              "state": "",
+              "city": "The Hague",
+              "institution": "TNO",
+              "dsl": ""
+            }
+          ],
+          "personId": 39766
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Netherlands",
+              "state": "",
+              "city": "The Hague",
+              "institution": "TNO",
+              "dsl": ""
+            }
+          ],
+          "personId": 39755
+        }
+      ],
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://doi.org/10.1145/3391614.3399393"
+        }
+      },
+      "sessionIds": [
+        39826
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 39774,
+      "typeId": 11637,
+      "title": "Collaboration of Broadcast and Calendar Services: Methods and Effects for a Smooth Collaboration",
+      "trackId": 10997,
+      "tags": [],
+      "keywords": [],
+      "abstract": "Common consumer behaviors, including watching TV broadcasts and performing daily activities, interact with one another. However, it is difficult to smoothly link broadcast and Internet services with real-world services and data. For example, when viewing interesting content on a broadcast, people often takes notes or takes pictures of a TV screen. Although they cannot easily use the viewing data and watched content at other services when taking the next action. The service provider also cannot know whether the service was used because of the broadcast. To meet this challenge, in this paper, we present how to make a smooth collaboration between broadcast and a calendar application and its effects, because it is a general application and it records various activities. We developed a calendar application that allows users to register program schedules and watch TV programs with simple operations. Based on the user evaluations, we confirmed the following results: The use of broadcast program data as schedule data has the effect of reminding the TV programs. Even for consumers with decreasing viewing time, viewing opportunities will be improved by simplifying the operation flow from a program schedule registration to broadcast viewing. Moreover, linking the schedule and history data of programs and daily activities on the calendar may promote the use of both services.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "Japan",
+              "state": "Tokyo",
+              "city": "Setagaya-ku",
+              "institution": "NHK (Japan Broadcasting Corporation)",
+              "dsl": ""
+            }
+          ],
+          "personId": 39770
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Japan",
+              "state": "Tokyo",
+              "city": "Setagaya-ku",
+              "institution": "NHK (Japan Broadcasting Corporation)",
+              "dsl": ""
+            }
+          ],
+          "personId": 39738
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Japan",
+              "state": "Tokyo",
+              "city": "Setagaya-ku",
+              "institution": "NHK (Japan Broadcasting Corporation)",
+              "dsl": ""
+            }
+          ],
+          "personId": 39744
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Japan",
+              "state": "Tokyo",
+              "city": "Setagaya-ku",
+              "institution": "NHK (Japan Broadcasting Corporation)",
+              "dsl": ""
+            }
+          ],
+          "personId": 39750
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Japan",
+              "state": "Tokyo",
+              "city": "Setagaya-ku",
+              "institution": "NHK (Japan Broadcasting Corporation)",
+              "dsl": ""
+            }
+          ],
+          "personId": 39740
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Japan",
+              "state": "Tokyo",
+              "city": "Minato-ku",
+              "institution": "Jorte Inc.",
+              "dsl": ""
+            }
+          ],
+          "personId": 39760
+        }
+      ],
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://doi.org/10.1145/3391614.3399401"
+        }
+      },
+      "sessionIds": [
+        39826
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 39775,
+      "typeId": 11637,
+      "title": "Improving media streaming services for train passengers with 5G",
+      "trackId": 10997,
+      "tags": [],
+      "keywords": [],
+      "abstract": "In the research project 5G-VICTORI we are looking into how fifth generation mobile network technology (5G) can help improve video streaming services for train passengers. We use the principle of a local 5G-based data link between trains and 5G base stations in railway stations to load media assets to a caching server in the train, from which passengers can stream media via the regular apps of video-on-demand (VoD) service operators. The paper gives an outlook on the challenges in delivering VoD services to trains via this type of cloud-edge platform. These include determination of relevant content for upload to the cache, enable good quality-of experience (QoE) live streaming and WiFi traffic shaping for fair allocation of network bandwidth to streaming clients.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Munich",
+              "institution": "IRT",
+              "dsl": ""
+            }
+          ],
+          "personId": 39704
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Munich",
+              "institution": "IRT",
+              "dsl": ""
+            }
+          ],
+          "personId": 39765
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Berlin",
+              "institution": "Fraunhofer FOKUS",
+              "dsl": ""
+            }
+          ],
+          "personId": 39764
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Berlin",
+              "institution": "Fraunhofer FOKUS",
+              "dsl": ""
+            }
+          ],
+          "personId": 39747
+        }
+      ],
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://doi.org/10.1145/3391614.3399399"
+        }
+      },
+      "sessionIds": [
+        39826
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 39776,
+      "typeId": 11636,
+      "title": "Video Encoding Cloud System for High Performance Scenarios",
+      "trackId": 10996,
+      "tags": [],
+      "keywords": [],
+      "abstract": "Nowadays, there is a huge proliferation of multimedia content, with a wide range of services and applications serving video in many scenarios. The increase of device resolution and new formats such as 360 video demand new alternatives to optimize the preparation these multimedia contents.\r\nWith this premise, a new proposal for distributed video encoding in the cloud is being developed in this doctoral work. The aim is to develop an architecture and application to achieve a target quality of the content while reducing the number of bits and the required time to encoding a stream. In addition to making its processes adaptable to the aforementioned types of content.\r\nA first prototype based on containers has been developed and the results show that we can reduce the size of the encoded file, maintaining significant quality levels that correspond to the Mean Opinion Scores (MOS) rating range, compared to a full-video coding scheme with fixed parameters.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "Spain",
+              "state": "Valencia",
+              "city": "Valencia",
+              "institution": "Universitat de València ",
+              "dsl": "Laboratorio de Investigación - Cloud Lab "
+            }
+          ],
+          "personId": 39717
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Spain",
+              "state": "Valencia",
+              "city": "Burjassot",
+              "institution": "Universitat de València",
+              "dsl": "Departament d'Informàtica"
+            }
+          ],
+          "personId": 39742
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Spain",
+              "state": "",
+              "city": "Valencia",
+              "institution": "Universitat de Valencia",
+              "dsl": "Computer Science"
+            }
+          ],
+          "personId": 39730
+        }
+      ],
+      "sessionIds": [
+        39828
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 39777,
+      "typeId": 11636,
+      "title": "Interaction for Extended Reality environments",
+      "trackId": 10996,
+      "tags": [],
+      "keywords": [],
+      "abstract": "eXtended Reality (XR) brings new possibilities for classic telepresence and teleoperation environments. Thus, the development of new human-computer interfaces (HCI) techniques in these fields will be the key value for taking advantage of XR capabilities. Moreover, it is mandatory to maintain the sense of presence or immersion in the XR field. Since one of the factors of presence in XR is the embodiment, the ability to interact in XR using your own body is a current hot point in immersive HCI. However, the assessment of the Quality of Experience (QoE) in natural interaction methods remains unexplored. Therefore, the proposed research for the PhD thesis will focus on studying and evaluating the QoE of different natural interaction methods in XR.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "Spain",
+              "state": "Madrid",
+              "city": "Madrid",
+              "institution": "Universidad Politécnica de Madrid",
+              "dsl": "Grupo de Tratamiento de Imágenes"
+            }
+          ],
+          "personId": 39723
+        }
+      ],
+      "sessionIds": [
+        39828
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 39778,
+      "typeId": 11636,
+      "title": "Interactive Media and Non-Linear Participatory Narratives of Mental Health",
+      "trackId": 10996,
+      "tags": [],
+      "keywords": [],
+      "abstract": "This research project explores the application of non-linear narratives afforded by new forms of interactive storytelling, such as responsive media, to the production of participatory films created by non-professionals with lived experiences of mental health problems. The aim of the research is to bridge the gap between the emerging practice of interactive filmmaking and community storytelling in mental health, with a view at how complex and non-linear narrative forms could suit polyvocal and diverse film productions. The research is practice-based and involves the design, implementation, and evaluation of an interactive film prototype produced in Cutting Room, an object-based media tool developed at Digital Creativity Labs, University of York.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "United Kingdom",
+              "state": "",
+              "city": "York",
+              "institution": "University of York",
+              "dsl": "Digital Creativity Labs"
+            }
+          ],
+          "personId": 39735
+        }
+      ],
+      "sessionIds": [
+        39828
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 39779,
+      "typeId": 11637,
+      "title": "Predicting Your Future Audience: Experiments in Picking the Best Topic for Future Content",
+      "trackId": 10997,
+      "tags": [],
+      "keywords": [],
+      "abstract": "This work in progress reports on ongoing experimentation with machine learning approaches on time series data, where the time series is a quantification of the success of content about a certain topic published on a certain digital channel over a past time period. The experiment tests how accurate predictive analytical approaches can be to predict the future success of a piece of media content published on the Web or social media platform according to its topics. Our intention is to enable a new innovation in media organizations’ content publication strategies, where the choice of media for a future publication can be informed by such predictive capabilities in order to maximize the potential content’s reach to a digital audience.  ",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "Austria",
+              "state": "",
+              "city": "Vienna",
+              "institution": "MODUL Technology GmbH",
+              "dsl": ""
+            }
+          ],
+          "personId": 39724
+        }
+      ],
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://doi.org/10.1145/3391614.3399398"
+        }
+      },
+      "sessionIds": [
+        39826
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 39780,
+      "typeId": 11637,
+      "title": "A Room With a “Fake” View: Installing Digital Windows in Windowless Offices",
+      "trackId": 10997,
+      "tags": [],
+      "keywords": [],
+      "abstract": "As cities become overpopulated and we explore deep seas and outer space, humans will be faced with the inevitable situation of living and working in small spaces that are visually monotonous. It is thus important to understand the psychological effects that enclosed spaces can have on people. In this study, we ran a between-subjects design experiment with people working in windowless offices by installing a digital window that featured a nature landscape video. Quantitative measures of productivity and wellbeing before and after the intervention showed that having a digital window elevated mood and happiness, but did not have a significant effect on work productivity.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "New Jersey",
+              "city": "Newark ",
+              "institution": "New Jersey Institute of Technology",
+              "dsl": ""
+            }
+          ],
+          "personId": 38442
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "New Jersey",
+              "city": "Newark",
+              "institution": "New Jersey Institute of Technology",
+              "dsl": ""
+            }
+          ],
+          "personId": 39737
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "New Jersey",
+              "city": "Newark",
+              "institution": "New Jersey Institute of Technology ",
+              "dsl": ""
+            }
+          ],
+          "personId": 39703
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "New Jersey",
+              "city": "Clifton ",
+              "institution": "New Jersey Institute of Technology ",
+              "dsl": ""
+            }
+          ],
+          "personId": 39732
+        }
+      ],
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://doi.org/10.1145/3391614.3399397"
+        }
+      },
+      "sessionIds": [
+        39826
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 39781,
+      "typeId": 11637,
+      "title": "Sharing Same Elements in User Viewing History Data Securely Through Private Set Intersection Under User-centric Data Control",
+      "trackId": 10997,
+      "tags": [],
+      "keywords": [],
+      "abstract": "Recently, various over-the-top (OTT) streaming services as well as traditional broadcasts distribute numerous content every day, allowing users to watch their favorite content at any time. While users can choose from a quantity of content, they often view the same content mainly because most OTT streaming services implement recommendation systems. However, it is often difficult for users to realize the same content they viewed and enjoy sharing their opinions or feelings because they do not know each other when and which content they viewed. For the purpose of encouraging such enjoyable experiences, we propose a system architecture that allows users to share the same content they viewed by using the user’s viewing history data. Such viewing history data is currently collected and stored by hundreds of different services and companies. Therefore, our system architecture adopts a user-centric data control model that allows users to collect and store their data on their own online storages, and use it for their purposes. If users are asked to disclose all of the raw data of their viewing history to each other or to third party when sharing, most of them will feel anxiety because the data often contains sensitive personal information. Therefore, we introduce a method using private set intersection (PSI), a cryptographic technique that allows users to share the same elements in the users’ viewing history data without revealing anything to each other except the elements at the intersection. We also demonstrate the feasibility of the architecture through use cases.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "Japan",
+              "state": "",
+              "city": "Tokyo",
+              "institution": "NHK",
+              "dsl": ""
+            }
+          ],
+          "personId": 39718
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Japan",
+              "state": "",
+              "city": "Tokyo",
+              "institution": "NHK",
+              "dsl": ""
+            }
+          ],
+          "personId": 39714
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Japan",
+              "state": "Tokyo",
+              "city": "Setagaya-ku",
+              "institution": "NHK (Japan Broadcasting Corporation)",
+              "dsl": ""
+            }
+          ],
+          "personId": 39770
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Japan",
+              "state": "Tokyo",
+              "city": "Setagaya-ku",
+              "institution": "NHK (Japan Broadcasting Corporation)",
+              "dsl": ""
+            }
+          ],
+          "personId": 39753
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Japan",
+              "state": "",
+              "city": "Tokyo",
+              "institution": "NHK",
+              "dsl": ""
+            }
+          ],
+          "personId": 39701
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Japan",
+              "state": "Tokyo",
+              "city": "Setagaya-ku",
+              "institution": "NHK (Japan Broadcasting Corporation)",
+              "dsl": ""
+            }
+          ],
+          "personId": 39750
+        }
+      ],
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://doi.org/10.1145/3391614.3399389"
+        }
+      },
+      "sessionIds": [
+        39826
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 39782,
+      "typeId": 11637,
+      "title": "A Synopsis of Input Modalities for In-Vehicle Infotainment and Consumption of Interactive Media",
+      "trackId": 10997,
+      "tags": [],
+      "keywords": [],
+      "abstract": "Connected vehicles collect and share data by communicating with road infrastructure, with each other, the web, IoT systems, and with their occupants' personal devices. Part of this data is presented to drivers via a multitude of interactive devices and systems. Thus, one challenge that arises in such a complex environment is effective and safe operation of the various interactive systems, e.g., the in-vehicle infotainment (IVI). In this paper, we present a synopsis of input modalities from the literature of automotive user interfaces (AutoUIs) for media consumption inside connected vehicles.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "Romania",
+              "state": "Suceava",
+              "city": "Suceava",
+              "institution": "University Stefan cel Mare of Suceava",
+              "dsl": "MintViz Lab"
+            }
+          ],
+          "personId": 39706
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Romania",
+              "state": "",
+              "city": "Suceava",
+              "institution": "University Stefan cel Mare of Suceava",
+              "dsl": "MintViz Lab"
+            }
+          ],
+          "personId": 38434
+        }
+      ],
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://doi.org/10.1145/3391614.3399400"
+        }
+      },
+      "sessionIds": [
+        39826
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 39783,
+      "typeId": 11637,
+      "title": "A Web Service for Video Summarization",
+      "trackId": 10997,
+      "tags": [],
+      "keywords": [],
+      "abstract": "This paper presents a Web service that supports the automatic generation of video summaries for user-submitted videos. The developed Web application decomposes the video into segments, evaluates the fitness of each segment to be included in the video summary and selects appropriate segments until a pre-defined time budget is filled. The integrated deep-learning-based video analysis and summarization technologies exhibit state-of-the-art performance and, by exploiting the processing capabilities of modern GPUs, offer faster than real-time processing. Configurations for generating video summaries that fulfill the specifications for posting on the most common video sharing platforms and social networks are available in the user interface of this application, enabling the one-click generation of distribution-channel-specific summaries.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "Greece",
+              "state": "",
+              "city": "Thessaloniki",
+              "institution": "CERTH-ITI",
+              "dsl": ""
+            }
+          ],
+          "personId": 39708
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Greece",
+              "state": "",
+              "city": "Thessaloniki",
+              "institution": "CERTH-ITI",
+              "dsl": ""
+            }
+          ],
+          "personId": 39705
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Greece",
+              "state": "",
+              "city": "Thessaloniki ",
+              "institution": "CERTH-ITI",
+              "dsl": ""
+            },
+            {
+              "country": "United Kingdom",
+              "state": "",
+              "city": "London",
+              "institution": "Queen Mary University of London",
+              "dsl": "School of EECS"
+            }
+          ],
+          "personId": 39731
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Greece",
+              "state": "",
+              "city": "Thessaloniki",
+              "institution": "CERTH-ITI",
+              "dsl": ""
+            }
+          ],
+          "personId": 39736
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Greece",
+              "state": "",
+              "city": "Thessaloniki ",
+              "institution": "CERTH-ITI ",
+              "dsl": ""
+            }
+          ],
+          "personId": 39769
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Greece",
+              "state": "",
+              "city": "Thessaloniki",
+              "institution": "Centre for Research and Technology Hellas (CERTH)",
+              "dsl": "Information Technologies Institute (ITI)"
+            }
+          ],
+          "personId": 39768
+        }
+      ],
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://doi.org/10.1145/3391614.3399391"
+        }
+      },
+      "sessionIds": [
+        39826
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 39784,
+      "typeId": 11637,
+      "title": "Towards an Immersive and Accessible Virtual Reconstruction of Theaters from the Early Modern: Bringing Back Cultural Heritage from the Past",
+      "trackId": 10997,
+      "tags": [],
+      "keywords": [],
+      "abstract": "This paper reports on the work being done towards achieving an immersive and accessible reconstruction of Historical and Cultural Heritage, focusing on Theaters of the Early Modern as use case. In particular, the paper presents and discusses potential possibilities to enable: 1) the acoustical reconstruction of the virtual (lost) environments – beyond the graphical reconstruction for the buildings, elements and performances; 2) effective interaction features and navigation within the virtual environments (e.g. by means of adaptive interfaces, guiding methods, insertion of Point of Interest); and 3) accessible experiences, by means of an innovative and personalized presentation modes for access services, like subtitles and audio description. For most of these aspects and features, proof of concept implementation are provided and opportunities for future work are outlined. With an effective combination of all these contributions, the goal is to bring back valuable Cultural Heritage from the past, providing high benefits in relevant sectors like Culture, Tourism and Education.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "Spain",
+              "state": "",
+              "city": "Valencia",
+              "institution": "University of Valencia",
+              "dsl": "Department of Informatics"
+            },
+            {
+              "country": "Spain",
+              "state": "",
+              "city": "Barcelona",
+              "institution": " i2cat Foundation",
+              "dsl": "Media & Internet Area"
+            }
+          ],
+          "personId": 39745
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Spain",
+              "state": "Valencia",
+              "city": "Burjassot",
+              "institution": "Universitat de Valencia",
+              "dsl": "Department of Informatics"
+            }
+          ],
+          "personId": 39726
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Spain",
+              "state": "Valencia",
+              "city": "Valencia",
+              "institution": "University of Valencia",
+              "dsl": "Department of Informatics"
+            }
+          ],
+          "personId": 39752
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Spain",
+              "state": "Valencia",
+              "city": "Valencia",
+              "institution": "University of Valencia",
+              "dsl": "Department of Informatics"
+            }
+          ],
+          "personId": 39722
+        }
+      ],
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://doi.org/10.1145/3391614.3399390"
+        }
+      },
+      "sessionIds": [
+        39826
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 39785,
+      "typeId": 11637,
+      "title": "INTERAQUATICA - Designing Interactive Aquatic Experiences with Geodesic Domes In-the-Wild",
+      "trackId": 10997,
+      "tags": [],
+      "keywords": [],
+      "abstract": "While HCI remains vastly abundant in human- and land- centric applications, in this work we focus on exploring further the Human Computer Biosphere Interaction (HCBI) concept in aquatic settings. Based on the existing techniques for prototyping the geodesic domes, we design them as five marine megafauna species, for the on- and off- shore locations. We describe novel interaction concepts with and within such structures: (i) Turtle AR nesting, (ii) Bird XR watching, (iii) Dolphin acoustic swimming, (iv) Seal night scuba-diving, and (v) Whale projection mapping. We report the design of such \"interaquatic\" environments, focused at depicting the ongoing concerns with such marina megafauna species, discussing their feasibility, suggesting research, implementation and validation for all interaquatic domes, planned in our future work.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "Portugal",
+              "state": "",
+              "city": "Funchal",
+              "institution": "ITI/LARSyS, University of Madeira, Tigerwhale",
+              "dsl": "Wave Lab"
+            }
+          ],
+          "personId": 39720
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Portugal",
+              "state": "",
+              "city": "Funchal",
+              "institution": "ITI/LARSyS, University of Madeira",
+              "dsl": "Wave Lab"
+            }
+          ],
+          "personId": 39713
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Portugal",
+              "state": "",
+              "city": "Funchal",
+              "institution": "ITI/LARSyS, University of Madeira",
+              "dsl": "Wave Lab"
+            }
+          ],
+          "personId": 39709
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Portugal",
+              "state": "",
+              "city": "Funchal",
+              "institution": "ITI/LARSyS, University of Madeira",
+              "dsl": "Wave Lab"
+            }
+          ],
+          "personId": 39727
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Portugal",
+              "state": "",
+              "city": "Funchal",
+              "institution": "ITI/LARSyS, University of Madeira",
+              "dsl": "Wave Lab"
+            }
+          ],
+          "personId": 39719
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Portugal",
+              "state": "",
+              "city": "Funchal",
+              "institution": "ITI/LARSyS, University of Madeira",
+              "dsl": "Wave Lab"
+            }
+          ],
+          "personId": 39728
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Portugal",
+              "state": "",
+              "city": "Funchal",
+              "institution": "ITI/LARSyS, University of Madeira",
+              "dsl": "Wave Lab"
+            }
+          ],
+          "personId": 39763
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Portugal",
+              "state": "",
+              "city": "Funchal",
+              "institution": "ITI/LARSyS, University of Madeira",
+              "dsl": "Wave Lab"
+            }
+          ],
+          "personId": 39739
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Portugal",
+              "state": "",
+              "city": "Funchal",
+              "institution": "ITI/LARSyS, University of Madeira",
+              "dsl": "Wave Lab"
+            }
+          ],
+          "personId": 39712
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Portugal",
+              "state": "",
+              "city": "Funchal",
+              "institution": "University of Madeira",
+              "dsl": ""
+            }
+          ],
+          "personId": 39767
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Portugal",
+              "state": "",
+              "city": "Funchal",
+              "institution": "University of Madeira",
+              "dsl": ""
+            }
+          ],
+          "personId": 39749
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Portugal",
+              "state": "",
+              "city": "Funchal",
+              "institution": "University of Madeira",
+              "dsl": ""
+            }
+          ],
+          "personId": 39725
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Portugal",
+              "state": "",
+              "city": "Funchal",
+              "institution": "University of Madeira",
+              "dsl": ""
+            }
+          ],
+          "personId": 39758
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Portugal",
+              "state": "",
+              "city": "Funchal",
+              "institution": "University of Madeira",
+              "dsl": ""
+            }
+          ],
+          "personId": 39761
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Portugal",
+              "state": "",
+              "city": "Funchal",
+              "institution": "University of Madeira",
+              "dsl": ""
+            }
+          ],
+          "personId": 39734
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Portugal",
+              "state": "",
+              "city": "Funchal",
+              "institution": "University of Madeira",
+              "dsl": ""
+            }
+          ],
+          "personId": 39741
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Portugal",
+              "state": "",
+              "city": "Funchal",
+              "institution": "University of Madeira",
+              "dsl": ""
+            }
+          ],
+          "personId": 39756
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Portugal",
+              "state": "",
+              "city": "Funchal",
+              "institution": "University of Madeira",
+              "dsl": ""
+            }
+          ],
+          "personId": 39757
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Portugal",
+              "state": "",
+              "city": "Funchal",
+              "institution": "Interactive Technologies Institute, ITI / LARSYS",
+              "dsl": ""
+            }
+          ],
+          "personId": 39751
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Portugal",
+              "state": "NA",
+              "city": "Lisbon",
+              "institution": "Instituto Superior Técnico - U. Lisbon",
+              "dsl": "ITI / LARSyS"
+            }
+          ],
+          "personId": 38435
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Portugal",
+              "state": "Madeira Island",
+              "city": "Funchal",
+              "institution": "Interactive Technologies Institute/LARSyS",
+              "dsl": ""
+            }
+          ],
+          "personId": 38443
+        }
+      ],
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://doi.org/10.1145/3391614.3399395"
+        }
+      },
+      "sessionIds": [
+        39826
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 39786,
+      "typeId": 11637,
+      "title": "Talk Like Somebody is Watching: Understanding and Supporting Novice Live Streamers",
+      "trackId": 10997,
+      "tags": [],
+      "keywords": [],
+      "abstract": "We built a chatbot system--Audience Bot--that simulates an audience for novice live streamers to engage with while streaming. New live streamers on platforms like Twitch are expected to perform and talk to themselves, even while no one is watching. We ran an observational lab study on how Audience Bot assists novice live streamers as they acclimate to multitasking--simultaneously playing a video game while performing for a (simulated) audience.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "Canada",
+              "state": "Alberta",
+              "city": "Calgary",
+              "institution": "University of Calgary",
+              "dsl": "Computer Science"
+            }
+          ],
+          "personId": 39702
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Canada",
+              "state": "Alberta",
+              "city": "Calgary",
+              "institution": "University of Calgary",
+              "dsl": "Computer Science"
+            }
+          ],
+          "personId": 39759
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Canada",
+              "state": "Ontario",
+              "city": "Toronto",
+              "institution": "University of Toronto",
+              "dsl": ""
+            }
+          ],
+          "personId": 39715
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Canada",
+              "state": "Alberta",
+              "city": "Calgary",
+              "institution": "University of Calgary",
+              "dsl": ""
+            }
+          ],
+          "personId": 39710
+        }
+      ],
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://doi.org/10.1145/3391614.3399392"
+        }
+      },
+      "sessionIds": [
+        39826
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 39787,
+      "typeId": 11637,
+      "title": "Let’s Get in Touch! Adding Haptics to Social VR",
+      "trackId": 10997,
+      "tags": [],
+      "keywords": [],
+      "abstract": "Social VR shall allow natural communication between users with high social presence, as if users are in the same room. One way to increase social presence is to add haptic interaction to allow, for example, users to give each other a \"high-five\" or to pass documents among them. In this paper, we present our web-based VR communication framework with an added haptic component to simulate touch. The goal of this framework is to enhance the VR communication experience and the social cues exchange between users in VR. We describe our method for rendering haptic feedback within the web-based framework and evaluate the perceived quality of our system with a user survey (with 119 participants). Our proof-of-concept system was rated positively, with the haptic component offering an enhanced quality of the VR experience for 78% of the participants.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "Netherlands",
+              "state": "The Hague",
+              "city": "The Hague",
+              "institution": "TNO",
+              "dsl": "Intelligent Imaging"
+            }
+          ],
+          "personId": 39746
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Netherlands",
+              "state": "",
+              "city": "Den Haag",
+              "institution": "TNO",
+              "dsl": ""
+            }
+          ],
+          "personId": 39748
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Netherlands",
+              "state": "The Hague",
+              "city": "The Hague",
+              "institution": "TNO",
+              "dsl": ""
+            }
+          ],
+          "personId": 39711
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Netherlands",
+              "state": "The Hague",
+              "city": "The Hague",
+              "institution": "TNO",
+              "dsl": ""
+            }
+          ],
+          "personId": 39729
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Netherlands",
+              "state": "",
+              "city": "Soesterberg",
+              "institution": "TNO",
+              "dsl": "Perceptual and Cognitive Systems"
+            }
+          ],
+          "personId": 39721
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Netherlands",
+              "state": "",
+              "city": "The Hague",
+              "institution": "TNO",
+              "dsl": ""
+            }
+          ],
+          "personId": 39716
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Netherlands",
+              "state": "",
+              "city": "The Hague",
+              "institution": "TNO",
+              "dsl": ""
+            }
+          ],
+          "personId": 39743
+        }
+      ],
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://doi.org/10.1145/3391614.3399396"
+        }
+      },
+      "sessionIds": [
+        39826
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 39788,
+      "typeId": 11637,
+      "title": "Palma360: A 360-degree Web-based Multi-device Hypervideo",
+      "trackId": 10997,
+      "tags": [],
+      "keywords": [],
+      "abstract": "360-degree videos have recently grown in popularity thanks to the popularization of virtual reality and its adoption by major online video streaming platforms. Being watched on a diverse array of interfaces (virtual reality headsets, computers, mobile devices, etc.), user behavior needs to be analyzed for all these devices. A 360-degree hypervideo production, a virtual tour around the streets of a city, is played in an experiment by 30 users with multiple devices through a web application which collects their behavior following the Experience API standard. The distribution of viewport centers when playing these 360-degree videos is analyzed and compared between device and video types, showing an evident difference in behavior when playing videos of different type.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "Spain",
+              "state": "",
+              "city": "Palma",
+              "institution": "University of the Balearic Islands",
+              "dsl": "Multimedia Information Technologies Laboratory (LTIM), Department of Mathematics and Computer Science"
+            }
+          ],
+          "personId": 39733
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Spain",
+              "state": "",
+              "city": "Palma",
+              "institution": "University of the Balearic Islands",
+              "dsl": "Multimedia Information Technologies Laboratory (LTIM), Department of Mathematics and Computer Science"
+            }
+          ],
+          "personId": 39762
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Spain",
+              "state": "",
+              "city": "Palma",
+              "institution": "University of the Balearic Islands",
+              "dsl": "Multimedia Information Technologies Laboratory (LTIM), Department of Mathematics and Computer Science"
+            }
+          ],
+          "personId": 39700
+        }
+      ],
+      "addons": {
+        "doi": {
+          "type": "doiLink",
+          "url": "https://doi.org/10.1145/3391614.3399394"
+        }
+      },
+      "sessionIds": [
+        39826
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 39863,
+      "typeId": 11618,
+      "title": "Using Virtual Reality to Change Attitudes and Behaviour",
+      "trackId": 11043,
+      "tags": [],
+      "keywords": [],
+      "abstract": "In virtual reality you can look around wherever you like, and still of course see virtual reality. What happens when you look down towards yourself or in a virtual mirror? If it has been so programmed you will see a life-sized virtual body replacing your own. You are likely then to have the perceptual illusion that the virtual body is yours, even though you know for sure that it is not. This is referred to as a body ownership illusion. Here I will describe this perceptual illusion, and give examples of how this has been used to address a number personal and social issues",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "institution": "University of Barcelona"
+            }
+          ],
+          "personId": 39853
+        }
+      ],
+      "sessionIds": [
+        39867
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 39864,
+      "typeId": 11618,
+      "title": "Building the Volumetric Future",
+      "trackId": 11043,
+      "tags": [],
+      "keywords": [],
+      "abstract": "Nonny de la Peña is the CEO & Founder of the award-winning innovation company Emblematic Group. Often acknowledged as The Godmother of Virtual Reality, she is a pioneer of virtual, augmented, and mixed reality and is widely credited with inventing the genre of immersive journalism. She will discuss her journey from working as a Newsweek journalist, premiering the first ever VR piece at Sundance with Hunger in LA, to now being at the forefront of the industry providing an easy XR creation and sharing platform, REACH.Love.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "institution": "Emblematic Group"
+            }
+          ],
+          "personId": 39854
+        }
+      ],
+      "sessionIds": [
+        39870
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 39865,
+      "typeId": 11618,
+      "title": "Welcome",
+      "trackId": 11044,
+      "tags": [],
+      "keywords": [],
+      "abstract": "Welcoming and opening remarks",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "institution": "CWI"
+            }
+          ],
+          "personId": 39855
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "i2CAT Foundation & Universitat de València"
+            }
+          ],
+          "personId": 39856
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "i2CAT Foundation"
+            }
+          ],
+          "personId": 39857
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "FXPAL"
+            }
+          ],
+          "personId": 39858
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "TNO"
+            }
+          ],
+          "personId": 39859
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Virginia Tech"
+            }
+          ],
+          "personId": 39860
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "BBC R&D"
+            }
+          ],
+          "personId": 39861
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Stockholm University"
+            }
+          ],
+          "personId": 39862
+        }
+      ],
+      "sessionIds": [
+        39867
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 39866,
+      "typeId": 11618,
+      "title": "Closing and Awards",
+      "trackId": 11044,
+      "tags": [],
+      "keywords": [],
+      "abstract": "Awards and closing Ceremony",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "institution": "CWI"
+            }
+          ],
+          "personId": 39855
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "i2CAT Foundation & Universitat de València"
+            }
+          ],
+          "personId": 39856
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "i2CAT Foundation"
+            }
+          ],
+          "personId": 39857
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Verizon Media"
+            }
+          ],
+          "personId": 39850
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "BBC R&D"
+            }
+          ],
+          "personId": 39861
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "New Jersey Institute of Technology"
+            }
+          ],
+          "personId": 39852
+        }
+      ],
+      "sessionIds": [
+        39870
+      ],
+      "eventIds": []
+    }
+  ],
+  "people": [
+    {
+      "id": 38403,
+      "firstName": "Sagarika",
+      "lastName": "Patra",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 38404,
+      "firstName": "Stephen",
+      "lastName": "Pettifer",
+      "middleInitial": "Robert",
+      "affiliations": []
+    },
+    {
+      "id": 39940,
+      "firstName": "Jesus",
+      "lastName": "Gutierrez",
+      "affiliations": [
+        {
+          "institution": "Universidad Politecnica de Madrid"
+        }
+      ]
+    },
+    {
+      "id": 38405,
+      "firstName": "Rolando",
+      "lastName": "Vargas",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 38406,
+      "firstName": "Robert",
+      "lastName": "Stevens",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 38407,
+      "firstName": "Alan",
+      "lastName": "Pedrassoli Chitayat",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 38408,
+      "firstName": "Jacob",
+      "lastName": "Biehl",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 38409,
+      "firstName": "Marian",
+      "lastName": "Ursu",
+      "middleInitial": "F",
+      "affiliations": []
+    },
+    {
+      "id": 38410,
+      "firstName": "Pejman",
+      "lastName": "Saeghe",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 38411,
+      "firstName": "Yan",
+      "lastName": "Chen",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 38412,
+      "firstName": "Markus",
+      "lastName": "Ludwig",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 38413,
+      "firstName": "Ben",
+      "lastName": "Kirman",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 38414,
+      "firstName": "Oluseyi",
+      "lastName": "Olarewaju",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 38415,
+      "firstName": "David",
+      "lastName": "Shamma",
+      "middleInitial": "A.",
+      "affiliations": []
+    },
+    {
+      "id": 38416,
+      "firstName": "Julie",
+      "lastName": "Williamson",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 38417,
+      "firstName": "Oskar",
+      "lastName": "Juhlin",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 38418,
+      "firstName": "Mark",
+      "lastName": "McGill",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 38419,
+      "firstName": "Sarah",
+      "lastName": "Clinch",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 38420,
+      "firstName": "Daniel",
+      "lastName": "Slawson",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 38421,
+      "firstName": "Mohamed",
+      "lastName": "Khamis",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 38422,
+      "firstName": "Christina",
+      "lastName": "Schneegass",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 38423,
+      "firstName": "Jonathan",
+      "lastName": "Hook",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 38424,
+      "firstName": "Alistair",
+      "lastName": "Coates",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 38425,
+      "firstName": "Pavel",
+      "lastName": "Okopnyi",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 38426,
+      "firstName": "Isabelle",
+      "lastName": "Nölle",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 38427,
+      "firstName": "Derek",
+      "lastName": "Reilly",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 38428,
+      "firstName": "Gavin",
+      "lastName": "Abercrombie",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 38429,
+      "firstName": "Steve",
+      "lastName": "Oney",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 38430,
+      "firstName": "Frode",
+      "lastName": "Guribye",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 38431,
+      "firstName": "Arnav",
+      "lastName": "Jhala",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 38432,
+      "firstName": "Shauna",
+      "lastName": "Concannon",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 38433,
+      "firstName": "Hui-Yin",
+      "lastName": "Wu",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 38434,
+      "firstName": "Radu-Daniel",
+      "lastName": "Vatavu",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 38435,
+      "firstName": "Nuno",
+      "lastName": "Nunes",
+      "middleInitial": "Jardim",
+      "affiliations": []
+    },
+    {
+      "id": 38436,
+      "firstName": "Justus",
+      "lastName": "Robertson",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 38437,
+      "firstName": "Ian",
+      "lastName": "Oakley",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 38438,
+      "firstName": "Michael",
+      "lastName": "Leece",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 38439,
+      "firstName": "Jing",
+      "lastName": "Qian",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 38440,
+      "firstName": "Peter",
+      "lastName": "York",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 38441,
+      "firstName": "Ian",
+      "lastName": "Wehrman",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 38442,
+      "firstName": "Donghee Yvette",
+      "lastName": "Wohn",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 38443,
+      "firstName": "Valentina",
+      "lastName": "Nisi",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 38444,
+      "firstName": "Simon",
+      "lastName": "von der Au",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 38445,
+      "firstName": "Florian",
+      "lastName": "Block",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 38446,
+      "firstName": "Vinoba",
+      "lastName": "Vinayagamoorthy",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 38447,
+      "firstName": "Walter",
+      "lastName": "Lasecki",
+      "middleInitial": "S.",
+      "affiliations": []
+    },
+    {
+      "id": 38448,
+      "firstName": "Rajan",
+      "lastName": "Vaish",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 38449,
+      "firstName": "Bruce",
+      "lastName": "Weir",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 38450,
+      "firstName": "Athanasios",
+      "lastName": "Kokkinakis",
+      "middleInitial": "Vasileios",
+      "affiliations": []
+    },
+    {
+      "id": 38451,
+      "firstName": "Paulo",
+      "lastName": "Bala",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 38452,
+      "firstName": "Florian",
+      "lastName": "Mathis",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 38453,
+      "firstName": "Davy",
+      "lastName": "Smith",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 38454,
+      "firstName": "Andrés",
+      "lastName": "Monroy-Hernández",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 38455,
+      "firstName": "Simon",
+      "lastName": "Demediuk",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 38456,
+      "firstName": "Nicolas",
+      "lastName": "Hardie",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 38457,
+      "firstName": "Daniel",
+      "lastName": "Avrahami",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 38458,
+      "firstName": "Joseph",
+      "lastName": "Malloch",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 38459,
+      "firstName": "Peter",
+      "lastName": "Hughes",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 38460,
+      "firstName": "Leon",
+      "lastName": "Giering",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 38461,
+      "firstName": "Anders",
+      "lastName": "Drachen",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 38462,
+      "firstName": "John",
+      "lastName": "Gray",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 38463,
+      "firstName": "Juliano",
+      "lastName": "Franz",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 38464,
+      "firstName": "Trevor",
+      "lastName": "Santarra",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 38465,
+      "firstName": "Teresa",
+      "lastName": "Chambel",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 38466,
+      "firstName": "Guo",
+      "lastName": "Freeman",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39700,
+      "firstName": "Antoni",
+      "lastName": "Bibiloni Coll",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39701,
+      "firstName": "Kaisei",
+      "lastName": "Kajita",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39702,
+      "firstName": "Terrance",
+      "lastName": "Mok",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39703,
+      "firstName": "Astha",
+      "lastName": "Sharma",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39704,
+      "firstName": "Christoph",
+      "lastName": "Ziegler",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39705,
+      "firstName": "Konstantinos",
+      "lastName": "Apostolidis",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39706,
+      "firstName": "Laura-Bianca",
+      "lastName": "Bilius",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39707,
+      "firstName": "Adalberto",
+      "lastName": "Simeone",
+      "middleInitial": "L.",
+      "affiliations": []
+    },
+    {
+      "id": 39708,
+      "firstName": "Chrysa",
+      "lastName": "Collyda",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39709,
+      "firstName": "Rúben",
+      "lastName": "Freitas",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39710,
+      "firstName": "Lora",
+      "lastName": "Oehlberg",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39711,
+      "firstName": "Frank",
+      "lastName": "ter Haar",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39712,
+      "firstName": "João",
+      "lastName": "Gouveia",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39713,
+      "firstName": "Miguel",
+      "lastName": "Andrade",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39714,
+      "firstName": "Chigusa",
+      "lastName": "Yamamura",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39715,
+      "firstName": "Anthony",
+      "lastName": "Tang",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39716,
+      "firstName": "Omar",
+      "lastName": "Niamut",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39717,
+      "firstName": "Wilmer",
+      "lastName": "Moina-Rivera",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39718,
+      "firstName": "Shuhei",
+      "lastName": "Taguchi",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39719,
+      "firstName": "Antonio",
+      "lastName": "Ramos",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39720,
+      "firstName": "Marko",
+      "lastName": "Radeta",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39721,
+      "firstName": "Alexander",
+      "lastName": "Toet",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39722,
+      "firstName": "Rafael Fayos",
+      "lastName": "Jordán",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39723,
+      "firstName": "Carlos",
+      "lastName": "Cortés",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39724,
+      "firstName": "Lyndon",
+      "lastName": "Nixon",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39725,
+      "firstName": "Pedro",
+      "lastName": "Pinto",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39726,
+      "firstName": "Jaume",
+      "lastName": "Segura-Garcia",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39727,
+      "firstName": "Michael",
+      "lastName": "Sousa",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39728,
+      "firstName": "Victor",
+      "lastName": "Azevedo",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39729,
+      "firstName": "Sylvie",
+      "lastName": "Dijkstra-Soudarissanane",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39730,
+      "firstName": "Miguel",
+      "lastName": "Garcia-Pineda",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39731,
+      "firstName": "Evlampios",
+      "lastName": "Apostolidis",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39732,
+      "firstName": "Anisah",
+      "lastName": "Khandakar",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39733,
+      "firstName": "Antoni",
+      "lastName": "Oliver",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39734,
+      "firstName": "João",
+      "lastName": "Freitas",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39735,
+      "firstName": "Simona",
+      "lastName": "Manni",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39736,
+      "firstName": "Eleni",
+      "lastName": "Adamantidou",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39737,
+      "firstName": "Hyejin Hannah",
+      "lastName": "Kum-Biocca",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39738,
+      "firstName": "Soichi",
+      "lastName": "Sato",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39739,
+      "firstName": "Ricardo",
+      "lastName": "Jardim",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39740,
+      "firstName": "Hiroshi",
+      "lastName": "Fujisawa",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39741,
+      "firstName": "Ana",
+      "lastName": "Andrade",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39742,
+      "firstName": "Juan",
+      "lastName": "Gutierrez-Aguado",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39743,
+      "firstName": "Nanda",
+      "lastName": "van der Stap",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39744,
+      "firstName": "Satoshi",
+      "lastName": "Fujitsu",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39745,
+      "firstName": "Mario",
+      "lastName": "Montagud Climent",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39746,
+      "firstName": "Leonor",
+      "lastName": "Fermoselle",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39747,
+      "firstName": "Eric",
+      "lastName": "Troudt",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39748,
+      "firstName": "Simon",
+      "lastName": "Gunkel",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39749,
+      "firstName": "Telmo",
+      "lastName": "Gonçalves",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39750,
+      "firstName": "Arisa",
+      "lastName": "Fujii",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39751,
+      "firstName": "Mónica",
+      "lastName": "Mendes",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39752,
+      "firstName": "Juan Antonio",
+      "lastName": "De Rus Arance",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39753,
+      "firstName": "Daisuke",
+      "lastName": "Sekine",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39754,
+      "firstName": "Xuesong",
+      "lastName": "Zhang",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39755,
+      "firstName": "Lucia",
+      "lastName": "D'Acunto",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39756,
+      "firstName": "Alexis",
+      "lastName": "Faria",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39757,
+      "firstName": "Leonardo",
+      "lastName": "Abreu",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39758,
+      "firstName": "Roberto",
+      "lastName": "Rodrigues",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39759,
+      "firstName": "Colin",
+      "lastName": "Au Yueng",
+      "middleInitial": "Matthew",
+      "affiliations": []
+    },
+    {
+      "id": 39760,
+      "firstName": "Koichi",
+      "lastName": "Shimohana",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39761,
+      "firstName": "Cristiano",
+      "lastName": "França",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39762,
+      "firstName": "Javier",
+      "lastName": "del Molino",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39763,
+      "firstName": "Jorge",
+      "lastName": "Lopes",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39764,
+      "firstName": "Stefan",
+      "lastName": "Pham",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39765,
+      "firstName": "Ralf",
+      "lastName": "Neudel",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39766,
+      "firstName": "Emmanouil",
+      "lastName": "Potetsianakis",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39767,
+      "firstName": "Maria João",
+      "lastName": "Gouveia",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39768,
+      "firstName": "Vasileios",
+      "lastName": "Mezaris",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39769,
+      "firstName": "Alexandros",
+      "lastName": "Metsai",
+      "middleInitial": "I.",
+      "affiliations": []
+    },
+    {
+      "id": 39770,
+      "firstName": "Hisayuki",
+      "lastName": "Ohmata",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39771,
+      "firstName": "Jan Willem",
+      "lastName": "Kleinrouweler",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39789,
+      "firstName": "Fotis",
+      "lastName": "Foukalas",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39790,
+      "firstName": "Carolina",
+      "lastName": "Fernandez",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39791,
+      "firstName": "Tong",
+      "lastName": "Xue",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39792,
+      "firstName": "Tobías G.",
+      "lastName": "Palma",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39793,
+      "firstName": "Isaac",
+      "lastName": "Fraile",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39794,
+      "firstName": "Anders",
+      "lastName": "Løvlie",
+      "middleInitial": "Sundnes",
+      "affiliations": []
+    },
+    {
+      "id": 39795,
+      "firstName": "Cristina",
+      "lastName": "Portalés",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39796,
+      "firstName": "Athanasios",
+      "lastName": "Tziouvaras",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39797,
+      "firstName": "Guo",
+      "lastName": "Chen",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39798,
+      "firstName": "Sergi",
+      "lastName": "Fernández",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39799,
+      "firstName": "Jesús",
+      "lastName": "Gimeno",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39800,
+      "firstName": "Rasa",
+      "lastName": "Bocyte",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39801,
+      "firstName": "Pablo",
+      "lastName": "Cesar",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39802,
+      "firstName": "Louise",
+      "lastName": "Barkhuus",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39803,
+      "firstName": "Pablo",
+      "lastName": "Casanova-Salas",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39804,
+      "firstName": "Manolo",
+      "lastName": "Pérez",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39805,
+      "firstName": "August",
+      "lastName": "Betzler",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39806,
+      "firstName": "Arno",
+      "lastName": "Scharl",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39807,
+      "firstName": "Einar",
+      "lastName": "Meyerson",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39808,
+      "firstName": "Jannik",
+      "lastName": "Bryld",
+      "middleInitial": "Munk",
+      "affiliations": []
+    },
+    {
+      "id": 39809,
+      "firstName": "Jie",
+      "lastName": "Li",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39810,
+      "firstName": "Lucas",
+      "lastName": "Schønrock",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39818,
+      "firstName": "Mike",
+      "lastName": "Darnell",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39819,
+      "firstName": "Mónica",
+      "lastName": "Lorenzo",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39820,
+      "firstName": "Xiao (Luke)",
+      "lastName": "Yang",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39821,
+      "firstName": "Elena",
+      "lastName": "Campo",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39822,
+      "firstName": "Natàlia",
+      "lastName": "Herèdia",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39823,
+      "firstName": "David",
+      "lastName": "Rodríguez",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 39850,
+      "firstName": "Frank",
+      "lastName": "Bentley",
+      "affiliations": []
+    },
+    {
+      "id": 39852,
+      "firstName": "Donghee",
+      "lastName": "Wohn",
+      "middleInitial": "Yvette",
+      "affiliations": []
+    },
+    {
+      "id": 39853,
+      "firstName": "Mel",
+      "lastName": "Slater",
+      "affiliations": []
+    },
+    {
+      "id": 39854,
+      "firstName": "Nonny",
+      "lastName": "de la Peña",
+      "affiliations": []
+    },
+    {
+      "id": 39855,
+      "firstName": "Pablo",
+      "lastName": "Cesar",
+      "affiliations": []
+    },
+    {
+      "id": 39856,
+      "firstName": "Mario",
+      "lastName": "Montagud",
+      "affiliations": []
+    },
+    {
+      "id": 39857,
+      "firstName": "Sergi",
+      "lastName": "Fernandez",
+      "affiliations": []
+    },
+    {
+      "id": 39858,
+      "firstName": "David",
+      "lastName": "Shamma",
+      "middleInitial": "A.",
+      "affiliations": []
+    },
+    {
+      "id": 39859,
+      "firstName": "Lucia",
+      "lastName": "D'Acunto",
+      "affiliations": []
+    },
+    {
+      "id": 39860,
+      "firstName": "Aisling",
+      "lastName": "Kelliher",
+      "affiliations": []
+    },
+    {
+      "id": 39861,
+      "firstName": "Vinoba",
+      "lastName": "Vinayagamoorthy",
+      "affiliations": []
+    },
+    {
+      "id": 39862,
+      "firstName": "Asreen",
+      "lastName": "Rostami",
+      "affiliations": []
+    },
+    {
+      "id": 39872,
+      "firstName": "Christoph",
+      "lastName": "Ziegler",
+      "affiliations": []
+    },
+    {
+      "id": 39873,
+      "firstName": "Suzanne",
+      "lastName": "Clark",
+      "affiliations": []
+    },
+    {
+      "id": 39874,
+      "firstName": "Rainer",
+      "lastName": "Kirchknopf",
+      "affiliations": []
+    },
+    {
+      "id": 39875,
+      "firstName": "Neelima",
+      "lastName": "Sailaja",
+      "affiliations": []
+    },
+    {
+      "id": 39876,
+      "firstName": "Derek",
+      "lastName": "McAuley",
+      "affiliations": []
+    },
+    {
+      "id": 39877,
+      "firstName": "Adrian",
+      "lastName": "Gradinar",
+      "affiliations": []
+    },
+    {
+      "id": 39878,
+      "firstName": "Paul",
+      "lastName": "Coulton",
+      "affiliations": []
+    },
+    {
+      "id": 39879,
+      "firstName": "César",
+      "lastName": "Collazos",
+      "middleInitial": "A.",
+      "affiliations": []
+    },
+    {
+      "id": 39880,
+      "firstName": "Rhianne",
+      "lastName": "Jones",
+      "affiliations": []
+    },
+    {
+      "id": 39881,
+      "firstName": "Marcelo",
+      "lastName": "Moreno",
+      "middleInitial": "F.",
+      "affiliations": []
+    },
+    {
+      "id": 39882,
+      "firstName": "Rodrigo",
+      "lastName": "Laiola",
+      "affiliations": []
+    },
+    {
+      "id": 39883,
+      "firstName": "Andrés",
+      "lastName": "Monroy-Hernández",
+      "affiliations": []
+    },
+    {
+      "id": 39884,
+      "firstName": "Mar",
+      "lastName": "González-Franco",
+      "affiliations": []
+    },
+    {
+      "id": 39885,
+      "firstName": "Sandra",
+      "lastName": "Baldassarri",
+      "affiliations": []
+    },
+    {
+      "id": 39886,
+      "firstName": "Barbara",
+      "lastName": "Zambrini",
+      "affiliations": []
+    },
+    {
+      "id": 39928,
+      "firstName": "David",
+      "lastName": "Geerts",
+      "affiliations": [
+        {
+          "institution": "MintLab & KU Leuven"
+        }
+      ]
+    },
+    {
+      "id": 39929,
+      "firstName": "Benoit",
+      "lastName": "Huet",
+      "affiliations": [
+        {
+          "institution": "Eurecom & Median Technologies"
+        }
+      ]
+    },
+    {
+      "id": 39930,
+      "firstName": "Christian",
+      "lastName": "Timmer",
+      "affiliations": [
+        {
+          "institution": "Alpen-Adria-Universität Klagenfurt and Bitmovin"
+        }
+      ]
+    },
+    {
+      "id": 39931,
+      "firstName": "Steve",
+      "lastName": "Schirra",
+      "affiliations": [
+        {
+          "institution": "YouTube"
+        }
+      ]
+    },
+    {
+      "id": 39933,
+      "firstName": "Mikel",
+      "lastName": "Zorrilla",
+      "affiliations": [
+        {
+          "institution": "Vicomtech"
+        }
+      ]
+    },
+    {
+      "id": 39934,
+      "firstName": "Gianluca",
+      "lastName": "Cernigliaro",
+      "affiliations": [
+        {
+          "institution": "i2CAT Foundation"
+        }
+      ]
+    }
+  ],
+  "publicationInfo": {
+    "hideLinksBeforeConference": false,
+    "version": 44,
+    "publicationStatus": "PUBLISHED",
+    "isProgramEnabled": true,
+    "isDraft": false,
+    "isRegistrationEnabled": false
+  }
+}

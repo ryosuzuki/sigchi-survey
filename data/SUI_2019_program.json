@@ -1,0 +1,3864 @@
+{
+  "schemeVersion": 7,
+  "cc_licence": "Content of this file is licensed under a CC BY-NC-SA 4.0 license. For details see https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "conference": {
+    "id": 10035,
+    "startDate": 1571443200000,
+    "endDate": 1571529600000,
+    "shortName": "SUI",
+    "name": "SUI 2019",
+    "year": 2019,
+    "fullName": "ACM SUI 2019, the 7th ACM Symposium on Spatial User Interaction",
+    "url": "http://sui.acm.org/2019/",
+    "location": "New Orleans, USA",
+    "timeZoneOffset": -300,
+    "logoUrl": "https://files.sigchi.org/conference/logo/71d2f128-e759-9967-5521-830bddc0c309.png",
+    "hideVideoLinksBeforeConference": false,
+    "timeZoneName": "America/Chicago"
+  },
+  "sponsors": [],
+  "sponsorLevels": [
+    {
+      "id": 10037,
+      "name": "Sponsors",
+      "rank": 1,
+      "isDefault": true
+    }
+  ],
+  "floors": [
+    {
+      "id": 10084,
+      "name": "Area Map",
+      "mapImageUrl": "https://files.sigchi.org/conference/floor/b1536c7e-0345-543a-1650-add3453a8dc4.png"
+    },
+    {
+      "id": 10088,
+      "name": "Parade Map",
+      "mapImageUrl": "https://files.sigchi.org/conference/floor/17451f75-5a8f-888c-c7a5-73928f00cb24.png"
+    },
+    {
+      "id": 10063,
+      "name": "3rd Floor",
+      "mapImageUrl": "https://files.sigchi.org/conference/floor/12dd6267-0c93-eb3e-dc03-bc0a48b902b9.png",
+      "roomIds": [
+        10329
+      ]
+    },
+    {
+      "id": 10064,
+      "name": "2nd Floor",
+      "mapImageUrl": "https://files.sigchi.org/conference/floor/b65db5bf-d2ab-45ed-0c45-0bb9a36e9754.png",
+      "roomIds": [
+        10307
+      ]
+    }
+  ],
+  "rooms": [
+    {
+      "id": 10329,
+      "name": "St. Charles Ballroom",
+      "typeId": 11444,
+      "setup": "Special",
+      "capacity": "3rd floor"
+    },
+    {
+      "id": 10307,
+      "name": "Fleur De Lis Ballroom",
+      "typeId": 11424,
+      "setup": "Rounds",
+      "capacity": "2nd floor"
+    }
+  ],
+  "tracks": [
+    {
+      "id": 10600,
+      "name": "SUI 2019 Papers",
+      "typeId": 11424
+    },
+    {
+      "id": 10685
+    }
+  ],
+  "contentTypes": [
+    {
+      "id": 11444,
+      "name": "Poster and Demo",
+      "color": "#969696",
+      "duration": 0
+    },
+    {
+      "id": 11418,
+      "name": "SIG",
+      "color": "#7a0177",
+      "duration": 90
+    },
+    {
+      "id": 11419,
+      "name": "Case Study",
+      "color": "#993404",
+      "duration": 20,
+      "displayName": "Case Studies"
+    },
+    {
+      "id": 11420,
+      "name": "Course",
+      "color": "#e6550d",
+      "duration": 90,
+      "displayName": "Courses"
+    },
+    {
+      "id": 11421,
+      "name": "Invited Talk",
+      "color": "#66c2a4",
+      "duration": 90,
+      "displayName": "Invited Talks"
+    },
+    {
+      "id": 11422,
+      "name": "Operations",
+      "color": "#006d2c",
+      "duration": 90
+    },
+    {
+      "id": 11423,
+      "name": "Panel",
+      "color": "#6baed6",
+      "duration": 90,
+      "displayName": "Panels"
+    },
+    {
+      "id": 11425,
+      "name": "Plenary",
+      "color": "#756bb1",
+      "duration": 90
+    },
+    {
+      "id": 11426,
+      "name": "Workshop",
+      "color": "#de2d26",
+      "duration": 240,
+      "displayName": "Workshops"
+    },
+    {
+      "id": 11427,
+      "name": "Event",
+      "color": "#fecc5c",
+      "duration": 0,
+      "displayName": "Events"
+    },
+    {
+      "id": 11424,
+      "name": "Paper",
+      "color": "#08519c",
+      "duration": 25,
+      "displayName": "Papers"
+    }
+  ],
+  "timeSlots": [
+    {
+      "id": 11175,
+      "type": "BREAK",
+      "startDate": 1571473800000,
+      "endDate": 1571474700000
+    },
+    {
+      "id": 11174,
+      "type": "BREAK",
+      "startDate": 1571556600000,
+      "endDate": 1571560200000
+    },
+    {
+      "id": 11166,
+      "type": "SESSION",
+      "startDate": 1571560200000,
+      "endDate": 1571564700000
+    },
+    {
+      "id": 11158,
+      "type": "SESSION",
+      "startDate": 1571476500000,
+      "endDate": 1571481000000
+    },
+    {
+      "id": 11159,
+      "type": "BREAK",
+      "startDate": 1571481000000,
+      "endDate": 1571481900000
+    },
+    {
+      "id": 11160,
+      "type": "SESSION",
+      "startDate": 1571481900000,
+      "endDate": 1571486400000
+    },
+    {
+      "id": 11161,
+      "type": "LUNCH",
+      "startDate": 1571486400000,
+      "endDate": 1571491800000
+    },
+    {
+      "id": 11162,
+      "type": "SESSION",
+      "startDate": 1571491800000,
+      "endDate": 1571495400000
+    },
+    {
+      "id": 11163,
+      "type": "BREAK",
+      "startDate": 1571495400000,
+      "endDate": 1571496300000
+    },
+    {
+      "id": 11164,
+      "type": "SESSION",
+      "startDate": 1571496300000,
+      "endDate": 1571500800000
+    },
+    {
+      "id": 11165,
+      "type": "SESSION",
+      "startDate": 1571500800000,
+      "endDate": 1571502600000
+    },
+    {
+      "id": 11173,
+      "type": "SESSION",
+      "startDate": 1571502600000,
+      "endDate": 1571508000000
+    },
+    {
+      "id": 11167,
+      "type": "SESSION",
+      "startDate": 1571564700000,
+      "endDate": 1571569200000
+    },
+    {
+      "id": 11168,
+      "type": "LUNCH",
+      "startDate": 1571569200000,
+      "endDate": 1571574600000
+    },
+    {
+      "id": 11169,
+      "type": "SESSION",
+      "startDate": 1571574600000,
+      "endDate": 1571580000000
+    },
+    {
+      "id": 11170,
+      "type": "SESSION",
+      "startDate": 1571580000000,
+      "endDate": 1571584500000
+    },
+    {
+      "id": 11171,
+      "type": "BREAK",
+      "startDate": 1571584500000,
+      "endDate": 1571585400000
+    },
+    {
+      "id": 11172,
+      "type": "SESSION",
+      "startDate": 1571585400000,
+      "endDate": 1571589000000
+    },
+    {
+      "id": 11302,
+      "type": "SESSION",
+      "startDate": 1571509800000,
+      "endDate": 1571522400000
+    },
+    {
+      "id": 11157,
+      "type": "SESSION",
+      "startDate": 1571475600000,
+      "endDate": 1571476500000
+    },
+    {
+      "id": 11303,
+      "type": "SESSION",
+      "startDate": 1571589000000,
+      "endDate": 1571594400000
+    }
+  ],
+  "sessions": [
+    {
+      "id": 2074,
+      "name": "Session II : Virtual Reality & Avatars",
+      "typeId": 11424,
+      "roomId": 10307,
+      "chairIds": [
+        23814
+      ],
+      "contentIds": [
+        5701,
+        5066,
+        6966
+      ],
+      "timeSlotId": 11160
+    },
+    {
+      "id": 1983,
+      "name": "Session I : Multimodality",
+      "typeId": 11424,
+      "roomId": 10307,
+      "chairIds": [
+        18182
+      ],
+      "contentIds": [
+        3830,
+        6183,
+        8144
+      ],
+      "timeSlotId": 11158
+    },
+    {
+      "id": 1544,
+      "name": "Session III : Displays",
+      "typeId": 11424,
+      "roomId": 10307,
+      "chairIds": [
+        11981
+      ],
+      "contentIds": [
+        7466,
+        5531,
+        6064
+      ],
+      "timeSlotId": 11164
+    },
+    {
+      "id": 2071,
+      "name": "Session IV : Augmented Reality Modelling & Gaze",
+      "typeId": 11424,
+      "roomId": 10307,
+      "chairIds": [
+        18703
+      ],
+      "contentIds": [
+        5560,
+        4009,
+        4398
+      ],
+      "timeSlotId": 11166
+    },
+    {
+      "id": 1337,
+      "name": "Session V : Perception & Accessibility",
+      "typeId": 11424,
+      "roomId": 10307,
+      "chairIds": [
+        22045
+      ],
+      "contentIds": [
+        5204,
+        3353,
+        3287
+      ],
+      "timeSlotId": 11170
+    }
+  ],
+  "events": [
+    {
+      "id": 2590,
+      "name": "\t  \t\t\t\t\t        Keynote by Joseph J. LaViola, Jr. (University of Central Florida)",
+      "typeId": 11427,
+      "roomId": 10307,
+      "chairIds": [],
+      "contentIds": [],
+      "startDate": 1571491800000,
+      "endDate": 1571495400000,
+      "description": "Keynote: Gesture Recognition: Key Insights and Future Directions",
+      "presenterIds": [
+        18182
+      ]
+    },
+    {
+      "id": 2668,
+      "name": "Poster and Demo Fast Forward",
+      "typeId": 11427,
+      "roomId": 10307,
+      "chairIds": [],
+      "contentIds": [
+        3003,
+        5394,
+        5746,
+        7977,
+        6725,
+        3321,
+        4839,
+        6717,
+        3662,
+        7088,
+        3400,
+        5338,
+        7990,
+        3029,
+        7014,
+        5142,
+        2985,
+        3507,
+        3113
+      ],
+      "startDate": 1571500800000,
+      "endDate": 1571502600000,
+      "presenterIds": []
+    },
+    {
+      "id": 2591,
+      "name": "Registration Opens",
+      "typeId": 11427,
+      "chairIds": [],
+      "contentIds": [],
+      "startDate": 1571473800000,
+      "endDate": 1571473800000,
+      "presenterIds": []
+    },
+    {
+      "id": 2542,
+      "name": "Breakfast and Registration",
+      "typeId": 11427,
+      "chairIds": [],
+      "contentIds": [],
+      "startDate": 1571556600000,
+      "endDate": 1571556600000,
+      "presenterIds": []
+    },
+    {
+      "id": 2576,
+      "name": "Suggested Social Event: Krewe of Boo Parade",
+      "typeId": 11427,
+      "chairIds": [],
+      "contentIds": [],
+      "startDate": 1571509800000,
+      "endDate": 1571522400000,
+      "description": "Student volunteers will guide SUI attendees. There is a 3-block walk (eastward from the hotel along Poydras) to catch parade at Tchoupitoulas. Parade starts from about 1.5 miles away at 6:30 pm. Exact arrival time unknown.",
+      "presenterIds": []
+    },
+    {
+      "id": 2647,
+      "name": "Poster and Demo Session",
+      "typeId": 11427,
+      "roomId": 10329,
+      "chairIds": [],
+      "contentIds": [
+        7045,
+        3603,
+        3638,
+        7078,
+        4145,
+        3709,
+        7219,
+        3666,
+        2815,
+        5491,
+        7251,
+        3501,
+        2806,
+        5119,
+        7790,
+        7019,
+        4984,
+        5892,
+        3986,
+        4007
+      ],
+      "startDate": 1571564700000,
+      "endDate": 1571569200000,
+      "presenterIds": []
+    },
+    {
+      "id": 2587,
+      "name": "Poster and Demo Session",
+      "typeId": 11427,
+      "roomId": 10329,
+      "chairIds": [],
+      "contentIds": [
+        4932,
+        3562,
+        6105,
+        5382,
+        4774,
+        4889,
+        3633,
+        5158,
+        4845,
+        7492,
+        3394,
+        2933,
+        5987,
+        3926,
+        3000,
+        2912,
+        5754,
+        4922,
+        5603
+      ],
+      "startDate": 1571574600000,
+      "endDate": 1571580000000,
+      "presenterIds": []
+    },
+    {
+      "id": 2655,
+      "name": "SUI 2018 Awards and Closing Remarks",
+      "typeId": 11427,
+      "roomId": 10307,
+      "chairIds": [],
+      "contentIds": [],
+      "startDate": 1571589000000,
+      "endDate": 1571594400000,
+      "presenterIds": []
+    },
+    {
+      "id": 2544,
+      "name": "Poster and Demo Setup",
+      "typeId": 11427,
+      "roomId": 10329,
+      "chairIds": [],
+      "contentIds": [],
+      "startDate": 1571502600000,
+      "endDate": 1571508000000,
+      "presenterIds": []
+    },
+    {
+      "id": 2550,
+      "name": "Opening Remarks",
+      "typeId": 11427,
+      "roomId": 10307,
+      "chairIds": [],
+      "contentIds": [],
+      "startDate": 1571475600000,
+      "endDate": 1571476500000,
+      "presenterIds": []
+    },
+    {
+      "id": 2639,
+      "name": "Capstone Talk by Daniel Wigdor (University of Toronto and Chatham Labs) ",
+      "typeId": 11427,
+      "roomId": 10307,
+      "chairIds": [],
+      "contentIds": [],
+      "startDate": 1571585400000,
+      "endDate": 1571589000000,
+      "description": "Building a new paradigm: lessons from the commercial development of touch systems, and how we can do better in AR/VR. With every advance in sensing comes a renewed belief that user experience design will melt away, replaced by instinct and “natural” tendencies. As illustrated in the commercial development of multitouch technologies, this is demonstrably false. In this talk, we will review lessons learned from mistakes made in early capacitive touchscreen commercialization efforts through to the present day, and propose a path forward for rich, highly functional, appropriate user interfaces for augmented and virtual reality. ",
+      "presenterIds": [
+        13231
+      ]
+    },
+    {
+      "id": 24766,
+      "name": "Extended Lunch (on your own) ",
+      "typeId": 11427,
+      "chairIds": [],
+      "contentIds": [],
+      "startDate": 1571569200000,
+      "endDate": 1571574600000,
+      "description": "Suggested meetup at Blues and BBQ Festival. Student volunteers will direct attendees.",
+      "presenterIds": []
+    },
+    {
+      "id": 24765,
+      "name": "Louisiana Lunch (Sponsored by Chatham)",
+      "typeId": 11427,
+      "roomId": 10329,
+      "chairIds": [],
+      "contentIds": [],
+      "startDate": 1571486400000,
+      "endDate": 1571491800000,
+      "presenterIds": []
+    }
+  ],
+  "contents": [
+    {
+      "id": 5892,
+      "title": "V-ROD: Floor Interaction in VR",
+      "trackId": 10685,
+      "tags": [],
+      "keywords": [],
+      "abstract": "We present a novel cane-based device for interacting with\nfloors in Virtual Reality (VR). We demonstrate its versatility\nand flexibility in several use-case scenarios like gaming and\nmenu interaction. Initial feedback from users point towards\nbetter control in spatial tasks and increased comfort for tasks\nwhich require the users� arms to be raised or extended for\nextended periods. By including a networked example, we are\nable to explore the asymmetrical aspect of VR interaction using\nthe V-Rod. We demonstrate that the hardware and circuitry\ncan deliver acceptable performance even for demanding applications.\nIn addition, we propose that using a grounded, passive\nhaptic device gives the user a better sense of balance, therefore\ndecreasing risk of VR sickness. VR Balance is a game that\nintends to quantify the difference in comfort, intuitiveness and\naccuracy when using or not using a grounded passive haptic",
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 17746
+        },
+        {
+          "affiliations": [],
+          "personId": 21714
+        },
+        {
+          "affiliations": [],
+          "personId": 16326
+        },
+        {
+          "affiliations": [],
+          "personId": 13805
+        }
+      ],
+      "sessionIds": [],
+      "eventIds": [
+        2647
+      ]
+    },
+    {
+      "id": 7045,
+      "title": "\"SkyMap\": World-Scale Immersive Spatial Display",
+      "trackId": 10685,
+      "tags": [],
+      "keywords": [],
+      "abstract": "To relate typical survey map features to the real world during navigation, users must make time-consuming, error-prone cognitive transformations in scale and rotation and make frequent realignments over time. In this paper, we introduce SkyMap, a novel immersive display device method that presents a world-scaled and world-aligned map above the user that evokes a huge mirror in the sky. This approach, which we have implemented in a VR-based testbed, potentially reduces cognitive effort associated with survey map use. We discuss first-hand observations and further areas of research. User evaluations to compare performance under various task scenarios are currently under way.",
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 19648
+        },
+        {
+          "affiliations": [],
+          "personId": 11289
+        },
+        {
+          "affiliations": [],
+          "personId": 16849
+        }
+      ],
+      "sessionIds": [],
+      "eventIds": [
+        2647
+      ]
+    },
+    {
+      "id": 5382,
+      "title": "Adjustable Adaptation for Spatial Augmented Reality Workspaces",
+      "trackId": 10685,
+      "tags": [],
+      "keywords": [],
+      "abstract": "Many cases in which augmented reality would be useful in everyday life requires the ability to access to information on the go. This means that interfaces should support user movement and also adjust to different physical environments. Prior research has showed that spatial adaptation can reduce the effort required to manage windows when walking and moving to different spaces. We designed and implemented an unified interaction system for AR windows that allow users to quickly switch and fine tune spatial adaptation. Our study indicates that a small number of adaptive behaviors is sufficient to facilitate information access in variety of conditions.",
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 22512
+        },
+        {
+          "affiliations": [],
+          "personId": 12271
+        }
+      ],
+      "sessionIds": [],
+      "eventIds": [
+        2587
+      ]
+    },
+    {
+      "id": 5394,
+      "title": "A Comparison of Stairs and Escalators in Virtual Reality",
+      "trackId": 10685,
+      "tags": [],
+      "keywords": [],
+      "abstract": "In this poster we present an in-progress study to compare the usage of simulated escalators with simulated stairs within a virtual reality (VR) environment.\n\nWe found no existing research that examines the usage of escalators in VR. Past research into virtual stairs has examined how to better simulate stairs in a virtual environment (VE) by using external tools to allow an individual to more closely match real world movements. With virtual stairs, the user moves forward horizontally while the virtual avatar moves horizontally and vertically. With escalators, the user may stand in place to move the same distance within the virtual space, while also closely mimicking the movements they would make on an actual escalator without requiring additional tools. \n\nThis experiment will test if the advantage of escalators requiring less real-world movement is offset by other factors, such as nausea, general discomfort, and the presence of the participant during the simulation.",
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 15729
+        },
+        {
+          "affiliations": [],
+          "personId": 10569
+        },
+        {
+          "affiliations": [],
+          "personId": 19361
+        }
+      ],
+      "sessionIds": [],
+      "eventIds": [
+        2668
+      ]
+    },
+    {
+      "id": 3986,
+      "title": "Virtual Window Manipulation Method for Head-mounted Display Using Smart Device",
+      "trackId": 10685,
+      "tags": [],
+      "keywords": [],
+      "abstract": "In this paper, we propose a virtual window manipulation method used for information search while utilizing a head-mounted display (HMD).\nExisting HMD operation methods have several issues like causing user fatigue and processing input tasks inefficiently. Such problems are difficult to solve simultaneously. Therefore, we propose using head tracking cursors and smart devices. The suggested method aims to operate a head tracking cursor by swiping input on the smart device. In this paper, we compared the operability of this new method and the classic hand tracking one based on the results of user experiments.\nAs a result, it was confirmed that operability of the proposed method is deemed to be high.",
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 15202
+        },
+        {
+          "affiliations": [],
+          "personId": 20163
+        },
+        {
+          "affiliations": [],
+          "personId": 20991
+        }
+      ],
+      "sessionIds": [],
+      "eventIds": [
+        2647
+      ]
+    },
+    {
+      "id": 3603,
+      "title": "A Comparison of Stairs and Escalators in Virtual Reality",
+      "trackId": 10685,
+      "tags": [],
+      "keywords": [],
+      "abstract": "In this poster we present an in-progress study to compare the usage of simulated escalators with simulated stairs within a virtual reality (VR) environment.\n\nWe found no existing research that examines the usage of escalators in VR. Past research into virtual stairs has examined how to better simulate stairs in a virtual environment (VE) by using external tools to allow an individual to more closely match real world movements. With virtual stairs, the user moves forward horizontally while the virtual avatar moves horizontally and vertically. With escalators, the user may stand in place to move the same distance within the virtual space, while also closely mimicking the movements they would make on an actual escalator without requiring additional tools. \n\nThis experiment will test if the advantage of escalators requiring less real-world movement is offset by other factors, such as nausea, general discomfort, and the presence of the participant during the simulation.",
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 15729
+        },
+        {
+          "affiliations": [],
+          "personId": 10569
+        },
+        {
+          "affiliations": [],
+          "personId": 19361
+        }
+      ],
+      "sessionIds": [],
+      "eventIds": [
+        2647
+      ]
+    },
+    {
+      "id": 5142,
+      "title": "Strafing Gain: A Novel Redirected Walking Technique",
+      "trackId": 10685,
+      "tags": [],
+      "keywords": [],
+      "abstract": "Redirected walking enables natural locomotion in virtual environments that are larger than the user's real world space.  However, in complex setups with physical obstacles, existing redirection techniques that were originally designed for empty spaces may be sub-optimal. This poster presents strafing gains, a novel redirected walking technique that can be used to shift the user laterally away from obstacles without disrupting their current orientation.  In the future, we plan to conduct a study to identify perceptual detection thresholds and investigate new algorithms that can use strafing gains in combination with other existing redirection techniques to achieve superior obstacle avoidance in complex physical spaces.",
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 15727
+        },
+        {
+          "affiliations": [],
+          "personId": 8548
+        },
+        {
+          "affiliations": [],
+          "personId": 15222
+        }
+      ],
+      "sessionIds": [],
+      "eventIds": [
+        2668
+      ]
+    },
+    {
+      "id": 4889,
+      "title": "An Adaptive Interface for Spatial Augmented Reality Workspaces",
+      "trackId": 10685,
+      "tags": [
+        "H.5.1."
+      ],
+      "keywords": [
+        "augmented reality",
+        "adaptive interfaces",
+        "wearable",
+        "user interface"
+      ],
+      "abstract": "A promising feature of wearable augmented reality devices is the ability to easily access information on the go. However, designing AR interfaces that can support user movement and also adjust to different physical environments is a challenging task. We present an interaction system for AR windows that uses adaptation to automatically perform level window movement while allowing high-level user control.",
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 22512
+        },
+        {
+          "affiliations": [],
+          "personId": 12271
+        }
+      ],
+      "sessionIds": [],
+      "eventIds": [
+        2587
+      ]
+    },
+    {
+      "id": 3353,
+      "typeId": 11424,
+      "title": "Understanding the Effect of the Combination of Navigation Tools in Learning Spatial Knowledge",
+      "trackId": 10600,
+      "tags": [],
+      "keywords": [],
+      "abstract": "Spatial knowledge about the environment often helps people accomplish their navigation and wayfinding tasks more efficiently. Off-the-shelf mobile navigation applications often focus on guiding people to go between two locations, ignoring the importance of learning spatial knowledge. Drawing on theories and findings from the area of learning spatial knowledge, we investigated how the background reference frames (RF) and navigational cues can be combined in navigation applications to help people acquire better spatial (route and survey) knowledge. We conducted two user studies, where participants used our custom-designed applications to navigate in an indoor location. We found that having more navigational cues in a navigation application does not always assist users in acquiring better spatial knowledge; rather, these cues can be distracting in some specific setups. Users can acquire better spatial knowledge only when the navigational cues complement each other in the interface design. We discussed the implications of designing navigation interfaces that can assist users in learning spatial knowledge by combining navigational elements in a complimentary way.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Illinois",
+              "city": "Urbana",
+              "institution": "University of Illinois at Urbana-Champaign",
+              "dsl": "Computer Science"
+            }
+          ],
+          "personId": 43724
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Illinois",
+              "city": "urbana",
+              "institution": "university of illinois",
+              "dsl": ""
+            }
+          ],
+          "personId": 14824
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Illinois",
+              "city": "Urbana",
+              "institution": "University of Illinois at Urbana-Champaign",
+              "dsl": "Computer Science"
+            }
+          ],
+          "personId": 16240
+        }
+      ],
+      "sessionIds": [
+        1337
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 5531,
+      "typeId": 11424,
+      "title": "Extramission: A Large Scale Interactive Virtual Environment Using Head Mounted Projectors and Retro-reflectors",
+      "trackId": 10600,
+      "tags": [],
+      "keywords": [],
+      "abstract": "We present Extramission, a method to a large scale interactive virtual environment. It consists of dual head mounted pico projectors and retro-reflective materials. With high-accuracy retro-reflective materials,  laser beams scanned on user's retina makes clear and free-focus vision. In this retinal scanning configuration, even if the luminance of the projector is low, scanned images can be seen clearly, which helps to evade overlaps between projected images. Due to small overlaps, Extramission can provide multi-user virtual experiences showing different images to each individual, and dual pico projectors can provide each user with stereoscopic vision. Moreover, the tolerance of low luminance allows larger distance between users and retro-reflectors, which is required for large scale virtual experiences using head mounted projectors. In this paper, we describe the principle and the implementation of Extramission. We also see its performance of displaying images.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "Japan",
+              "state": "",
+              "city": "Tokyo",
+              "institution": "The University of Tokyo",
+              "dsl": ""
+            }
+          ],
+          "personId": 12949
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Japan",
+              "state": "",
+              "city": "Tokyo",
+              "institution": "The University of Tokyo",
+              "dsl": "Rekimoto"
+            }
+          ],
+          "personId": 15323
+        }
+      ],
+      "sessionIds": [
+        1544
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 4774,
+      "title": "An Adaptive Interface for Spatial Augmented Reality Workspaces",
+      "trackId": 10685,
+      "tags": [
+        "H.5.1."
+      ],
+      "keywords": [
+        "augmented reality",
+        "adaptive interfaces",
+        "wearable",
+        "user interface"
+      ],
+      "abstract": "A promising feature of wearable augmented reality devices is the ability to easily access information on the go. However, designing AR interfaces that can support user movement and also adjust to different physical environments is a challenging task. We present an interaction system for AR windows that uses adaptation to automatically perform level window movement while allowing high-level user control.",
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 22512
+        },
+        {
+          "affiliations": [],
+          "personId": 12271
+        }
+      ],
+      "sessionIds": [],
+      "eventIds": [
+        2587
+      ]
+    },
+    {
+      "id": 7078,
+      "title": "A Viewpoint Control Method for 360 Media Using Helmet Touch Interface",
+      "trackId": 10685,
+      "tags": [],
+      "keywords": [
+        "virtual reality",
+        "360 media",
+        "touch interface",
+        "viewpoint control"
+      ],
+      "abstract": "We have developed a helmet touch interface for the viewpoint control of a 360� media. The user of this interface can control the camera in 360� media by touching the surface of the helmet. To detect touch, two microcontrollers and 54 capacitive touch sensor points mounted on the interface surface are used.",
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 20877
+        },
+        {
+          "affiliations": [],
+          "personId": 23039
+        },
+        {
+          "affiliations": [],
+          "personId": 19820
+        },
+        {
+          "affiliations": [],
+          "personId": 17303
+        }
+      ],
+      "sessionIds": [],
+      "eventIds": [
+        2647
+      ]
+    },
+    {
+      "id": 5158,
+      "title": "Gaze Data Visualizations for Educational VR Applications",
+      "trackId": 10685,
+      "tags": [],
+      "keywords": [],
+      "abstract": "VR displays (HMDs) with embedded eye trackers could enable better teacher-guided VR applications since eye tracking could provide insights into student's activities and behavior patterns. We present several techniques to visualize eye-gaze data of the students to help a teacher gauge student attention level. A teacher could then better guide students to focus on the object of interest in the VR environment if their attention drifts and they get distracted or confused.",
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 13080
+        },
+        {
+          "affiliations": [],
+          "personId": 18246
+        },
+        {
+          "affiliations": [],
+          "personId": 18543
+        },
+        {
+          "affiliations": [],
+          "personId": 22879
+        },
+        {
+          "affiliations": [],
+          "personId": 8934
+        }
+      ],
+      "sessionIds": [],
+      "eventIds": [
+        2587
+      ]
+    },
+    {
+      "id": 6183,
+      "typeId": 11424,
+      "title": "Minuet: Multimodal Interaction with an Internet of Things",
+      "trackId": 10600,
+      "tags": [],
+      "keywords": [],
+      "abstract": "A large number of Internet-of-Things (IoT) devices will soon populate our physical environments. Yet, IoT devices' reliance on mobile applications and voice-only assistants as the primary interface limits their scalability and expressiveness. Building off of the classic 'Put-That-There' system, we contribute an exploration of the design space of voice + gesture interaction with spatially-distributed IoT devices. Our design space decomposes users' IoT commands into two components---selection and interaction. We articulate how the permutations of voice and freehand gesture for these two components can complementarily afford interaction possibilities that go beyond current approaches. We instantiate this design space as a proof-of-concept sensing platform and demonstrate a series of novel IoT interaction scenarios, such as making 'dumb' objects smart, commanding robotic appliances, and resolving ambiguous pointing at cluttered devices.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Pennsylvania",
+              "city": "Pittsburgh",
+              "institution": "Carnegie Mellon University",
+              "dsl": ""
+            }
+          ],
+          "personId": 13986
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Pennsylvania",
+              "city": "Pittsburgh",
+              "institution": "Carnegie Mellon University",
+              "dsl": "Human-Computer Interaction Institute"
+            }
+          ],
+          "personId": 16527
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Pennsylvania",
+              "city": "Pittsburgh",
+              "institution": "Carnegie Mellon University",
+              "dsl": "Human-Computer Interaction Institute"
+            }
+          ],
+          "personId": 15981
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "California",
+              "city": "Mountain View",
+              "institution": "Google",
+              "dsl": ""
+            }
+          ],
+          "personId": 13689
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "California",
+              "city": "Los Angeles",
+              "institution": "UCLA",
+              "dsl": "HCI Research"
+            }
+          ],
+          "personId": 18662
+        }
+      ],
+      "sessionIds": [
+        1983
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 4007,
+      "title": "Visual Cues to Restore Student Attention based on Eye Gaze Drift, and Application to an Offshore Training System",
+      "trackId": 10685,
+      "tags": [
+        "Human-centered computing ~ Virtual reality"
+      ],
+      "keywords": [
+        "Educational VR",
+        "Attention",
+        "Eye Tracking",
+        "Visual Cues"
+      ],
+      "abstract": "Drifting student attention is a common problem in educational environments. We demonstrate 8 attention-restoring visual cues for display when eye tracking detects that student attention shifts away from critical objects. These cues include novel aspects and variations of standard cues that performed well in prior work on visual guidance. Our cues are integrated into an offshore training system on an oil rig. While students participate in training on the oil rig, we can compare our various cues in terms of performance and student preference, while also observing the impact of eye tracking. We demonstrate experiment software with which users can compare various cues and tune selected parameters for visual quality and effectiveness.",
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 11566
+        },
+        {
+          "affiliations": [],
+          "personId": 18543
+        },
+        {
+          "affiliations": [],
+          "personId": 8934
+        }
+      ],
+      "sessionIds": [],
+      "eventIds": [
+        2647
+      ]
+    },
+    {
+      "id": 2985,
+      "title": "V-ROD: Floor Interaction in VR",
+      "trackId": 10685,
+      "tags": [],
+      "keywords": [],
+      "abstract": "We present a novel cane-based device for interacting with\nfloors in Virtual Reality (VR). We demonstrate its versatility\nand flexibility in several use-case scenarios like gaming and\nmenu interaction. Initial feedback from users point towards\nbetter control in spatial tasks and increased comfort for tasks\nwhich require the users� arms to be raised or extended for\nextended periods. By including a networked example, we are\nable to explore the asymmetrical aspect of VR interaction using\nthe V-Rod. We demonstrate that the hardware and circuitry\ncan deliver acceptable performance even for demanding applications.\nIn addition, we propose that using a grounded, passive\nhaptic device gives the user a better sense of balance, therefore\ndecreasing risk of VR sickness. VR Balance is a game that\nintends to quantify the difference in comfort, intuitiveness and\naccuracy when using or not using a grounded passive haptic",
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 17746
+        },
+        {
+          "affiliations": [],
+          "personId": 21714
+        },
+        {
+          "affiliations": [],
+          "personId": 16326
+        },
+        {
+          "affiliations": [],
+          "personId": 13805
+        }
+      ],
+      "sessionIds": [],
+      "eventIds": [
+        2668
+      ]
+    },
+    {
+      "id": 7977,
+      "title": "A Viewpoint Control Method for 360 Media Using Helmet Touch Interface",
+      "trackId": 10685,
+      "tags": [],
+      "keywords": [
+        "virtual reality",
+        "360 media",
+        "touch interface",
+        "viewpoint control"
+      ],
+      "abstract": "We have developed a helmet touch interface for the viewpoint control of a 360� media. The user of this interface can control the camera in 360� media by touching the surface of the helmet. To detect touch, two microcontrollers and 54 capacitive touch sensor points mounted on the interface surface are used.",
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 20877
+        },
+        {
+          "affiliations": [],
+          "personId": 23039
+        },
+        {
+          "affiliations": [],
+          "personId": 19820
+        },
+        {
+          "affiliations": [],
+          "personId": 17303
+        }
+      ],
+      "sessionIds": [],
+      "eventIds": [
+        2668
+      ]
+    },
+    {
+      "id": 3113,
+      "title": "Visual Cues to Restore Student Attention based on Eye Gaze Drift, and Application to an Offshore Training System",
+      "trackId": 10685,
+      "tags": [
+        "Human-centered computing ~ Virtual reality"
+      ],
+      "keywords": [
+        "Educational VR",
+        "Attention",
+        "Eye Tracking",
+        "Visual Cues"
+      ],
+      "abstract": "Drifting student attention is a common problem in educational environments. We demonstrate 8 attention-restoring visual cues for display when eye tracking detects that student attention shifts away from critical objects. These cues include novel aspects and variations of standard cues that performed well in prior work on visual guidance. Our cues are integrated into an offshore training system on an oil rig. While students participate in training on the oil rig, we can compare our various cues in terms of performance and student preference, while also observing the impact of eye tracking. We demonstrate experiment software with which users can compare various cues and tune selected parameters for visual quality and effectiveness.",
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 11566
+        },
+        {
+          "affiliations": [],
+          "personId": 18543
+        },
+        {
+          "affiliations": [],
+          "personId": 8934
+        }
+      ],
+      "sessionIds": [],
+      "eventIds": [
+        2668
+      ]
+    },
+    {
+      "id": 4009,
+      "typeId": 11424,
+      "title": "Gaze Direction Visualization Techniques for Collaborative Wide-Area Model-Free Augmented Reality",
+      "trackId": 10600,
+      "tags": [],
+      "keywords": [],
+      "abstract": "In collaborative tasks, it is often important for users to understand their collaborator's gaze direction or gaze target. Using an augmented reality (AR) display, a ray representing the collaborator's gaze can be used to convey such information. In wide-area AR, however, a simplistic virtual ray may be ambiguous at large distances, due to the lack of occlusion cues when a model of the environment is unavailable. We describe two novel visualization techniques designed to improve gaze ray effectiveness by facilitating visual matching between rays and targets (Double Ray technique), and by providing spatial cues to help users understand ray orientation (Parallel Bars technique). In a controlled experiment performed in a simulated AR environment, we evaluated these gaze ray techniques on target identification tasks with varying levels of difficulty. The experiment found that, assuming reliable tracking and an accurate collaborator, the Double Ray technique is highly effective at reducing visual ambiguity, but that users found it difficult to use the spatial information provided by the Parallel Bars technique. We discuss the implications of these findings for the design of collaborative mobile AR systems for use in large outdoor areas.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Virginia",
+              "city": "Blacksburg",
+              "institution": "Virginia Tech",
+              "dsl": "Center for Human Computer Interaction"
+            }
+          ],
+          "personId": 20596
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Virginia",
+              "city": "Blacksburg",
+              "institution": "Virginia Tech",
+              "dsl": "Computer Science"
+            }
+          ],
+          "personId": 13905
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Virginia",
+              "city": "Blacksburg",
+              "institution": "Virginia Tech",
+              "dsl": "Center for Human Computer Interaction"
+            }
+          ],
+          "personId": 17527
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Virginia",
+              "city": "Blacksburg",
+              "institution": "Virginia Tech",
+              "dsl": "Center for Human Computer Interaction"
+            }
+          ],
+          "personId": 17478
+        }
+      ],
+      "sessionIds": [
+        2071
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 7466,
+      "typeId": 11424,
+      "title": "Extending Virtual Reality Display Wall Environments Using Augmented Reality",
+      "trackId": 10600,
+      "tags": [],
+      "keywords": [],
+      "abstract": "Two major form factors for virtual reality are head-mounted displays and large display environments such as CAVE and the LCD-based successor CAVE2. Each of these has distinct advantages and limitations based on how they're used. This work explores preserving the high resolution and sense of presence of CAVE2 environments in full stereoscopic mode by using a see-though augmented reality HMD to expand the user's field of regard beyond the physical display walls. In our explorative study, we found that in a visual search task in a stereoscopic CAVE2, the addition of the HoloLens to expand the field of regard did not hinder the performance or accuracy of the participant, but promoted more physical navigation which in post-study interviews participants felt aided in their spatial awareness of the virtual environment.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Illinois",
+              "city": "Chicago",
+              "institution": "University of Illinois at Chicago",
+              "dsl": "Electronic Visualization Laboratory"
+            }
+          ],
+          "personId": 8411
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Illinois",
+              "city": "Chicago",
+              "institution": "University of Illinois at Chicago",
+              "dsl": "Electronic Visualization Laboratory"
+            }
+          ],
+          "personId": 16533
+        }
+      ],
+      "sessionIds": [
+        1544
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 3501,
+      "title": "Object Manipulation by Absolute Pointing with a Smartphone Gyro Sensor",
+      "trackId": 10685,
+      "tags": [
+        "H.5.2",
+        "B.4.2"
+      ],
+      "keywords": [
+        "smartphone",
+        "gyro sensor",
+        "pointing",
+        "sensing",
+        "interactive"
+      ],
+      "abstract": "The purpose of this study is to operate various computers around us using our own smartphones. Methods for operating computers around the home by voice, such as the Internet of Things (IoT) appliances, are now widespread. However, there are problems with operation by voice; it is limited in terms of instruction patterns that can be expressed, and it cannot be used simultaneously by many users. To solve the problem, we propose a method to determine the location pointed to by a user with a smartphone gyro sensor. This method achieves controller integration, multiple functions, and simultaneous use by multiple people.",
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 13381
+        },
+        {
+          "affiliations": [],
+          "personId": 20991
+        }
+      ],
+      "sessionIds": [],
+      "eventIds": [
+        2647
+      ]
+    },
+    {
+      "id": 4398,
+      "typeId": 11424,
+      "title": "Effects of Shared Gaze Parameters on Visual Target Identification Task Performance in Augmented Reality",
+      "trackId": 10600,
+      "tags": [],
+      "keywords": [],
+      "abstract": "Augmented reality (AR) technologies provide a shared platform for users to collaborate in a physical context involving both real and virtual content. To enhance the quality of interaction between AR users, researchers have proposed augmenting users’ interpersonal space with embodied cues such as their gaze direction. While beneficial in achieving improved interpersonal spatial communication, such shared gaze environments suffer from multiple types of errors related to eye tracking and networking, that can reduce objective performance and subjective experience. In this paper, we conducted a human-subject study to understand the impact of accuracy, precision, latency, and dropout based errors on users’ performance when using shared gaze cues to identify a target among a crowd of people. We simulated varying amounts of errors and the target distances and measured participants’ objective performance through their response time and error rate, and their subjective experience and cognitive load through questionnaires. We found some significant differences suggesting that the simulated error levels had stronger effects on participants’ performance than target distance with accuracy and latency having a high impact on participants’ error rate. We also observed that participants assessed their own performance as lower than it objectively was, and we discuss implications for practical shared gaze applications.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Florida",
+              "city": "Orlando",
+              "institution": "University of Central Florida",
+              "dsl": ""
+            }
+          ],
+          "personId": 19457
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Florida",
+              "city": "Orlando",
+              "institution": "University of Central Florida",
+              "dsl": "Synthetic Reality Lab (SREAL)"
+            }
+          ],
+          "personId": 8735
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Florida",
+              "city": "Orlando",
+              "institution": "University of Central Florida",
+              "dsl": ""
+            }
+          ],
+          "personId": 23217
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Florida",
+              "city": "Orlando",
+              "institution": "University of Central Florida",
+              "dsl": "Synthetic Reality Lab"
+            }
+          ],
+          "personId": 8483
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Florida",
+              "city": "Orlando",
+              "institution": "University of Central Florida",
+              "dsl": ""
+            }
+          ],
+          "personId": 18182
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Florida",
+              "city": "Orlando",
+              "institution": "University of Central Florida",
+              "dsl": "SREAL"
+            }
+          ],
+          "personId": 13844
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Florida",
+              "city": "ORLANDO",
+              "institution": "University of Central Florida",
+              "dsl": "SREAL"
+            }
+          ],
+          "personId": 23814
+        }
+      ],
+      "sessionIds": [
+        2071
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 7088,
+      "title": "Mixed-Reality Exhibition for Museum of Peace Corps Experiences using AHMED toolset",
+      "trackId": 10685,
+      "tags": [],
+      "keywords": [],
+      "abstract": "We present a mixed-reality exhibition for the Museum of Peace\nCorps Experiences designed using the Ad-Hoc Mixed-reality Exhibition\nDesigner (AHMED) toolset. AHMED enables visitors to\nexperience mixed-reality museum or art exhibitions created ad-hoc\nat any location. The system democratizes access to exhibitions for\npopulations that cannot visit these exhibitions in person for reasons\nof disability, time-constraints, travel restrictions, or socio-economic\nstatus.",
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 11161
+        }
+      ],
+      "sessionIds": [],
+      "eventIds": [
+        2668
+      ]
+    },
+    {
+      "id": 6064,
+      "typeId": 11424,
+      "title": "Effects of Dark Mode on Visual Fatigue and Acuity in Optical See-Through Head-Mounted Displays",
+      "trackId": 10600,
+      "tags": [],
+      "keywords": [],
+      "abstract": "Light-on-dark color schemes, so-called \"Dark Mode,\" are becoming more and more popular over a wide range of display technologies and application fields. Many people who have to look at computer screens for hours at a time, such as computer programmers and computer graphics artists, indicate a preference for switching colors on a computer screen from dark text on a light background to light text on a dark background due to perceived advantages related to visual comfort and acuity, specifically when working in low-light environments.\r\nIn this paper, we investigate the effects of dark mode color schemes in the field of optical see-through head-mounted displays (OST-HMDs), where the characteristic \"additive\" light model implies that bright graphics are visible but dark graphics are transparent. We describe a human-subject study in which we evaluated a normal and inverted color mode in front of different physical backgrounds and among different lighting conditions. Our results show that dark mode graphics on OST-HMDs have significant benefits for visual acuity, fatigue, and usability, while user preferences depend largely on the lighting in the physical environment. We discuss the implications of these effects on user interfaces and applications.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Florida",
+              "city": "Orlando",
+              "institution": "University of Central Florida",
+              "dsl": ""
+            }
+          ],
+          "personId": 23217
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Florida",
+              "city": "Orlando",
+              "institution": "University of Central Florida",
+              "dsl": "Synthetic Reality Lab (SREAL)"
+            }
+          ],
+          "personId": 8735
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Florida",
+              "city": "Orlando",
+              "institution": "University of Central Florida",
+              "dsl": ""
+            }
+          ],
+          "personId": 18812
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Florida",
+              "city": "Orlando",
+              "institution": "University of Central Florida",
+              "dsl": ""
+            }
+          ],
+          "personId": 13844
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Florida",
+              "city": "ORLANDO",
+              "institution": "University of Central Florida",
+              "dsl": "SREAL"
+            }
+          ],
+          "personId": 23814
+        }
+      ],
+      "sessionIds": [
+        1544
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 4145,
+      "title": "Adjustable Adaptation for Spatial Augmented Reality Workspaces",
+      "trackId": 10685,
+      "tags": [],
+      "keywords": [],
+      "abstract": "Many cases in which augmented reality would be useful in everyday life requires the ability to access to information on the go. This means that interfaces should support user movement and also adjust to different physical environments. Prior research has showed that spatial adaptation can reduce the effort required to manage windows when walking and moving to different spaces. We designed and implemented an unified interaction system for AR windows that allow users to quickly switch and fine tune spatial adaptation. Our study indicates that a small number of adaptive behaviors is sufficient to facilitate information access in variety of conditions.",
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 22512
+        },
+        {
+          "affiliations": [],
+          "personId": 12271
+        }
+      ],
+      "sessionIds": [],
+      "eventIds": [
+        2647
+      ]
+    },
+    {
+      "id": 3633,
+      "title": "Exploring the Effects of Stereoscopic 3D on Gaming Experience Using Physiological Sensors",
+      "trackId": 10685,
+      "tags": [],
+      "keywords": [],
+      "abstract": "Past studies have shown that playing games in 3D stereo does not provide any significant performance benefits than with using a 2D display. However, most previous studies used games that were not optimized for stereoscopic 3D viewing and used self-reported data (excitement level, sense of engagement, etc.) to measure user experience. We propose to study games that are optimized for stereoscopic 3D viewing and use physiological sensors (an EEG and a heart rate monitor) to better gauge the user's experience with these games. Our preliminary results reveal that stereo 3D does provide benefits in tasks where depth information is useful for the game task at hand. Additionally, participants in the 3D group had lower levels of stress and higher heart rates indicating a higher sense of engagement and presence under stereoscopic 3D conditions.",
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 13967
+        },
+        {
+          "affiliations": [],
+          "personId": 22879
+        }
+      ],
+      "sessionIds": [],
+      "eventIds": [
+        2587
+      ]
+    },
+    {
+      "id": 3507,
+      "title": "Virtual Window Manipulation Method for Head-mounted Display Using Smart Device",
+      "trackId": 10685,
+      "tags": [],
+      "keywords": [],
+      "abstract": "In this paper, we propose a virtual window manipulation method used for information search while utilizing a head-mounted display (HMD).\nExisting HMD operation methods have several issues like causing user fatigue and processing input tasks inefficiently. Such problems are difficult to solve simultaneously. Therefore, we propose using head tracking cursors and smart devices. The suggested method aims to operate a head tracking cursor by swiping input on the smart device. In this paper, we compared the operability of this new method and the classic hand tracking one based on the results of user experiments.\nAs a result, it was confirmed that operability of the proposed method is deemed to be high.",
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 15202
+        },
+        {
+          "affiliations": [],
+          "personId": 20163
+        },
+        {
+          "affiliations": [],
+          "personId": 20991
+        }
+      ],
+      "sessionIds": [],
+      "eventIds": [
+        2668
+      ]
+    },
+    {
+      "id": 7219,
+      "title": "Collaborative Interaction in Large Explorative Environments",
+      "trackId": 10685,
+      "tags": [],
+      "keywords": [],
+      "abstract": "Building collaborative VR applications for exploring and interacting with large or abstract spaces presents several problems. Given a large space and a potentially large number of possible interactions, it is expected that users will need a tool selection menu that will be easily accessible at any point in the environment. Given the collaborative nature, users will also want to be able to maintain awareness of each other within the environment and communicate about what they are seeing or doing. We present a demo that shows solutions to these problems developed in the context of a collaborative geological dataset viewer.",
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 12504
+        },
+        {
+          "affiliations": [],
+          "personId": 12805
+        },
+        {
+          "affiliations": [],
+          "personId": 8934
+        }
+      ],
+      "sessionIds": [],
+      "eventIds": [
+        2647
+      ]
+    },
+    {
+      "id": 6966,
+      "typeId": 11424,
+      "title": "Blended Agents: Manipulation of Physical Objects within Mixed Reality Environments and Beyond",
+      "trackId": 10600,
+      "tags": [],
+      "keywords": [],
+      "abstract": "Mixed reality (MR) environments allow real users and virtual agents to coexist within the same virtually augmented physical space. While tracking of different body parts such as the user's head and hands allows virtual objects to show plausible reactions to actions of the real user, virtual agents only have a very limited influence on their physical environment.\r\n\r\nIn this paper, we introduce the concept of blended agents, which are capable of manipulations of physical properties related to the object's location and surface material. We present two prototypic implementations of virtual-physical interactions using robotic actuators and thermochromic ink. As both interactions show considerably different characteristics, e.g., with regard to their persistence, explicability, and observability, we performed a user study to investigate their effects on subjective measures such as the agent's perceived social and spatial presence. In the context of a golf scenario, participants were interacting with a blended agent that was capable of virtual-physical manipulations such as hitting a golf ball and writing on physical paper. A statistical analysis of quantitative data did not yield any significant differences between blended agents and VAs without physical capabilities. However, qualitative feedback of the participants indicates that persistent manipulations improve both the perceived realism of the agent and the overall user experience.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Hamburg",
+              "institution": "Universität Hamburg",
+              "dsl": ""
+            }
+          ],
+          "personId": 16338
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Hamburg",
+              "institution": "University of Hamburg",
+              "dsl": "Faculty of Informatics"
+            }
+          ],
+          "personId": 12594
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Hamburg",
+              "institution": "Universität Hamburg",
+              "dsl": ""
+            }
+          ],
+          "personId": 20081
+        }
+      ],
+      "sessionIds": [
+        2074
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 7990,
+      "title": "Preliminary Study of Screen Extension for Smartphone Using External Display",
+      "trackId": 10685,
+      "tags": [],
+      "keywords": [],
+      "abstract": "There are some techniques to show the smartphone's content on an external display in large.\nHowever, since smartphones are designed for mobility, a seamless interaction is necessary to make the best use of external display by a smartphone.\nWe are currently exploring the feasibility of another technique, which we call Screen Extension.\nOur technique seamlessly adds display spaces to a smartphone using an external display, allowing users to use displays available in many places.\nTo test search performance with Screen Extension, we conducted a pilot study; which suggested that Screen Extension helps users to search content faster.",
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 20830
+        },
+        {
+          "affiliations": [],
+          "personId": 19820
+        },
+        {
+          "affiliations": [],
+          "personId": 17303
+        }
+      ],
+      "sessionIds": [],
+      "eventIds": [
+        2668
+      ]
+    },
+    {
+      "id": 3638,
+      "title": "A Social Interaction Interface Supporting Affective Augmentation Based on Neuronal Data",
+      "trackId": 10685,
+      "tags": [
+        "H.5.2",
+        "H.5.1"
+      ],
+      "keywords": [
+        "Communication interfaces",
+        "embodiment",
+        "affective computing",
+        "avatars",
+        "brain-computer interfaces"
+      ],
+      "abstract": "In this demonstration we present a prototype for an avatar-mediated social interaction interface that supports the replication of head- and eye movement in distributed virtual environments. In addition to the retargeting of these natural behaviors, the system is capable of augmenting the interaction based on the visual presentation of affective states. We derive those states using neuronal data captured by electroencephalographic (EEG) sensing in combination with a machine learning driven classification of emotional states.",
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 19494
+        },
+        {
+          "affiliations": [],
+          "personId": 19179
+        },
+        {
+          "affiliations": [],
+          "personId": 14753
+        },
+        {
+          "affiliations": [],
+          "personId": 10947
+        },
+        {
+          "affiliations": [],
+          "personId": 19512
+        },
+        {
+          "affiliations": [],
+          "personId": 19948
+        }
+      ],
+      "sessionIds": [],
+      "eventIds": [
+        2647
+      ]
+    },
+    {
+      "id": 3000,
+      "title": "SIGMA: Spatial Interaction Gaming for Movie- and Arena-goers",
+      "trackId": 10685,
+      "tags": [],
+      "keywords": [],
+      "abstract": "We present SIGMA, a mass interaction system for playing games in movie theatres and arenas. SIGMA uses players� smartphones as spatial game controllers. The games for SIGMA use novel techniques for aggregating mass interactions, which we introduce using\n�Little Red Riding Hood� interactive storybook as a case study.",
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 11161
+        }
+      ],
+      "sessionIds": [],
+      "eventIds": [
+        2587
+      ]
+    },
+    {
+      "id": 5560,
+      "typeId": 11424,
+      "title": "Evaluating the Impact of Point Marking Precision on Situated Modeling Performance",
+      "trackId": 10600,
+      "tags": [],
+      "keywords": [],
+      "abstract": "Three-dimensional modeling in augmented reality allows the user to create or modify the geometry of virtual content registered to the real world. One way of correctly placing the model is by creating points over real-world features and designing the model derived from those points. We investigate the impact of using point marking techniques with different levels of precision on the performance of situated modeling, considering accuracy, and ease of use. Results from a formal user study indicate that high-precision point marking techniques are needed to ensure the accuracy of the model, while ease of use is affected primarily by perceptual issues. In domains where correctness of the model is critical for user understanding and judgment, higher precision is needed to ensure the usefulness of the application.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Virginia",
+              "city": "Blacksburg",
+              "institution": "Virginia Tech",
+              "dsl": "Center for Human Computer Interaction"
+            },
+            {
+              "country": "Brazil",
+              "state": "RS",
+              "city": "Porto Alegre",
+              "institution": "Pontifical Catholic University of Rio Grande do Sul",
+              "dsl": "School of Technology"
+            }
+          ],
+          "personId": 22434
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Virginia",
+              "city": "Blacksburg",
+              "institution": "Virginia Tech",
+              "dsl": "Center for Human Computer Interaction"
+            }
+          ],
+          "personId": 17478
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Brazil",
+              "state": "RS",
+              "city": "Porto Alegre",
+              "institution": "Pontifical Catholic University of Rio Grande do Sul",
+              "dsl": "School of Technology"
+            }
+          ],
+          "personId": 9508
+        }
+      ],
+      "sessionIds": [
+        2071
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 4922,
+      "title": "Virtual Window Manipulation Method for Head-mounted Display Using Smart Device",
+      "trackId": 10685,
+      "tags": [],
+      "keywords": [],
+      "abstract": "In this paper, we propose a virtual window manipulation method used for information search while utilizing a head-mounted display (HMD).\nExisting HMD operation methods have several issues like causing user fatigue and processing input tasks inefficiently. Such problems are difficult to solve simultaneously. Therefore, we propose using head tracking cursors and smart devices. The suggested method aims to operate a head tracking cursor by swiping input on the smart device. In this paper, we compared the operability of this new method and the classic hand tracking one based on the results of user experiments.\nAs a result, it was confirmed that operability of the proposed method is deemed to be high.",
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 15202
+        },
+        {
+          "affiliations": [],
+          "personId": 20163
+        },
+        {
+          "affiliations": [],
+          "personId": 20991
+        }
+      ],
+      "sessionIds": [],
+      "eventIds": [
+        2587
+      ]
+    },
+    {
+      "id": 3003,
+      "title": "\"SkyMap\": World-Scale Immersive Spatial Display",
+      "trackId": 10685,
+      "tags": [],
+      "keywords": [],
+      "abstract": "To relate typical survey map features to the real world during navigation, users must make time-consuming, error-prone cognitive transformations in scale and rotation and make frequent realignments over time. In this paper, we introduce SkyMap, a novel immersive display device method that presents a world-scaled and world-aligned map above the user that evokes a huge mirror in the sky. This approach, which we have implemented in a VR-based testbed, potentially reduces cognitive effort associated with survey map use. We discuss first-hand observations and further areas of research. User evaluations to compare performance under various task scenarios are currently under way.",
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 19648
+        },
+        {
+          "affiliations": [],
+          "personId": 11289
+        },
+        {
+          "affiliations": [],
+          "personId": 16849
+        }
+      ],
+      "sessionIds": [],
+      "eventIds": [
+        2668
+      ]
+    },
+    {
+      "id": 6717,
+      "title": "Gaze Data Visualizations for Educational VR Applications",
+      "trackId": 10685,
+      "tags": [],
+      "keywords": [],
+      "abstract": "VR displays (HMDs) with embedded eye trackers could enable better teacher-guided VR applications since eye tracking could provide insights into student's activities and behavior patterns. We present several techniques to visualize eye-gaze data of the students to help a teacher gauge student attention level. A teacher could then better guide students to focus on the object of interest in the VR environment if their attention drifts and they get distracted or confused.",
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 13080
+        },
+        {
+          "affiliations": [],
+          "personId": 18246
+        },
+        {
+          "affiliations": [],
+          "personId": 18543
+        },
+        {
+          "affiliations": [],
+          "personId": 22879
+        },
+        {
+          "affiliations": [],
+          "personId": 8934
+        }
+      ],
+      "sessionIds": [],
+      "eventIds": [
+        2668
+      ]
+    },
+    {
+      "id": 3394,
+      "title": "Object Manipulation by Absolute Pointing with a Smartphone Gyro Sensor",
+      "trackId": 10685,
+      "tags": [
+        "H.5.2",
+        "B.4.2"
+      ],
+      "keywords": [
+        "smartphone",
+        "gyro sensor",
+        "pointing",
+        "sensing",
+        "interactive"
+      ],
+      "abstract": "The purpose of this study is to operate various computers around us using our own smartphones. Methods for operating computers around the home by voice, such as the Internet of Things (IoT) appliances, are now widespread. However, there are problems with operation by voice; it is limited in terms of instruction patterns that can be expressed, and it cannot be used simultaneously by many users. To solve the problem, we propose a method to determine the location pointed to by a user with a smartphone gyro sensor. This method achieves controller integration, multiple functions, and simultaneous use by multiple people.",
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 13381
+        },
+        {
+          "affiliations": [],
+          "personId": 20991
+        }
+      ],
+      "sessionIds": [],
+      "eventIds": [
+        2587
+      ]
+    },
+    {
+      "id": 4932,
+      "title": "\"SkyMap\": World-Scale Immersive Spatial Display",
+      "trackId": 10685,
+      "tags": [],
+      "keywords": [],
+      "abstract": "To relate typical survey map features to the real world during navigation, users must make time-consuming, error-prone cognitive transformations in scale and rotation and make frequent realignments over time. In this paper, we introduce SkyMap, a novel immersive display device method that presents a world-scaled and world-aligned map above the user that evokes a huge mirror in the sky. This approach, which we have implemented in a VR-based testbed, potentially reduces cognitive effort associated with survey map use. We discuss first-hand observations and further areas of research. User evaluations to compare performance under various task scenarios are currently under way.",
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 19648
+        },
+        {
+          "affiliations": [],
+          "personId": 11289
+        },
+        {
+          "affiliations": [],
+          "personId": 16849
+        }
+      ],
+      "sessionIds": [],
+      "eventIds": [
+        2587
+      ]
+    },
+    {
+      "id": 7492,
+      "title": "Mixed-Reality Exhibition for Museum of Peace Corps Experiences using AHMED toolset",
+      "trackId": 10685,
+      "tags": [],
+      "keywords": [],
+      "abstract": "We present a mixed-reality exhibition for the Museum of Peace\nCorps Experiences designed using the Ad-Hoc Mixed-reality Exhibition\nDesigner (AHMED) toolset. AHMED enables visitors to\nexperience mixed-reality museum or art exhibitions created ad-hoc\nat any location. The system democratizes access to exhibitions for\npopulations that cannot visit these exhibitions in person for reasons\nof disability, time-constraints, travel restrictions, or socio-economic\nstatus.",
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 11161
+        }
+      ],
+      "sessionIds": [],
+      "eventIds": [
+        2587
+      ]
+    },
+    {
+      "id": 5701,
+      "typeId": 11424,
+      "title": "Investigating the Effect of Distractor Interactivity for Redirected Walking in Virtual Reality",
+      "trackId": 10600,
+      "tags": [],
+      "keywords": [],
+      "abstract": "Due to the mismatch in size between a Virtual Environment and the physical space available, the use of alternative locomotion techniques becomes necessary. In small spaces, Redirected Walking methods provide limited benefits and approaches such as the use of distractors can provide an alternative.\r\nDistractors are virtual elements or characters that attempt to catch the attention of the user while the system subtly steers them away from physical boundaries. In this research we explicitly focused on understanding how different levels of interactivity affect user performance and behaviour.\r\nWe developed three types of continuous redirecting distractors, with varying levels of interaction possibilities, called Looking, Touching, and Interacting. We compared them in a user study to a discrete reorientation technique, called Stop and Reset, in a task requiring users to traverse a 30 m path. \r\nWhile discrete reorientation is faster, continuous redirection through distractors was significantly less noticeable. Results suggest that more complex interaction is preferred and able to better captivate user attention for longer.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "Belgium",
+              "state": "",
+              "city": "Leuven",
+              "institution": "KU Leuven",
+              "dsl": "Department of Computer Science"
+            }
+          ],
+          "personId": 15530
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Belgium",
+              "state": "",
+              "city": "Leuven",
+              "institution": "KU Leuven",
+              "dsl": "Department of Computer Science"
+            }
+          ],
+          "personId": 12150
+        }
+      ],
+      "sessionIds": [
+        2074
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 6725,
+      "title": "Adjustable Adaptation for Spatial Augmented Reality Workspaces",
+      "trackId": 10685,
+      "tags": [],
+      "keywords": [],
+      "abstract": "Many cases in which augmented reality would be useful in everyday life requires the ability to access to information on the go. This means that interfaces should support user movement and also adjust to different physical environments. Prior research has showed that spatial adaptation can reduce the effort required to manage windows when walking and moving to different spaces. We designed and implemented an unified interaction system for AR windows that allow users to quickly switch and fine tune spatial adaptation. Our study indicates that a small number of adaptive behaviors is sufficient to facilitate information access in variety of conditions.",
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 22512
+        },
+        {
+          "affiliations": [],
+          "personId": 12271
+        }
+      ],
+      "sessionIds": [],
+      "eventIds": [
+        2668
+      ]
+    },
+    {
+      "id": 3400,
+      "title": "Object Manipulation by Absolute Pointing with a Smartphone Gyro Sensor",
+      "trackId": 10685,
+      "tags": [
+        "H.5.2",
+        "B.4.2"
+      ],
+      "keywords": [
+        "smartphone",
+        "gyro sensor",
+        "pointing",
+        "sensing",
+        "interactive"
+      ],
+      "abstract": "The purpose of this study is to operate various computers around us using our own smartphones. Methods for operating computers around the home by voice, such as the Internet of Things (IoT) appliances, are now widespread. However, there are problems with operation by voice; it is limited in terms of instruction patterns that can be expressed, and it cannot be used simultaneously by many users. To solve the problem, we propose a method to determine the location pointed to by a user with a smartphone gyro sensor. This method achieves controller integration, multiple functions, and simultaneous use by multiple people.",
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 13381
+        },
+        {
+          "affiliations": [],
+          "personId": 20991
+        }
+      ],
+      "sessionIds": [],
+      "eventIds": [
+        2668
+      ]
+    },
+    {
+      "id": 5066,
+      "typeId": 11424,
+      "title": "LIVE: the Human Role while Learning in an Immersive Virtual Environment",
+      "trackId": 10600,
+      "tags": [],
+      "keywords": [],
+      "abstract": "This work studies the role of a human instructor within an immersive VR lesson. Our system allows the instructor to perform \"contact teaching\" by demonstrating concepts through interaction with the environment, and the student to experiment with interaction prompts.\r\nWe conducted a between-subjects user study with two groups of students: one experienced the VR lesson while immersed together with an instructor; the other experienced the same contents demonstrated through animation sequences simulating the actions that the instructor would take. \r\nResults show that the Two-User version received significantly higher scores than the Single-User version in terms of overall preference, clarity, and helpfulness of the explanations. When immersed together with an instructor, users were more inclined to engage and progress further with the interaction prompts, than when the instructor was absent. Based on the analysis of videos and interviews, we identified design recommendations for future immersive VR educational experiences.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "Belgium",
+              "state": "",
+              "city": "Leuven",
+              "institution": "KU Leuven",
+              "dsl": "Department of Computer Science"
+            }
+          ],
+          "personId": 12150
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "Saarland",
+              "city": "Saarbrücken",
+              "institution": "DFKI, Saarland Informatics Campus",
+              "dsl": ""
+            }
+          ],
+          "personId": 15888
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Australia",
+              "state": "",
+              "city": "Hawthorn",
+              "institution": "Swinburne University",
+              "dsl": "Department of Computer Science and Software Engineering"
+            }
+          ],
+          "personId": 19213
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United Kingdom",
+              "state": "",
+              "city": "Southampton",
+              "institution": "University of Southampton",
+              "dsl": ""
+            },
+            {
+              "country": "United Kingdom",
+              "state": "",
+              "city": "St Andrews",
+              "institution": "University of St Andrews",
+              "dsl": "School of Computer Science"
+            }
+          ],
+          "personId": 21122
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Saarbrücken",
+              "institution": "DFKI, Saarland Informatics Campus",
+              "dsl": ""
+            }
+          ],
+          "personId": 22045
+        }
+      ],
+      "sessionIds": [
+        2074
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 3662,
+      "title": "Improving Usability, Efficiency, and Safety of UAV Path Planning through a Virtual Reality Interface",
+      "trackId": 10685,
+      "tags": [],
+      "keywords": [],
+      "abstract": "As the capability and complexity of UAVs continue to increase, the human-robot interface community has a responsibility to design better ways of specifying the complex 3D flight paths necessary for instructing them. Immersive interfaces, such as those afforded by virtual reality (VR), have several unique traits which may improve the user's ability to perceive and specify 3D information. These traits include stereoscopic depth cues which induce a sense of physical space as well as six degrees of freedom (DoF) natural head-pose and gesture interactions. This work introduces an open-source platform for 3D aerial path planning in VR and compares it to existing UAV piloting interfaces. Our study has found statistically significant improvements in safety and subjective usability over a manual control interface, while achieving a statistically significant efficiency improvement over a 2D touchscreen interface. The results illustrate that immersive interfaces provide a viable alternative to touchscreen interfaces for UAV path planning.",
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 12086
+        },
+        {
+          "affiliations": [],
+          "personId": 9674
+        },
+        {
+          "affiliations": [],
+          "personId": 17171
+        },
+        {
+          "affiliations": [],
+          "personId": 17292
+        },
+        {
+          "affiliations": [],
+          "personId": 21834
+        },
+        {
+          "affiliations": [],
+          "personId": 13846
+        }
+      ],
+      "sessionIds": [],
+      "eventIds": [
+        2668
+      ]
+    },
+    {
+      "id": 8144,
+      "typeId": 11424,
+      "title": "Analysis of Peripheral Vision and Vibrotactile Feedback During Proximal Search Tasks in Augmented Reality",
+      "trackId": 10600,
+      "tags": [],
+      "keywords": [],
+      "abstract": "A primary goal of augmented reality (AR) is to seamlessly embed virtual content into a real environment. There are many factors that can affect the perceived physicality and co-presence of virtual entities, including the hardware capabilities, the fidelity of the virtual behaviors, and sensory feedback associated with the interactions. In this paper, we present a study investigating participants' perceptions and behaviors during a time-limited search task in close proximity with virtual entities in AR. In particular, we analyze the effects of (i) visual conflicts in the periphery of an optical see-through head-mounted display, a Microsoft HoloLens, (ii) overall lighting in the physical environment, and (iii) multimodal feedback based on vibrotactile transducers mounted on a physical platform. Our results show significant benefits of vibrotactile feed-back and reduced peripheral lighting for spatial and social presence, and engagement. We discuss implications of these effects for AR applications.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Utah",
+              "city": "St. George",
+              "institution": "Dixie State University",
+              "dsl": "Computer Science"
+            }
+          ],
+          "personId": 12863
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Florida",
+              "city": "Orlando",
+              "institution": "University of Central Florida",
+              "dsl": "SREAL"
+            }
+          ],
+          "personId": 19676
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Florida",
+              "city": "Orlando",
+              "institution": "University of Central Florida",
+              "dsl": ""
+            }
+          ],
+          "personId": 23217
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Florida",
+              "city": "Orlando",
+              "institution": "University of Central Florida",
+              "dsl": "Synthetic Reality Lab"
+            }
+          ],
+          "personId": 8483
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Florida",
+              "city": "Orlando",
+              "institution": "University of Central Florida",
+              "dsl": "Computer Science"
+            }
+          ],
+          "personId": 8808
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Florida",
+              "city": "Orlando",
+              "institution": "University of Central Florida",
+              "dsl": ""
+            }
+          ],
+          "personId": 15977
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Florida",
+              "city": "Orlando",
+              "institution": "University of Central Florida",
+              "dsl": ""
+            }
+          ],
+          "personId": 19457
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Florida",
+              "city": "Orlando",
+              "institution": "University of Central Florida",
+              "dsl": ""
+            }
+          ],
+          "personId": 12645
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Florida",
+              "city": "Orlando",
+              "institution": "University of Central Florida",
+              "dsl": "SREAL"
+            }
+          ],
+          "personId": 13844
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Florida",
+              "city": "ORLANDO",
+              "institution": "University of Central Florida",
+              "dsl": "SREAL"
+            }
+          ],
+          "personId": 23814
+        }
+      ],
+      "sessionIds": [
+        1983
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 3666,
+      "title": "Exploring the Effects of Stereoscopic 3D on Gaming Experience Using Physiological Sensors",
+      "trackId": 10685,
+      "tags": [],
+      "keywords": [],
+      "abstract": "Past studies have shown that playing games in 3D stereo does not provide any significant performance benefits than with using a 2D display. However, most previous studies used games that were not optimized for stereoscopic 3D viewing and used self-reported data (excitement level, sense of engagement, etc.) to measure user experience. We propose to study games that are optimized for stereoscopic 3D viewing and use physiological sensors (an EEG and a heart rate monitor) to better gauge the user's experience with these games. Our preliminary results reveal that stereo 3D does provide benefits in tasks where depth information is useful for the game task at hand. Additionally, participants in the 3D group had lower levels of stress and higher heart rates indicating a higher sense of engagement and presence under stereoscopic 3D conditions.",
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 13967
+        },
+        {
+          "affiliations": [],
+          "personId": 22879
+        }
+      ],
+      "sessionIds": [],
+      "eventIds": [
+        2647
+      ]
+    },
+    {
+      "id": 7251,
+      "title": "Mixed-Reality Exhibition for Museum of Peace Corps Experiences using AHMED toolset",
+      "trackId": 10685,
+      "tags": [],
+      "keywords": [],
+      "abstract": "We present a mixed-reality exhibition for the Museum of Peace\nCorps Experiences designed using the Ad-Hoc Mixed-reality Exhibition\nDesigner (AHMED) toolset. AHMED enables visitors to\nexperience mixed-reality museum or art exhibitions created ad-hoc\nat any location. The system democratizes access to exhibitions for\npopulations that cannot visit these exhibitions in person for reasons\nof disability, time-constraints, travel restrictions, or socio-economic\nstatus.",
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 11161
+        }
+      ],
+      "sessionIds": [],
+      "eventIds": [
+        2647
+      ]
+    },
+    {
+      "id": 5204,
+      "typeId": 11424,
+      "title": "Interaction can hurt - Exploring gesture-based interaction for users with Chronic Pain",
+      "trackId": 10600,
+      "tags": [],
+      "keywords": [],
+      "abstract": "Chronic Pain is a universal disorder affecting millions of people, influencing even the most basic decisions in their lives.  With the computer becoming such an integral part of our society and the ever-expanding interaction paradigm, the need to explore potential computer interactions for people with Chronic Pain has only increased. In this paper we explore the used of gesture-based interaction as a medium with which these users can perform the base operations of computer interaction. We show that, for gestural pointing and selection, modeling users’ interaction space and multimodel interaction performed the best in terms of throughput.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "Texas",
+              "city": "Waco",
+              "institution": "Baylor University",
+              "dsl": "Computer Science Department"
+            },
+            {
+              "country": "United States",
+              "state": "Texas",
+              "city": "Waco",
+              "institution": "Baylor University",
+              "dsl": "Computer Science Department"
+            }
+          ],
+          "personId": 13934
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United States",
+              "state": "California",
+              "city": "Santa Clara",
+              "institution": "Ericsson Research",
+              "dsl": ""
+            },
+            {
+              "country": "United States",
+              "state": "California",
+              "city": "Santa Clara",
+              "institution": "Ericsson Research",
+              "dsl": ""
+            }
+          ],
+          "personId": 9561
+        }
+      ],
+      "sessionIds": [
+        1337
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 3029,
+      "title": "Remote Robotic Arm Teleoperation through Virtual Reality",
+      "trackId": 10685,
+      "tags": [],
+      "keywords": [],
+      "abstract": "In this work, a spatial interface was designed and evaluated for enabling effective teleoperation of bi-manual robotic manipulators. Previous work in this area has investigated using immersive virtual reality systems to provide more natural, intuitive spatial control and viewing of the remote robot workspace relative to earlier interfaces. The current work builds upon this research through the design of the teleoperator interface and by additionally studying how varying the spatial interaction metaphor and devices employed to control the robot impacts task performance. A user study was conducted with 33 novice teleoperators split into two groups by interaction metaphor used to control the robot end-effectors, one group using a grabbing metaphor with tracked motion controllers (Oculus Touch) and the other using driving metaphor with two fixed 6-axis controllers (3Dconnexion SpaceMouse). Results indicated that, despite the challenging task, both interfaces were highly effective for bimanual teleoperation, but that motion controls provided higher peak performance, likely due to faster gross movement planning.",
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 16326
+        },
+        {
+          "affiliations": [],
+          "personId": 13805
+        }
+      ],
+      "sessionIds": [],
+      "eventIds": [
+        2668
+      ]
+    },
+    {
+      "id": 3926,
+      "title": "Remote Robotic Arm Teleoperation through Virtual Reality",
+      "trackId": 10685,
+      "tags": [],
+      "keywords": [],
+      "abstract": "In this work, a spatial interface was designed and evaluated for enabling effective teleoperation of bi-manual robotic manipulators. Previous work in this area has investigated using immersive virtual reality systems to provide more natural, intuitive spatial control and viewing of the remote robot workspace relative to earlier interfaces. The current work builds upon this research through the design of the teleoperator interface and by additionally studying how varying the spatial interaction metaphor and devices employed to control the robot impacts task performance. A user study was conducted with 33 novice teleoperators split into two groups by interaction metaphor used to control the robot end-effectors, one group using a grabbing metaphor with tracked motion controllers (Oculus Touch) and the other using driving metaphor with two fixed 6-axis controllers (3Dconnexion SpaceMouse). Results indicated that, despite the challenging task, both interfaces were highly effective for bimanual teleoperation, but that motion controls provided higher peak performance, likely due to faster gross movement planning.",
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 16326
+        },
+        {
+          "affiliations": [],
+          "personId": 13805
+        }
+      ],
+      "sessionIds": [],
+      "eventIds": [
+        2587
+      ]
+    },
+    {
+      "id": 3287,
+      "typeId": 11424,
+      "title": "Effects of Depth Layer Switching between an Optical See-Through Head-Mounted Display and a Body-Proximate Display",
+      "trackId": 10600,
+      "tags": [],
+      "keywords": [],
+      "abstract": "Optical see-through head-mounted displays (OST HMDs) typically display virtual content at a fixed focal distance while users need to integrate this information with real-world information at different depth layers. This problem is pronounced in body-proximate multi-display systems, such as when an OST HMD is combined with a smartphone or smartwatch. While such joint sytems open up a new design space, they also reduce users' ability to integrate visual information. \r\n\r\nWe quantify this cost by presenting the results of an experiment (n=24) that evaluates human performance in a visual search task across an OST HMD and a body-proximate display at 30 cm. The results reveal that task completion time increases significantly by approximately 50% and the error rate increases significantly by approximately 100% compared to visual search on a single depth layer. These results highlight a design trade-off when designing joint OST HMD-body proximate display systems.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "Bavaria",
+              "city": "Passau",
+              "institution": "University of Passau",
+              "dsl": "Faculty of Computer Science and Mathematics"
+            }
+          ],
+          "personId": 15989
+        },
+        {
+          "affiliations": [
+            {
+              "country": "United Kingdom",
+              "state": "",
+              "city": "Cambridge",
+              "institution": "University of Cambridge",
+              "dsl": "Department of Engineering"
+            }
+          ],
+          "personId": 9180
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "",
+              "city": "Passau",
+              "institution": "University of Passau",
+              "dsl": ""
+            }
+          ],
+          "personId": 16342
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "Bavaria",
+              "city": "Passau",
+              "institution": "University of Passau",
+              "dsl": "Faculty of Computer Science and Mathematics"
+            }
+          ],
+          "personId": 15647
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Germany",
+              "state": "Bavaria",
+              "city": "Coburg",
+              "institution": "Coburg University",
+              "dsl": "Department of Electrical Engineering and Computer Science"
+            }
+          ],
+          "personId": 18703
+        }
+      ],
+      "sessionIds": [
+        1337
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 6105,
+      "title": "A Viewpoint Control Method for 360 Media Using Helmet Touch Interface",
+      "trackId": 10685,
+      "tags": [],
+      "keywords": [
+        "virtual reality",
+        "360 media",
+        "touch interface",
+        "viewpoint control"
+      ],
+      "abstract": "We have developed a helmet touch interface for the viewpoint control of a 360� media. The user of this interface can control the camera in 360� media by touching the surface of the helmet. To detect touch, two microcontrollers and 54 capacitive touch sensor points mounted on the interface surface are used.",
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 20877
+        },
+        {
+          "affiliations": [],
+          "personId": 23039
+        },
+        {
+          "affiliations": [],
+          "personId": 19820
+        },
+        {
+          "affiliations": [],
+          "personId": 17303
+        }
+      ],
+      "sessionIds": [],
+      "eventIds": [
+        2587
+      ]
+    },
+    {
+      "id": 5338,
+      "title": "One-Handed Interaction Technique for Single-Touch Gesture Input on Large Smartphones",
+      "trackId": 10685,
+      "tags": [],
+      "keywords": [],
+      "abstract": "We propose a one-handed interaction technique using cursor based on touch pressure to enable users to perform various single-touch gestures such as a tap, swipe, drag, and double-tap on unreachable targets. In the proposed technique, cursor mode is started by swiping from the bezel. Touch-down and touch-up events occur at the cursor position when users increase and decrease touch pressure, respectively. Since touch-down and touch-up event triggers are different but easily performed by just adjusting the touch pressure of the thumb from low to high or vice versa, the user can perform single-touch gestures at the cursor position with the thumb. To investigate the performance of the proposed technique, we conducted a pilot study; the results showed that the proposed technique is promising for one-handed interaction technique.",
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 13550
+        },
+        {
+          "affiliations": [],
+          "personId": 8643
+        },
+        {
+          "affiliations": [],
+          "personId": 19820
+        }
+      ],
+      "sessionIds": [],
+      "eventIds": [
+        2668
+      ]
+    },
+    {
+      "id": 2912,
+      "title": "Strafing Gain: A Novel Redirected Walking Technique",
+      "trackId": 10685,
+      "tags": [],
+      "keywords": [],
+      "abstract": "Redirected walking enables natural locomotion in virtual environments that are larger than the user's real world space.  However, in complex setups with physical obstacles, existing redirection techniques that were originally designed for empty spaces may be sub-optimal. This poster presents strafing gains, a novel redirected walking technique that can be used to shift the user laterally away from obstacles without disrupting their current orientation.  In the future, we plan to conduct a study to identify perceptual detection thresholds and investigate new algorithms that can use strafing gains in combination with other existing redirection techniques to achieve superior obstacle avoidance in complex physical spaces.",
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 15727
+        },
+        {
+          "affiliations": [],
+          "personId": 8548
+        },
+        {
+          "affiliations": [],
+          "personId": 15222
+        }
+      ],
+      "sessionIds": [],
+      "eventIds": [
+        2587
+      ]
+    },
+    {
+      "id": 5987,
+      "title": "Preliminary Study of Screen Extension for Smartphone Using External Display",
+      "trackId": 10685,
+      "tags": [],
+      "keywords": [],
+      "abstract": "There are some techniques to show the smartphone's content on an external display in large.\nHowever, since smartphones are designed for mobility, a seamless interaction is necessary to make the best use of external display by a smartphone.\nWe are currently exploring the feasibility of another technique, which we call Screen Extension.\nOur technique seamlessly adds display spaces to a smartphone using an external display, allowing users to use displays available in many places.\nTo test search performance with Screen Extension, we conducted a pilot study; which suggested that Screen Extension helps users to search content faster.",
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 20830
+        },
+        {
+          "affiliations": [],
+          "personId": 19820
+        },
+        {
+          "affiliations": [],
+          "personId": 17303
+        }
+      ],
+      "sessionIds": [],
+      "eventIds": [
+        2587
+      ]
+    },
+    {
+      "id": 5603,
+      "title": "Visual Cues to Restore Student Attention based on Eye Gaze Drift, and Application to an Offshore Training System",
+      "trackId": 10685,
+      "tags": [
+        "Human-centered computing ~ Virtual reality"
+      ],
+      "keywords": [
+        "Educational VR",
+        "Attention",
+        "Eye Tracking",
+        "Visual Cues"
+      ],
+      "abstract": "Drifting student attention is a common problem in educational environments. We demonstrate 8 attention-restoring visual cues for display when eye tracking detects that student attention shifts away from critical objects. These cues include novel aspects and variations of standard cues that performed well in prior work on visual guidance. Our cues are integrated into an offshore training system on an oil rig. While students participate in training on the oil rig, we can compare our various cues in terms of performance and student preference, while also observing the impact of eye tracking. We demonstrate experiment software with which users can compare various cues and tune selected parameters for visual quality and effectiveness.",
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 11566
+        },
+        {
+          "affiliations": [],
+          "personId": 18543
+        },
+        {
+          "affiliations": [],
+          "personId": 8934
+        }
+      ],
+      "sessionIds": [],
+      "eventIds": [
+        2587
+      ]
+    },
+    {
+      "id": 7014,
+      "title": "SIGMA: Spatial Interaction Gaming for Movie- and Arena-goers",
+      "trackId": 10685,
+      "tags": [],
+      "keywords": [],
+      "abstract": "We present SIGMA, a mass interaction system for playing games in movie theatres and arenas. SIGMA uses players� smartphones as spatial game controllers. The games for SIGMA use novel techniques for aggregating mass interactions, which we introduce using\n�Little Red Riding Hood� interactive storybook as a case study.",
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 11161
+        }
+      ],
+      "sessionIds": [],
+      "eventIds": [
+        2668
+      ]
+    },
+    {
+      "id": 4839,
+      "title": "Exploring the Effects of Stereoscopic 3D on Gaming Experience Using Physiological Sensors",
+      "trackId": 10685,
+      "tags": [],
+      "keywords": [],
+      "abstract": "Past studies have shown that playing games in 3D stereo does not provide any significant performance benefits than with using a 2D display. However, most previous studies used games that were not optimized for stereoscopic 3D viewing and used self-reported data (excitement level, sense of engagement, etc.) to measure user experience. We propose to study games that are optimized for stereoscopic 3D viewing and use physiological sensors (an EEG and a heart rate monitor) to better gauge the user's experience with these games. Our preliminary results reveal that stereo 3D does provide benefits in tasks where depth information is useful for the game task at hand. Additionally, participants in the 3D group had lower levels of stress and higher heart rates indicating a higher sense of engagement and presence under stereoscopic 3D conditions.",
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 13967
+        },
+        {
+          "affiliations": [],
+          "personId": 22879
+        }
+      ],
+      "sessionIds": [],
+      "eventIds": [
+        2668
+      ]
+    },
+    {
+      "id": 3562,
+      "title": "A Comparison of Stairs and Escalators in Virtual Reality",
+      "trackId": 10685,
+      "tags": [],
+      "keywords": [],
+      "abstract": "In this poster we present an in-progress study to compare the usage of simulated escalators with simulated stairs within a virtual reality (VR) environment.\n\nWe found no existing research that examines the usage of escalators in VR. Past research into virtual stairs has examined how to better simulate stairs in a virtual environment (VE) by using external tools to allow an individual to more closely match real world movements. With virtual stairs, the user moves forward horizontally while the virtual avatar moves horizontally and vertically. With escalators, the user may stand in place to move the same distance within the virtual space, while also closely mimicking the movements they would make on an actual escalator without requiring additional tools. \n\nThis experiment will test if the advantage of escalators requiring less real-world movement is offset by other factors, such as nausea, general discomfort, and the presence of the participant during the simulation.",
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 15729
+        },
+        {
+          "affiliations": [],
+          "personId": 10569
+        },
+        {
+          "affiliations": [],
+          "personId": 19361
+        }
+      ],
+      "sessionIds": [],
+      "eventIds": [
+        2587
+      ]
+    },
+    {
+      "id": 7019,
+      "title": "SIGMA: Spatial Interaction Gaming for Movie- and Arena-goers",
+      "trackId": 10685,
+      "tags": [],
+      "keywords": [],
+      "abstract": "We present SIGMA, a mass interaction system for playing games in movie theatres and arenas. SIGMA uses players� smartphones as spatial game controllers. The games for SIGMA use novel techniques for aggregating mass interactions, which we introduce using\n�Little Red Riding Hood� interactive storybook as a case study.",
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 11161
+        }
+      ],
+      "sessionIds": [],
+      "eventIds": [
+        2647
+      ]
+    },
+    {
+      "id": 4845,
+      "title": "Improving Usability, Efficiency, and Safety of UAV Path Planning through a Virtual Reality Interface",
+      "trackId": 10685,
+      "tags": [],
+      "keywords": [],
+      "abstract": "As the capability and complexity of UAVs continue to increase, the human-robot interface community has a responsibility to design better ways of specifying the complex 3D flight paths necessary for instructing them. Immersive interfaces, such as those afforded by virtual reality (VR), have several unique traits which may improve the user's ability to perceive and specify 3D information. These traits include stereoscopic depth cues which induce a sense of physical space as well as six degrees of freedom (DoF) natural head-pose and gesture interactions. This work introduces an open-source platform for 3D aerial path planning in VR and compares it to existing UAV piloting interfaces. Our study has found statistically significant improvements in safety and subjective usability over a manual control interface, while achieving a statistically significant efficiency improvement over a 2D touchscreen interface. The results illustrate that immersive interfaces provide a viable alternative to touchscreen interfaces for UAV path planning.",
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 12086
+        },
+        {
+          "affiliations": [],
+          "personId": 9674
+        },
+        {
+          "affiliations": [],
+          "personId": 17171
+        },
+        {
+          "affiliations": [],
+          "personId": 17292
+        },
+        {
+          "affiliations": [],
+          "personId": 21834
+        },
+        {
+          "affiliations": [],
+          "personId": 13846
+        }
+      ],
+      "sessionIds": [],
+      "eventIds": [
+        2587
+      ]
+    },
+    {
+      "id": 7790,
+      "title": "Remote Robotic Arm Teleoperation through Virtual Reality",
+      "trackId": 10685,
+      "tags": [],
+      "keywords": [],
+      "abstract": "In this work, a spatial interface was designed and evaluated for enabling effective teleoperation of bi-manual robotic manipulators. Previous work in this area has investigated using immersive virtual reality systems to provide more natural, intuitive spatial control and viewing of the remote robot workspace relative to earlier interfaces. The current work builds upon this research through the design of the teleoperator interface and by additionally studying how varying the spatial interaction metaphor and devices employed to control the robot impacts task performance. A user study was conducted with 33 novice teleoperators split into two groups by interaction metaphor used to control the robot end-effectors, one group using a grabbing metaphor with tracked motion controllers (Oculus Touch) and the other using driving metaphor with two fixed 6-axis controllers (3Dconnexion SpaceMouse). Results indicated that, despite the challenging task, both interfaces were highly effective for bimanual teleoperation, but that motion controls provided higher peak performance, likely due to faster gross movement planning.",
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 16326
+        },
+        {
+          "affiliations": [],
+          "personId": 13805
+        }
+      ],
+      "sessionIds": [],
+      "eventIds": [
+        2647
+      ]
+    },
+    {
+      "id": 5746,
+      "title": "A Social Interaction Interface Supporting Affective Augmentation Based on Neuronal Data",
+      "trackId": 10685,
+      "tags": [
+        "H.5.2",
+        "H.5.1"
+      ],
+      "keywords": [
+        "Communication interfaces",
+        "embodiment",
+        "affective computing",
+        "avatars",
+        "brain-computer interfaces"
+      ],
+      "abstract": "In this demonstration we present a prototype for an avatar-mediated social interaction interface that supports the replication of head- and eye movement in distributed virtual environments. In addition to the retargeting of these natural behaviors, the system is capable of augmenting the interaction based on the visual presentation of affective states. We derive those states using neuronal data captured by electroencephalographic (EEG) sensing in combination with a machine learning driven classification of emotional states.",
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 19494
+        },
+        {
+          "affiliations": [],
+          "personId": 19179
+        },
+        {
+          "affiliations": [],
+          "personId": 14753
+        },
+        {
+          "affiliations": [],
+          "personId": 10947
+        },
+        {
+          "affiliations": [],
+          "personId": 19512
+        },
+        {
+          "affiliations": [],
+          "personId": 19948
+        }
+      ],
+      "sessionIds": [],
+      "eventIds": [
+        2668
+      ]
+    },
+    {
+      "id": 5491,
+      "title": "Improving Usability, Efficiency, and Safety of UAV Path Planning through a Virtual Reality Interface",
+      "trackId": 10685,
+      "tags": [],
+      "keywords": [],
+      "abstract": "As the capability and complexity of UAVs continue to increase, the human-robot interface community has a responsibility to design better ways of specifying the complex 3D flight paths necessary for instructing them. Immersive interfaces, such as those afforded by virtual reality (VR), have several unique traits which may improve the user's ability to perceive and specify 3D information. These traits include stereoscopic depth cues which induce a sense of physical space as well as six degrees of freedom (DoF) natural head-pose and gesture interactions. This work introduces an open-source platform for 3D aerial path planning in VR and compares it to existing UAV piloting interfaces. Our study has found statistically significant improvements in safety and subjective usability over a manual control interface, while achieving a statistically significant efficiency improvement over a 2D touchscreen interface. The results illustrate that immersive interfaces provide a viable alternative to touchscreen interfaces for UAV path planning.",
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 12086
+        },
+        {
+          "affiliations": [],
+          "personId": 9674
+        },
+        {
+          "affiliations": [],
+          "personId": 17171
+        },
+        {
+          "affiliations": [],
+          "personId": 17292
+        },
+        {
+          "affiliations": [],
+          "personId": 21834
+        },
+        {
+          "affiliations": [],
+          "personId": 13846
+        }
+      ],
+      "sessionIds": [],
+      "eventIds": [
+        2647
+      ]
+    },
+    {
+      "id": 2933,
+      "title": "One-Handed Interaction Technique for Single-Touch Gesture Input on Large Smartphones",
+      "trackId": 10685,
+      "tags": [],
+      "keywords": [],
+      "abstract": "We propose a one-handed interaction technique using cursor based on touch pressure to enable users to perform various single-touch gestures such as a tap, swipe, drag, and double-tap on unreachable targets. In the proposed technique, cursor mode is started by swiping from the bezel. Touch-down and touch-up events occur at the cursor position when users increase and decrease touch pressure, respectively. Since touch-down and touch-up event triggers are different but easily performed by just adjusting the touch pressure of the thumb from low to high or vice versa, the user can perform single-touch gestures at the cursor position with the thumb. To investigate the performance of the proposed technique, we conducted a pilot study; the results showed that the proposed technique is promising for one-handed interaction technique.",
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 13550
+        },
+        {
+          "affiliations": [],
+          "personId": 8643
+        },
+        {
+          "affiliations": [],
+          "personId": 19820
+        }
+      ],
+      "sessionIds": [],
+      "eventIds": [
+        2587
+      ]
+    },
+    {
+      "id": 3830,
+      "typeId": 11424,
+      "title": "Pursuit Sensing: Extending Hand Tracking Space in Mobile VR Applications",
+      "trackId": 10600,
+      "tags": [],
+      "keywords": [],
+      "abstract": "Field of view limitations constitute one of the major persisting and inherent setbacks for camera-based motion tracking systems and the need for flexible ways to improve capture volumes remains. We present Pursuit Sensing, a technique to considerably extend the tracking volume of a camera sensor through self-actuated physical reorientation using a customized gimbal, thus enabling a Leap Motion to dynamically follow the user's hand position along both vertical and horizontal axes in mobile HMD scenarios. This technique provides accessibility and high hardware compatibility for both users and developers while remaining simple and cheap to implement. Our technical evaluation shows that the proposed solution successfully increases hand tracking volume by 142% in pitch and 44% in yaw compared to the camera's base FOV, while featuring low latency and robustness against fast hand movements.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "country": "Japan",
+              "state": "",
+              "city": "Sendai",
+              "institution": "Tohoku University",
+              "dsl": "Research Institute of Electrical Communication"
+            },
+            {
+              "country": "France",
+              "state": "",
+              "city": "Lyon",
+              "institution": "INSA de Lyon",
+              "dsl": "Department of Computer Sciences"
+            }
+          ],
+          "personId": 14310
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Japan",
+              "state": "",
+              "city": "Sendai",
+              "institution": "Tohoku University",
+              "dsl": ""
+            }
+          ],
+          "personId": 12790
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Japan",
+              "state": "",
+              "city": "Sendai",
+              "institution": "Tohoku University",
+              "dsl": "Research Institute of Electrical Communication"
+            }
+          ],
+          "personId": 20716
+        },
+        {
+          "affiliations": [
+            {
+              "country": "Japan",
+              "state": "",
+              "city": "Sendai",
+              "institution": "Tohoku University",
+              "dsl": "Research Institute of Electrical Communication"
+            }
+          ],
+          "personId": 21041
+        }
+      ],
+      "sessionIds": [
+        1983
+      ],
+      "eventIds": []
+    },
+    {
+      "id": 2806,
+      "title": "One-Handed Interaction Technique for Single-Touch Gesture Input on Large Smartphones",
+      "trackId": 10685,
+      "tags": [],
+      "keywords": [],
+      "abstract": "We propose a one-handed interaction technique using cursor based on touch pressure to enable users to perform various single-touch gestures such as a tap, swipe, drag, and double-tap on unreachable targets. In the proposed technique, cursor mode is started by swiping from the bezel. Touch-down and touch-up events occur at the cursor position when users increase and decrease touch pressure, respectively. Since touch-down and touch-up event triggers are different but easily performed by just adjusting the touch pressure of the thumb from low to high or vice versa, the user can perform single-touch gestures at the cursor position with the thumb. To investigate the performance of the proposed technique, we conducted a pilot study; the results showed that the proposed technique is promising for one-handed interaction technique.",
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 13550
+        },
+        {
+          "affiliations": [],
+          "personId": 8643
+        },
+        {
+          "affiliations": [],
+          "personId": 19820
+        }
+      ],
+      "sessionIds": [],
+      "eventIds": [
+        2647
+      ]
+    },
+    {
+      "id": 4984,
+      "title": "Strafing Gain: A Novel Redirected Walking Technique",
+      "trackId": 10685,
+      "tags": [],
+      "keywords": [],
+      "abstract": "Redirected walking enables natural locomotion in virtual environments that are larger than the user's real world space.  However, in complex setups with physical obstacles, existing redirection techniques that were originally designed for empty spaces may be sub-optimal. This poster presents strafing gains, a novel redirected walking technique that can be used to shift the user laterally away from obstacles without disrupting their current orientation.  In the future, we plan to conduct a study to identify perceptual detection thresholds and investigate new algorithms that can use strafing gains in combination with other existing redirection techniques to achieve superior obstacle avoidance in complex physical spaces.",
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 15727
+        },
+        {
+          "affiliations": [],
+          "personId": 8548
+        },
+        {
+          "affiliations": [],
+          "personId": 15222
+        }
+      ],
+      "sessionIds": [],
+      "eventIds": [
+        2647
+      ]
+    },
+    {
+      "id": 3321,
+      "title": "Collaborative Interaction in Large Explorative Environments",
+      "trackId": 10685,
+      "tags": [],
+      "keywords": [],
+      "abstract": "Building collaborative VR applications for exploring and interacting with large or abstract spaces presents several problems. Given a large space and a potentially large number of possible interactions, it is expected that users will need a tool selection menu that will be easily accessible at any point in the environment. Given the collaborative nature, users will also want to be able to maintain awareness of each other within the environment and communicate about what they are seeing or doing. We present a demo that shows solutions to these problems developed in the context of a collaborative geological dataset viewer.",
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 12504
+        },
+        {
+          "affiliations": [],
+          "personId": 12805
+        },
+        {
+          "affiliations": [],
+          "personId": 8934
+        }
+      ],
+      "sessionIds": [],
+      "eventIds": [
+        2668
+      ]
+    },
+    {
+      "id": 5754,
+      "title": "V-ROD: Floor Interaction in VR",
+      "trackId": 10685,
+      "tags": [],
+      "keywords": [],
+      "abstract": "We present a novel cane-based device for interacting with\nfloors in Virtual Reality (VR). We demonstrate its versatility\nand flexibility in several use-case scenarios like gaming and\nmenu interaction. Initial feedback from users point towards\nbetter control in spatial tasks and increased comfort for tasks\nwhich require the users� arms to be raised or extended for\nextended periods. By including a networked example, we are\nable to explore the asymmetrical aspect of VR interaction using\nthe V-Rod. We demonstrate that the hardware and circuitry\ncan deliver acceptable performance even for demanding applications.\nIn addition, we propose that using a grounded, passive\nhaptic device gives the user a better sense of balance, therefore\ndecreasing risk of VR sickness. VR Balance is a game that\nintends to quantify the difference in comfort, intuitiveness and\naccuracy when using or not using a grounded passive haptic",
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 17746
+        },
+        {
+          "affiliations": [],
+          "personId": 21714
+        },
+        {
+          "affiliations": [],
+          "personId": 16326
+        },
+        {
+          "affiliations": [],
+          "personId": 13805
+        }
+      ],
+      "sessionIds": [],
+      "eventIds": [
+        2587
+      ]
+    },
+    {
+      "id": 3709,
+      "title": "An Adaptive Interface for Spatial Augmented Reality Workspaces",
+      "trackId": 10685,
+      "tags": [
+        "H.5.1."
+      ],
+      "keywords": [
+        "augmented reality",
+        "adaptive interfaces",
+        "wearable",
+        "user interface"
+      ],
+      "abstract": "A promising feature of wearable augmented reality devices is the ability to easily access information on the go. However, designing AR interfaces that can support user movement and also adjust to different physical environments is a challenging task. We present an interaction system for AR windows that uses adaptation to automatically perform level window movement while allowing high-level user control.",
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 22512
+        },
+        {
+          "affiliations": [],
+          "personId": 12271
+        }
+      ],
+      "sessionIds": [],
+      "eventIds": [
+        2647
+      ]
+    },
+    {
+      "id": 5119,
+      "title": "Preliminary Study of Screen Extension for Smartphone Using External Display",
+      "trackId": 10685,
+      "tags": [],
+      "keywords": [],
+      "abstract": "There are some techniques to show the smartphone's content on an external display in large.\nHowever, since smartphones are designed for mobility, a seamless interaction is necessary to make the best use of external display by a smartphone.\nWe are currently exploring the feasibility of another technique, which we call Screen Extension.\nOur technique seamlessly adds display spaces to a smartphone using an external display, allowing users to use displays available in many places.\nTo test search performance with Screen Extension, we conducted a pilot study; which suggested that Screen Extension helps users to search content faster.",
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 20830
+        },
+        {
+          "affiliations": [],
+          "personId": 19820
+        },
+        {
+          "affiliations": [],
+          "personId": 17303
+        }
+      ],
+      "sessionIds": [],
+      "eventIds": [
+        2647
+      ]
+    },
+    {
+      "id": 2815,
+      "title": "Gaze Data Visualizations for Educational VR Applications",
+      "trackId": 10685,
+      "tags": [],
+      "keywords": [],
+      "abstract": "VR displays (HMDs) with embedded eye trackers could enable better teacher-guided VR applications since eye tracking could provide insights into student's activities and behavior patterns. We present several techniques to visualize eye-gaze data of the students to help a teacher gauge student attention level. A teacher could then better guide students to focus on the object of interest in the VR environment if their attention drifts and they get distracted or confused.",
+      "authors": [
+        {
+          "affiliations": [],
+          "personId": 13080
+        },
+        {
+          "affiliations": [],
+          "personId": 18246
+        },
+        {
+          "affiliations": [],
+          "personId": 18543
+        },
+        {
+          "affiliations": [],
+          "personId": 22879
+        },
+        {
+          "affiliations": [],
+          "personId": 8934
+        }
+      ],
+      "sessionIds": [],
+      "eventIds": [
+        2647
+      ]
+    }
+  ],
+  "people": [
+    {
+      "id": 19457,
+      "firstName": "Nahal",
+      "lastName": "Norouzi",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 12805,
+      "firstName": "David",
+      "lastName": "Broussard",
+      "affiliations": []
+    },
+    {
+      "id": 23814,
+      "firstName": "Greg",
+      "lastName": "Welch",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 18182,
+      "firstName": "Joseph",
+      "lastName": "LaViola",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 19213,
+      "firstName": "Andreea",
+      "lastName": "Molnar",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 18703,
+      "firstName": "Jens",
+      "lastName": "Grubert",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 15888,
+      "firstName": "Marco",
+      "lastName": "Speicher",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 17171,
+      "firstName": "Tom",
+      "lastName": "Cheng",
+      "affiliations": []
+    },
+    {
+      "id": 13844,
+      "firstName": "Gerd",
+      "lastName": "Bruder",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 13846,
+      "firstName": "Joseph",
+      "lastName": "Menke",
+      "affiliations": []
+    },
+    {
+      "id": 13080,
+      "firstName": "Yitoshee",
+      "lastName": "Rahman",
+      "affiliations": []
+    },
+    {
+      "id": 11289,
+      "firstName": "Robert",
+      "lastName": "King",
+      "affiliations": []
+    },
+    {
+      "id": 22045,
+      "firstName": "Florian",
+      "lastName": "Daiber",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 8735,
+      "firstName": "Austin",
+      "lastName": "Erickson",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 15647,
+      "firstName": "Matthias",
+      "lastName": "Kranz",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 8483,
+      "firstName": "Ryan",
+      "lastName": "Schubert",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 9508,
+      "firstName": "Márcio",
+      "lastName": "Pinho",
+      "middleInitial": "Sarroglia",
+      "affiliations": []
+    },
+    {
+      "id": 19494,
+      "firstName": "Daniel",
+      "lastName": "Roth",
+      "affiliations": []
+    },
+    {
+      "id": 11566,
+      "firstName": "Andrew",
+      "lastName": "Yoshimura",
+      "affiliations": []
+    },
+    {
+      "id": 21041,
+      "firstName": "Yoshifumi",
+      "lastName": "Kitamura",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 12594,
+      "firstName": "Oscar Javier",
+      "lastName": "Ariza Nunez",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 12086,
+      "firstName": "Jesse",
+      "lastName": "Paterson",
+      "middleInitial": "Rawlins",
+      "affiliations": []
+    },
+    {
+      "id": 19512,
+      "firstName": "Tobias",
+      "lastName": "Feigl",
+      "affiliations": []
+    },
+    {
+      "id": 12863,
+      "firstName": "Kendra",
+      "lastName": "Richards",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 13381,
+      "firstName": "Koki",
+      "lastName": "Sato",
+      "affiliations": []
+    },
+    {
+      "id": 18246,
+      "firstName": "Sarker Monojit",
+      "lastName": "Asish",
+      "affiliations": []
+    },
+    {
+      "id": 17478,
+      "firstName": "Doug",
+      "lastName": "Bowman",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 10569,
+      "firstName": "Benjamin",
+      "lastName": "Yaffee",
+      "affiliations": []
+    },
+    {
+      "id": 21834,
+      "firstName": "David",
+      "lastName": "McPherson",
+      "middleInitial": "Livingston",
+      "affiliations": []
+    },
+    {
+      "id": 13905,
+      "firstName": "Feiyu",
+      "lastName": "Lu",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 17746,
+      "firstName": "Andrew",
+      "lastName": "Rukangu",
+      "affiliations": []
+    },
+    {
+      "id": 9561,
+      "firstName": "Alvin",
+      "lastName": "Jude",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 20830,
+      "firstName": "Yuta",
+      "lastName": "Urushiyama",
+      "affiliations": []
+    },
+    {
+      "id": 22879,
+      "firstName": "Arun",
+      "lastName": "Kulshreshth",
+      "middleInitial": "K",
+      "affiliations": []
+    },
+    {
+      "id": 15202,
+      "firstName": "Shu",
+      "lastName": "Sorimachi",
+      "affiliations": []
+    },
+    {
+      "id": 8548,
+      "firstName": "Evan",
+      "lastName": "Suma Rosenberg",
+      "affiliations": []
+    },
+    {
+      "id": 12645,
+      "firstName": "Jason",
+      "lastName": "Hochreiter",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 8808,
+      "firstName": "Myungho",
+      "lastName": "Lee",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 15977,
+      "firstName": "Salam",
+      "lastName": "Daher",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 19820,
+      "firstName": "Buntarou",
+      "lastName": "Shizuki",
+      "affiliations": []
+    },
+    {
+      "id": 15981,
+      "firstName": "Gierad",
+      "lastName": "Laput",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 13934,
+      "firstName": "G Michael",
+      "lastName": "Poor",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 18543,
+      "firstName": "Adil",
+      "lastName": "Khokhar",
+      "affiliations": []
+    },
+    {
+      "id": 15727,
+      "firstName": "Christopher",
+      "lastName": "You",
+      "affiliations": []
+    },
+    {
+      "id": 16240,
+      "firstName": "Karrie",
+      "lastName": "Karahalios",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 15729,
+      "firstName": "Julian",
+      "lastName": "Wright",
+      "affiliations": []
+    },
+    {
+      "id": 20081,
+      "firstName": "Frank",
+      "lastName": "Steinicke",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 20596,
+      "firstName": "Yuan",
+      "lastName": "Li",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 15989,
+      "firstName": "Anna",
+      "lastName": "Eiberger",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 12150,
+      "firstName": "Adalberto",
+      "lastName": "Simeone",
+      "middleInitial": "L.",
+      "affiliations": []
+    },
+    {
+      "id": 15222,
+      "firstName": "Jerald",
+      "lastName": "Thomas",
+      "affiliations": []
+    },
+    {
+      "id": 17527,
+      "firstName": "Wallace",
+      "lastName": "Lages",
+      "middleInitial": "S",
+      "affiliations": []
+    },
+    {
+      "id": 13689,
+      "firstName": "Yang",
+      "lastName": "Li",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 18812,
+      "firstName": "Alexis",
+      "lastName": "Lambert",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 21122,
+      "firstName": "Adriana",
+      "lastName": "Wilde",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 17292,
+      "firstName": "Paxtan",
+      "lastName": "Laker",
+      "middleInitial": "Huish",
+      "affiliations": []
+    },
+    {
+      "id": 20877,
+      "firstName": "Takumi",
+      "lastName": "Kitagawa",
+      "affiliations": []
+    },
+    {
+      "id": 16527,
+      "firstName": "Anhong",
+      "lastName": "Guo",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 13967,
+      "firstName": "Ekram",
+      "lastName": "Hossain",
+      "affiliations": []
+    },
+    {
+      "id": 16533,
+      "firstName": "Andrew",
+      "lastName": "Johnson",
+      "middleInitial": "E",
+      "affiliations": []
+    },
+    {
+      "id": 12949,
+      "firstName": "Hiroto",
+      "lastName": "Aoki",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 17303,
+      "firstName": "Shin",
+      "lastName": "Takahashi",
+      "affiliations": []
+    },
+    {
+      "id": 11161,
+      "firstName": "Krzysztof",
+      "lastName": "Pietroszek",
+      "affiliations": []
+    },
+    {
+      "id": 14753,
+      "firstName": "Franziska",
+      "lastName": "Westermeier",
+      "affiliations": []
+    },
+    {
+      "id": 19361,
+      "firstName": "Betsy",
+      "lastName": "Sanders",
+      "middleInitial": "Williams",
+      "affiliations": []
+    },
+    {
+      "id": 13986,
+      "firstName": "Runchang",
+      "lastName": "Kang",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 22434,
+      "firstName": "Leonardo",
+      "lastName": "Pavanatto",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 15530,
+      "firstName": "Robbe",
+      "lastName": "Cools",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 13231,
+      "firstName": "Daniel",
+      "lastName": "Wigdor",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 23217,
+      "firstName": "Kangsoo",
+      "lastName": "Kim",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 19648,
+      "firstName": "Thomas",
+      "lastName": "Kapler",
+      "affiliations": []
+    },
+    {
+      "id": 10947,
+      "firstName": "Christian",
+      "lastName": "Schell",
+      "affiliations": []
+    },
+    {
+      "id": 8643,
+      "firstName": "Toshiya",
+      "lastName": "Isomoto",
+      "affiliations": []
+    },
+    {
+      "id": 20163,
+      "firstName": "Kota",
+      "lastName": "Kita",
+      "affiliations": []
+    },
+    {
+      "id": 16326,
+      "firstName": "Anton",
+      "lastName": "Franzluebbers",
+      "affiliations": []
+    },
+    {
+      "id": 9674,
+      "firstName": "Jiwoong",
+      "lastName": "Han",
+      "affiliations": []
+    },
+    {
+      "id": 43724,
+      "firstName": "Sanorita",
+      "lastName": "Dey",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 11981,
+      "firstName": "Shin",
+      "lastName": "Takahashi",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 16849,
+      "firstName": "Dario",
+      "lastName": "Segura",
+      "affiliations": []
+    },
+    {
+      "id": 21714,
+      "firstName": "Alexander James",
+      "lastName": "Tuttle",
+      "affiliations": []
+    },
+    {
+      "id": 16338,
+      "firstName": "Susanne",
+      "lastName": "Schmidt",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 16342,
+      "firstName": "Susanne",
+      "lastName": "Mayr",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 12504,
+      "firstName": "Jason",
+      "lastName": "Woodworth",
+      "middleInitial": "W",
+      "affiliations": []
+    },
+    {
+      "id": 8411,
+      "firstName": "Arthur",
+      "lastName": "Nishimoto",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 15323,
+      "firstName": "Jun",
+      "lastName": "Rekimoto",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 19676,
+      "firstName": "Nikhil",
+      "lastName": "Mahalanobis",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 9180,
+      "firstName": "Per Ola",
+      "lastName": "Kristensson",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 18662,
+      "firstName": "Xiang 'Anthony'",
+      "lastName": "Chen",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 8934,
+      "firstName": "Christoph",
+      "lastName": "Borst",
+      "middleInitial": "W",
+      "affiliations": []
+    },
+    {
+      "id": 14310,
+      "firstName": "Pascal",
+      "lastName": "Chiu",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 14824,
+      "firstName": "Wai",
+      "lastName": "Fu",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 19179,
+      "firstName": "Larrissa",
+      "lastName": "Brübach",
+      "affiliations": []
+    },
+    {
+      "id": 19948,
+      "firstName": "Marc Erich",
+      "lastName": "Latoschik",
+      "affiliations": []
+    },
+    {
+      "id": 20716,
+      "firstName": "Kazuyuki",
+      "lastName": "Fujita",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 13805,
+      "firstName": "Kyle",
+      "lastName": "Johnsen",
+      "affiliations": []
+    },
+    {
+      "id": 13550,
+      "firstName": "Kyohei",
+      "lastName": "Hakka",
+      "affiliations": []
+    },
+    {
+      "id": 12271,
+      "firstName": "Doug",
+      "lastName": "Bowman",
+      "affiliations": []
+    },
+    {
+      "id": 22512,
+      "firstName": "Wallace",
+      "lastName": "Lages",
+      "affiliations": []
+    },
+    {
+      "id": 12790,
+      "firstName": "Kazuki",
+      "lastName": "Takashima",
+      "middleInitial": "",
+      "affiliations": []
+    },
+    {
+      "id": 23039,
+      "firstName": "Yuki",
+      "lastName": "Yamato",
+      "affiliations": []
+    },
+    {
+      "id": 20991,
+      "firstName": "Mitsunori",
+      "lastName": "Matsushita",
+      "affiliations": []
+    }
+  ],
+  "publicationInfo": {
+    "hideLinksBeforeConference": false,
+    "version": 35,
+    "publicationStatus": "PUBLISHED",
+    "isProgramEnabled": true,
+    "isDraft": false,
+    "isRegistrationEnabled": false
+  }
+}

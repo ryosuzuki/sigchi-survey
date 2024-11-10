@@ -1,0 +1,1393 @@
+{
+  "schemeVersion": 7,
+  "cc_licence": "Content of this file is licensed under a CC BY-NC-SA 4.0 license. For details see https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "conference": {
+    "id": 10006,
+    "startDate": 1540684800000,
+    "endDate": 1540944000000,
+    "shortName": "CHI PLAY",
+    "name": "CHI PLAY 2018",
+    "year": 2018,
+    "fullName": "CHI PLAY is the international conference for all areas of play, games and HCI (by ACM SIGCHI).",
+    "url": "https://chiplay.acm.org/2018",
+    "location": "Deakin Edge @ Federation Square, Melbourne, Australia",
+    "timeZoneOffset": 660,
+    "logoUrl": "https://files.sigchi.org/conference/logo/93a24bce-3430-aa4c-2c38-c2fd64e9d713.png",
+    "timeZoneName": "Australia/Melbourne"
+  },
+  "sponsors": [],
+  "sponsorLevels": [
+    {
+      "id": 10013,
+      "name": "Sponsors",
+      "rank": 1,
+      "isDefault": true
+    }
+  ],
+  "floors": [
+    {
+      "id": 10036,
+      "name": "Holey Moley - Mini-Golf Club",
+      "mapImageUrl": "https://files.sigchi.org/conference/floor/2ab44ac0-0dd6-46ba-ae58-083005329221.png",
+      "roomIds": [
+        10127
+      ]
+    },
+    {
+      "id": 10035,
+      "name": "RMIT Building 8, Level 4",
+      "mapImageUrl": "https://files.sigchi.org/conference/floor/45f35776-1ba8-13d0-a4e4-ecee42a257fa.png",
+      "roomIds": [
+        10125,
+        10126,
+        10124,
+        10123
+      ]
+    },
+    {
+      "id": 10033,
+      "name": "RMIT Building 10, Level 6",
+      "mapImageUrl": "https://files.sigchi.org/conference/floor/b2f99338-a280-16e1-efc0-890301f1d8cc.png",
+      "roomIds": [
+        10118,
+        10119
+      ]
+    },
+    {
+      "id": 10032,
+      "name": "Deakin Edge @ Federation Square",
+      "mapImageUrl": "https://files.sigchi.org/conference/floor/5c4d5798-28e2-c929-a1c3-2adfb68df8e4.png",
+      "roomIds": [
+        10121
+      ]
+    },
+    {
+      "id": 10037,
+      "name": "Australian Centre for the Moving Image (ACMI)",
+      "mapImageUrl": "https://files.sigchi.org/conference/floor/9bf7ec1b-25ce-c567-2c35-0f297403e39b.png",
+      "roomIds": [
+        10128
+      ]
+    }
+  ],
+  "rooms": [
+    {
+      "id": 10128,
+      "name": "Australian Centre for the Moving Image (ACMI)",
+      "typeId": 10489,
+      "setup": "Special"
+    },
+    {
+      "id": 10121,
+      "name": "Deakin Edge @ Federation Square",
+      "typeId": 10550,
+      "setup": "Special"
+    },
+    {
+      "id": 10125,
+      "name": "08.04.11 (Alias Megaflex 1)",
+      "typeId": 10190,
+      "setup": "Special"
+    },
+    {
+      "id": 10126,
+      "name": "08.04.12 (Alias Megaflex 2)",
+      "typeId": 10190,
+      "setup": "Special"
+    },
+    {
+      "id": 10124,
+      "name": "08.04.13 (Alias Megaflex 3)",
+      "typeId": 10487,
+      "setup": "Special"
+    },
+    {
+      "id": 10123,
+      "name": "08.04, Outside Megaflex 3",
+      "typeId": 10571,
+      "setup": "Special"
+    },
+    {
+      "id": 10118,
+      "name": "10.06.63 (Alias Megaflex 63)",
+      "typeId": 10190,
+      "setup": "Special"
+    },
+    {
+      "id": 10119,
+      "name": "10.06.64 (Alias Megaflex 64)",
+      "typeId": 10190,
+      "setup": "Special"
+    },
+    {
+      "id": 10127,
+      "name": "Holey Moley Mini-Golf Club",
+      "typeId": 10570,
+      "setup": "Special"
+    }
+  ],
+  "tracks": [],
+  "contentTypes": [
+    {
+      "id": 10184,
+      "name": "Event",
+      "color": "#fecc5c",
+      "duration": 0,
+      "displayName": "Events"
+    },
+    {
+      "id": 10588,
+      "name": "Afternoon Tea",
+      "duration": 0
+    },
+    {
+      "id": 10571,
+      "name": "CHI Play 2018 Registration",
+      "duration": 0
+    },
+    {
+      "id": 10589,
+      "name": "Closing Keynote and Awards",
+      "duration": 0
+    },
+    {
+      "id": 10487,
+      "name": "DC",
+      "duration": 0
+    },
+    {
+      "id": 10570,
+      "name": "Dinner",
+      "duration": 0
+    },
+    {
+      "id": 10560,
+      "name": "Discussion",
+      "duration": 0,
+      "displayName": "Discussions"
+    },
+    {
+      "id": 10489,
+      "name": "Games Exhibition",
+      "duration": 0
+    },
+    {
+      "id": 10559,
+      "name": "Industry Panel",
+      "duration": 0
+    },
+    {
+      "id": 10535,
+      "name": "Lunch",
+      "duration": 0
+    },
+    {
+      "id": 10572,
+      "name": "Meeting",
+      "duration": 0
+    },
+    {
+      "id": 10532,
+      "name": "Paper Session 1 – Design",
+      "duration": 0
+    },
+    {
+      "id": 10536,
+      "name": "Paper Session 2 – Emotion and Well-being",
+      "duration": 0
+    },
+    {
+      "id": 10545,
+      "name": "Paper Session 3 – Player Experience",
+      "duration": 0
+    },
+    {
+      "id": 10557,
+      "name": "Paper Session 4 – Applied Games",
+      "duration": 0
+    },
+    {
+      "id": 10566,
+      "name": "Paper Session 5 – Novel Game Interfaces",
+      "duration": 0
+    },
+    {
+      "id": 10578,
+      "name": "Paper Session 6 – Virtual and Augmented Reality",
+      "duration": 0
+    },
+    {
+      "id": 10584,
+      "name": "Paper Session 7 – Modelling and Visualisation",
+      "duration": 0
+    },
+    {
+      "id": 10542,
+      "name": "Posters and Afternoon Tea",
+      "duration": 0
+    },
+    {
+      "id": 10581,
+      "name": "Posters and Lunch",
+      "duration": 0
+    },
+    {
+      "id": 10573,
+      "name": "Posters and Morning Tea",
+      "duration": 0
+    },
+    {
+      "id": 10562,
+      "name": "Spotlight",
+      "duration": 0
+    },
+    {
+      "id": 10549,
+      "name": "Student Game Competition",
+      "duration": 0
+    },
+    {
+      "id": 10491,
+      "name": "Welcome and Keynote",
+      "duration": 0
+    },
+    {
+      "id": 10550,
+      "name": "Welcome Reception",
+      "duration": 0
+    },
+    {
+      "id": 10181,
+      "name": "SIG",
+      "color": "#7a0177",
+      "duration": 90
+    },
+    {
+      "id": 10182,
+      "name": "Case Study",
+      "color": "#993404",
+      "duration": 20,
+      "displayName": "Case Studies"
+    },
+    {
+      "id": 10183,
+      "name": "Course",
+      "color": "#e6550d",
+      "duration": 90,
+      "displayName": "Courses"
+    },
+    {
+      "id": 10185,
+      "name": "Invited Talk",
+      "color": "#66c2a4",
+      "duration": 90,
+      "displayName": "Invited Talks"
+    },
+    {
+      "id": 10186,
+      "name": "Operations",
+      "color": "#006d2c",
+      "duration": 90
+    },
+    {
+      "id": 10187,
+      "name": "Panel",
+      "color": "#6baed6",
+      "duration": 90,
+      "displayName": "Panels"
+    },
+    {
+      "id": 10188,
+      "name": "Paper",
+      "color": "#08519c",
+      "duration": 20,
+      "displayName": "Papers"
+    },
+    {
+      "id": 10189,
+      "name": "Plenary",
+      "color": "#756bb1",
+      "duration": 90
+    },
+    {
+      "id": 10190,
+      "name": "Workshop",
+      "color": "#de2d26",
+      "duration": 240,
+      "displayName": "Workshops"
+    }
+  ],
+  "timeSlots": [
+    {
+      "id": 11055,
+      "type": "SESSION",
+      "startDate": 1540713600000,
+      "endDate": 1540717200000
+    },
+    {
+      "id": 11056,
+      "type": "SESSION",
+      "startDate": 1540717200000,
+      "endDate": 1540747800000
+    },
+    {
+      "id": 11057,
+      "type": "SESSION",
+      "startDate": 1540720800000,
+      "endDate": 1540728000000
+    },
+    {
+      "id": 11058,
+      "type": "SESSION",
+      "startDate": 1540735200000,
+      "endDate": 1540744200000
+    },
+    {
+      "id": 11059,
+      "type": "SESSION",
+      "startDate": 1540800000000,
+      "endDate": 1540803600000
+    },
+    {
+      "id": 11060,
+      "type": "SESSION",
+      "startDate": 1540803600000,
+      "endDate": 1540809000000
+    },
+    {
+      "id": 11061,
+      "type": "SESSION",
+      "startDate": 1540809000000,
+      "endDate": 1540810800000
+    },
+    {
+      "id": 11062,
+      "type": "SESSION",
+      "startDate": 1540810800000,
+      "endDate": 1540811700000
+    },
+    {
+      "id": 11063,
+      "type": "SESSION",
+      "startDate": 1540811700000,
+      "endDate": 1540812600000
+    },
+    {
+      "id": 11064,
+      "type": "SESSION",
+      "startDate": 1540812600000,
+      "endDate": 1540813500000
+    },
+    {
+      "id": 11065,
+      "type": "SESSION",
+      "startDate": 1540813500000,
+      "endDate": 1540814400000
+    },
+    {
+      "id": 11066,
+      "type": "SESSION",
+      "startDate": 1540814400000,
+      "endDate": 1540815300000
+    },
+    {
+      "id": 11067,
+      "type": "SESSION",
+      "startDate": 1540815300000,
+      "endDate": 1540816200000
+    },
+    {
+      "id": 11068,
+      "type": "LUNCH",
+      "startDate": 1540816200000,
+      "endDate": 1540821600000
+    },
+    {
+      "id": 11069,
+      "type": "SESSION",
+      "startDate": 1540821600000,
+      "endDate": 1540822500000
+    },
+    {
+      "id": 11070,
+      "type": "SESSION",
+      "startDate": 1540822500000,
+      "endDate": 1540823400000
+    },
+    {
+      "id": 11071,
+      "type": "SESSION",
+      "startDate": 1540823400000,
+      "endDate": 1540824300000
+    },
+    {
+      "id": 11072,
+      "type": "SESSION",
+      "startDate": 1540824300000,
+      "endDate": 1540825200000
+    },
+    {
+      "id": 11073,
+      "type": "SESSION",
+      "startDate": 1540825200000,
+      "endDate": 1540826100000
+    },
+    {
+      "id": 11074,
+      "type": "SESSION",
+      "startDate": 1540826100000,
+      "endDate": 1540827000000
+    },
+    {
+      "id": 11075,
+      "type": "SESSION",
+      "startDate": 1540827000000,
+      "endDate": 1540828800000
+    },
+    {
+      "id": 11076,
+      "type": "SESSION",
+      "startDate": 1540828800000,
+      "endDate": 1540829700000
+    },
+    {
+      "id": 11077,
+      "type": "SESSION",
+      "startDate": 1540829700000,
+      "endDate": 1540830600000
+    },
+    {
+      "id": 11078,
+      "type": "SESSION",
+      "startDate": 1540830600000,
+      "endDate": 1540831500000
+    },
+    {
+      "id": 11079,
+      "type": "SESSION",
+      "startDate": 1540831500000,
+      "endDate": 1540832400000
+    },
+    {
+      "id": 11080,
+      "type": "SESSION",
+      "startDate": 1540832400000,
+      "endDate": 1540833300000
+    },
+    {
+      "id": 11081,
+      "type": "SESSION",
+      "startDate": 1540833300000,
+      "endDate": 1540834200000
+    },
+    {
+      "id": 11082,
+      "type": "SESSION",
+      "startDate": 1540834200000,
+      "endDate": 1540836000000
+    },
+    {
+      "id": 11083,
+      "type": "SESSION",
+      "startDate": 1540836000000,
+      "endDate": 1540846800000
+    },
+    {
+      "id": 11084,
+      "type": "SESSION",
+      "startDate": 1540886400000,
+      "endDate": 1540890000000
+    },
+    {
+      "id": 11085,
+      "type": "SESSION",
+      "startDate": 1540890000000,
+      "endDate": 1540890900000
+    },
+    {
+      "id": 11086,
+      "type": "SESSION",
+      "startDate": 1540890900000,
+      "endDate": 1540891800000
+    },
+    {
+      "id": 11087,
+      "type": "SESSION",
+      "startDate": 1540891800000,
+      "endDate": 1540892700000
+    },
+    {
+      "id": 11088,
+      "type": "SESSION",
+      "startDate": 1540892700000,
+      "endDate": 1540893600000
+    },
+    {
+      "id": 11089,
+      "type": "SESSION",
+      "startDate": 1540893600000,
+      "endDate": 1540894500000
+    },
+    {
+      "id": 11090,
+      "type": "SESSION",
+      "startDate": 1540894500000,
+      "endDate": 1540895400000
+    },
+    {
+      "id": 11091,
+      "type": "SESSION",
+      "startDate": 1540895400000,
+      "endDate": 1540897200000
+    },
+    {
+      "id": 11092,
+      "type": "SESSION",
+      "startDate": 1540897200000,
+      "endDate": 1540900800000
+    },
+    {
+      "id": 11093,
+      "type": "SESSION",
+      "startDate": 1540900800000,
+      "endDate": 1540902600000
+    },
+    {
+      "id": 11094,
+      "type": "SESSION",
+      "startDate": 1540902600000,
+      "endDate": 1540908000000
+    },
+    {
+      "id": 11095,
+      "type": "SESSION",
+      "startDate": 1540908000000,
+      "endDate": 1540913400000
+    },
+    {
+      "id": 11096,
+      "type": "SESSION",
+      "startDate": 1540913400000,
+      "endDate": 1540915200000
+    },
+    {
+      "id": 11097,
+      "type": "SESSION",
+      "startDate": 1540915200000,
+      "endDate": 1540916100000
+    },
+    {
+      "id": 11098,
+      "type": "SESSION",
+      "startDate": 1540916100000,
+      "endDate": 1540917000000
+    },
+    {
+      "id": 11099,
+      "type": "SESSION",
+      "startDate": 1540917000000,
+      "endDate": 1540917900000
+    },
+    {
+      "id": 11100,
+      "type": "SESSION",
+      "startDate": 1540917900000,
+      "endDate": 1540918800000
+    },
+    {
+      "id": 11101,
+      "type": "SESSION",
+      "startDate": 1540918800000,
+      "endDate": 1540919700000
+    },
+    {
+      "id": 11102,
+      "type": "SESSION",
+      "startDate": 1540919700000,
+      "endDate": 1540920600000
+    },
+    {
+      "id": 11103,
+      "type": "LUNCH",
+      "startDate": 1540924200000,
+      "endDate": 1540933200000
+    },
+    {
+      "id": 11104,
+      "type": "SESSION",
+      "startDate": 1540974600000,
+      "endDate": 1540978200000
+    },
+    {
+      "id": 11105,
+      "type": "SESSION",
+      "startDate": 1540978200000,
+      "endDate": 1540981800000
+    },
+    {
+      "id": 11106,
+      "type": "SESSION",
+      "startDate": 1540981800000,
+      "endDate": 1540983600000
+    },
+    {
+      "id": 11107,
+      "type": "SESSION",
+      "startDate": 1540983600000,
+      "endDate": 1540984500000
+    },
+    {
+      "id": 11108,
+      "type": "SESSION",
+      "startDate": 1540984500000,
+      "endDate": 1540985400000
+    },
+    {
+      "id": 11109,
+      "type": "SESSION",
+      "startDate": 1540985400000,
+      "endDate": 1540986300000
+    },
+    {
+      "id": 11110,
+      "type": "SESSION",
+      "startDate": 1540986300000,
+      "endDate": 1540987200000
+    },
+    {
+      "id": 11111,
+      "type": "SESSION",
+      "startDate": 1540987200000,
+      "endDate": 1540988100000
+    },
+    {
+      "id": 11112,
+      "type": "SESSION",
+      "startDate": 1540988100000,
+      "endDate": 1540989000000
+    },
+    {
+      "id": 11113,
+      "type": "SESSION",
+      "startDate": 1540989000000,
+      "endDate": 1540989900000
+    },
+    {
+      "id": 11114,
+      "type": "SESSION",
+      "startDate": 1540989900000,
+      "endDate": 1540994400000
+    },
+    {
+      "id": 11115,
+      "type": "SESSION",
+      "startDate": 1540994400000,
+      "endDate": 1540995300000
+    },
+    {
+      "id": 11116,
+      "type": "SESSION",
+      "startDate": 1540995300000,
+      "endDate": 1540996200000
+    },
+    {
+      "id": 11117,
+      "type": "SESSION",
+      "startDate": 1540996200000,
+      "endDate": 1540997100000
+    },
+    {
+      "id": 11118,
+      "type": "SESSION",
+      "startDate": 1540997100000,
+      "endDate": 1540998000000
+    },
+    {
+      "id": 11119,
+      "type": "SESSION",
+      "startDate": 1540998000000,
+      "endDate": 1540998900000
+    },
+    {
+      "id": 11120,
+      "type": "SESSION",
+      "startDate": 1540998900000,
+      "endDate": 1540999800000
+    },
+    {
+      "id": 11121,
+      "type": "LUNCH",
+      "startDate": 1540999800000,
+      "endDate": 1541001600000
+    },
+    {
+      "id": 11122,
+      "type": "SESSION",
+      "startDate": 1541001600000,
+      "endDate": 1541007000000
+    }
+  ],
+  "sessions": [
+    {
+      "id": 1015,
+      "name": "Gaming with the Subaltern: A Workshop on Diversity and Inclusion in Games",
+      "typeId": 10190,
+      "roomId": 10119,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11056
+    },
+    {
+      "id": 2399,
+      "name": "New Research Perspectives on Game Design and Development Education",
+      "typeId": 10190,
+      "roomId": 10126,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11056
+    },
+    {
+      "id": 2025,
+      "name": "Registration",
+      "typeId": 10571,
+      "roomId": 10123,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11055
+    },
+    {
+      "id": 1809,
+      "name": "Forum on Video Games for Mental Health",
+      "typeId": 10190,
+      "roomId": 10118,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11056
+    },
+    {
+      "id": 1554,
+      "name": "Registration & Setup",
+      "typeId": 10571,
+      "roomId": 10121,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11059
+    },
+    {
+      "id": 1045,
+      "name": "WORLD4: Designing Ambiguity for First-Person Exploration Games",
+      "typeId": 10532,
+      "roomId": 10121,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11062
+    },
+    {
+      "id": 1764,
+      "name": "Enabling Critical Self-Reflection through Roleplay with Chimeria:Grayscale",
+      "typeId": 10532,
+      "roomId": 10121,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11065
+    },
+    {
+      "id": 1919,
+      "name": "Diversity Lunch",
+      "typeId": 10535,
+      "roomId": 10121,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11068
+    },
+    {
+      "id": 1358,
+      "name": "Neural Network Based Facial Expression Analysis of Game Events: A Cautionary Tale",
+      "typeId": 10536,
+      "roomId": 10121,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11071
+    },
+    {
+      "id": 2286,
+      "name": "Designing for Friendship: Modeling Properties of Play, In-Game Social Capital, and Psychological Well-being",
+      "typeId": 10536,
+      "roomId": 10121,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11074
+    },
+    {
+      "id": 1435,
+      "name": "I’m Glad You Are on My Side: How to Design Compelling Game Companions",
+      "typeId": 10545,
+      "roomId": 10121,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11077
+    },
+    {
+      "id": 2247,
+      "name": "Investigating Game Mechanics that Target Players’ Self-Control While Maintaining Engagement",
+      "typeId": 10545,
+      "roomId": 10121,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11080
+    },
+    {
+      "id": 1517,
+      "name": "Welcome Reception, Student Game Competition and Interactivity Exhibits",
+      "typeId": 10550,
+      "roomId": 10121,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11083
+    },
+    {
+      "id": 1258,
+      "name": "Entanglion: A Board Game for Teaching the Principles of Quantum Computing",
+      "typeId": 10557,
+      "roomId": 10121,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11086
+    },
+    {
+      "id": 1821,
+      "name": "“I had super-powers when eBike riding” Towards Understanding the Design of Integrated Exertion",
+      "typeId": 10557,
+      "roomId": 10121,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11089
+    },
+    {
+      "id": 1012,
+      "name": "eSports Industry Panel",
+      "typeId": 10559,
+      "roomId": 10121,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11092
+    },
+    {
+      "id": 2276,
+      "name": "Spotlights (Lightning Talks)",
+      "typeId": 10562,
+      "roomId": 10121,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11095
+    },
+    {
+      "id": 1671,
+      "name": "Design Patterns for Voice Interaction in Games",
+      "typeId": 10566,
+      "roomId": 10121,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11098
+    },
+    {
+      "id": 2062,
+      "name": "MeteorQuest – Bringing Families Together Through Proxemics Play In A Mobile Social Game",
+      "typeId": 10566,
+      "roomId": 10121,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11101
+    },
+    {
+      "id": 1682,
+      "name": "Registration & Setup",
+      "typeId": 10571,
+      "roomId": 10121,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11104
+    },
+    {
+      "id": 2285,
+      "name": "Guidelines on Successfully Porting Non-Immersive Games to Virtual Reality: A Case Study in Minecraft",
+      "typeId": 10578,
+      "roomId": 10121,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11107
+    },
+    {
+      "id": 1042,
+      "name": "Up to the Finger Tip: The Effect of Avatars on Mid-Air Pointing Accuracy in Virtual Reality",
+      "typeId": 10578,
+      "roomId": 10121,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11110
+    },
+    {
+      "id": 1073,
+      "name": "Evaluation of Handsbusy versus Handsfree Virtual Locomotion",
+      "typeId": 10578,
+      "roomId": 10121,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11113
+    },
+    {
+      "id": 2466,
+      "name": "DeepLogger: Extracting User Input Logs From Gameplay Videos",
+      "typeId": 10584,
+      "roomId": 10121,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11116
+    },
+    {
+      "id": 1569,
+      "name": "Real-Time Dashboards to Support eSports Spectating",
+      "typeId": 10584,
+      "roomId": 10121,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11119
+    },
+    {
+      "id": 1973,
+      "name": "Closing Keynote (Sarah Jane Pell), Awards and Handover",
+      "typeId": 10589,
+      "roomId": 10121,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11122
+    },
+    {
+      "id": 1052,
+      "name": "Doctoral Consortium",
+      "typeId": 10487,
+      "roomId": 10124,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11056
+    },
+    {
+      "id": 2335,
+      "name": "EyePlay Revisited: Past, Present and Future Challenges for Eye-Based Interaction in Games",
+      "typeId": 10190,
+      "roomId": 10125,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11056
+    },
+    {
+      "id": 1172,
+      "name": "Melbourne Playground: Public Games Exhibition",
+      "typeId": 10489,
+      "roomId": 10128,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11057
+    },
+    {
+      "id": 2324,
+      "name": "Melbourne Playground: Public Games Exhibition",
+      "typeId": 10489,
+      "roomId": 10128,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11058
+    },
+    {
+      "id": 1909,
+      "name": "Intro, Welcome to Country and Keynote (Chris Ferguson)",
+      "typeId": 10491,
+      "roomId": 10121,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11060
+    },
+    {
+      "id": 2421,
+      "name": "WIP Poster Rotation 1 (Game Design) and Morning Tea",
+      "typeId": 10573,
+      "roomId": 10121,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11061
+    },
+    {
+      "id": 1469,
+      "name": "The Things We Play with – Roles of Technology in Social Play",
+      "typeId": 10532,
+      "roomId": 10121,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11063
+    },
+    {
+      "id": 1655,
+      "name": "An About Face: Diverse Representation in Games",
+      "typeId": 10532,
+      "roomId": 10121,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11064
+    },
+    {
+      "id": 1132,
+      "name": "Blind Adventure – A Game Engine for Blind Game Designers",
+      "typeId": 10532,
+      "roomId": 10121,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11066
+    },
+    {
+      "id": 2213,
+      "name": "Design Challenges for Livestreamed Audience Participation Games",
+      "typeId": 10532,
+      "roomId": 10121,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11067
+    },
+    {
+      "id": 1490,
+      "name": "Towards Emotion-based Adaptive Games: Emotion Recognition Via Input and Performance Features",
+      "typeId": 10536,
+      "roomId": 10121,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11069
+    },
+    {
+      "id": 1364,
+      "name": "Emotion-based Dynamic Difficulty Adjustment Using Parameterized Difficulty and Self-Reports of Emotion",
+      "typeId": 10536,
+      "roomId": 10121,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11070
+    },
+    {
+      "id": 1300,
+      "name": "Don’t Sweat the Small Stuff: The Effect of Challenge-Skill Manipulation on Electrodermal Activity",
+      "typeId": 10536,
+      "roomId": 10121,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11072
+    },
+    {
+      "id": 1899,
+      "name": "“A Game that Makes You Question…” Exploring the Role of Reflection for the Player Experience",
+      "typeId": 10536,
+      "roomId": 10121,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11073
+    },
+    {
+      "id": 2342,
+      "name": "WIP Poster Rotation 1 (Game Design) and Afternoon Tea",
+      "typeId": 10542,
+      "roomId": 10121,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11075
+    },
+    {
+      "id": 1690,
+      "name": "Gender- and Age-Related Differences on the Preferred Characteristics of Stereotypical Avatar Faces",
+      "typeId": 10545,
+      "roomId": 10121,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11076
+    },
+    {
+      "id": 1498,
+      "name": "Systematic Review and Validation of the Game Experience Questionnaire (GEQ) – Implications for Citation and Reporting Practice",
+      "typeId": 10545,
+      "roomId": 10121,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11078
+    },
+    {
+      "id": 1594,
+      "name": "The Impact of Rewards and Trait Reward Responsiveness on Player Motivation",
+      "typeId": 10545,
+      "roomId": 10121,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11079
+    },
+    {
+      "id": 2401,
+      "name": "Augmenting Co-Located Social Play with Biofeedback: An Interactional Approach",
+      "typeId": 10545,
+      "roomId": 10121,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11081
+    },
+    {
+      "id": 1265,
+      "name": "Student Game Competition and Interactivity Pitches",
+      "typeId": 10549,
+      "roomId": 10121,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11082
+    },
+    {
+      "id": 1058,
+      "name": "Registration & Setup",
+      "typeId": 10571,
+      "roomId": 10121,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11084
+    },
+    {
+      "id": 1281,
+      "name": "Closing the Loop in Exergaming – Health Benefits of Biocybernetic Adaptation in Senior Adults",
+      "typeId": 10557,
+      "roomId": 10121,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11085
+    },
+    {
+      "id": 1647,
+      "name": "Arm-A-Dine: Towards Understanding the Design of Playful Embodied Eating Experiences",
+      "typeId": 10557,
+      "roomId": 10121,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11087
+    },
+    {
+      "id": 1449,
+      "name": "Exaggeration of Avatar Flexibility in Virtual Reality",
+      "typeId": 10557,
+      "roomId": 10121,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11088
+    },
+    {
+      "id": 2076,
+      "name": "Using Applied Games to Engage mHealth Users: A Case Study of MindMax",
+      "typeId": 10557,
+      "roomId": 10121,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11090
+    },
+    {
+      "id": 2168,
+      "name": "WIP Poster Rotation 1 (Game Design) and Morning Tea",
+      "typeId": 10573,
+      "roomId": 10121,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11091
+    },
+    {
+      "id": 1523,
+      "name": "Becoming a Volunteer for ACM / SIGCHI",
+      "typeId": 10560,
+      "roomId": 10121,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11093
+    },
+    {
+      "id": 2057,
+      "name": "DC Posters and Lunch",
+      "typeId": 10581,
+      "roomId": 10121,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11094
+    },
+    {
+      "id": 1915,
+      "name": "Spotlight Posters and Afternoon Tea",
+      "typeId": 10542,
+      "roomId": 10121,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11096
+    },
+    {
+      "id": 1382,
+      "name": "Toddler Techie Touch Generation",
+      "typeId": 10566,
+      "roomId": 10121,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11097
+    },
+    {
+      "id": 2051,
+      "name": "The Guts Game: Towards Designing Ingestible Games",
+      "typeId": 10566,
+      "roomId": 10121,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11099
+    },
+    {
+      "id": 2353,
+      "name": "Empirical Evaluation of Hybrid Gaze-Controller Selection Techniques in a Gaming Context",
+      "typeId": 10566,
+      "roomId": 10121,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11100
+    },
+    {
+      "id": 2120,
+      "name": "VRBox: A Virtual Reality Augmented Sandbox for Immersive Playfulness, Creativity and Exploration",
+      "typeId": 10566,
+      "roomId": 10121,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11102
+    },
+    {
+      "id": 2319,
+      "name": "Conference Dinner",
+      "typeId": 10570,
+      "roomId": 10127,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11103
+    },
+    {
+      "id": 2022,
+      "name": "Town Hall Meeting",
+      "typeId": 10572,
+      "roomId": 10121,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11105
+    },
+    {
+      "id": 1949,
+      "name": "WIP Poster Rotation 2 (Applied Games) and Morning Tea",
+      "typeId": 10573,
+      "roomId": 10121,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11106
+    },
+    {
+      "id": 2126,
+      "name": "Using HMDs to create Vertigo Play Experiences",
+      "typeId": 10578,
+      "roomId": 10121,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11108
+    },
+    {
+      "id": 1456,
+      "name": "GulliVR: A Walking-Oriented Technique for Navigation in Virtual Reality Games Based on Virtual Body Resizing",
+      "typeId": 10578,
+      "roomId": 10121,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11109
+    },
+    {
+      "id": 1420,
+      "name": "Violent Video Games in Virtual Reality: Re-Evaluating the Impact and Rating of Interactive Experiences",
+      "typeId": 10578,
+      "roomId": 10121,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11111
+    },
+    {
+      "id": 1392,
+      "name": "Effects of Manipulating Physiological Feedback in Immersive Virtual Environments",
+      "typeId": 10578,
+      "roomId": 10121,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11112
+    },
+    {
+      "id": 1208,
+      "name": "WIP Poster Rotation 2 (Applied Games) and Lunch",
+      "typeId": 10581,
+      "roomId": 10121,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11114
+    },
+    {
+      "id": 1480,
+      "name": "Towards Deep Player Behavior Models in MMORPGs",
+      "typeId": 10584,
+      "roomId": 10121,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11115
+    },
+    {
+      "id": 2254,
+      "name": "Characterizing and Modeling the Effects of Local Latency on Game Performance and Experience",
+      "typeId": 10584,
+      "roomId": 10121,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11117
+    },
+    {
+      "id": 1763,
+      "name": "Informing a BDI Player Model for an Interactive Narrative",
+      "typeId": 10584,
+      "roomId": 10121,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11118
+    },
+    {
+      "id": 1797,
+      "name": "Meaningful Choice in Strategic Unit Selection: A Case Study of Unit Rankings in StarCraft II",
+      "typeId": 10584,
+      "roomId": 10121,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11120
+    },
+    {
+      "id": 1313,
+      "name": "Afternoon Tea",
+      "typeId": 10588,
+      "roomId": 10121,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 11121
+    }
+  ],
+  "events": [],
+  "contents": [],
+  "people": [],
+  "recognitions": [],
+  "publicationInfo": {
+    "hideLinksBeforeConference": false,
+    "version": 26,
+    "publicationStatus": "PUBLISHED",
+    "isProgramEnabled": true,
+    "isDraft": false,
+    "isRegistrationEnabled": false,
+    "publicationDate": "2021-02-10 13:49:32+00"
+  }
+}
