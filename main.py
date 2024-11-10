@@ -8,6 +8,7 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from webdriver_manager.chrome import ChromeDriverManager
+import re
 
 HEADERS = {'User-Agent': 'Mozilla/5.0'}
 
@@ -47,10 +48,6 @@ def search_images_selenium(query, max_results=3, delay=5):
     options.add_argument("--headless")
     options.add_argument("--disable-gpu")
     options.add_argument("--no-sandbox")
-    options.add_argument("--disable-blink-features=AutomationControlled")
-    options.add_argument("--disable-infobars")
-    options.add_argument("start-maximized")
-    options.add_argument("--disable-dev-shm-usage")
 
     service = Service(ChromeDriverManager().install())
     driver = webdriver.Chrome(service=service, options=options)
@@ -71,15 +68,62 @@ def search_images_selenium(query, max_results=3, delay=5):
     finally:
         driver.quit()
 
-def save_combined_json(filename, papers_with_images):
+def save_combined_json(directory, papers_with_images):
     data_to_save = {
         "timestamp": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
         "results": papers_with_images
     }
 
-    with open(filename, 'w') as file:
+    file_path = os.path.join(directory, "results.json")
+    with open(file_path, 'w') as file:
         json.dump(data_to_save, file, indent=4)
-    print(f"Saved combined results to {filename}")
+    print(f"Saved combined results to {file_path}")
+    return file_path
+
+def load_json(file_path):
+    """Load JSON data from a file."""
+    with open(file_path, 'r', encoding='utf-8') as f:
+        return json.load(f)
+
+def generate_slides_html(data, output_file):
+    """Generate an HTML file with slides from JSON data using Reveal.js."""
+
+    html_content = """
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Presentation</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js/dist/reveal.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js/dist/theme/black.css">
+</head>
+<body>
+    <div class="reveal">
+        <div class="slides">
+    """
+    for paper in data.get("results", []):
+        title = paper.get('title', 'No Title')
+        abstract = paper.get('abstract', 'No abstract available')
+        figure_urls = paper.get('figure_urls', [])
+        html_content += f"<section><h2>{title}</h2><p>{abstract}</p></section>"
+        for url in figure_urls:
+            html_content += f"<section><img src='{url}' alt='Figure'></section>"
+
+    html_content += """
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/reveal.js/dist/reveal.js"></script>
+    <script>Reveal.initialize();</script>
+</body>
+</html>
+    """
+
+    with open(output_file, 'w', encoding='utf-8') as f:
+        f.write(html_content)
+    print(f"Slides saved to {output_file}")
+
+def sanitize_filename(name):
+    return re.sub(r'[^\w\s-]', '', name).strip().replace(' ', '-').lower()
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
@@ -87,6 +131,12 @@ if __name__ == "__main__":
         sys.exit(1)
 
     keyword = sys.argv[1]
+    sanitized_keyword = sanitize_filename(keyword)
+    output_directory = os.path.join("results", sanitized_keyword)
+
+    if not os.path.exists(output_directory):
+        os.makedirs(output_directory)
+
     papers = load_data('data')
     results = search_papers(papers, keyword)
 
@@ -99,11 +149,9 @@ if __name__ == "__main__":
             combined_results.append(paper)
             time.sleep(1)  # Avoid rate limiting
 
-        # Combine all results into a single JSON file
-        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-        output_filename = f"combined_results_{timestamp}.json"
-        save_combined_json(output_filename, combined_results)
-
-        print(f"Found {len(results)} papers matching '{keyword}'. Combined data saved.")
+        json_path = save_combined_json(output_directory, combined_results)
+        html_path = os.path.join(output_directory, "slides.html")
+        json_data = load_json(json_path)
+        generate_slides_html(json_data, html_path)
     else:
         print(f"No papers found for keyword '{keyword}'.")
